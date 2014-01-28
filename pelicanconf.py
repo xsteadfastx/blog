@@ -10,7 +10,7 @@ TIMEZONE = "Europe/Berlin"
 RELATIVE_URLS = True
 
 GITHUB_URL = 'http://github.com/xsteadfastx/'
-#DISQUS_SITENAME = "blog-notmyidea"
+DISQUS_SITENAME = "xsteadfastxistryingtocode"
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
 LOCALE = "C"
