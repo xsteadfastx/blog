@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Marvin Steadfast'
 SITENAME = "xsteadfastx is trying to code"
-SITEURL = 'http://xsteadfastx.github.io/blog'
+SITEURL = 'http://code.xsteadfastx.org'
 TIMEZONE = "Europe/Berlin"
 
 # can be useful in development, but set to False when you're ready to publish
