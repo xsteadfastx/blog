@@ -138,7 +138,7 @@ pre {
      font-size:14px;
      font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
      border-color: #e7e7e7;
-     border-width: thick;
+     border-left-width: thick;
      border-style: solid;
 }
 
