@@ -1,6 +1,7 @@
 Title: Blackout Poems 
 Slug: blackout-poems
 Date: 2014-01-29 13:00
+Tags: art, bild, random
 
 
 ![Post von Wagner]({filename}/images/wagnerblackout.jpg)
