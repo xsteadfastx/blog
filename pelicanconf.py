@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Marvin Steadfast'
-SITENAME = "xsteadfastx is trying to code"
+SITENAME = 'xsteadfastx is trying to code'
 SITEURL = 'http://code.xsteadfastx.org'
 TIMEZONE = "Europe/Berlin"
 
@@ -10,7 +10,8 @@ TIMEZONE = "Europe/Berlin"
 RELATIVE_URLS = True
 
 GITHUB_URL = 'http://github.com/xsteadfastx/'
-DISQUS_SITENAME = "xsteadfastxistryingtocode"
+#DISQUS_SITENAME = "xsteadfastxistryingtocode"
+ISSO_URL = 'http://comments.xsteadfastx.org'
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
 LOCALE = "C"
