@@ -2,14 +2,17 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Marvin Steadfast'
-SITENAME = 'xsteadfastx is trying to code'
+SITENAME = 'is trying to code'
 SITEURL = 'http://code.xsteadfastx.org'
+AVATAR = '/theme/images/avatar.png'
 TIMEZONE = "Europe/Berlin"
+DESCRIPTION = "Der Versuch zu programmieren und Computer Zeugs nieder zu bloggen."
 
 # can be useful in development, but set to False when you're ready to publish
 RELATIVE_URLS = True
 
 GITHUB_URL = 'http://github.com/xsteadfastx/'
+TWITTER_NAME = 'xsteadfastx'
 #DISQUS_SITENAME = "xsteadfastxistryingtocode"
 ISSO_URL = 'http://comments.xsteadfastx.org'
 PDF_GENERATOR = False
@@ -35,6 +38,8 @@ STATIC_PATHS = [
     'images',
     #'extra/robots.txt',
     'extra/CNAME',
+    #'code',
+    #'notebooks'
     ]
 
 # custom page generated with a jinja2 template
@@ -47,9 +52,18 @@ PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
 # have to be in caps
 #foobar = "barbaz"
 
-THEME = 'themes/xsteadfastx'
+THEME = 'themes/xsteadfastx-greg'
 OUTPUT_PATH = 'output'
 PATH = 'content'
 
 ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{slug}/index.html'
+
+# plugins
+#PLUGIN_PATH = '../pelican-plugins'
+#PLUGINS = ['liquid_tags.notebook', 'liquid_tags.include_code',
+#           'liquid_tags.img', 'liquid_tags.video']
+
+#CODE_DIR = 'code'
+#NOTEBOOK_DIR = 'notebooks'
+#EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
