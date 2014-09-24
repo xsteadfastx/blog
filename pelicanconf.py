@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Marvin Steadfast'
 SITENAME = 'is trying to code'
-SITEURL = 'http://code.xsteadfastx.org'
+SITEURL = ''
 AVATAR = '/theme/images/avatar.png'
 TIMEZONE = "Europe/Berlin"
 DESCRIPTION = "Der Versuch zu programmieren und Computer Zeugs nieder zu bloggen."
@@ -21,8 +21,8 @@ LOCALE = "C"
 DEFAULT_PAGINATION = 4
 DEFAULT_DATE = (2012, 3, 2, 14, 1, 1)
 
-FEED_ALL_RSS = 'feeds/all.rss.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # global metadata to all the contents
 #DEFAULT_METADATA = (('yeah', 'it is'),)

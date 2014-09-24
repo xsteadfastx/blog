@@ -1,9 +1,12 @@
 #Custom
 output
 pelicanconf_local.py
+cache/
 
 #Python
 *.py[cod]
+venv/
+.ropeproject/
 
 # C extensions
 *.so

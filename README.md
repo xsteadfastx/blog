@@ -3,17 +3,15 @@ blog
 
 
 ## install ##
-`sudo pip install pelican markdown ghp-import shovel`
+1. `git clone git@github.com:xsteadfastx/blog.git`
+2. `cd blog && virtualenv -p /usr/bin/python3 venv`
+3. `source venv/bin/activate`
+4. `pip install pelican markdown ghp-import shovel`
 
 ## upgrade ##
-`sudo pip install --upgrade pelican markdown ghp-import shovel`
+`pip install --upgrade pelican markdown ghp-import shovel`
 
 ## write ##
-* put the markdown files in "content/posts"
-* create the static files with `pelican -s pelicanconf.py`
-* put the stuff in the ghp-pages branch with `gh-import output`
-* push with `git push origin gh-pages`
-
-## test ##
-* `cd output`
-* `python -m SimpleHTTPServer 8000`
+1. put the markdown files in "content/posts"
+2. test it with `make html && make serve` 
+3. upload it to github with `make github`
