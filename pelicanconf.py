@@ -60,9 +60,8 @@ ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{slug}/index.html'
 
 # plugins
-#PLUGIN_PATH = '../pelican-plugins'
-#PLUGINS = ['liquid_tags.notebook', 'liquid_tags.include_code',
-#           'liquid_tags.img', 'liquid_tags.video']
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['liquid_tags.youtube']
 
 #CODE_DIR = 'code'
 #NOTEBOOK_DIR = 'notebooks'
