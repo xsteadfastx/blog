@@ -2,6 +2,8 @@
 output
 pelicanconf_local.py
 cache/
+pelican-plugins/*
+.ipynb_checkpoints
 
 #Python
 *.py[cod]
@@ -41,6 +43,3 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
-
-# OWN STUFF
-pelican-plugins/*
