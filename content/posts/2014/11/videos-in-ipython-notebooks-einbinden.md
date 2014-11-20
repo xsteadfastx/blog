@@ -3,4 +3,4 @@ Slug: videos-in-ipython-notebooks-einbinden
 Date: 2014-11-19 12:50
 Tags: ipython 
 
-{% notebook videos-in-ipython-notebooks-einbinden.ipynb %}
+{% notebook 2014/11/videos-in-ipython-notebooks-einbinden.ipynb %}
