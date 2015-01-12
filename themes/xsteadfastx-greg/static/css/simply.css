@@ -154,7 +154,7 @@ code, pre.ipynb {
 .highlight, pre {
 	font-family: "Source Code Pro", monospace;
 	font-size: 12px;
-	background-color: #272822;
+	background-color: #f8f8f8;
 	line-height: 125%;
 	padding: 5px 10px 5px 10px;
 	border-radius: 4px;
