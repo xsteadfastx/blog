@@ -2,11 +2,11 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Marvin Steadfast'
-SITENAME = 'is trying to code'
+SITENAME = 'xsteadfastx'
 SITEURL = ''
 AVATAR = '/theme/images/avatar.png'
 TIMEZONE = "Europe/Berlin"
-DESCRIPTION = "Der Versuch zu programmieren und Computer Zeugs nieder zu bloggen."
+DESCRIPTION = "the cats are not what they seem"
 
 # can be useful in development, but set to False when you're ready to publish
 RELATIVE_URLS = True
@@ -21,7 +21,8 @@ LOCALE = "C"
 DEFAULT_PAGINATION = 4
 DEFAULT_DATE = (2012, 3, 2, 14, 1, 1)
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
+#FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_ATOM = 'feed/index.html'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # global metadata to all the contents
@@ -56,12 +57,12 @@ THEME = 'themes/xsteadfastx-greg'
 OUTPUT_PATH = 'output'
 PATH = 'content'
 
-ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}/'
-ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/{slug}/index.html'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 
 # plugins
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['liquid_tags.youtube', 'liquid_tags.notebook']
+PLUGINS = ['liquid_tags.youtube', 'liquid_tags.notebook', 'liquid_tags.vimeo']
 
 #CODE_DIR = 'code'
 NOTEBOOK_DIR = 'notebooks'

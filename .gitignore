@@ -8,6 +8,7 @@ pelican-plugins/*
 #Python
 *.py[cod]
 venv/
+env/
 .ropeproject/
 
 # C extensions
