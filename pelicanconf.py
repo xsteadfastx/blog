@@ -22,7 +22,7 @@ DEFAULT_PAGINATION = 4
 DEFAULT_DATE = (2012, 3, 2, 14, 1, 1)
 
 FEED_DOMAIN = SITEURL
-FEED_MAX_ITEMS = 50
+FEED_MAX_ITEMS = 100
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ATOM = 'feed/index.html'
 #CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
@@ -64,10 +64,9 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # plugins
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['liquid_tags.youtube', 'liquid_tags.notebook', 'liquid_tags.vimeo']
+PLUGINS = ['liquid_tags.youtube', 'liquid_tags.vimeo']
 
-#CODE_DIR = 'code'
-NOTEBOOK_DIR = 'notebooks'
-EXTRA_HEADER = open('_nb_header.html').read()
+#NOTEBOOK_DIR = 'notebooks'
+#EXTRA_HEADER = open('_nb_header.html').read()
 
 LOAD_CONTENT_CACHE = False
