@@ -13,8 +13,8 @@ RELATIVE_URLS = True
 
 GITHUB_URL = 'http://github.com/xsteadfastx/'
 TWITTER_NAME = 'xsteadfastx'
-#DISQUS_SITENAME = "xsteadfastxistryingtocode"
-ISSO_URL = 'http://comments.xsteadfastx.org'
+DISQUS_SITENAME = "xsteadfastx"
+#ISSO_URL = 'http://comments.xsteadfastx.org'
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
 LOCALE = "C"
@@ -57,8 +57,8 @@ THEME = 'themes/xsteadfastx-greg'
 OUTPUT_PATH = 'output'
 PATH = 'content'
 
-ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
-ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # plugins
 PLUGIN_PATHS = ['pelican-plugins']
