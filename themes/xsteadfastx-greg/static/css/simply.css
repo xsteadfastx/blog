@@ -42,6 +42,7 @@ section#content {
 	margin-top: 30px 0;
 	float: right;
 }
+
 #content img {
 	display: block;
 	margin-left: auto;
@@ -49,6 +50,13 @@ section#content {
 	max-width: 90%;
 }
 
+#content figcaption {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 90%;
+	font-size: small;
+}
 
 /*SIDEBAR*/
 #sidebar {

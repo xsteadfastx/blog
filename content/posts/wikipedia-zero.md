@@ -5,11 +5,7 @@ Category: Uncategorized
 Tags: internetz, wikipedia
 Slug: wikipedia-zero
 
-[caption id="attachment\_5119" align="alignnone" width="625"][![cc-by-sa
-Akapoor
-![Wikipedia_Zero_Logo]({filename}/images/Wikipedia_Zero_Logo.jpg)
-cc-by-sa [Akapoor
-(WMF)](https://wikimediafoundation.org/wiki/File:Wikipedia_Zero_Logo.jpg)[/caption]
+![cc-by-sa [Akapoor (WMF)](https://wikimediafoundation.org/wiki/File:Wikipedia_Zero_Logo.jpg)]({filename}/images/Wikipedia_Zero_Logo.jpg)
 
 Das die deutsche Wikipedia ein Admin-Kleingarten-Wächter-Problem hat,
 ist nichts neues. Trotzdem ist es eins dieser Projekte die das

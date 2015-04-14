@@ -21,9 +21,11 @@ LOCALE = "C"
 DEFAULT_PAGINATION = 4
 DEFAULT_DATE = (2012, 3, 2, 14, 1, 1)
 
-#FEED_ALL_ATOM = 'feeds/all.atom.xml'
-FEED_ALL_ATOM = 'feed/index.html'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+FEED_DOMAIN = SITEURL
+FEED_MAX_ITEMS = 50
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ATOM = 'feed/index.html'
+#CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # global metadata to all the contents
 #DEFAULT_METADATA = (('yeah', 'it is'),)

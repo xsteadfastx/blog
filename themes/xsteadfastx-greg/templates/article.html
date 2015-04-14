@@ -74,4 +74,16 @@
 				$(".videobox").fitVids();
 			});
 		</script>
+
+		<!-- image captions -->
+		<script>
+			$(document).ready(function() {
+				$("#content img").each(function() {
+			    if($(this).attr("alt"))
+						$(this).wrap('<figure class="image"></figure>')
+							.after('<figcaption>'+$(this).attr("alt")+'</figcaption>');
+				});
+			});
+		</script>
+
 {% endblock %}
