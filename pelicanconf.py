@@ -65,9 +65,9 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # plugins
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['liquid_tags.youtube', 'liquid_tags.vimeo']
+PLUGINS = ['liquid_tags.youtube', 'liquid_tags.vimeo', 'liquid_tags.notebook']
 
-#NOTEBOOK_DIR = 'notebooks'
-#EXTRA_HEADER = open('_nb_header.html').read()
+NOTEBOOK_DIR = 'notebooks'
+EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
 
 LOAD_CONTENT_CACHE = False

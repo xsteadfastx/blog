@@ -2,14 +2,6 @@
 {% block title %}{{ article.title }} | {{ SITENAME }}{% endblock %}
 {% block metadesc %}{{ article.description|e }}{% endblock %}
 
-{% block header %}
-<!-- Extra Header for IPython Notebooks
-================================================== -->
-  {% if EXTRA_HEADER %}
-    {{ EXTRA_HEADER }}
-  {% endif %}
-{% endblock %}
-
 {% block twittercards %}
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@{{ TWITTER_NAME }}">
