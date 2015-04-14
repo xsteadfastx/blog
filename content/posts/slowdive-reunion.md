@@ -16,5 +16,5 @@ eine von diesen zu besuchen. Slowdive sind für mich ja immer noch die
 Könige des Dreampop/Shoegaze. Unangefochten. Hier gibt es ein Liveset
 einer ihrer Shows. Ach ja...
 
-{% youtube xIcpnY1kImA&list=PLgkLMlL-VFXvxOgfm4K6tm0u92pyyIQhf&feature=share %}
+{% youtube xIcpnY1kImA %}
 
