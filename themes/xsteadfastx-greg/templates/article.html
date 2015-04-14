@@ -27,63 +27,72 @@
   <div class="article-content">
     {{ article.content }}
   </div>
-    {{ ARTICLE_FOOTER }}
+	{{ ARTICLE_FOOTER }}
 
-    <a href="https://twitter.com/{{ TWITTER_NAME }}" class="twitter-follow-button" data-show-count="false">Follow @{{ TWITTER_NAME }}</a>
-    <a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ TWITTER_NAME }}">Tweet</a>
-    <div class="back-to-home"><a href="/">← Back to Home</a></div>
-    <hr class="large">
-    
-    <!-- DISQUS -->
-    {% if DISQUS_SITENAME %}
-      <div id="disqus_thread"></div>
-      <script type="text/javascript">
-          /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-					var disqus_shortname = '{{ DISQUS_SITENAME }}'; // required: replace example with your forum shortname
-
-          /* * * DON'T EDIT BELOW THIS LINE * * */
-          (function() {
-              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-              dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-          })();
-      </script>
-      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-      <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-    {% endif %}
-
-    <!-- ISSO -->
-    {% if ISSO_URL %}
-      <script data-isso="{{ ISSO_URL }}"
-        data-isso-css="true"
-        data-isso-lang="en"
-        data-isso-reply-to-self="false"
-        src="{{ ISSO_URL }}/js/embed.min.js">
-      </script>
-      <section id="isso-thread"></section>
-    {% endif %}
-
-		<!-- twitter.js -->
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-		<!-- fitvid.js -->
-		<script src="/theme/js/jquery.fitvids.js"></script>
-		<script>
-			$(document).ready(function(){
-				// Target your .container, .wrapper, .post, etc.
-				$(".videobox").fitVids();
-			});
+	<!-- FLATTR -->
+	{% if FLATTR_USER %}
+		<script id='fbc04dc'>
+			(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid={{ FLATTR_USER }}&button=compact&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=20;f.width=110;f.scrolling='no';f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fbc04dc');
 		</script>
+	{% endif %}
 
-		<!-- image captions -->
-		<script>
-			$(document).ready(function() {
-				$("#content img").each(function() {
-			    if($(this).attr("alt"))
-						$(this).wrap('<figure class="image"></figure>')
-							.after('<figcaption>'+$(this).attr("alt")+'</figcaption>');
-				});
-			});
+	<!-- TWITTER -->
+	<a href="https://twitter.com/{{ TWITTER_NAME }}" class="twitter-follow-button" data-show-count="false">Follow @{{ TWITTER_NAME }}</a>
+	<a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ TWITTER_NAME }}">Tweet</a>
+
+	<div class="back-to-home"><a href="/">← Back to Home</a></div>
+	<hr class="large">
+
+	<!-- DISQUS -->
+	{% if DISQUS_SITENAME %}
+		<div id="disqus_thread"></div>
+		<script type="text/javascript">
+				/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+				var disqus_shortname = '{{ DISQUS_SITENAME }}'; // required: replace example with your forum shortname
+
+				/* * * DON'T EDIT BELOW THIS LINE * * */
+				(function() {
+						var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+						dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+						(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+				})();
 		</script>
+		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+		<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+	{% endif %}
+
+	<!-- ISSO -->
+	{% if ISSO_URL %}
+		<script data-isso="{{ ISSO_URL }}"
+			data-isso-css="true"
+			data-isso-lang="en"
+			data-isso-reply-to-self="false"
+			src="{{ ISSO_URL }}/js/embed.min.js">
+		</script>
+		<section id="isso-thread"></section>
+	{% endif %}
+
+	<!-- twitter.js -->
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+	<!-- fitvid.js -->
+	<script src="/theme/js/jquery.fitvids.js"></script>
+	<script>
+		$(document).ready(function(){
+			// Target your .container, .wrapper, .post, etc.
+			$(".videobox").fitVids();
+		});
+	</script>
+
+	<!-- image captions -->
+	<script>
+		$(document).ready(function() {
+			$("#content img").each(function() {
+				if($(this).attr("alt"))
+					$(this).wrap('<figure class="image"></figure>')
+						.after('<figcaption>'+$(this).attr("alt")+'</figcaption>');
+			});
+		});
+	</script>
 
 {% endblock %}

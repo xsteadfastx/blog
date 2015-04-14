@@ -15,6 +15,7 @@ GITHUB_URL = 'http://github.com/xsteadfastx/'
 TWITTER_NAME = 'xsteadfastx'
 DISQUS_SITENAME = "xsteadfastx"
 #ISSO_URL = 'http://comments.xsteadfastx.org'
+FLATTR_USER = 'xsteadfastx'
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
 LOCALE = "C"
