@@ -5,10 +5,7 @@ Category: Uncategorized
 Tags: caffenol, photography
 Slug: the-caffenol-cookbook
 
-[caption id="attachment\_3683" align="alignnone"
-![6077697151_26018b584b_b]({filename}/images/6077697151_26018b584b_b.jpg)
-cc by
-[MrFredFedora](http://www.flickr.com/photos/fredfedora/6077697151/)[/caption]
+[![cc by MrFredFedora]({filename}/images/6077697151_26018b584b_b.jpg)](http://www.flickr.com/photos/fredfedora/6077697151/)
 
 Die Hoffnung stirbt zu letzt. Es passieren bei analogen Fotografieren
 immer wieder großartige Sachen. Sachen die die Plastik-Photoshop-Gang

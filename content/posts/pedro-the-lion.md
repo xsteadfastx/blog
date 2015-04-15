@@ -5,11 +5,7 @@ Category: Uncategorized
 Tags: emo, music, pedrothelion
 Slug: pedro-the-lion
 
-[caption id="attachment\_4158" align="alignnone" width="1024"][![cc-by
-Christian
-![93993275_96e6959d17_b]({filename}/images/93993275_96e6959d17_b.jpg)
-cc-by [Christian
-Kock](https://secure.flickr.com/photos/konzerte/93993275/)[/caption]
+[![cc-by Christian Kock]({filename}/images/93993275_96e6959d17_b.jpg)](https://secure.flickr.com/photos/konzerte/93993275/)
 
 Fast mein ganzes Leben hatte ich diesen Traum in meinem Kopf. Weglaufen.
 Vor zehn Jahre war es am schlimmsten. Ich kam gerade aus Kalifornien

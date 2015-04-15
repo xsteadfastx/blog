@@ -5,10 +5,7 @@ Category: Uncategorized
 Tags: berlin, erikasteinbach, piraten, politics, refugeecamp
 Slug: menschenverachtung-hat-einen-namen
 
-[caption id="attachment\_3473" align="alignnone"
-![8134539264_c76e86b0e7_b]({filename}/images/8134539264_c76e86b0e7_b.jpg)
-cc by
-[cephir](http://www.flickr.com/photos/cephir/8134539264/)[/caption]
+[![cc by cephir]({filename}/images/8134539264_c76e86b0e7_b.jpg)](http://www.flickr.com/photos/cephir/8134539264/)
 
 Anscheinend hat es die "Menschenrechtsbeauftragte" und Hobbyhistorikerin
 nicht so mit der Nächstenliebe. Während die Exekutive gerade in Berlin

@@ -5,11 +5,7 @@ Category: Uncategorized
 Tags: art, documentary, graffiti, shepardfairey
 Slug: obey-the-giant-biopic
 
-[caption id="attachment\_4404" align="alignnone"
-width="1024"][![cc-by-sa
-![Obeyshepard2]({filename}/images/Obeyshepard2.jpg)
-cc-by-sa
-[Santaduck](https://en.wikipedia.org/wiki/File:Obeyshepard2.jpg)[/caption]
+[![cc-by-sa Santaduck]({filename}/images/Obeyshepard2.jpg)](https://en.wikipedia.org/wiki/File:Obeyshepard2.jpg)
 
 Julian Marshall hat ein kleines Biopic über Shepard Fairey gemacht. Es
 geht primär um sein erstes modifiziertes Billboard und die Geschichte
@@ -29,7 +25,7 @@ dahinter.
 > expulsion and jail time Shepard plasters Andre the Giant’s face over
 > the image of Cianci on a campaign billboard. As word of Shepard’s
 > prank gets out, Shepard learns that art is a weapon and attention is
-> both a blessing and a curse.  
+> both a blessing and a curse.
 >  <cite>[Official Website](http://obeythegiantmovie.com/)</cite>
 
 {% vimeo 64039197 %}

@@ -5,10 +5,7 @@ Category: Uncategorized
 Tags: jamesgandolfini, mauricesendak, movies, sopranos, wherethewildthingsare
 Slug: r-i-p-james-gandolfini
 
-[caption id="attachment\_4717" align="alignnone" width="686"][![cc-by-sa
-![JamesGandolfiniSept11TIFF]({filename}/images/JamesGandolfiniSept11TIFF.jpg)
-cc-by-sa
-[gdcgraphics](https://en.wikipedia.org/wiki/File:JamesGandolfiniSept11TIFF.jpg)[/caption]
+[![cc-by-sa gdcgraphics]({filename}/images/JamesGandolfiniSept11TIFF.jpg)](https://en.wikipedia.org/wiki/File:JamesGandolfiniSept11TIFF.jpg)
 
 Ich konnte es kaum glauben als ich gestern mich durch das Internetz
 klickte. Gleich nach dem Aufstehen las ich auf den Nachrichtenseiten,

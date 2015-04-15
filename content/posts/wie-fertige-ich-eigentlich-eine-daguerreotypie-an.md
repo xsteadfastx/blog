@@ -5,10 +5,7 @@ Category: Uncategorized
 Tags: photography
 Slug: wie-fertige-ich-eigentlich-eine-daguerreotypie-an
 
-[caption id="attachment\_3059" align="alignnone"
-![1024px-Boulevard_du_Temple_by_Daguerre]({filename}/images/1024px-Boulevard_du_Temple_by_Daguerre.jpg)
-Daguerreotypie von Louis Daguerre, aufgenommen vom Fenster seines
-Arbeitszimmers aus, 1838[/caption]
+![Daguerreotypie von Louis Daguerre, aufgenommen vom Fenster seines Arbeitszimmers aus, 1838]({filename}/images/1024px-Boulevard_du_Temple_by_Daguerre.jpg)
 
 Mein Herz gehört der analogen Fotografie. Zu gerne würde ich auch mal
 alte Verfahren ausprobieren. Wie zum Beispiel die der Daguerreotypie.

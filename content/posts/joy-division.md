@@ -5,10 +5,7 @@ Category: Uncategorized
 Tags: arte, documentary, joydivision, music
 Slug: joy-division
 
-[caption id="attachment\_3500" align="alignnone"
-![148088455_a36ee1a04a_b]({filename}/images/148088455_a36ee1a04a_b.jpg)
-cc by
-[dullhunk](http://www.flickr.com/photos/dullhunk/148088455/)[/caption]
+[![cc by dullhunk]({filename}/images/148088455_a36ee1a04a_b.jpg)](http://www.flickr.com/photos/dullhunk/148088455/)
 
 Am Samstag lief die Joy Division Doku von Grant Gee auf Arte. Ich habe
 die zwar schon seit einiger Zeit auf DVD, habe sie mir aber nochmal

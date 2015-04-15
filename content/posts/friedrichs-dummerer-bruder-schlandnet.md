@@ -5,11 +5,7 @@ Category: Uncategorized
 Tags: de-cix, friedrich, internetz, politics, telekom
 Slug: friedrichs-dummerer-bruder-schlandnet
 
-[caption id="attachment\_5165" align="alignnone"
-width="1024"][![cc-by-sa Stefan
-![1024px-DE-CIX_GERMANY_-_Switch_Rack_6218137120]({filename}/images/1024px-DE-CIX_GERMANY_-_Switch_Rack_6218137120.jpg)
-cc-by-sa [Stefan
-Funke](https://de.wikipedia.org/wiki/Datei:DE-CIX_GERMANY_-_Switch_Rack_%286218137120%29.jpg)[/caption]
+[![cc-by-sa Stefan Funke]({filename}/images/1024px-DE-CIX_GERMANY_-_Switch_Rack_6218137120.jpg)](https://de.wikipedia.org/wiki/Datei:DE-CIX_GERMANY_-_Switch_Rack_%286218137120%29.jpg)
 
 Was lernen wir aus der NSA-Affäre? Richtig: Routet deutsche/arische
 Pakete nur nach Blut und Boden. Zu diesem Lösungsvorschlag versammelt

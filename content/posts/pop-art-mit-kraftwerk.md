@@ -5,11 +5,7 @@ Category: Uncategorized
 Tags: art, arte, documentary, kraftwerk, music
 Slug: pop-art-mit-kraftwerk
 
-[caption id="attachment\_4970" align="alignnone"
-width="1024"][![cc-by-sa Daniele
-![808255872_35d8566085_b]({filename}/images/808255872_35d8566085_b.jpg)
-cc-by-sa [Daniele
-Dalledonne](https://secure.flickr.com/photos/ddalledo/808255872/)[/caption]
+[![cc-by-sa Daniele Dalledonne]({filename}/images/808255872_35d8566085_b.jpg)](https://secure.flickr.com/photos/ddalledo/808255872/)
 
 Eigentlich kann ich mich nicht mehr zurück erinnern als meine
 Faszination für Kraftwerk anfing. Ich glaube es war der Song "Autobahn",

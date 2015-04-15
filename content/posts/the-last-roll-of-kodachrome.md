@@ -5,11 +5,7 @@ Category: Uncategorized
 Tags: kodachrome, kodak, nationalgeographic, photography, stevemccurry
 Slug: the-last-roll-of-kodachrome
 
-[caption id="attachment\_3917" align="alignnone"
-width="1024"][![cc-by-sa
-![1024px-KRPKR]({filename}/images/1024px-KRPKR.jpg)
-cc-by-sa
-[Metroplex](https://de.wikipedia.org/w/index.php?title=Datei:KRPKR.jpg&filetimestamp=20090613163228)[/caption]
+[![cc-by-sa Metroplex]({filename}/images/1024px-KRPKR.jpg)](https://de.wikipedia.org/w/index.php?title=Datei:KRPKR.jpg&filetimestamp=20090613163228)
 
 [Steve McCurry](https://en.wikipedia.org/wiki/Steve_McCurry) hat den
 aller letzten [Kodachrome](https://en.wikipedia.org/wiki/Kodachrome)

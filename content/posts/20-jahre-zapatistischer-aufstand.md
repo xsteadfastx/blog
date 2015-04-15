@@ -5,11 +5,7 @@ Category: Uncategorized
 Tags: ezln, mexico, politics, vice
 Slug: 20-jahre-zapatistischer-aufstand
 
-[caption id="attachment\_5382" align="alignnone" width="810"][![cc-by-sa
-Jose
-![SubMarcosHorseFromAfar]({filename}/images/SubMarcosHorseFromAfar.jpg)
-cc-by-sa [Jose
-Villa](https://commons.wikimedia.org/wiki/File:SubMarcosHorseFromAfar.jpg)[/caption]
+[![cc-by-sa Jose Villa]({filename}/images/SubMarcosHorseFromAfar.jpg)](https://commons.wikimedia.org/wiki/File:SubMarcosHorseFromAfar.jpg)
 
 > "Are you going to win?" the journalist asked the rebel.
 >

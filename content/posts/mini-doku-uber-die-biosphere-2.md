@@ -5,10 +5,7 @@ Category: Uncategorized
 Tags: biosphere2, nasa, science
 Slug: mini-doku-uber-die-biosphere-2
 
-[caption id="attachment\_4653" align="alignnone" width="700"][![cc-by
-![Wiki_bio2_sunset_001]({filename}/images/Wiki_bio2_sunset_001.jpg)
-cc-by
-[Johndedios](https://en.wikipedia.org/wiki/File:Wiki_bio2_sunset_001.jpg)[/caption]
+[![cc-by Johndedios]({filename}/images/Wiki_bio2_sunset_001.jpg)](https://en.wikipedia.org/wiki/File:Wiki_bio2_sunset_001.jpg)
 
 Ich glaube viele haben schon von dem [Biosphere
 2](https://de.wikipedia.org/wiki/Biosph%C3%A4re_2) Experiment gehört.
@@ -63,15 +60,9 @@ business...
 
 ![800px-Biosphere2_Inside_big]({filename}/images/800px-Biosphere2_Inside_big.jpg)
 
-[caption id="attachment\_4656" align="alignnone" width="800"][![cc-sa
-![800px-Biosphere2_aussen]({filename}/images/800px-Biosphere2_aussen.jpg)
-cc-sa
-[Microsome](https://commons.wikimedia.org/wiki/File:Biosphere2_aussen.JPG)[/caption]
+[![cc-sa Microsome]({filename}/images/800px-Biosphere2_aussen.jpg)](https://commons.wikimedia.org/wiki/File:Biosphere2_aussen.JPG)
 
-[caption id="attachment\_4658" align="alignnone" width="800"][![cc-sa
-![Biosphere_2_Tucson]({filename}/images/Biosphere_2_Tucson.jpg)
-cc-sa
-[svabo](https://commons.wikimedia.org/wiki/File:Biosphere_2_Tucson.JPG)[/caption]
+[![cc-sa svabo]({filename}/images/Biosphere_2_Tucson.jpg)](https://commons.wikimedia.org/wiki/File:Biosphere_2_Tucson.JPG)
 
 <p>
 <object width="773" height="434" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" name="movie">

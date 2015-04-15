@@ -5,11 +5,7 @@ Category: Uncategorized
 Tags: art, jonathanmeese
 Slug: freiheit-fur-jonathan-meese
 
-[caption id="attachment\_4851" align="alignnone"
-width="1024"][![cc-by-sa
-![1024px-JMeese_dragon_flag]({filename}/images/1024px-JMeese_dragon_flag.jpg)
-cc-by-sa
-[Warburg](https://commons.wikimedia.org/wiki/File:JMeese_dragon_flag.JPG)[/caption]
+[![cc-by-sa Warburg]({filename}/images/1024px-JMeese_dragon_flag.jpg)](https://commons.wikimedia.org/wiki/File:JMeese_dragon_flag.JPG)
 
 > "Ein deutsches Gericht sagt: Jonathan Meese ist Kunst" -Jonathan Meese
 > nach dem Freispruch

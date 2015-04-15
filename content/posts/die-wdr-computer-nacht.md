@@ -5,11 +5,7 @@ Category: Uncategorized
 Tags: internetz, nerds, wdr
 Slug: die-wdr-computer-nacht
 
-[caption id="attachment\_4356" align="alignnone"
-width="1024"][![cc-by-sa Stefan
-![1024px-Zuse-Z-11]({filename}/images/1024px-Zuse-Z-11.jpg)
-cc-by-sa [Stefan
-Kögl](https://commons.wikimedia.org/wiki/File:Zuse-Z-11.jpg)[/caption]
+[![cc-by-sa Stefan Kögl]({filename}/images/1024px-Zuse-Z-11.jpg)](https://commons.wikimedia.org/wiki/File:Zuse-Z-11.jpg)
 
 Ging ganz an mir vorbei. Aber wozu hat man sonst das Internetz? Eine
 vier Stunden Dokumentation über die Geschichte der Computer. Alles aus

@@ -12,8 +12,5 @@ Newton???!!! WTF!!!??? Wir wissen ja eigentlich alle wer das [Eschaton
 immanentisieren](https://en.wikipedia.org/wiki/Immanentize_the_eschaton)
 möchte.
 
-[caption id="attachment\_3891" align="alignnone" width="600"][![cc by
-![121209ApocalypseFINAL]({filename}/images/121209ApocalypseFINAL.gif)
-cc by
-[OnlinePsychologyDegree.net](http://www.onlinepsychologydegree.net/2013/01/07/the-times-the-world-ended/!)[/caption]
+[![cc by OnlinePsychologyDegree.net]({filename}/images/121209ApocalypseFINAL.gif)](http://www.onlinepsychologydegree.net/2013/01/07/the-times-the-world-ended/!)
 

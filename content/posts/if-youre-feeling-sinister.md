@@ -1,15 +1,11 @@
-Title: If You're Feeling Sinister
+Title: If Youre Feeling Sinister
 Date: 2013-02-18 16:16
 Author: marvin
 Category: Uncategorized
 Tags: belleandsebastian, documentary, music, pitchfork
 Slug: if-youre-feeling-sinister
 
-[caption id="attachment\_4127" align="alignnone"
-width="1024"][![cc-by-sa
-![5781830785_48cfcec5ca_b]({filename}/images/5781830785_48cfcec5ca_b.jpg)
-cc-by-sa
-[aurélien.](https://secure.flickr.com/photos/aguichard/5781830785/)[/caption]
+[![cc-by-sa aurélien.]({filename}/images/5781830785_48cfcec5ca_b.jpg)](https://secure.flickr.com/photos/aguichard/5781830785/)
 
 Eigentlich sollte das Leben sich ja so anfühlen wie Belle & Sebastian
 klingen.

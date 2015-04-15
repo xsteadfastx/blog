@@ -5,10 +5,7 @@ Category: Uncategorized
 Tags: davebrubeck, joemorello, music
 Slug: ach-dave-brubeck
 
-[caption id="attachment\_3788" align="alignnone"
-![Dave_Brubeck_1954]({filename}/images/Dave_Brubeck_1954.jpg)
-c by [Carl van
-Vechten](http://de.wikipedia.org/w/index.php?title=Datei:Dave_Brubeck_1954.jpg)[/caption]
+[![c by Carl van Vechten]({filename}/images/Dave_Brubeck_1954.jpg)](http://de.wikipedia.org/w/index.php?title=Datei:Dave_Brubeck_1954.jpg)
 
 Schon als [Joe Morell](http://de.wikipedia.org/wiki/Joe_Morello)o
 letztes Jahr gestorben ist, musste ich erstmal schlucken. Doch nun hat

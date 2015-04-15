@@ -1,15 +1,11 @@
-Title: Jodorowsky's Dune
+Title: Jodorowskys Dune
 Date: 2014-03-14 11:43
 Author: marvin
 Category: Uncategorized
 Tags: davidlynch, dune, lsd, movies
 Slug: jodorowskys-dune
 
-[caption id="attachment\_5485" align="alignnone" width="1024"][![cc-by
-Sam
-![3456998345_503c0130ea_b]({filename}/images/3456998345_503c0130ea_b.jpg)
-cc-by [Sam
-Howzit](https://secure.flickr.com/photos/aloha75/3456998345/)[/caption]
+[![cc-by Sam Howzit]({filename}/images/3456998345_503c0130ea_b.jpg)](https://secure.flickr.com/photos/aloha75/3456998345/)
 
 An der DUNE-Verfilmung von David Lynch scheiden sich ja die Geister.
 Inklusive David Lynch selber der teilweise noch nicht mal in den Credits

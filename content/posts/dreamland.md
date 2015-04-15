@@ -5,11 +5,7 @@ Category: Uncategorized
 Tags: bobburnquist, skateboard
 Slug: dreamland
 
-[caption id="attachment\_4885" align="alignnone" width="514"][![cc-by-sa
-Fernando
-![514px-Bob_Burnquist]({filename}/images/514px-Bob_Burnquist.jpg)
-cc-by-sa [Fernando
-Mafra](https://en.wikipedia.org/wiki/File:Bob_Burnquist.jpg)[/caption]
+[![cc-by-sa Fernando Mafra]({filename}/images/514px-Bob_Burnquist.jpg)](https://en.wikipedia.org/wiki/File:Bob_Burnquist.jpg)
 
 So sieht es also aus wenn der Skater Bob Burnquist sich sein Traumland
 baut. Ich bin sprachlos. Hat nicht jeder von uns so ein Traumland?

@@ -5,11 +5,7 @@ Category: Uncategorized
 Tags: art, burningman, documentary
 Slug: dream-art-culture-of-burning-man
 
-[caption id="attachment\_4593" align="alignnone" width="1024"][![cc by
-Kyle
-![4968347602_b7508b8c47_b]({filename}/images/4968347602_b7508b8c47_b.jpg)
-cc by [Kyle
-Harmon](https://secure.flickr.com/photos/wkharmon/4968347602/in/photostream/)[/caption]
+[![cc by Kyle Harmon]({filename}/images/4968347602_b7508b8c47_b.jpg)](https://secure.flickr.com/photos/wkharmon/4968347602/in/photostream/)
 
 Das Burning Man Festival ist etwas was meinen inneren Hippie völlig aus
 dem Häuschen sein lässt. Ein Festival in einem Teil der Wüste Nevadas

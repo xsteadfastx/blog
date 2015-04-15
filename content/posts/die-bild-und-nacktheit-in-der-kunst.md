@@ -4,9 +4,7 @@ Author: marvin
 Category: Uncategorized
 Slug: die-bild-und-nacktheit-in-der-kunst
 
-[caption id="attachment\_2782" align="alignnone"
-![5822573912_917b811d43_o]({filename}/images/5822573912_917b811d43_o.jpg)
-Joan Jonas - Mirror piece I (1969)[/caption]
+![Joan Jonas - Mirror piece I 1969]({filename}/images/5822573912_917b811d43_o.jpg)
 
 Ich freue mich einfach jedes mal wenn die BILD über Kunst schreibt.
 Selten lassen sie ein Schenkelklopfer aus. Die "Zeitung" die berühmt ist

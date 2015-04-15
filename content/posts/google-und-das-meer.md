@@ -5,10 +5,7 @@ Category: Uncategorized
 Tags: animals, google, nature, ocean, streetview
 Slug: google-und-das-meer
 
-[caption id="attachment\_3221" align="alignnone"
-![mapsunderwater]({filename}/images/mapsunderwater.jpg)
-pic c
-[google](https://maps.google.com/maps?hl=en-US≪=20.634999,-156.49741&spn=0.011577,0.018797&sll=20.631745,-156.495507&layer=c&cid=7413646003444223722&panoid=giEWSvNTE17_TlxxtfCeBQ&cbp=13,201.85,,0,0≷=US&t=m&cbll=20.634999,-156.49741&z=17)[/caption]
+[![pic c google]({filename}/images/mapsunderwater.jpg)](https://maps.google.com/maps?hl=en-US≪=20.634999,-156.49741&spn=0.011577,0.018797&sll=20.631745,-156.495507&layer=c&cid=7413646003444223722&panoid=giEWSvNTE17_TlxxtfCeBQ&cbp=13,201.85,,0,0≷=US&t=m&cbll=20.634999,-156.49741&z=17)
 
 Freitag-Nachmittags-Träumerei. Erst vor ein paar Tagen habe ich über
 Google Street View in der Antarktis berichtet. Gleich darauf schieben

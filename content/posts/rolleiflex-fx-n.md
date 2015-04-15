@@ -5,9 +5,7 @@ Category: Uncategorized
 Tags: photography, photokina, rolleiflex
 Slug: rolleiflex-fx-n
 
-[caption id="attachment\_3084" align="alignnone"
-![rolleiflex]({filename}/images/rolleiflex.jpg)
-pic c [Jeriko](http://www.jeriko.de/2012/09/19/photokina/)[/caption]
+[![pic c Jeriko]({filename}/images/rolleiflex.jpg)](http://www.jeriko.de/2012/09/19/photokina/)
 
 Mehr Megapixel und Vollformat und überhaupt. Kleiner sowieso und mehr
 Objektive. Was gibt es schon Neues von der Photokina 2012? Erstmal bin

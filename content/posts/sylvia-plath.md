@@ -5,9 +5,7 @@ Category: Uncategorized
 Tags: books, slyviaplath, suicide, thebelljar
 Slug: sylvia-plath
 
-[caption id="attachment\_4071" align="alignnone" width="771"][![cc by
-![5818852739_c4ceffca25_b]({filename}/images/5818852739_c4ceffca25_b.jpg)
-cc by [psd](https://secure.flickr.com/photos/psd/5818852739/)[/caption]
+[![cc by psd]({filename}/images/5818852739_c4ceffca25_b.jpg)](https://secure.flickr.com/photos/psd/5818852739/)
 
 Nun ist es 50 Jahre her das [Sylvia
 Plat](https://de.wikipedia.org/wiki/Sylvia_Plath)h sich ihr Leben nahm.

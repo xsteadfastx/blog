@@ -5,10 +5,7 @@ Category: Uncategorized
 Tags: arte, documentary, nature, nestle, politics, water
 Slug: bottled-life
 
-[caption id="attachment\_2951" align="alignnone"
-![4424212792_ac96d6c61a_b]({filename}/images/4424212792_ac96d6c61a_b.jpg)
-cc by
-[qiaomeng](http://www.flickr.com/photos/qiaomeng/4424212792/in/photostream/)[/caption]
+[![cc by qiaomeng]({filename}/images/4424212792_ac96d6c61a_b.jpg)](http://www.flickr.com/photos/qiaomeng/4424212792/in/photostream/)
 
 Wer das Bedürfnis hat mal direkt in die Fratze des Kapitalismus zu
 schauen, muss sich nur diese Dokumentation über Nestle anschauen. Ich
