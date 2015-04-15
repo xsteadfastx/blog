@@ -7,5 +7,4 @@ Slug: tychos-burning-man-dj-set
 
 Es ist Montag. Und so fühle ich mich auch.
 
-https://soundcloud.com/tycho/black-sunrise-sunrise-dj-set-at-burning-man-2014
-
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/166109898&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

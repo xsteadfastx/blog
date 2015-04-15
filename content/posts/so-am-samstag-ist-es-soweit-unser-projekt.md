@@ -23,19 +23,3 @@ Die Premiere wird am Samstag steigen. Das wird nicht nur der Tag sein an
 dem die Aufnahmen online gehen sollen sondern das ganze wird auch Teil
 des [Gegenström Festivals](http://xn--gegenstrm-77a.de/) in Nürnberg
 sein. Also...kommen!
-
-Hier ein Radiobericht zum Festival:
-
-<p>
-<object height="81" width="100%">
-<param name="movie" value="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F44081726"></param><param name="allowscriptaccess" value="always"></param>
-
-<embed allowscriptaccess="always" height="81" src="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F44081726" type="application/x-shockwave-flash" width="100%">
-</embed>
-</object>
-<span>[120428-Gegenström-Festival-Desi
-Nürnberg](http://soundcloud.com/radio-z-95-8-mhz/120428-gegenstr-m-festival)
-by [RADIO Z 95,8 Mhz](http://soundcloud.com/radio-z-95-8-mhz)</span>
-
-</p>
-

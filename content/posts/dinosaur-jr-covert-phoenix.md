@@ -10,7 +10,7 @@ Slug: dinosaur-jr-covert-phoenix
 Es gibt so Tage da passieren ganz wunderbare Sachen. Wie wenn Dinosaur
 Jr. auf einmal einen Phoenix Song covern.
 
-http://soundcloud.com/phoenix/entertainment-dinosaur-jr
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/83226180&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 ([via](http://www.spin.com/articles/phoenix-dinosaur-jr-entertainment-cover-remix-bankrupt))
 

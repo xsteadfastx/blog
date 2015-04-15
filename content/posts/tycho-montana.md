@@ -16,5 +16,4 @@ melancholischen, elektrischen Dreampop.
 Dies hier ist einer der ersten Tracks von seinem neuen Album "Awake".
 Hammer.
 
-https://soundcloud.com/tycho/tycho-montana/s-ViF3S
-
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/130572064&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

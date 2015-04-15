@@ -32,9 +32,7 @@ weg...also bis dann...
 <embed width="100%" height="225" type="application/x-shockwave-flash" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1070300" allowscriptaccess="always">
 </embed>
 </object>
-[Memoryhouse - The Years
-EP](http://soundcloud.com/subpop/sets/memoryhouse-the-years-ep) by
-[subpop](http://soundcloud.com/subpop)
+[Memoryhouse - The Years EP](http://soundcloud.com/subpop/sets/memoryhouse-the-years-ep) by [subpop](http://soundcloud.com/subpop)
 
 </p>
 

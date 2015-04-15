@@ -20,5 +20,4 @@ seine Perfektheit aufzeigt. Wir denken an
 [24-Hour-Psycho](https://de.wikipedia.org/wiki/24_Hour_Psycho) von
 Douglas Gordon.
 
-https://soundcloud.com/birdfeeder/jurassic-park-theme-1000-slower
-
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/9186252&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

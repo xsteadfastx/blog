@@ -16,5 +16,4 @@ was ich meine. Ein ganz wunderbares Blog. Und gerade heute
 veröffentlicht er den ersten Einblick in sein neues Album. Der Track
 heißt "Awake" und manchmal wünsche ich mir auch erwacht zu sein.
 
-https://soundcloud.com/tycho/tycho-awake
-
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/115300435&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>

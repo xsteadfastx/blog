@@ -12,7 +12,7 @@ die Nachricht das sich Medicine wieder zusammen getan haben und es im
 August ein neues Album geben soll. Wahnsinn! Was ist denn gerade los?
 Jetzt fehlt nur noch eine Slowdive Reunion...
 
-http://soundcloud.com/capturedtracks/medicine-long-as-the-sun
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/85511553&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 ([via](http://www.brooklynvegan.com/archives/2013/04/90s_shoegazers.html))
 

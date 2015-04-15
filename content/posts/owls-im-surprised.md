@@ -14,7 +14,7 @@ und Emo. Dies ist der erste Track den man von dem neuen Album, mit dem
 Titel "Two", hören kann. Und es ist genau das was ich erwartet habe. Und
 dies ist gar nicht schlimm.
 
-https://soundcloud.com/polyvinyl-records/owls-im-surprised-1  
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/128206009&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 ([via](http://www.brooklynvegan.com/archives/2014/01/owls_announce_l.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BrooklynVeganFeed+%28brooklynvegan%29))
 
