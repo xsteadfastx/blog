@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
-AUTHOR = 'Marvin Steadfast'
+AUTHOR = 'marvin'
 SITENAME = 'xsteadfastx'
 SITEURL = ''
 AVATAR = '/theme/images/avatar.png'
