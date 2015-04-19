@@ -19,7 +19,7 @@ FLATTR_USER = 'xsteadfastx'
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
 LOCALE = "C"
-DEFAULT_PAGINATION = 4
+DEFAULT_PAGINATION = False
 DEFAULT_DATE = (2012, 3, 2, 14, 1, 1)
 
 FEED_DOMAIN = SITEURL
@@ -70,4 +70,8 @@ PLUGINS = ['liquid_tags.youtube', 'liquid_tags.vimeo', 'liquid_tags.notebook']
 NOTEBOOK_DIR = 'notebooks'
 EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8')
 
-LOAD_CONTENT_CACHE = False
+LOAD_CONTENT_CACHE = True
+
+# disable tags
+TAGS_SAVE_AS = ''
+TAG_SAVE_AS = ''
