@@ -75,3 +75,7 @@ LOAD_CONTENT_CACHE = True
 # disable tags
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
+
+# PIWIK
+PIWIK_URL = 'piwik.luftmentsh.org'
+PIWIK_SITE_ID = 5
