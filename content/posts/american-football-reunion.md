@@ -25,7 +25,7 @@ Welt stiefelte. Das Video fängt genau dieses alles ein. Besorgt euch
 also einen Youtube-Entblocker und schaut es euch an. Und falls das nicht
 klappt, habe ich noch eine Liveversion des Songs drunter gepackt.
 
-{% youtube _NfnXdXpjL0 %}
+{% vimeo 95995545 %}
 
 {% youtube xFm8H_Jsm-0 %}
 
