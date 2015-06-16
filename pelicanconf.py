@@ -71,6 +71,7 @@ NOTEBOOK_DIR = 'notebooks'
 EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8').replace(
     'highlight', 'highlight-ipynb')
 
+CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = True
 
 # disable tags
