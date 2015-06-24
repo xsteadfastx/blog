@@ -81,3 +81,6 @@ TAG_SAVE_AS = ''
 # PIWIK
 PIWIK_URL = 'piwik.luftmentsh.org'
 PIWIK_SITE_ID = 5
+
+# TWITTER
+TWITTER_CARDS = True
