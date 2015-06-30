@@ -1,6 +1,7 @@
 Title: Deutschland auf einem Bild
-Date: 2015-06-24
+Date: 2015-06-24 12:40
 Slug: deutschland-auf-einem-bild
+Tags: art, erwinwurm
 Description: Erwin Wurms Skulptur bekam ein Knöllchen
 
 
