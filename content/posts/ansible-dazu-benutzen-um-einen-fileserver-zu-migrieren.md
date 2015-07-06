@@ -10,6 +10,8 @@ Ich werde immer mehr zum [Ansible](http://www.ansible.com/) Fan. Vor allem das s
 
 Hier passiert nichts wildes. Wir bereiten den neuen Fileserver vor mit allen Benutzern, Gruppen und den Files die wir benötigen. Dazu gibt es ein paar Tasks die die Permissions gerade ziehen während wir migrieren. Hier das Playbook was ich dafür geschrieben habe. Ich habe es versucht zu kommentieren.
 
+**Update:** Ich habe einen kapitalen Fehler begangen. Ich habe zweimal eine Variabel mit dem Namen `task` registriert. Da die notifizierten Tasks erst am Ende ausgeführt werden, wird `task` einfach überschrieben. Jetzt haben beide Tasks zwei verschiedene Variabeln.
+
 ```
 ---
 # Ich führe das ganze nicht remote aus sondern lokal.
@@ -69,7 +71,7 @@ Hier passiert nichts wildes. Wir bereiten den neuen Fileserver vor mit allen Ben
       with_items:
         - { src: 'Erstefreigabe', dest: 'erstefreigabe' }
         - { src: 'Zweitefreigabe', dest: 'zweitefreigabe' }
-      register: task
+      register: freigaben
       notify:
         - set freigaben group
         - set freigaben file permissions
@@ -84,7 +86,7 @@ Hier passiert nichts wildes. Wir bereiten den neuen Fileserver vor mit allen Ben
       with_items:
         - user1
         - user2
-      register: task
+      register: homes
       notify:
         - set home group
 
@@ -98,17 +100,17 @@ Hier passiert nichts wildes. Wir bereiten den neuen Fileserver vor mit allen Ben
     #
     - name: set freigaben group
       command: chgrp -R {{ item.item.dest }} /srv/samba/{{ item.item.dest }}
-      with_items: task.results
+      with_items: freigaben.results
       when: item.changed == True
 
     - name : set freigaben file permissions
       command: find /srv/samba/{{ item.item.dest }} -type f -exec chmod 0664 {} \;
-      with_items: task.results
+      with_items: freigaben.results
       when: item.changed == True
 
     - name : set freigaben group permissions
       command: find /srv/samba/{{ item.item.dest }} -type d -exec chmod 2775 {} \;
-      with_items: task.results
+      with_items: freigaben.results
       when: item.changed == True
 
     - name: set freigaben permissions
@@ -117,11 +119,11 @@ Hier passiert nichts wildes. Wir bereiten den neuen Fileserver vor mit allen Ben
             mode=2775
             owner=root
             group={{ item.item.dest }}
-      with_items: task.results
+      with_items: freigaben.results
       when: item.changed == True
 
     - name: set home group
       command: chgrp -R {{ item.item }} /home/{{ item.item }}
-      with_items: task.results
+      with_items: homes.results
       when: item.changed == True
 ```
