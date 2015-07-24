@@ -44,3 +44,6 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# OWN STUFF
+.ftp_pass.txt
