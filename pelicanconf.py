@@ -68,7 +68,7 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['liquid_tags.youtube', 'liquid_tags.vimeo', 'liquid_tags.notebook']
 
 NOTEBOOK_DIR = 'notebooks'
-EXTRA_HEADER = open('_nb_header.html').read().decode('utf-8').replace(
+EXTRA_HEADER = open('_nb_header.html').read().replace(
     'highlight', 'highlight-ipynb')
 
 CACHE_CONTENT = True

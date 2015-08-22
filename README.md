@@ -1,17 +1,12 @@
 blog
 ====
 
-
-## install ##
+## create environment ##
 1. `git clone git@github.com:xsteadfastx/blog.git`
-2. `cd blog && virtualenv -p /usr/bin/python3 venv`
-3. `source venv/bin/activate`
-4. `pip install -r requirements.txt`
-
-## upgrade ##
-`pip install --upgrade pelican markdown ghp-import shovel`
+2. build the environment with `cd blog && vagrant up`
+3. login in the environment with `vagrant ssh`
 
 ## write ##
-1. put the markdown files in "content/posts"
-2. test it with `make html && make serve` 
-3. upload it to github with `make github`
+1. create new post with `make newpost`
+2. write the post with`vim content/posts/new-blog-post.md`
+3. upload with `make ftp_upload`

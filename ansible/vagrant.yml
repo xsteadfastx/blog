@@ -1,0 +1,42 @@
+---
+- hosts: all
+
+  tasks:
+
+    - name: install deps
+      apt:
+        name={{ item }}
+        state=present
+      with_items:
+        - git
+        - ansible
+        - python-dev
+        - python-virtualenv
+        - libxml2-dev
+        - libxslt1-dev
+        - zlib1g-dev
+        - lftp
+        - pandoc
+        - nodejs
+      sudo: yes
+
+    - name: clone batcave
+      git:
+        repo=https://github.com/xsteadfastx/batcave.git
+        dest=~/batcave
+
+    - name: run batcave
+      command:
+        ansible-playbook -i hosts site.yml --skip-tags "x11" -c local
+        chdir=~/batcave
+
+    - name: create python environment
+      pip:
+        requirements=/vagrant/requirements.txt
+        virtualenv=~/env
+        virtualenv_command=virtualenv -p /usr/bin/python3
+
+    - name: clone pelican plugins
+      git:
+        repo=https://github.com/getpelican/pelican-plugins.git
+        dest=/vagrant/pelican-plugins

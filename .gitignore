@@ -47,3 +47,4 @@ nosetests.xml
 
 # OWN STUFF
 .ftp_pass.txt
+.vagrant/*
