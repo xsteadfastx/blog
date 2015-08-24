@@ -36,3 +36,10 @@
         requirements=/vagrant/requirements.txt
         virtualenv=~/env
         virtualenv_command="virtualenv -p /usr/bin/python3"
+
+    - name: clone pelican-plugins
+      git:
+        repo=https://github.com/getpelican/pelican-plugins.git
+        dest=/vagrant/pelican-plugins
+
+
