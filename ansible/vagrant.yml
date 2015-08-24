@@ -31,11 +31,16 @@
         ansible-playbook -i hosts site.yml --skip-tags "x11" -c local
         chdir=~/batcave
 
-    - name: create python environment
+    - name: create python environment and install packages
       pip:
-        requirements=/vagrant/requirements.txt
+        name={{ item }}
         virtualenv=~/env
         virtualenv_command="virtualenv -p /usr/bin/python3"
+      with_items:
+        - pelican
+        - markdown
+        - ipython[notebook]==2.4.1
+        - cookiecutter
 
     - name: clone pelican-plugins
       git:
