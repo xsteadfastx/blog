@@ -2,7 +2,6 @@
 output
 pelicanconf_local.py
 cache/
-pelican-plugins/*
 .ipynb_checkpoints
 
 #Python

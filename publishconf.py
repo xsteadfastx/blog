@@ -19,5 +19,14 @@ FEED_DOMAIN = SITEURL
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+# PIWIK
+PIWIK_URL = 'piwik.luftmentsh.org'
+PIWIK_SITE_ID = 5
+
+# TWITTER
+TWITTER_CARDS = True
+
+# DISQUS
+DISQUS_SITENAME = "xsteadfastx"
+
+#ISSO_URL = 'http://comments.xsteadfastx.org'

@@ -13,8 +13,6 @@ RELATIVE_URLS = True
 
 GITHUB_URL = 'http://github.com/xsteadfastx/'
 TWITTER_NAME = 'xsteadfastx'
-DISQUS_SITENAME = "xsteadfastx"
-#ISSO_URL = 'http://comments.xsteadfastx.org'
 FLATTR_USER = 'xsteadfastx'
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
@@ -77,10 +75,3 @@ LOAD_CONTENT_CACHE = True
 # disable tags
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
-
-# PIWIK
-PIWIK_URL = 'piwik.luftmentsh.org'
-PIWIK_SITE_ID = 5
-
-# TWITTER
-TWITTER_CARDS = True
