@@ -18,6 +18,8 @@
         - lftp
         - pandoc
         - nodejs
+        - nodejs-legacy
+        - npm
         - mc
       sudo: yes
 
@@ -51,3 +53,10 @@
       lineinfile:
         dest=~/.zshrc
         line="export PYTHONIOENCODING=UTF-8"
+
+    - name: install bower
+      npm:
+        name=bower
+        global=yes
+        state=present
+      sudo: yes
