@@ -42,6 +42,7 @@ help:
 	@echo '   make regenerate                  regenerate files upon modification '
 	@echo '   make publish                     generate using production settings '
 	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000'
+	@echo '   make serve_global                serve site at http://0.0.0.0:8000  '
 	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
 	@echo '   make stopserver                  stop local server                  '
 	@echo '   make ssh_upload                  upload the web site via SSH        '
@@ -60,7 +61,7 @@ html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
-	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR) && [ ! -d $(BASEDIR)/cache ] || rm -rf $(BASEDIR)/cache
 
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
@@ -71,6 +72,9 @@ ifdef PORT
 else
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
 endif
+
+serve_global:
+	cd $(OUTPUTDIR) && $(PY) -m pelican.server 8000 0.0.0.0
 
 devserver:
 ifdef PORT

@@ -48,3 +48,4 @@ nosetests.xml
 .ftp_pass.txt
 .vagrant/*
 pelican-plugins/*
+.DS_Store

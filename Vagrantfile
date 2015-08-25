@@ -3,6 +3,7 @@
 
 Vagrant.configure(2) do |config|
   config.vm.network "forwarded_port", guest: 8888, host: 8888
+  config.vm.network "forwarded_port", guest: 8000, host: 8000
   config.ssh.forward_agent = true
 
   config.vm.provider "docker" do |d|

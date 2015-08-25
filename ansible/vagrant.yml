@@ -42,12 +42,14 @@
         - pelican
         - markdown
         - ipython[notebook]==2.4.1
+        - beautifulsoup4
         - cookiecutter
 
     - name: clone pelican-plugins
       git:
         repo=https://github.com/getpelican/pelican-plugins.git
         dest=/vagrant/pelican-plugins
+        accept_hostkey=yes
 
     - name: export PYTHONIOENCODING to UTF-8
       lineinfile:

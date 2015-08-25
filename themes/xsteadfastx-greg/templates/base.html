@@ -17,7 +17,7 @@
 	<title>{% block title %}{% endblock %}</title>
 	<meta name="google-site-verification" content="AgIAQN_qsniIQWOq659Bnhzx-LZts2FdgP1kLgtQg-k" />
 	<meta name="description" content="{% block metadesc %}{% endblock %}">
-	<meta name="author" content="Greg Reda">
+	<meta name="author" content="{{ AUTHOR }}">
 
   <!-- Feeds
   ================================================== -->
@@ -50,7 +50,7 @@
 	<link rel="stylesheet" href="/theme/css/layout.css">
 	<link rel="stylesheet" href="/theme/css/simply.css">
 	<link rel="stylesheet" href="/theme/css/pygment.css">
-	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.css" rel="stylesheet">
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -58,7 +58,7 @@
 
 	<!-- JavaScript
 	=================================================== -->
-	<script src="/theme/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="/theme/bower_components/jquery-2.1.4.min/index.js"></script>
 
 	<!-- Favicons
 	================================================== -->
@@ -77,14 +77,17 @@
 			<a href="/"><img id="avatar" src="{{ AVATAR }}"></img></a>
 	    <hr class="small" />
     	<div id="social">
-		{% if TWITTER_NAME %}
-		<a class="icon" href="http://twitter.com/{{ TWITTER_NAME }}" title="Twitter"><i class="icon-twitter"></i></a>
-		{% endif %}
-		{% if GITHUB_URL %}
-		<a class="icon" href="{{ GITHUB_URL }}" title="GitHub"><i class="icon-github"></i></a>
-		{% endif %}
-    		<a class="icon" href="{{ FEED_DOMAIN }}/feed/" title="Subscribe (Atom)"><i class="icon-rss"></i></a>
-    	</div> <!-- social -->
+				{% if TWITTER_NAME %}
+				<a class="icon" href="http://twitter.com/{{ TWITTER_NAME }}" title="Twitter"><i class="icon-twitter"></i></a>
+				{% endif %}
+				{% if GITHUB_URL %}
+				<a class="icon" href="{{ GITHUB_URL }}" title="GitHub"><i class="icon-github"></i></a>
+				{% endif %}
+				<a class="icon" href="{{ FEED_DOMAIN }}/feed/" title="Subscribe (Atom)"><i class="icon-rss"></i></a>
+				{% if 'tipue_search' in PLUGINS %}
+				<a class="icon" href="{{ SITEURL }}/pages/search.html" title="Search"><i class="icon-search"></i></a>
+				{% endif %}
+			</div> <!-- social -->
       <!-- <hr class="small" />
       <div class="nav">
         <ul>
@@ -100,7 +103,7 @@
 
 		<footer class="thirteen columns offset-by-one">
 			<!-- <hr class="small"> -->
-			<p>Generated with <a href="http://getpelican.com">Pelican</a>. Layout done with <a href="http://getskeleton.com">Skeleton</a>. Icons are <a href="http://fortawesome.github.com/Font-Awesome/">Font Awesome</a>. <a href="/pages/impressum.html">Impressum.</a></p>
+			<p>Generated with <a href="http://getpelican.com">Pelican</a>. Layout done with <a href="http://getskeleton.com">Skeleton</a>. Icons are <a href="http://fortawesome.github.com/Font-Awesome/">Font Awesome</a>. <a href="{{ SITEURL }}/pages/impressum.html">Impressum.</a></p>
 		</footer>
 
 	</div><!-- container -->
@@ -109,6 +112,10 @@
 <!-- Include other templates
 =============================================== -->
 {% include 'analytics.html' %}
+
+<!-- Include scripts
+=============================================== -->
+{% block scripts %}{% endblock %}
 
 <!-- End Document
 ================================================== -->

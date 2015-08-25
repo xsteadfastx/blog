@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block title %}Search | {{ SITENAME }}{% endblock %}
+
+{% block content %}
+	<h3 class="article-title">Search</h3>
+	<br>
+	<p>
+		<form action="{{ SITEURL}}/pages/search.html">
+			<input type="text" value="" placeholder="Suchen" name="q" id="tipue_search_input" autocomplete="on" required><input type="submit"/>
+		</form>
+	</p>
+
+  <div id="tipue_search_content"><div id="tipue_search_loading"></div></div>
+	<br>
+{% endblock %}
+
+{% block scripts %}
+	<script type="text/javascript" src="{{ SITEURL }}/theme/tipuesearch/tipuesearch_set.js"></script>
+	<script type="text/javascript" src="{{ SITEURL }}/theme/tipuesearch/tipuesearch.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			$('#tipue_search_input').tipuesearch({
+ 				'mode' : 'json',
+         'show': 100,
+         'newWindow': false,
+				 'contentLocation': '{{ SITEURL }}/tipuesearch_content.json'
+			});
+		});
+	</script>
+{% endblock %}
