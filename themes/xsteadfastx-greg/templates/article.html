@@ -35,7 +35,13 @@
 	<div class="back-to-home"><a href="/">← Back to Home</a></div>
 	<hr class="large">
 
-	{% block scripts %}
+	{% if DISQUS_SITENAME %}
+	<div id="disqus_thread"></div>
+	{% endif %}
+
+{% endblock %}
+
+{% block scripts %}
 
 	<!-- DISQUS -->
 	{% if DISQUS_SITENAME %}
@@ -88,7 +94,5 @@
 			});
 		});
 	</script>
-
-	{% endblock %}
 
 {% endblock %}

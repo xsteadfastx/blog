@@ -45,12 +45,14 @@
 
 	<!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="/theme/css/base.css">
-	<link rel="stylesheet" href="/theme/css/skeleton.css">
-	<link rel="stylesheet" href="/theme/css/layout.css">
-	<link rel="stylesheet" href="/theme/css/simply.css">
-	<link rel="stylesheet" href="/theme/css/pygment.css">
+	{% block styles %}
+	<link rel="stylesheet" href="{{ SITEURL }}/theme/css/base.css">
+	<link rel="stylesheet" href="{{ SITEURL }}/theme/css/skeleton.css">
+	<link rel="stylesheet" href="{{ SITEURL }}/theme/css/layout.css">
+	<link rel="stylesheet" href="{{ SITEURL }}/theme/css/simply.css">
+	<link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygment.css">
 	<link href="//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.css" rel="stylesheet">
+	{% endblock %}
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>

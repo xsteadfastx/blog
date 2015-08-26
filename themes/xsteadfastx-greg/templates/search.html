@@ -1,14 +1,19 @@
 {% extends 'base.html' %}
 {% block title %}Search | {{ SITENAME }}{% endblock %}
 
+{% block styles %}
+  {{ super() }}
+	<link rel="stylesheet" href="{{ SITEURL }}/theme/tipuesearch/tipuesearch.css">
+{% endblock %}
+
 {% block content %}
 	<h3 class="article-title">Search</h3>
-	<br>
-	<p>
-		<form action="{{ SITEURL}}/pages/search.html">
-			<input type="text" value="" placeholder="Suchen" name="q" id="tipue_search_input" autocomplete="on" required><input type="submit"/>
-		</form>
-	</p>
+	<br/ >
+	<br/ >
+	<form action="{{ SITEURL}}/pages/search.html">
+		<input type="text" value="" placeholder="Suchen" name="q" id="tipue_search_input" autocomplete="on" required>
+		<br /><input type="submit"/>
+	</form>
 
   <div id="tipue_search_content"><div id="tipue_search_loading"></div></div>
 	<br>
@@ -21,7 +26,7 @@
 		$(document).ready(function() {
 			$('#tipue_search_input').tipuesearch({
  				'mode' : 'json',
-         'show': 100,
+         'show': 1000,
          'newWindow': false,
 				 'contentLocation': '{{ SITEURL }}/tipuesearch_content.json'
 			});
