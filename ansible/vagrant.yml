@@ -39,7 +39,7 @@
         virtualenv=~/env
         virtualenv_command="virtualenv -p /usr/bin/python3"
       with_items:
-        - pelican
+        - pelican==3.6.3
         - markdown
         - ipython[notebook]==2.4.1
         - beautifulsoup4
