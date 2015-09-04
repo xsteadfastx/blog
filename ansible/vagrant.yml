@@ -53,10 +53,33 @@
         dest=/vagrant/pelican-plugins
         accept_hostkey=yes
 
-    - name: export PYTHONIOENCODING to UTF-8
+    - name: clone flickr2markdown
+      git:
+        repo=https://github.com/xsteadfastx/flickr2markdown.git
+        dest=/opt/flickr2markdown
+      sudo: yes
+
+    - name: install flickr2markdown deps
+      pip:
+        requirements=/opt/flickr2markdown/requirements.txt
+        virtualenv=/opt/flickr2markdown/env
+        virtualenv_command="virtualenv -p /usr/bin/python3"
+      sudo: yes
+
+    - name: copy flickr2markdown shellscript
+      copy:
+        src=files/flickr2markdown
+        dest=/usr/local/bin/flickr2markdown
+        mode=755
+      sudo: yes
+
+    - name: export variables
       lineinfile:
         dest=~/.zshrc
-        line="export PYTHONIOENCODING=UTF-8"
+        line="{{ item }}"
+      with_items:
+        - export PYTHONIOENCODING=UTF-8
+        - export LC_ALL=C.UTF-8
 
     - name: install bower
       npm:

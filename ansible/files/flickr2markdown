@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/opt/flickr2markdown/env/bin/python /opt/flickr2markdown/flickr2markdown.py $@
