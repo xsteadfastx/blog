@@ -1,4 +1,4 @@
-PY?=python
+PY?=python3
 PELICAN?=pelican
 PELICANOPTS=
 
@@ -114,6 +114,6 @@ github: publish
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 newpost:
-	python3 $(BASEDIR)/newpost.py
+	$(PY) $(BASEDIR)/newpost.py
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
