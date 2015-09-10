@@ -64,7 +64,7 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 # plugins
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['liquid_tags.youtube', 'liquid_tags.vimeo', 'liquid_tags.notebook',
-           'tipue_search']
+           'liquid_tags.flickr', 'tipue_search']
 
 NOTEBOOK_DIR = 'notebooks'
 EXTRA_HEADER = open('_nb_header.html').read().replace(
@@ -76,3 +76,5 @@ LOAD_CONTENT_CACHE = True
 # disable tags
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
+
+FLICKR_API_KEY = '2207902126a225122e46533e82b6a947'
