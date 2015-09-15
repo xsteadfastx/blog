@@ -49,29 +49,20 @@
 
     - name: clone pelican-plugins
       git:
-        repo=https://github.com/getpelican/pelican-plugins.git
+        repo=git@github.com:xsteadfastx/pelican-plugins.git
         dest=/vagrant/pelican-plugins
-        accept_hostkey=yes
 
-    - name: clone flickr2markdown
-      git:
-        repo=https://github.com/xsteadfastx/flickr2markdown.git
-        dest=/opt/flickr2markdown
-      sudo: yes
-
-    - name: install flickr2markdown deps
-      pip:
-        requirements=/opt/flickr2markdown/requirements.txt
-        virtualenv=/opt/flickr2markdown/env
-        virtualenv_command="virtualenv -p /usr/bin/python3"
-      sudo: yes
-
-    - name: copy flickr2markdown shellscript
+    - name: set timezone
       copy:
-        src=files/flickr2markdown
-        dest=/usr/local/bin/flickr2markdown
-        mode=755
+        content="Europe/Berlin"
+        dest=/etc/timezone
+        owner=root
+        group=root
+        mode=0644
+        backup=yes
       sudo: yes
+      notify:
+        - update timezone
 
     - name: export variables
       lineinfile:
@@ -86,4 +77,11 @@
         name=bower
         global=yes
         state=present
+      sudo: yes
+
+  handlers:
+
+    - name: update timezone
+      command:
+        dpkg-reconfigure --frontend moninteractive tzdata
       sudo: yes
