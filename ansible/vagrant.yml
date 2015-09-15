@@ -45,6 +45,7 @@
         - ipython[notebook]==2.4.1
         - beautifulsoup4
         - cookiecutter
+        - tzlocal
       sudo: yes
 
     - name: clone pelican-plugins
