@@ -6,9 +6,8 @@ Falls ihr in irgendeiner Weise Probleme mit Beitragen hier auf diesem Blog habt 
 
 Angaben gemäß § 5 TMG:
 
-Marvin Preuss
-Herzogstraße 18
-90478 Nürnberg
+Marvin Preuss / Ehmener Str. 30 / 38165 Lehre
+
 Kontakt:
 
 E-Mail: marvin@xsteadfastx.org
