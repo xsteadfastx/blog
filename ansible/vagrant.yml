@@ -52,6 +52,7 @@
       git:
         repo=git@github.com:xsteadfastx/pelican-plugins.git
         dest=/vagrant/pelican-plugins
+        accept_hostkey=yes
 
     - name: set timezone
       copy:
