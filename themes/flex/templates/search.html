@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block title %} &ndash; Search{% endblock %}
+
+{% block styles %}
+  {{ super() }}
+	<link rel="stylesheet" href="{{ SITEURL }}/theme/tipuesearch/tipuesearch.css">
+{% endblock %}
+
+{% block content %}
+<article>
+	<header>
+	  <h1>Search</h1>
+  </header>
+  <div>
+	  <form action="{{ SITEURL}}/pages/search.html">
+		  <input type="text" value="" placeholder="Suchen" name="q" id="tipue_search_input" autocomplete="on" required>
+		  <br /><input type="submit"/>
+	  </form>
+
+    <div id="tipue_search_content"><div id="tipue_search_loading"></div></div>
+  </div>
+</article>
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+	<script type="text/javascript" src="{{ SITEURL }}/theme/tipuesearch/tipuesearch_set.js"></script>
+	<script type="text/javascript" src="{{ SITEURL }}/theme/tipuesearch/tipuesearch.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			$('#tipue_search_input').tipuesearch({
+ 				'mode' : 'json',
+         'show': 1000,
+         'newWindow': false,
+				 'contentLocation': '{{ SITEURL }}/tipuesearch_content.json'
+			});
+		});
+	</script>
+{% endblock %}

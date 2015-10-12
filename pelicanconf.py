@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 AUTHOR = 'marvin'
 SITENAME = 'xsteadfastx'
 SITEURL = ''
-AVATAR = '/theme/images/avatar.png'
+SITELOGO = SITEURL + '/theme/img/avatar.png'
+FAVICON = SITEURL + '/theme/img/favicon.png'
 TIMEZONE = "Europe/Berlin"
 DESCRIPTION = "the cats are not what they seem"
 
@@ -24,37 +25,37 @@ FEED_DOMAIN = SITEURL
 FEED_MAX_ITEMS = 100
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ATOM = 'feed/index.html'
-#CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+# CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # global metadata to all the contents
-#DEFAULT_METADATA = (('yeah', 'it is'),)
+# DEFAULT_METADATA = (('yeah', 'it is'),)
 
 # path-specific metadata
 EXTRA_PATH_METADATA = {
-    #'extra/robots.txt': {'path': 'robots.txt'},
+    # 'extra/robots.txt': {'path': 'robots.txt'},
     'extra/CNAME': {'path': 'CNAME'},
     }
 
 # static paths will be copied without parsing their contents
 STATIC_PATHS = [
     'images',
-    #'extra/robots.txt',
+    # 'extra/robots.txt',
     'extra/CNAME',
-    #'code',
-    #'notebooks'
+    # 'code',
+    # 'notebooks'
     ]
 
 # custom page generated with a jinja2 template
-#TEMPLATE_PAGES = {'pages/jinja2_template.html': 'jinja2_template.html'}
+# TEMPLATE_PAGES = {'pages/jinja2_template.html': 'jinja2_template.html'}
 
 # code blocks with line numbers
 PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
 
 # foobar will not be used, because it's not in caps. All configuration keys
 # have to be in caps
-#foobar = "barbaz"
+# foobar = "barbaz"
 
-THEME = 'themes/xsteadfastx-greg'
+THEME = 'themes/flex'
 OUTPUT_PATH = 'output'
 PATH = 'content'
 
@@ -74,10 +75,20 @@ EXTRA_HEADER = open('_nb_header.html').read().replace(
 CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = True
 
-# disable tags
-TAGS_SAVE_AS = ''
-TAG_SAVE_AS = ''
+# tags
+TAG_URL = 'tag/{slug}.html'
+TAG_SAVE_AS = 'tag/{slug}.html'
 
 # api keys
 FLICKR_API_KEY = '2207902126a225122e46533e82b6a947'
 GIPHY_API_KEY = 'dc6zaTOxFJmzC'
+
+DEFAULT_PAGINATION = 5
+COPYRIGHT_YEAR = 2015
+CC_LICENSE = {'name': 'Creative Commons Attribution-ShareAlike',
+              'version': '4.0', 'slug': 'by-sa'}
+
+MAIN_MENU = False
+SOCIAL = (('twitter', 'https://twitter.com/xsteadfastx'),
+          ('github', 'https://github.com/xsteadfastx'),
+          ('rss', SITEURL + '/feed/'),)
