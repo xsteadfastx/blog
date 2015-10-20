@@ -1,4 +1,4 @@
-Title: der BBC micro:bit und Python
+Title: Der BBC micro:bit und Python
 Date: 2015-10-20 15:49
 Slug: der-bbc-microbit-und-python
 Tags: python, bbc
