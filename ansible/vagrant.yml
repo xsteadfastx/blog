@@ -44,7 +44,7 @@
         - markdown
         - ipython[notebook]==2.4.1
         - beautifulsoup4
-        - cookiecutter
+        - cookiecutter==1.1.0
         - tzlocal
       sudo: yes
 
