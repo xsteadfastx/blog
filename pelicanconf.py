@@ -92,3 +92,4 @@ MAIN_MENU = False
 SOCIAL = (('twitter', 'https://twitter.com/xsteadfastx'),
           ('github', 'https://github.com/xsteadfastx'),
           ('rss', SITEURL + '/feed/'),)
+LINKS = (('Archive', SITEURL + '/archives.html'),)
