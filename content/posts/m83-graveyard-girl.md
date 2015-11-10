@@ -5,7 +5,7 @@ Category: post
 Tags: m83, music
 Slug: m83-graveyard-girl
 
-http://www.dailymotion.com/video/x6b1kh\_m83-graveyard-girl\_music
+{% youtube gY8iy8S0S4w %}
 
 Ich muss ja ehrlich zugeben das ich erst realtiv spät auf M83 gestossen
 bin...aber gerade scheint draussen die Sonne...und ich will nichts
