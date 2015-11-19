@@ -10,6 +10,7 @@ Ich bin ja vor einiger Zeit von [Plex](https://plex.tv/) auf [Emby](http://emby.
         listen 80;
         server_name emby.meinedomain.tld;
 
+        keepalive_timeout 180;
         client_max_body_size 1024M;
 
         location / {
