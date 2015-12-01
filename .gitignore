@@ -49,3 +49,4 @@ nosetests.xml
 .vagrant/*
 pelican-plugins/*
 .DS_Store
+node_modules

@@ -77,7 +77,7 @@
     - name: install js packages
       npm:
         name={{ item }}
-        global=yes
+        path=/vagrant
         state=present
       with_items:
         - bower
@@ -85,7 +85,6 @@
         - gulp-rename
         - gulp-less
         - gulp-minify-css
-      sudo: yes
 
   handlers:
 

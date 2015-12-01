@@ -91,5 +91,6 @@ CC_LICENSE = {'name': 'Creative Commons Attribution-ShareAlike',
 MAIN_MENU = False
 SOCIAL = (('twitter', 'https://twitter.com/xsteadfastx'),
           ('github', 'https://github.com/xsteadfastx'),
+          ('flickr', 'https://www.flickr.com/photos/marvinxsteadfast/'),
           ('rss', SITEURL + '/feed/'),)
 LINKS = (('Archive', SITEURL + '/archives.html'),)
