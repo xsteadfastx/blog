@@ -23,6 +23,7 @@
         - nodejs-legacy
         - npm
         - mc
+        - imagemagick
       sudo: yes
 
     - name: clone batcave
