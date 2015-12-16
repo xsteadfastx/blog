@@ -8,8 +8,8 @@ So klingt es wenn Hardcore Punks ihre New Wave Einflüsse immer mehr ausbauen bi
 
 Danke für diese musikalische Untermalung in dieser melancholischen Zeit.
 
-<iframe frameborder="0" width="640" height="360" src="//player.muzu.tv/player/getPlayer/j/2405295/" allowfullscreen></iframe><br /><a href="http://www.muzu.tv/ceremony/your-life-in-france-music-video/2405295/">Ceremony - Your Life In France</a> on <a href="http://www.muzu.tv/">MUZU.TV</a>.
+{% vimeo 126325766 %}
 
 Und als kleine Zugabe noch das erste Video was völlig an mir Vorbei ging:
 
-<iframe frameborder="0" width="640" height="360" src="//player.muzu.tv/player/getPlayer/j/2379252/" allowfullscreen></iframe><br /><a href="http://www.muzu.tv/ceremony/the-separation-and-the-understanding-music-video/2379252/">Ceremony - The Separation and The Understanding</a> on <a href="http://www.muzu.tv/">MUZU.TV</a>.
+{% vimeo 124171429 %}
