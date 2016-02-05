@@ -1,4 +1,4 @@
-PY?=python3
+PY?=~/miniconda3/bin/python
 PELICAN?=pelican
 PELICANOPTS=
 

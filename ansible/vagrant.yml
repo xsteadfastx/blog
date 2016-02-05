@@ -1,6 +1,9 @@
 ---
 - hosts: all
 
+  roles:
+    - miniconda
+
   tasks:
 
     - name: install deps
@@ -9,14 +12,6 @@
         state=present
       with_items:
         - git
-        - ansible
-        - python3
-        - python3-dev
-        - python3-pip
-        - python-virtualenv
-        - libxml2-dev
-        - libxslt1-dev
-        - zlib1g-dev
         - lftp
         - pandoc
         - nodejs
@@ -25,56 +20,31 @@
         - mc
         - imagemagick
         - ack-grep
-      sudo: yes
+      become: yes
 
-    - name: clone batcave
-      git:
-        repo=https://github.com/xsteadfastx/batcave.git
-        dest=~/batcave
-
-    - name: run batcave
-      command:
-        ansible-playbook -i hosts base.yml -c local
-        chdir=~/batcave
+    - name: install conda packages
+      conda:
+        name={{ item }}
+        executable=/home/vagrant/miniconda3/bin/conda
+      with_items:
+        - jupyter=1.0.0
 
     - name: install blogging packages
       pip:
         name={{ item }}
-        executable=pip3
+        executable=/home/vagrant/miniconda3/bin/pip
       with_items:
         - pelican==3.6.3
         - markdown
-        - ipython[notebook]==2.4.1
         - beautifulsoup4
         - cookiecutter==1.2.1
         - tzlocal
-      sudo: yes
 
     - name: clone pelican-plugins
       git:
         repo=git@github.com:xsteadfastx/pelican-plugins.git
         dest=/vagrant/pelican-plugins
         accept_hostkey=yes
-
-    - name: set timezone
-      copy:
-        content="Europe/Berlin"
-        dest=/etc/timezone
-        owner=root
-        group=root
-        mode=0644
-        backup=yes
-      sudo: yes
-      notify:
-        - update timezone
-
-    - name: export variables
-      lineinfile:
-        dest=~/.zshrc
-        line="{{ item }}"
-      with_items:
-        - export PYTHONIOENCODING=UTF-8
-        - export LC_ALL=C.UTF-8
 
     - name: install js packages
       npm:
@@ -88,9 +58,49 @@
         - gulp-less
         - gulp-minify-css
 
+    - name: set timezone
+      copy:
+        content="Europe/Berlin"
+        dest=/etc/timezone
+        owner=root
+        group=root
+        mode=0644
+        backup=yes
+      become: yes
+      notify:
+        - update timezone
+
+    - name: create ansible environment
+      command: /home/vagrant/miniconda3/bin/conda create -n ansible python=2.7 --yes
+      args:
+        creates: /home/vagrant/miniconda3/envs/ansible
+
+    - name: install ansible
+      pip:
+        name=ansible
+        executable=/home/vagrant/miniconda3/envs/ansible/bin/pip
+
+    - name: clone batcave
+      git:
+        repo=https://github.com/xsteadfastx/batcave.git
+        dest=~/batcave
+
+    - name: run batcave
+      command:
+        /home/vagrant/miniconda3/envs/ansible/bin/ansible-playbook -i hosts base.yml -c local
+        chdir=~/batcave
+
+    - name: export variables
+      lineinfile:
+        dest=~/.zshrc
+        line="{{ item }}"
+      with_items:
+        - export PYTHONIOENCODING=UTF-8
+        - export LC_ALL=C.UTF-8
+
   handlers:
 
     - name: update timezone
       command:
         dpkg-reconfigure --frontend moninteractive tzdata
-      sudo: yes
+      become: yes
