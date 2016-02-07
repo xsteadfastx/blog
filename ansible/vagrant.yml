@@ -1,44 +1,53 @@
 ---
 - hosts: all
 
-  roles:
-    - miniconda
-
   tasks:
 
     - name: install deps
-      apt:
+      apk:
         name={{ item }}
         state=present
+        update_cache=yes
       with_items:
+        - ack
+        - build-base
+        - curl
         - git
-        - lftp
-        - pandoc
-        - nodejs
-        - nodejs-legacy
-        - npm
-        - mc
+        - gcc
         - imagemagick
-        - ack-grep
+        - libstdc++
+        - lftp
+        - make
+        - musl-dev
+        - nodejs
+        - perl
+        - python3
+        - python3-dev
+        - python-dev
       become: yes
 
-    - name: install conda packages
-      conda:
-        name={{ item }}
-        executable=/home/vagrant/miniconda3/bin/conda
-      with_items:
-        - jupyter=1.0.0
+    - name: pip status
+      stat:
+        path=/usr/bin/pip
+      register: pip
 
-    - name: install blogging packages
+    - name: install pip
+      shell: curl https://bootstrap.pypa.io/get-pip.py | python3
+      become: yes
+      when: pip.stat.exists == False
+
+    - name: install pip packages
       pip:
         name={{ item }}
-        executable=/home/vagrant/miniconda3/bin/pip
       with_items:
-        - pelican==3.6.3
-        - markdown
         - beautifulsoup4
         - cookiecutter==1.2.1
+        - ipython[notebook]==2.4.1
+        - markdown
+        - pelican==3.6.3
         - tzlocal
+        - virtualenv
+      become: yes
 
     - name: clone pelican-plugins
       git:
@@ -67,18 +76,13 @@
         mode=0644
         backup=yes
       become: yes
-      notify:
-        - update timezone
-
-    - name: create ansible environment
-      command: /home/vagrant/miniconda3/bin/conda create -n ansible python=2.7 --yes
-      args:
-        creates: /home/vagrant/miniconda3/envs/ansible
 
     - name: install ansible
       pip:
         name=ansible
-        executable=/home/vagrant/miniconda3/envs/ansible/bin/pip
+        virtualenv=~/ansible
+        virtualenv_python=python
+        state=latest
 
     - name: clone batcave
       git:
@@ -87,20 +91,32 @@
 
     - name: run batcave
       command:
-        /home/vagrant/miniconda3/envs/ansible/bin/ansible-playbook -i hosts base.yml -c local
+        ~/ansible/bin/ansible-playbook -i hosts base.yml -c local
         chdir=~/batcave
 
     - name: export variables
       lineinfile:
         dest=~/.zshrc
-        line="{{ item }}"
+        line='{{ item }}'
       with_items:
         - export PYTHONIOENCODING=UTF-8
         - export LC_ALL=C.UTF-8
 
-  handlers:
+    - name: no git colors
+      command: git config --global color.ui false
 
-    - name: update timezone
-      command:
-        dpkg-reconfigure --frontend moninteractive tzdata
+    - name: remove some deps
+      apk:
+        name={{ item }}
+        state=absent
+      with_items:
+        - build-base
+        - python3-dev
+        - python-dev
+      become: yes
+
+    - name: install make
+      apk:
+        name=make
+        state=present
       become: yes
