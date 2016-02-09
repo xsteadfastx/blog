@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 AUTHOR = 'marvin'
 SITENAME = 'xsteadfastx'
 SITEURL = ''
-SITELOGO = SITEURL + '/theme/img/avatar.png'
-FAVICON = SITEURL + '/theme/img/favicon.png'
+SITELOGO = '/theme/img/avatar.png'
+FAVICON = '/theme/img/favicon.png'
 TIMEZONE = "Europe/Berlin"
 DESCRIPTION = "the cats are not what they seem"
 
@@ -13,7 +13,7 @@ DESCRIPTION = "the cats are not what they seem"
 RELATIVE_URLS = True
 
 GITHUB_URL = 'http://github.com/xsteadfastx/'
-TWITTER_NAME = 'xsteadfastx'
+TWITTER_NAME = '@xsteadfastx'
 FLATTR_USER = 'xsteadfastx'
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True

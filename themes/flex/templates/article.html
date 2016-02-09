@@ -1,10 +1,11 @@
 {% extends "base.html" %}
 
 {% block meta %}
-<meta name="author" content="{{ article.author.name }}" />
-<meta name="description" content="{{ article.summary|striptags }}" />
-<meta name="keywords" content="{{ article.tags|join(', ') }}">
-{% include "partial/og_article.html" %}
+  <meta name="author" content="{{ article.author.name }}" />
+  <meta name="description" content="{{ article.summary|striptags|e }}" />
+  <meta name="keywords" content="{{ article.tags|join(', ') }}">
+  {% include "partial/og_article.html" %}
+  {% include "partial/twittercards.html" %}
 {% endblock %}
 
 {% block title %} &ndash; {{ article.title }}{% endblock %}
