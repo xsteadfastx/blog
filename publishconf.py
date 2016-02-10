@@ -23,9 +23,6 @@ FEED_DOMAIN = SITEURL
 PIWIK_URL = 'piwik.luftmentsh.org'
 PIWIK_SITE_ID = 5
 
-# TWITTER
-TWITTER_CARDS = True
-
 # DISQUS
 DISQUS_SITENAME = "xsteadfastx"
 
