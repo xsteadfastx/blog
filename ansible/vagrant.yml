@@ -60,12 +60,14 @@
         name={{ item }}
         path=/vagrant
         state=present
+        global=yes
       with_items:
         - bower
         - gulp
         - gulp-rename
         - gulp-less
         - gulp-minify-css
+      become: yes
 
     - name: set timezone
       copy:
