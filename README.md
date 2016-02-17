@@ -1,3 +1,5 @@
+![umberto](umberto.png)
+
 blog
 ====
 
