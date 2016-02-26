@@ -93,7 +93,7 @@
 
     - name: run batcave
       command:
-        ~/ansible/bin/ansible-playbook -i hosts base.yml -c local
+        ~/ansible/bin/ansible-playbook -i hosts base.yml -c local --extra-vars="hosts=localhost"
         chdir=~/batcave
 
     - name: export variables
