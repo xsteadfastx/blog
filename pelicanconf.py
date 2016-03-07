@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
+from datetime import datetime
 
 AUTHOR = 'marvin'
 SITENAME = 'xsteadfastx'
@@ -84,7 +85,7 @@ FLICKR_API_KEY = '2207902126a225122e46533e82b6a947'
 GIPHY_API_KEY = 'dc6zaTOxFJmzC'
 
 DEFAULT_PAGINATION = 5
-COPYRIGHT_YEAR = 2015
+COPYRIGHT_YEAR = datetime.utcnow().strftime('%Y')
 CC_LICENSE = {'name': 'Creative Commons Attribution-ShareAlike',
               'version': '4.0', 'slug': 'by-sa'}
 
