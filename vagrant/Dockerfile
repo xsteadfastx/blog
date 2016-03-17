@@ -1,10 +1,12 @@
 FROM alpine:3.3
 
+ENV SSL_CERT_FILE /etc/ssl/certs/ca-certificates.crt
+
 RUN apk add --update \
-    bash \
-    openssh \
-    python \
-    sudo \
+      bash \
+      openssh \
+      python \
+      sudo \
  && rm -rf /var/cache/apk/*
 
 # create ssh keys
