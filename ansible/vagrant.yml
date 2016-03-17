@@ -89,12 +89,12 @@
     - name: clone batcave
       git:
         repo=https://github.com/xsteadfastx/batcave.git
-        dest=~/batcave
+        dest=~/.batcave
 
     - name: run batcave
       command:
         ~/ansible/bin/ansible-playbook -i hosts base.yml -c local --extra-vars="hosts=localhost"
-        chdir=~/batcave
+        chdir=~/.batcave
 
     - name: export variables
       lineinfile:
