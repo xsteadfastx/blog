@@ -12,9 +12,11 @@
         - ack
         - build-base
         - ca-certificates
+        - coreutils
         - curl
         - gcc
         - git
+        - grep
         - imagemagick
         - lftp
         - libstdc++
