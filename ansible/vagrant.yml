@@ -45,12 +45,18 @@
       with_items:
         - beautifulsoup4
         - cookiecutter==1.2.1
+        - flickr2markdown
         - ipython[notebook]==2.4.1
         - markdown
         - pelican==3.6.3
         - tzlocal
         - virtualenv
       become: yes
+
+    - name: add flickr2markdown config
+      copy:
+        src=flickr2markdown
+        dest=~/.flickr2markdown
 
     - name: clone pelican-plugins
       git:
