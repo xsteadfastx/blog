@@ -5,7 +5,7 @@ Tags: ansible, windows, linux
 
 {% giphy b5TmEXrjZ2II8 %}
 
-Das Ansible Modul [win_package](https://docs.ansible.com/ansible/win_package_module.html) beruht auf die Annahme das die `product_id` in der Registry vorhanden ist oder eben nicht. Davon macht es abhängig ob ein Paket installiert werden soll oder ob es schon vorhanden ist. Nun kann es ja auch vorkommen das man ein Paket, obwohl es laut Registry schon instaliert ist, es noch einmal installieren möchte. Quasi ein Upgrade machen. Schön wäre es wenn er nicht nur schaut ob das Paket installiert ist, sondern auch die installierte Version. Daran könnte man Task Entscheidungen treffen. Dies mache ich nun manuell. Ein Beispiel für VLC:
+Das Ansible Modul [win_package](https://docs.ansible.com/ansible/win_package_module.html) beruht auf die Annahme das die `product_id` in der Registry vorhanden ist oder eben nicht. Davon macht es abhängig ob ein Paket installiert werden soll oder ob es schon vorhanden ist. Nun kann es ja auch vorkommen das man ein Paket, obwohl es laut Registry schon installiert ist, es noch einmal installieren möchte. Quasi ein Upgrade machen. Schön wäre es wenn er nicht nur schaut ob das Paket installiert ist, sondern auch die installierte Version. Daran könnte man Task Entscheidungen treffen. Dies mache ich nun manuell. Ein Beispiel für VLC:
 
 ```
 ---
