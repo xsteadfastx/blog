@@ -99,6 +99,7 @@
       git:
         repo=https://github.com/xsteadfastx/batcave.git
         dest=~/.batcave
+        force=yes
 
     - name: run batcave
       command:
