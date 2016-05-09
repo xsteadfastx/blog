@@ -10,19 +10,21 @@
         update_cache=yes
       with_items:
         - ack
-        - build-base
         - ca-certificates
         - coreutils
         - curl
+        - g++
         - gcc
         - git
         - grep
         - imagemagick
         - lftp
+        - libffi-dev
         - libstdc++
         - make
         - musl-dev
         - nodejs
+        - openssl-dev
         - perl
         - python-dev
         - python3
@@ -125,13 +127,17 @@
         name={{ item }}
         state=absent
       with_items:
-        - build-base
-        - python3-dev
+        - g++
+        - gcc
+        - libffi-dev
+        - libstdc++
+        - openssl-dev
         - python-dev
+        - python3-dev
       become: yes
 
-    - name: install make
-      apk:
-        name=make
-        state=present
-      become: yes
+    - name: remove ansible
+      file:
+        path=~/ansible
+        state=absent
+
