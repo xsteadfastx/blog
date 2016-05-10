@@ -9,7 +9,7 @@ Sorry. Ich konnte die letzte Zeit nicht bloggen. Ich hatte keine Zeit. Ich musst
 
 Seit Anfang des Jahres habe ich mich dazu entschlossen wieder Tagebuch zu führen. Nichts besonders. Es geht darum endlich wieder zu lernen Gedanken aufzuschreiben. Als Teenager schreibt man viel auf und es ist einem ziemlich egal wie es aussieht oder wirkt. Als ich anfing ins Internet zu schreiben, wurde mir meine Reschtschreibschwäche zum Verhängnis. Menschen aus meinem Umfeld fingen an Witze darüber zu machen. Nichts wirklich schlimmes, trotzdem reichte es das ich nur sehr ungern schrieb und falls ich mal etwas vergassen musste, ich mich kaum traute nochmal drüber zu lesen. Jemand Wichtiges sagt mir einmal, es ist egal wie es aussieht... Hauptsache man schreibt. Und seit dem fülle ich fast jeden Tag mein Notizbuch mit Zeugs. Und das am liebstem mit einem Bleistift.
 
-Und was tut man da so wenn man Langeweile hat? Man googelt nach Bleisift Blogs und Podcasts. Hier also ein paar Links zum Einsteigen:
+Und was tut man da so wenn man Langeweile hat? Man googelt nach Bleistift Blogs und Podcasts. Hier also ein paar Links zum Einsteigen:
 
 Zur Hausarbeit höre ich die letzte Zeit den [Erasable](http://www.erasable.us/) Podcast nach. Auch wenn es mir schwer fällt als Neueinsteiger allem zu folgen, mag ich die spürbare Begeisterung.
 
