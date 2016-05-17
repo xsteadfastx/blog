@@ -1,6 +1,6 @@
-Title: Das Theme Anspitzer ist durch oder auch KUM Masterpiece
+Title: Das Thema Anspitzer ist durch oder auch KUM Masterpiece
 Date: 2016-05-17 13:50
-Slug: das-theme-anspitzer-ist-durch-oder-auch-kum-masterpiece
+Slug: das-thema-anspitzer-ist-durch-oder-auch-kum-masterpiece
 Tags: pencils, kum
 
 ![KUM Masterpiece]({filename}/images/kummasterpiece.jpg)
