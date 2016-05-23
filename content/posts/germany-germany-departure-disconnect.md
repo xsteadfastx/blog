@@ -1,9 +1,9 @@
-Title: germany germany - departure​/disconnect
+Title: germany germany - departure/disconnect
 Date: 2012-02-29 12:24
 Author: marvin
 Category: post
 Tags: germanygermany, music
-Slug: germany-germany-departure%e2%80%8b%e2%80%8bdisconnect
+Slug: germany-germany-departure-disconnect
 
 Es gibt gute Nachrichten...Germany Germany hat einen Rücktritt von
 Rücktritt angekündigt...und damit alle es ihm glauben hat er gleich zwei
