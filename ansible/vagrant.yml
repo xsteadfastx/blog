@@ -46,9 +46,10 @@
         name={{ item }}
       with_items:
         - beautifulsoup4
-        - cookiecutter==1.2.1
+        - cookiecutter==1.4.0
         - flickr2markdown
         - ipython[notebook]==2.4.1
+        - jinja2-slug
         - markdown
         - pelican==3.6.3
         - tzlocal
