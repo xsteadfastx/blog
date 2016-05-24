@@ -1,8 +1,7 @@
 Title: Wolfsburg Unlimited
-Date: 2016-05-17 14:06
+Date: 2016-05-24 09:26
 Slug: wolfsburg-unlimited
 Tags: wolfsburg, art
-Status: draft
 
 _Wolfsburg Unlimited - Eine Stadt als Weltlabor: 24.04.2016 - 11.09.2016 Kunstmuseum Wolfsburg_
 
