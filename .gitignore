@@ -50,3 +50,4 @@ nosetests.xml
 pelican-plugins/*
 .DS_Store
 node_modules
+*.retry
