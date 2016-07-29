@@ -40,6 +40,7 @@
     - name: install pip packages
       pip:
         name={{ item }}
+        executable=pip3
       with_items:
         - beautifulsoup4
         - cookiecutter==1.4.0
