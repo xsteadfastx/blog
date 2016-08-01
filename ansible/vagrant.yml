@@ -96,7 +96,7 @@
 
     - name: run batcave
       command:
-        ansible-playbook -i hosts xonsh.yml -c local --extra-vars="hosts=localhost"
+        ansible-playbook -i hosts xonsh.yml -c local --extra-vars="hosts=127.0.0.1"
         chdir=~/.batcave
       environment:
         SSL_CERT_FILE: /etc/ssl/certs/ca-certificates.crt
