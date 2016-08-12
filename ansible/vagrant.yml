@@ -25,6 +25,7 @@
         - nodejs
         - python3
         - python3-dev
+        - wget
       become: yes
 
     - name: pip status
