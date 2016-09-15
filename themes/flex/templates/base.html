@@ -11,6 +11,7 @@
   {% endif %}
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygments.min.css">
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/bower_components/reframe.js/dist/reframe.css">
   {% if CUSTOM_CSS %}
   <link href="{{ SITEURL }}/{{ CUSTOM_CSS }}" rel="stylesheet">
   {% endif %}
@@ -100,16 +101,8 @@
   {% if ADD_THIS_ID %}
   <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ ADD_THIS_ID }}" async="async"></script>
   {% endif %}
-	<script src="/theme/bower_components/jquery/dist/jquery.min.js"></script>
-	<!-- fitvid.js -->
-	<script src="/theme/bower_components/jquery.fitvids/jquery.fitvids.js"></script>
-	<script>
-		$(document).ready(function(){
-			// Target your .container, .wrapper, .post, etc.
-			$(".videobox").fitVids();
-		});
-	</script>
-	<!-- image captions -->
+	<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/bower_components/reframe.js/dist/reframe.js"></script>
 	<script>
 		$(document).ready(function() {
 			$("article img").each(function() {
@@ -117,6 +110,7 @@
 					$(this).wrap('<figure class="image"></figure>')
 						.after('<figcaption>'+$(this).attr("alt")+'</figcaption>');
 			});
+      reframe('iframe');
 		});
 	</script>
 	{% endblock %}
