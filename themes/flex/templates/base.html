@@ -102,15 +102,18 @@
   <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ ADD_THIS_ID }}" async="async"></script>
   {% endif %}
 	<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/bower_components/jquery/dist/jquery.min.js"></script>
-	<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/bower_components/reframe.js/dist/reframe.js"></script>
+	<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/bower_components/jquery.fitvids/jquery.fitvids.js"></script>
 	<script>
 		$(document).ready(function() {
+
 			$("article img").each(function() {
 				if($(this).attr("alt"))
 					$(this).wrap('<figure class="image"></figure>')
 						.after('<figcaption>'+$(this).attr("alt")+'</figcaption>');
 			});
-      reframe('iframe');
+
+      $(".videobox").fitVids();
+
 		});
 	</script>
 	{% endblock %}
