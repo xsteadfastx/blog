@@ -2,8 +2,8 @@
 # vi: set ft=ruby :
 
 Vagrant.configure(2) do |config|
-  config.vm.network "forwarded_port", guest: 8888, host: 8888
-  config.vm.network "forwarded_port", guest: 8000, host: 8000
+  #config.vm.network "forwarded_port", guest: 8888, host: 8888
+  #config.vm.network "forwarded_port", guest: 8000, host: 8000
   config.ssh.forward_agent = true
   #config.ssh.username = "vagrant"
   #config.ssh.private_key_path = ["~/.ssh/id_rsa", "~/.vagrant.d/insecure_private_key"]
