@@ -7,4 +7,4 @@ Ich vertrete mal eine unpopuläre Meinung. Ich mochte Stranger Things eigentlich
 
 Fast ging es an mir vorbei: Ulrich Schnauss ist ja jetzt festes Mitglied bei Tangerine Dream. Und die haben nun zusammen einen Coversong eines Tracks aus Stranger Things aufgenommen. So gut der richtige Soundtrack ist, ich glaube ich würde sofort Ulrich Schnauss nehmen um den Soundtrack zu schreiben. Egal für welchen Film...
 
-{% soundcloud https://soundcloud.com/tangerinedreamofficial2015/ii-1 %}
+**Update:** Scheint nicht mehr online zu sein... meh.

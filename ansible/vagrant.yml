@@ -49,7 +49,7 @@
         - ipython[notebook]==2.4.1
         - jinja2-slug
         - markdown
-        - pelican==3.6.3
+        - pelican==3.7
         - tzlocal
         - virtualenv
       become: yes

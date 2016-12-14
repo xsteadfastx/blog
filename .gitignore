@@ -47,7 +47,7 @@ nosetests.xml
 # OWN STUFF
 .ftp_pass.txt
 .vagrant/*
-pelican-plugins/*
+pelican-plugins
 .DS_Store
 node_modules
 *.retry
