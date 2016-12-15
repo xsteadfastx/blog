@@ -27,6 +27,7 @@ FEED_MAX_ITEMS = 100
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ATOM = 'feed/index.html'
 # CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+RSS_FEED_SUMMARY_ONLY = False
 
 # global metadata to all the contents
 # DEFAULT_METADATA = (('yeah', 'it is'),)
