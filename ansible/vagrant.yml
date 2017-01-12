@@ -1,3 +1,4 @@
+# vim:ft=ansible
 ---
 - hosts: all
 
@@ -104,12 +105,12 @@
 
     - name: export variables
       lineinfile:
-        dest=~/.xonshrc
+        dest=~/.zshrc
         line='{{ item }}'
       with_items:
-        - $PYTHONIOENCODING = 'UTF-8'
-        - $LC_ALL = 'C.UTF-8'
-        - $SSL_CERT_FILE = '/etc/ssl/certs/ca-certificates.crt'
+        - export PYTHONIOENCODING=UTF-8
+        - export LC_ALL=C.UTF-8
+        - export SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
 
     - name: no git colors
       command: git config --global color.ui false
