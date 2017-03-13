@@ -53,6 +53,7 @@ help:
 	@echo '   make cf_upload                   upload the web site via Cloud Files'
 	@echo '   make github                      upload the web site via gh-pages   '
 	@echo '   make newpost                     create new post                    '
+	@echo '   make writingenv                  start writing environment          '
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
@@ -116,4 +117,7 @@ github: publish
 newpost:
 	$(PY) $(BASEDIR)/newpost.py
 
-.PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
+writingenv:
+	docker-compose run --rm blog /bin/zsh
+
+.PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github newpost writingenv

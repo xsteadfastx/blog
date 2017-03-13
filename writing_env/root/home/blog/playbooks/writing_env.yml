@@ -1,6 +1,6 @@
 # vim:ft=ansible
 ---
-- hosts: all
+- hosts: localhost
 
   tasks:
 
@@ -15,7 +15,7 @@
         - ca-certificates
         - coreutils
         - curl
-        - g++
+        #- g++
         - gcc
         - git
         - grep
@@ -59,12 +59,6 @@
       copy:
         src=flickr2markdown
         dest=~/.flickr2markdown
-
-    - name: clone pelican-plugins
-      git:
-        repo=git@github.com:xsteadfastx/pelican-plugins.git
-        dest=/vagrant/pelican-plugins
-        accept_hostkey=yes
 
     - name: install js packages
       npm:
@@ -114,20 +108,3 @@
 
     - name: no git colors
       command: git config --global color.ui false
-
-    - name: remove some deps
-      apk:
-        name={{ item }}
-        state=absent
-      with_items:
-        - gcc
-        - g++
-        - musl-dev
-        - python3-dev
-      become: yes
-
-    - name: remove ansible
-      file:
-        path=~/ansible
-        state=absent
-
