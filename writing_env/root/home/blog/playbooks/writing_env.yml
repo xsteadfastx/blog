@@ -84,26 +84,12 @@
         backup=yes
       become: yes
 
-    - name: clone batcave
-      git:
-        repo=https://github.com/xsteadfastx/batcave.git
-        dest=~/.batcave
-        force=yes
-
-    - name: run batcave
-      command:
-        ansible-playbook -i hosts shell.yml -c local --extra-vars="hosts=127.0.0.1"
-        chdir=~/.batcave
-      environment:
-        SSL_CERT_FILE: /etc/ssl/certs/ca-certificates.crt
-
     - name: export variables
       lineinfile:
         dest=~/.zshrc
         line='{{ item }}'
       with_items:
         - export PYTHONIOENCODING=UTF-8
-        - export LC_ALL=C.UTF-8
         - export SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
 
     - name: no git colors
