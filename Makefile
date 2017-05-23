@@ -118,6 +118,6 @@ newpost:
 	$(PY) $(BASEDIR)/newpost.py
 
 writingenv:
-	docker-compose run --rm blog /bin/zsh
+	docker-compose run --rm --service-ports blog /bin/zsh
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github newpost writingenv

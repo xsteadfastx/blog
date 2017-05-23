@@ -5,16 +5,11 @@ from datetime import datetime
 AUTHOR = 'marvin'
 SITENAME = 'xsteadfastx'
 SITEURL = ''
-SITELOGO = '/theme/img/avatar.png'
-FAVICON = '/theme/img/favicon.png'
 TIMEZONE = "Europe/Berlin"
-DESCRIPTION = "the cats are not what they seem"
 
 # can be useful in development, but set to False when you're ready to publish
 RELATIVE_URLS = True
 
-GITHUB_URL = 'http://github.com/xsteadfastx/'
-TWITTER_NAME = '@xsteadfastx'
 FLATTR_USER = 'xsteadfastx'
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
@@ -57,7 +52,7 @@ PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
 # have to be in caps
 # foobar = "barbaz"
 
-THEME = 'themes/flex'
+THEME = 'themes/thinker'
 OUTPUT_PATH = 'output'
 PATH = 'content'
 

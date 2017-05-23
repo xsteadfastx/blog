@@ -10,6 +10,8 @@ services:
     volumes:
       - $PWD:/blog
       - $HOME/.ssh:/home/blog/.ssh
+    ports:
+      - "127.0.0.1:8000:8000"
     stdin_open: true
     tty: true
     command: /bin/true

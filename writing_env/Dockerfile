@@ -32,4 +32,4 @@ RUN set -ex \
  && /bin/zsh -c "source /home/blog/.zshrc && antigen update" \
  && sudo rm -rf /var/cache/apk/*
 
-ENTRYPOINT ["/usr/local/bin/entrypoint"]
+EXPOSE 8000

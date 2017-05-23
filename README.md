@@ -1,12 +1,8 @@
-![umberto](umberto.png)
-
 blog
 ====
 
 ## create environment ##
-1. `git clone git@github.com:xsteadfastx/blog.git`
-2. build the environment with `cd blog && vagrant up`
-3. login in the environment with `vagrant ssh`
+1. `make writingenv`
 
 ## write ##
 1. create new post with `make newpost`
