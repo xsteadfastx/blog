@@ -8,14 +8,18 @@ a {
   color: #546850;
 }
 
-h2 {
+h1 {
   color: #706f31;
   margin-top: 75px;
   margin-bottom: 0px;
 }
 
-h2 a {
+h1 a {
   text-decoration: none;
+}
+
+h2 {
+  color: #706f31;
 }
 
 hr {

@@ -86,8 +86,11 @@ CC_LICENSE = {'name': 'Creative Commons Attribution-ShareAlike',
               'version': '4.0', 'slug': 'by-sa'}
 
 MAIN_MENU = False
-SOCIAL = (('twitter', 'https://twitter.com/xsteadfastx'),
-          ('github', 'https://github.com/xsteadfastx'),
-          ('flickr', 'https://www.flickr.com/photos/marvinxsteadfast/'),
-          ('rss', SITEURL + '/feed/'),)
+SOCIAL = (
+    ('mastodon', 'https://mastodon.xsteadfastx.org/@marvin'),
+    ('twitter', 'https://twitter.com/xsteadfastx'),
+    ('github', 'https://github.com/xsteadfastx'),
+    ('flickr', 'https://www.flickr.com/photos/marvinxsteadfast/'),
+    ('rss', SITEURL + '/feed/'),
+)
 LINKS = (('Archive', SITEURL + '/archives.html'),)
