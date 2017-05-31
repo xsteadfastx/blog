@@ -23,7 +23,6 @@
         - lftp
         - make
         - musl-dev
-        - nodejs
         - python3
         - python3-dev
         - wget
@@ -59,20 +58,6 @@
       copy:
         src=flickr2markdown
         dest=~/.flickr2markdown
-
-    - name: install js packages
-      npm:
-        name={{ item }}
-        path=/vagrant
-        state=present
-        global=yes
-      with_items:
-        - bower
-        - gulp
-        - gulp-rename
-        - gulp-less
-        - gulp-minify-css
-      become: yes
 
     - name: set timezone
       copy:
