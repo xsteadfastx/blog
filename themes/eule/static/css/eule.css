@@ -1,0 +1,93 @@
+body {
+  background: #ffffff;
+  height: 100%;
+  font-family: Hack, monospace;
+}
+
+a {
+  color: #666666;
+}
+
+a:hover {
+  color: #000000;
+}
+
+h1 {
+  color: #000000;
+  margin-top: 75px;
+  margin-bottom: 0px;
+}
+
+h1 a {
+  text-decoration: none;
+}
+
+h2 {
+  color: #000000;
+}
+
+hr {
+  border: solid #666666 1px;
+}
+
+p.post-meta {
+  color: #666666;
+  font-size: 75%;
+}
+
+p.footer {
+  color: #666666;
+  font-size: 75%;
+  margin-bottom: 0px;
+}
+
+figure {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+figcaption {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+  font-size: small;
+  text-align: center;
+}
+
+.content pre, blockquote {
+  border: 1px solid #666666;
+  padding: 20px;
+}
+
+.content img {
+  width: 100%;
+}
+
+#tipue_search_input {
+  font-family: Hack, monospace;
+  padding: 0px;
+}
+
+#tipue_search_results_count, .tipue_search_content_title a, .tipue_search_content_url a, .tipue_search_content_text, #tipue_search_warning {
+  font-family: Hack, monospace;
+}
+
+.sidebar {
+  background-image: url(../images/background.png);
+  position: absolute;
+  height: 65px;
+}
+
+@media (min-width: 550px) {
+
+  .sidebar {
+    background-image: url(../images/background.png);
+    background-size: cover;
+    position: fixed;
+    height: 100%;
+  }
+
+}
