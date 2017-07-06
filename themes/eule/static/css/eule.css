@@ -75,6 +75,20 @@ figcaption {
   font-family: Hack, monospace;
 }
 
+.tipue_search_content_title a, .tipue_search_content_url a {
+  color: #666666;
+}
+
+.tipue_search_content_title a:hover {
+  color: #000000;
+}
+
+.tipue_search_content_url a:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+
+
 .sidebar {
   background-image: url(../images/background.png);
   position: absolute;
