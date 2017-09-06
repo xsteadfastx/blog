@@ -64,8 +64,7 @@ USER blog
 RUN set -ex \
  && git clone https://github.com/xsteadfastx/batcave.git ~/.batcave \
  && ansible-playbook -i ~/.batcave/hosts ~/.batcave/shell.yml -c local --extra-vars="hosts=127.0.0.1" \
- && ansible-playbook -c local /home/blog/playbooks/writing_env.yml \
- && /bin/zsh -c "source /home/blog/.zshrc && antigen update"
+ && ansible-playbook -c local /home/blog/playbooks/writing_env.yml
 
 # clean up
 RUN set -ex \
