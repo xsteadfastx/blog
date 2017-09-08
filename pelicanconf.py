@@ -87,7 +87,6 @@ CC_LICENSE = {'name': 'Creative Commons Attribution-ShareAlike',
 
 MAIN_MENU = False
 SOCIAL = (
-    ('mastodon', 'https://mastodon.xsteadfastx.org/@marvin'),
     ('twitter', 'https://twitter.com/xsteadfastx'),
     ('github', 'https://github.com/xsteadfastx'),
     ('flickr', 'https://www.flickr.com/photos/marvinxsteadfast/'),
