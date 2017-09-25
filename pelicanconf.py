@@ -52,7 +52,7 @@ PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
 # have to be in caps
 # foobar = "barbaz"
 
-THEME = 'themes/eule'
+THEME = 'themes/walden'
 OUTPUT_PATH = 'output'
 PATH = 'content'
 
