@@ -31,18 +31,4 @@ die Band gedreht wurde. Sie trägt den Namen "Utopia Ltd." und dieser
 fängt die Problematik perfekt ein. Viel Spaß und Beeilung bevor die GEZ
 und Contentmafia zuschlägt...
 
-<div id="embedm1967602" onclick="start1967602()"
-style="cursor:pointer;width:560px;height:315px;overflow:hidden;">
-
-![](http://www.heute.de/ZDF/zdfportal/blob/25726642/2/data.png)![](http://www.zdf.de/ZDFmediathek/contentblob/1967602/timg946x532blob/)
-
-</div>
-
-<p>
-<script>function start1967602() {document.getElementById("embedm1967602").innerHTML = '<iframe width="560" height="315" src="http://player.zdf.de/zdf/mediathek/miniplayer/index.html?mediaID=1967602" frameborder="0" allowfullscreen></iframe>';}</script>
-  
-
-<!-- Inhalte aus Mediatheken einbetten: http://mediathek.einbetten.reloado.com -->
-
-</p>
-
+_Update_: Contentmafia und so...
