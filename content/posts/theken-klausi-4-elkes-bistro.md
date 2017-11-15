@@ -5,7 +5,7 @@ Category: post
 Tags: nuernberg, photography, thekenklausi
 Slug: theken-klausi-4-elkes-bistro
 
-![wpid-CameraZOOM-20111229211328338.jpg "CameraZOOM-20111229211328338]({filename}/images/wpid-CameraZOOM-20111229211328338.jpg "CameraZOOM-20111229211328338.jpg)
+![wpid-CameraZOOM-20111229211328338.jpg]({filename}/images/wpid-CameraZOOM-20111229211328338.jpg)
 
 Nürnberg
 
