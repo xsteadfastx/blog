@@ -7,6 +7,7 @@ services:
     environment:
       - BLOG_UID=1000
       - BLOG_GID=1000
+      - USER=blog
     volumes:
       - $PWD:/blog
       - $HOME/.ssh:/home/blog/.ssh
