@@ -7,7 +7,7 @@ Ich benutze nun schon ein paar Monate [pipenv](http://pipenv.readthedocs.io/en/l
 
 So schön so gut. Meine Shells sind mal wieder in heavy rotation und so bin ich von `zsh` zu `fish` wieder bei [xonsh](http://xon.sh) gelandet. Mir liegt einfach Python. Das Problem mit `pipenv` ist nun das, dass Kommando `pipenv shell` nicht mehr funktioniert. Das aktivieren von `virtualenvs` scheint vor allem für die klassischen Shells konzipiert zu sein. `xonsh` benutzt seine eigene Verwaltung für die virtuellen Umgebungen: [vox](http://xon.sh/python_virtual_environments.html). Da alles andere zu funktionieren scheint, habe ich mir einfach einen Alias geschrieben, der auf der offiziellen `pipenv`-Funktion zum finden von virtuellen Umgebungen beruht.
 
-    #!python
+    :::python
     def _pipenv_shell(args, stdin=None):
         import base64
         import hashlib
