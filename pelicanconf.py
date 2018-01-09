@@ -31,6 +31,7 @@ RSS_FEED_SUMMARY_ONLY = False
 EXTRA_PATH_METADATA = {
     # 'extra/robots.txt': {'path': 'robots.txt'},
     'extra/CNAME': {'path': 'CNAME'},
+    'extra/.htaccess': {'path': '.htaccess'},
     }
 
 # static paths will be copied without parsing their contents
@@ -38,6 +39,7 @@ STATIC_PATHS = [
     'images',
     # 'extra/robots.txt',
     'extra/CNAME',
+    'extra/.htaccess',
     # 'code',
     # 'notebooks'
     ]

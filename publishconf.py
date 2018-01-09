@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://xsteadfastx.org'
+SITEURL = 'https://xsteadfastx.org'
 RELATIVE_URLS = False
 
 DELETE_OUTPUT_DIRECTORY = True
@@ -20,8 +20,8 @@ FEED_DOMAIN = SITEURL
 # Following items are often useful when publishing
 
 # PIWIK
-PIWIK_URL = 'piwik.luftmentsh.org'
-PIWIK_SITE_ID = 5
+#PIWIK_URL = 'piwik.luftmentsh.org'
+#PIWIK_SITE_ID = 5
 
 # DISQUS
 DISQUS_SITENAME = "xsteadfastx"
