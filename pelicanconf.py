@@ -30,16 +30,18 @@ RSS_FEED_SUMMARY_ONLY = False
 # path-specific metadata
 EXTRA_PATH_METADATA = {
     # 'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/CNAME': {'path': 'CNAME'},
+    # 'extra/CNAME': {'path': 'CNAME'},
     'extra/.htaccess': {'path': '.htaccess'},
+    'extra/.well-known/acme-challenge/.keep': {'path': '.well-known/acme-challenge/.keep'}
     }
 
 # static paths will be copied without parsing their contents
 STATIC_PATHS = [
     'images',
     # 'extra/robots.txt',
-    'extra/CNAME',
+    # 'extra/CNAME',
     'extra/.htaccess',
+    'extra/.well-known/acme-challenge/.keep',
     # 'code',
     # 'notebooks'
     ]
