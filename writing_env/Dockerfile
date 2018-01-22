@@ -16,7 +16,8 @@ ADD root /
 
 # prepare for provisioning
 RUN set -ex \
- && apk add \
+ && apk upgrade -a --no-cache \
+ && apk add --no-cache\
       ansible \
       bash \
       ca-certificates \
@@ -37,11 +38,8 @@ USER blog
 # provision
 RUN set -ex \
  && git clone https://github.com/xsteadfastx/batcave.git ~/.batcave \
+ && touch ~/.profile \
  && ansible-playbook -i ~/.batcave/hosts ~/.batcave/shell.yml -c local --extra-vars="host=127.0.0.1" \
  && ansible-playbook -c local /home/blog/playbooks/writing_env.yml
-
-# clean up
-RUN set -ex \
- && sudo rm -rf /var/cache/apk/*
 
 EXPOSE 8000
