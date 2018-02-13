@@ -90,7 +90,7 @@ figcaption {
 
 
 .sidebar {
-  background-image: url(../images/background.png);
+  background-image: url(../images/background.jpg);
   position: absolute;
   height: 65px;
 }
@@ -98,7 +98,7 @@ figcaption {
 @media (min-width: 550px) {
 
   .sidebar {
-    background-image: url(../images/background.png);
+    background-image: url(../images/background.jpg);
     background-size: cover;
     position: fixed;
     height: 100%;
