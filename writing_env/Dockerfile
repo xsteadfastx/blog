@@ -42,4 +42,6 @@ RUN set -ex \
  && ansible-playbook -i ~/.batcave/hosts ~/.batcave/shell.yml -c local --extra-vars="host=127.0.0.1" \
  && ansible-playbook -c local /home/blog/playbooks/writing_env.yml
 
+ WORKDIR /blog
+
 EXPOSE 8000
