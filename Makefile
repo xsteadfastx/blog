@@ -122,7 +122,7 @@ newpost:
 	$(PY) $(BASEDIR)/newpost.py
 
 writingenv:
-	docker-compose run --rm --service-ports blog /opt/xonsh/bin/xonsh
+	docker-compose run --rm --service-ports -e COLUMNS=$(shell tput cols) -e LINES=$(shell tput lines) blog /opt/xonsh/bin/xonsh
 
 push:
 	git push origin master
