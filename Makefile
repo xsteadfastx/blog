@@ -2,7 +2,7 @@ PY?=/usr/bin/python3
 PELICAN?=pelican
 PELICANOPTS=
 
-BASEDIR=$(CURDIR)
+BASEDIR=/blog
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
@@ -32,6 +32,8 @@ DEBUG ?= 0
 ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
 endif
+
+DOCKER_COMPOSE_CMD=docker-compose run --rm blog
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
@@ -91,7 +93,7 @@ stopserver:
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 publish:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	$(DOCKER_COMPOSE_CMD) $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
@@ -103,10 +105,10 @@ dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
 
 ftp_upload: publish
-	lftp ftp://$(FTP_USER):$(FTP_PASS)@$(FTP_HOST) -e "set ssl:verify-certificate no; mirror -R --ignore-time --no-perms --parallel=4 -e --use-cache -v $(OUTPUTDIR) $(FTP_TARGET_DIR); quit"
+	$(DOCKER_COMPOSE_CMD) lftp ftp://$(FTP_USER):$(FTP_PASS)@$(FTP_HOST) -e "set ssl:verify-certificate no; mirror -R --ignore-time --no-perms --parallel=4 -e --use-cache -v $(OUTPUTDIR) $(FTP_TARGET_DIR); quit"
 
 ftp_upload_clean: publish
-	lftp ftp://$(FTP_USER):$(FTP_PASS)@$(FTP_HOST) -e "set ssl:verify-certificate no; mirror -R --no-perms --parallel=4 -e -v $(OUTPUTDIR) $(FTP_TARGET_DIR); quit"
+	$(DOCKER_COMPOSE_CMD) lftp ftp://$(FTP_USER):$(FTP_PASS)@$(FTP_HOST) -e "set ssl:verify-certificate no; mirror -R --no-perms --parallel=4 -e -v $(OUTPUTDIR) $(FTP_TARGET_DIR); quit"
 
 s3_upload: publish
         s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl-public --delete-removed --guess-mime-type
@@ -119,7 +121,7 @@ github: publish
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 newpost:
-	$(PY) $(BASEDIR)/newpost.py
+	$(DOCKER_COMPOSE_CMD) $(PY) $(BASEDIR)/newpost.py
 
 writingenv:
 	docker-compose run --rm --service-ports blog /opt/xonsh/bin/xonsh
