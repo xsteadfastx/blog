@@ -53,7 +53,6 @@
         - jinja2-slug
         - markdown
         - pelican==3.7.1
-        - pygments-style-solarized
         - typogrify
         - tzlocal
         - virtualenv
