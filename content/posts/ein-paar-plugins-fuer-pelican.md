@@ -15,7 +15,7 @@ Hier war das Problem anhand der ID an alle Informationen zu kommen um das HTML-T
 
 folgendes basteln:
 
-{% flickr 18841046161 large 'Ich denke an einen Wald' %}
+![Ich denke an einen Wald]({filename}/images/18841046161_de05aa1433_b.jpg)
 
 Für alle Optionen schaut man [hier](https://github.com/getpelican/pelican-plugins/blob/master/liquid_tags/flickr.py) vorbei.
 

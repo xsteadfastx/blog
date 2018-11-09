@@ -3,7 +3,7 @@ Date: 2015-11-06 12:06
 Slug: die-wolfsburg-tristesse
 Tags: wolfsburg, volkswagen
 
-{% flickr 22775043875 %}
+![2015-11-04_10-34-17]({filename}/images/22775043875_c66d22cd75_b.jpg)
 
 Erst gerade vor einigen Minuten kam die nächste Meldung: Aktie bricht noch einmal ein. Was löst das in mir aus? Ein kurzer Moment des Schwindels und ein ziehen in der Magengegend. Dabei arbeite ich nicht einmal direkt bei Volkswagen ich bin nur in Wolfsburg geboren. Diese Stadt der man rein alles abspricht zu besitzen. Klasse, Kultur, Fußball Fans und vor allem eine Seele. Seit dem wir in meine Heimatstadt zurück gezogen sind, haben mir ca. 5 Wolfsburger ihr Mitleid ausgesprochen. Ok, ich verstehe. Wolfsburg ist nicht Nürnberg aber wo ist diese uneingeschränkte Überschätzung der Stadt in der man lebt? Schaut man sich einige niedersächsischen Nachbarn an, merkt man schnell das es dort auch nicht gerade viel schöner ist. Niedersächsische Tristesse überall. Wir Wolfsburger lieben vor allem die Sicherheit dieser Stadt. Volle Kassen und der höchste durchschnittliche Stundenlohn Deutschlands. Am Ende jeden Monats bekommt fast jeder gutes Geld überwiesen. Genug um sein gut bodenständig-wirkendes Leben aufzubauen. Ein Häuschen im [postmodernen Neubaugebiet]({filename}/posts/kerksiek-006.md). Kommt man Abends am Hauptbahnhof an, begrüßt einen der schimmernde Vollmond der die Stadt in blau-weiß erstrahlen läßt. Wie geht es uns wenn diese Sicherheit brökelt? Wenn dieser Mond die Ohren anlegt.
 
