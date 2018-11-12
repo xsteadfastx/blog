@@ -13,15 +13,11 @@ wenig damit rumzuprobieren. Alles nicht so einfach aber ich habe auf
 jeden Fall Lust öfters mal mein Stativ mit zunehmen und länger zu
 belichten als 1/60s...
 
-[![Holga 120
-WPC](https://farm8.staticflickr.com/7562/15566333504_2576982280_b.jpg)](https://www.flickr.com/photos/marvinxsteadfast/15566333504 "Holga 120 WPC by marvinxsteadfast, on Flickr")
+![Holga 120 WPC]({filename}/images/15566333504_2576982280_b.jpg)
 
-[![Holga 120
-WPC](https://farm8.staticflickr.com/7510/16187946812_1bf1427796_b.jpg)](https://www.flickr.com/photos/marvinxsteadfast/16187946812 "Holga 120 WPC by marvinxsteadfast, on Flickr")
+![Holga 120 WPC]({filename}/images/16187946812_1bf1427796_b.jpg)
 
-[![Holga 120
-WPC](https://farm8.staticflickr.com/7581/16162891806_d452a3fa85_b.jpg)](https://www.flickr.com/photos/marvinxsteadfast/16162891806 "Holga 120 WPC by marvinxsteadfast, on Flickr")
+![Holga 120 WPC]({filename}/images/16162891806_d452a3fa85_b.jpg)
 
-[![Holga 120
-WPC](https://farm8.staticflickr.com/7574/16187931592_5b665fc096_b.jpg)](https://www.flickr.com/photos/marvinxsteadfast/16187931592 "Holga 120 WPC by marvinxsteadfast, on Flickr")
+![Holga 120 WPC]({filename}/images/16187931592_5b665fc096_b.jpg)
 

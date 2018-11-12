@@ -18,8 +18,3 @@ und an einen zurück geschickt. Diese soll man dann verkleben.
 Über die Ergebnisse hat er nun in einem weiteren TED-Talk geredet.
 
 {% youtube Gn2W3X_pGh4 %}
-
-([via](http://www.whudat.de/jr-one-year-of-turning-the-world-inside-out-ted-video-podcast/),
-pic cc [Philippe
-Gillotte](http://www.flickr.com/photos/gillotte/6238978138/))
-

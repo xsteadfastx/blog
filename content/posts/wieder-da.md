@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: blog, toskana
 Slug: wieder-da
 
-[![Florenz](http://farm9.staticflickr.com/8037/7912595140_35231f1fdd_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7912595140/ "Florenz by marvinxsteadfast, on Flickr, via Patr")
+![Florenz]({filename}/images/7912595140_35231f1fdd_b.jpg)
 
 So, wir sind wieder da. Eine Woche Auszeit in der Toskana ist hinter
 uns. Das war überfällig! Deswegen musste das Blog ein wenig

@@ -5,8 +5,7 @@ Category: Uncategorized
 Tags: adbknuernberg, graffiti, nuernberg, politics
 Slug: und-es-begab-sich-an-einem-tag
 
-[![Politik ist die größte
-Hure](https://farm8.staticflickr.com/7285/8733846581_195ce38edf_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/8733846581/ "Politik ist die größte Hure by marvinxsteadfast, on Flickr")
+![Politik ist die größte Hure]({filename}/images/8733846581_195ce38edf_b.jpg)
 
 ...an dem die Arbeiter, an der Baustelle zur Errichtung des Neubaus an
 der Akademie der bildenden Künste in Nürnberg, Bäume fällten und dieses

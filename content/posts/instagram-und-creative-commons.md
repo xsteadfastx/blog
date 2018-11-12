@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: creativecommons, instagram, photography
 Slug: instagram-und-creative-commons
 
-[![Toskana](http://farm9.staticflickr.com/8440/7948557084_9c11941223_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7948557084/ "Toskana by marvinxsteadfast, on Flickr, via Patr")
+![Toskana]({filename}/images/7948557084_9c11941223_b.jpg)
 
 Ja es ist verteufelt...und ja vielleicht auch teilweise zu Recht:
 Instagram. Ich benutze es super gerne. Nicht nur weil ich die Filter

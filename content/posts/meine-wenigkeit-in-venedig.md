@@ -5,17 +5,13 @@ Category: Uncategorized
 Tags: holga, photography, venice
 Slug: meine-wenigkeit-in-venedig
 
-[![me in
-venezia](https://farm6.staticflickr.com/5539/9512924213_ca7ca639c0_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9512924213/ "me in venezia by marvinxsteadfast, on Flickr")
+![me in venezia]({filename}/images/9512924213_ca7ca639c0_b.jpg)
 
 Fotografiert von meiner wunderbaren Frau.
 
-[![me in
-venezia](https://farm8.staticflickr.com/7351/9512842933_c329447417_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9512842933/ "me in venezia by marvinxsteadfast, on Flickr")
+![me in venezia]({filename}/images/9512842933_c329447417_b.jpg)
 
-[![me in
-venezia](https://farm3.staticflickr.com/2858/9512845615_a3fa01e24d_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9512845615/ "me in venezia by marvinxsteadfast, on Flickr")
+![me in venezia]({filename}/images/9512845615_a3fa01e24d_b.jpg)
 
-[![me in
-venezia](https://farm4.staticflickr.com/3704/9515724512_696e6368ae_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9515724512/ "me in venezia by marvinxsteadfast, on Flickr")
+![me in venezia]({filename}/images/9515724512_696e6368ae_b.jpg)
 

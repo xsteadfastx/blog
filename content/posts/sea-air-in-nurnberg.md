@@ -7,15 +7,15 @@ Slug: sea-air-in-nurnberg
 
 Es war ein ganz wundervoller Abend...
 
-[![img764](http://farm8.staticflickr.com/7007/6828559295_325eaa7704.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6828559295/ "img764 by marvinxsteadfast, on Flickr, via Patr")
+![img764]({filename}/images/6828559295_325eaa7704_b.jpg)
 
-[![img760](http://farm8.staticflickr.com/7174/6828556431_91e0909672.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6828556431/ "img760 by marvinxsteadfast, on Flickr, via Patr")
+![img760]({filename}/images/6828556431_91e0909672_b.jpg)
 
-[![img759](http://farm8.staticflickr.com/7012/6828553373_e8c24b40f6.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6828553373/ "img759 by marvinxsteadfast, on Flickr, via Patr")
+![img759]({filename}/images/6828553373_e8c24b40f6_b.jpg)
 
-[![img758](http://farm8.staticflickr.com/7030/6828550527_17cbee17e4.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6828550527/ "img758 by marvinxsteadfast, on Flickr, via Patr")
+![img758]({filename}/images/6828550527_17cbee17e4_b.jpg)
 
-[![img757](http://farm8.staticflickr.com/7148/6828547549_fe2038ffe7.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6828547549/ "img757 by marvinxsteadfast, on Flickr, via Patr")
+![img757]({filename}/images/6828547549_fe2038ffe7_b.jpg)
 
-[![img756](http://farm8.staticflickr.com/7148/6828544503_7200de79a1.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6828544503/ "img756 by marvinxsteadfast, on Flickr, via Patr")
+![img756]({filename}/images/6828544503_7200de79a1_b.jpg)
 

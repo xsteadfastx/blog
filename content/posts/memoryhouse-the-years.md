@@ -25,14 +25,4 @@ auch hier in Deutschland zu bekommen.
 Also ich setze jetzt mal wieder meinen Kopfhörer auf und träume mich
 weg...also bis dann...
 
-<p>
-<object width="100%" height="225" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
-<param name="allowscriptaccess" value="always"></param><param name="src" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1070300"></param>
-
-<embed width="100%" height="225" type="application/x-shockwave-flash" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1070300" allowscriptaccess="always">
-</embed>
-</object>
-[Memoryhouse - The Years EP](http://soundcloud.com/subpop/sets/memoryhouse-the-years-ep) by [subpop](http://soundcloud.com/subpop)
-
-</p>
-
+[Memoryhouse - The Years EP](http://soundcloud.com/subpop/sets/memoryhouse-the-years-ep)

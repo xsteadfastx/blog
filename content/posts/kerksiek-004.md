@@ -5,6 +5,5 @@ Category: Uncategorized
 Tags: kerksiek, photography, rodinal, wolfsburg, yashicat3
 Slug: kerksiek-004
 
-[![Kerksiek
-\#004](https://farm4.staticflickr.com/3711/10034764435_a67ecb8c9b_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/10034764435/ "Kerksiek #004 by marvinxsteadfast, on Flickr")
+![Kerksiek \#004]({filename}/images/10034764435_a67ecb8c9b_b.jpg)
 

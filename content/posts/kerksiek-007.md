@@ -5,6 +5,5 @@ Category: Uncategorized
 Tags: kerksiek, photography, rodinal, yashicat3
 Slug: kerksiek-007
 
-[![Kerksiek
-\#007](https://farm4.staticflickr.com/3783/10153022386_6d6097f468_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/10153022386/ "Kerksiek #007 by marvinxsteadfast, on Flickr")
+![Kerksiek \#007]({filename}/images/10153022386_6d6097f468_b.jpg)
 

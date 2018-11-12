@@ -5,8 +5,7 @@ Category: Uncategorized
 Tags: 1000robota, documentary, music, zdfkultur
 Slug: utopia-ltd
 
-[![1000
-Robota](https://farm4.staticflickr.com/3026/2909518270_587fddabfb_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/2909518270/ "1000 Robota by marvinxsteadfast, on Flickr")
+![1000 Robota]({filename}/images/2909518270_587fddabfb_b.jpg)
 
 Am dritten Oktober 2008 sah ich 1000 Robota im Hallenbad Wolfsburg. Ich
 fand es super. Inklusive Stroboskoplicht bis die Fontanelle qualmt.

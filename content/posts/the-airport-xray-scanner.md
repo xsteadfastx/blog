@@ -18,7 +18,7 @@ using a holga...but still...never saw something like this on my
 negatives. at least...i really like the effect somehow...here are some
 resaults...
 
-[![Holga 20110310](http://farm6.static.flickr.com/5097/5514528836_9f64d39b49.jpg)](http://www.flickr.com/photos/marvinxsteadfast/5514528836/ "Holga 20110310 by marvinxsteadfast, on Flickr, via Patr")
+![Holga 20110310]({filename}/images/5514528836_9f64d39b49_b.jpg)
 
-[![Holga 20110310](http://farm6.static.flickr.com/5097/5514528738_ca4be56ef8.jpg)](http://www.flickr.com/photos/marvinxsteadfast/5514528738/ "Holga 20110310 by marvinxsteadfast, on Flickr, via Patr")
+![Holga 20110310]({filename}/images/5514528738_ca4be56ef8_b.jpg)
 

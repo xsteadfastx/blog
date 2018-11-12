@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: arte, documentary, jerusalem, tv
 Slug: 24h-jerusalem
 
-[![dsc\_0137.jpg](https://farm3.staticflickr.com/2496/4166708116_104c9c0473_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/4166708116/ "dsc_0137.jpg by marvinxsteadfast, on Flickr")
+![dsc\_0137.jpg]({filename}/images/4166708116_104c9c0473_b.jpg)
 
 Mir fällt es oft sehr schwer über Jerusalem zu schreiben. Zu viel denke
 ich über diese Stadt nach, zu sehr sehne ich mich danach wieder dort hin

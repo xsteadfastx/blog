@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: nikond60, panorama, photography
 Slug: serravalle-pistoiese-panorama
 
-[![Serravalle Pistoiese](http://farm9.staticflickr.com/8310/7920500522_3f6598f37c_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7920500522/ "Serravalle Pistoiese by marvinxsteadfast, on Flickr, via Patr")
+![Serravalle Pistoiese]({filename}/images/7920500522_3f6598f37c_b.jpg)
 
 Aus meiner Reihe: Die paar Urlaubsfotos die ich gemacht habe. Heute ein
 Panorama mit der Aussicht auf das kleine Örtchen Serravalle Pistoiese in

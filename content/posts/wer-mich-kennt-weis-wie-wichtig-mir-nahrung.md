@@ -25,6 +25,5 @@ gehalten. Super interessant...
 
 {% youtube 73c_qkuOLIY %}
 
-(pic cc [Ars
-Electronica](http://www.flickr.com/photos/arselectronica/5122491825/))
+(pic cc [Ars Electronica](http://www.flickr.com/photos/arselectronica/5122491825/))
 
