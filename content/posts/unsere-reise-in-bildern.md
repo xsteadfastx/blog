@@ -24,11 +24,9 @@ verliebt...
 
 [![Florenz](http://farm9.staticflickr.com/8029/7912593124_f6196bc5eb_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7912593124/ "Florenz by marvinxsteadfast, on Flickr, via Patr")
 
-[![Serravalle
-Pistoiese](http://farm9.staticflickr.com/8182/7920398426_a6e133a86b_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7920398426/ "Serravalle Pistoiese by marvinxsteadfast, on Flickr, via Patr")
+[![Serravalle Pistoiese](http://farm9.staticflickr.com/8182/7920398426_a6e133a86b_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7920398426/ "Serravalle Pistoiese by marvinxsteadfast, on Flickr, via Patr")
 
-[![Serravalle
-Pistoiese](http://farm9.staticflickr.com/8303/7920399360_70405afc5b_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7920399360/ "Serravalle Pistoiese by marvinxsteadfast, on Flickr, via Patr")
+[![Serravalle Pistoiese](http://farm9.staticflickr.com/8303/7920399360_70405afc5b_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7920399360/ "Serravalle Pistoiese by marvinxsteadfast, on Flickr, via Patr")
 
 [![Dolomiten](http://farm9.staticflickr.com/8305/7920395862_dae4e37a65_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7920395862/ "Dolomiten by marvinxsteadfast, on Flickr, via Patr")
 

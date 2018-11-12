@@ -12,8 +12,3 @@ aufwendigste. Es entstand auf der
 [Davidszitadelle](http://de.wikipedia.org/wiki/Davidszitadelle). Von
 dort oben hat man einen ganz tollen Ausblick über die Altstadt von
 Jerusalem.
-
-[photonav
-url='http://farm8.staticflickr.com/7213/7302940970\_c09eefe9f3\_o.jpg'
-container\_height=600]
-
