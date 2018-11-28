@@ -16,11 +16,8 @@
 {% endif %}
 {% endblock %}
 
-{% if FEED_ALL_ATOM %}
-<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom">
-{% endif %}
-{% if FEED_ALL_RSS %}
-<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS">
+{% if FEED_ATOM %}
+<link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom">
 {% endif %}
 
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/favicon/apple-touch-icon-57x57.png" />

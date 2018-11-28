@@ -19,7 +19,7 @@ DEFAULT_DATE = (2012, 3, 2, 14, 1, 1)
 
 FEED_DOMAIN = SITEURL
 FEED_MAX_ITEMS = 100
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
+#FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ATOM = 'feed/index.html'
 # CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 RSS_FEED_SUMMARY_ONLY = False
@@ -95,6 +95,6 @@ SOCIAL = (
     ('mastadon', 'https://chaos.social/@xsteadfastx'),
     ('github', 'https://github.com/xsteadfastx'),
     ('flickr', 'https://www.flickr.com/photos/marvinxsteadfast/'),
-    ('rss', SITEURL + '/feed/'),
+    ('rss', '{}/{}'.format(FEED_DOMAIN, FEED_ATOM)),
 )
 LINKS = (('Archive', SITEURL + '/archives.html'),)
