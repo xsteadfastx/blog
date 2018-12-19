@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: beforesunrise, hp5, photography, wien, yashicat3
 Slug: ein-wochenende-in-wien
 
-[![Hausverzierungen](https://farm8.staticflickr.com/7393/11685094483_21bc1595d7_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/11685094483/ "Hausverzierungen by marvinxsteadfast, on Flickr")
+![Hausverzierungen]({filename}/images/11685094483_21bc1595d7_b.jpg)
 
 Wir sind zwischen den Jahren nach Wien geflohen. Einfach raus und nicht
 zurück schauen. Natürlich habe ich viel zu wenig Fotos gemacht. Kennt
@@ -26,7 +26,7 @@ Als erstes war das Cafe Sperl dran. Ich würde sagen, die Mutter aller
 Cafehäuser. Ein Ort an dem man eigentlich den ganzen Tag verstreichen
 lassen will.
 
-[![Notizen](https://farm4.staticflickr.com/3783/11684648523_f0887a7efc_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/11684648523/ "Notizen by marvinxsteadfast, on Flickr")
+![Notizen]({filename}/images/11684648523_f0887a7efc_b.jpg)
 
 [![Cafe
 Sperl](https://farm6.staticflickr.com/5509/11684431955_db97512cc3_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/11684431955/ "Cafe Sperl by marvinxsteadfast, on Flickr")
@@ -65,9 +65,9 @@ VI](https://farm6.staticflickr.com/5499/11684698815_b308a1d16c_b.jpg)](http://ww
 Mit der Freude den Friedhof gefunden zu haben, zogen wir weiter in die
 Stadt.
 
-[![Kaffeehaus](https://farm8.staticflickr.com/7306/11685047184_57a3ec1359_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/11685047184/ "Kaffeehaus by marvinxsteadfast, on Flickr")
+![Kaffeehaus]({filename}/images/11685047184_57a3ec1359_b.jpg)
 
-[![Franziskanerplatz](https://farm3.staticflickr.com/2852/11685082174_ab3ef90fcc_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/11685082174/ "Franziskanerplatz by marvinxsteadfast, on Flickr")
+![Franziskanerplatz]({filename}/images/11685082174_ab3ef90fcc_b.jpg)
 
 Auf dem Franziskanerplatz steht das "Kleine Cafe". Und es ist wirklich
 sehr klein. So klein das wir keinen Platz drin bekommen haben.
@@ -78,7 +78,7 @@ Cafe](https://farm3.staticflickr.com/2856/11685189544_804bf3cc80_b.jpg)](http://
 Die letzten beiden Bilder bevor wir ins Auto nach Nürnberg gestiegen
 sind.
 
-[![Christine](https://farm4.staticflickr.com/3804/11685277164_cfe133cc82_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/11685277164/ "Christine by marvinxsteadfast, on Flickr")
+![Christine]({filename}/images/11685277164_cfe133cc82_b.jpg)
 
 [![Die letzten Minuten in
 Wien](https://farm6.staticflickr.com/5546/11685643206_43d958b3b3_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/11685643206/ "Die letzten Minuten in Wien by marvinxsteadfast, on Flickr")

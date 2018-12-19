@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, eisbach, hausderkunst, munich, nikond60, photography, surfing
 Slug: ein-sonniger-tag-in-munchen
 
-[![Munich](http://farm8.staticflickr.com/7120/7430594604_139f997c93_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7430594604/ "Munich by marvinxsteadfast, on Flickr, via Patr")
+![Munich]({filename}/images/7430594604_139f997c93_b.jpg)
 
 Vorgestern waren wir mit einigen Gaststudenten der ADBK Nürnberg in
 München. Ein wenig Sightseeing und vor allem Ausstellungsbesuche. Wir
@@ -34,24 +34,24 @@ Highlight waren die Surfer auf der
 wahnsinniges Schauspiel...und immer wieder frage ich mich: Wieso kannst
 du eigentlich nicht surfen?
 
-[![Munich](http://farm6.staticflickr.com/5464/7430596062_a06214de5a_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7430596062/ "Munich by marvinxsteadfast, on Flickr, via Patr")
+![Munich]({filename}/images/7430596062_a06214de5a_b.jpg)
 
-[![Munich](http://farm9.staticflickr.com/8002/7430595324_f741ef65fa_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7430595324/ "Munich by marvinxsteadfast, on Flickr, via Patr")
+![Munich]({filename}/images/7430595324_f741ef65fa_b.jpg)
 
-[![Munich](http://farm8.staticflickr.com/7108/7430593624_9d6fe6b7ac_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7430593624/ "Munich by marvinxsteadfast, on Flickr, via Patr")
+![Munich]({filename}/images/7430593624_9d6fe6b7ac_b.jpg)
 
-[![Munich](http://farm6.staticflickr.com/5311/7430592852_22c175255c_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7430592852/ "Munich by marvinxsteadfast, on Flickr, via Patr")
+![Munich]({filename}/images/7430592852_22c175255c_b.jpg)
 
-[![Munich](http://farm9.staticflickr.com/8157/7430592102_fbd1c43150_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7430592102/ "Munich by marvinxsteadfast, on Flickr, via Patr")
+![Munich]({filename}/images/7430592102_fbd1c43150_b.jpg)
 
 Später schauten wir uns noch die Akademie in München an...vor allem der
 Park der Akademie war wirklich wunderschön.
 
-[![Munich](http://farm6.staticflickr.com/5456/7431174140_f3e0fc8919_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7431174140/ "Munich by marvinxsteadfast, on Flickr, via Patr")
+![Munich]({filename}/images/7431174140_f3e0fc8919_b.jpg)
 
 Mitten im Park seht das "[Gartenhaus](http://gartenhaus.adbk.de/)"...
 
-[![Munich](http://farm8.staticflickr.com/7130/7430591166_497283864b_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7430591166/ "Munich by marvinxsteadfast, on Flickr, via Patr")
+![Munich]({filename}/images/7430591166_497283864b_b.jpg)
 
 Auch wenn ich Menschen in Trachten nicht verstehe...es war ein wirklich
 schöner Tag in München...

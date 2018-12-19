@@ -3,32 +3,32 @@ Date: 2016-01-05 19:33
 Slug: ein-paar-tage-auf-der-insel-ruegen
 Tags: ruegen, photography
 
-{% flickr 23826092909 %}
+![Rügen]({filename}/images/23826092909_d246ef38de_b.jpg)
 
 Wir haben ein paar Tage auf der Insel Rügen verbracht. Für mich so etwas wie eine zweite Heimat. Es war kalt und genauso schön.
 
-{% flickr 24111298331 %}
+![Rügen]({filename}/images/24111298331_f5fe23340c_b.jpg)
 
-{% flickr 24167806056 %}
+![Rügen]({filename}/images/24167806056_0bff7f9814_b.jpg)
 
-{% flickr 24167802266 %}
+![Rügen]({filename}/images/24167802266_8d1a750ea6_b.jpg)
 
-{% flickr 24167714876 %}
+![Rügen]({filename}/images/24167714876_da802fa583_b.jpg)
 
-{% flickr 24193854875 %}
+![Rügen]({filename}/images/24193854875_9b06e0ed4e_b.jpg)
 
-{% flickr 23567037163 %}
+![Rügen]({filename}/images/23567037163_9f4127684d_b.jpg)
 
-{% flickr 23898195490 %}
+![Rügen]({filename}/images/23898195490_2b531f05d1_b.jpg)
 
-{% flickr 24193793945 %}
+![Rügen]({filename}/images/24193793945_d506746482_b.jpg)
 
-{% flickr 23825988679 %}
+![Rügen]({filename}/images/23825988679_69041956b5_b.jpg)
 
-{% flickr 24111199271 %}
+![Rügen]({filename}/images/24111199271_7986c100e2_b.jpg)
 
-{% flickr 24111200701 %}
+![Rügen]({filename}/images/24111200701_0d365415bd_b.jpg)
 
-{% flickr 24193797835 %}
+![Rügen]({filename}/images/24193797835_663a684ac0_b.jpg)
 
-{% flickr 23825992579 %}
+![Rügen]({filename}/images/23825992579_9e9af7fe46_b.jpg)

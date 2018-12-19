@@ -11,11 +11,11 @@ the holga is my favourite camera to use. when i look at holga picture
 there is this soundtrack in my head...all the time...and im dreaming
 away...
 
-[![Holga](http://farm5.static.flickr.com/4093/4872858135_fd2755bd40.jpg)](http://www.flickr.com/photos/marvinxsteadfast/4872858135/ "Holga by marvinxsteadfast, on Flickr, via Patr")
+![Holga]({filename}/images/4872858135_fd2755bd40_b.jpg)
 
-[![Holga](http://farm5.static.flickr.com/4121/4873454798_facdfd8bf3.jpg)](http://www.flickr.com/photos/marvinxsteadfast/4873454798/ "Holga by marvinxsteadfast, on Flickr, via Patr")
+![Holga]({filename}/images/4873454798_facdfd8bf3_b.jpg)
 
-[![Holga](http://farm5.static.flickr.com/4116/4873456826_4434964a64.jpg)](http://www.flickr.com/photos/marvinxsteadfast/4873456826/ "Holga by marvinxsteadfast, on Flickr, via Patr")
+![Holga]({filename}/images/4873456826_4434964a64_b.jpg)
 
-[![Holga](http://farm5.static.flickr.com/4074/4873473354_706e37cc28.jpg)](http://www.flickr.com/photos/marvinxsteadfast/4873473354/ "Holga by marvinxsteadfast, on Flickr, via Patr")
+![Holga]({filename}/images/4873473354_706e37cc28_b.jpg)
 

@@ -30,7 +30,7 @@ jerusalem-recordings](http://farm8.staticflickr.com/7189/7131102839_c0d91a40dc.j
 
 Ich habe noch ein paar andere Fotos von dem Festival gemacht.
 
-[![DESI](http://farm8.staticflickr.com/7050/7131096439_be7e3359b7.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7131096439/ "DESI by marvinxsteadfast, on Flickr, via Patr")
+![DESI]({filename}/images/7131096439_be7e3359b7_b.jpg)
 
 Jonas Tröger - o.T.
 
@@ -85,9 +85,9 @@ RAULT](http://farm9.staticflickr.com/8149/6985030994_01bbc3224d.jpg)](http://www
 
 OY
 
-[![OY](http://farm9.staticflickr.com/8010/6985029204_3b6ea12a11.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6985029204/ "OY by marvinxsteadfast, on Flickr, via Patr")
+![OY]({filename}/images/6985029204_3b6ea12a11_b.jpg)
 
-[![OY](http://farm8.staticflickr.com/7038/7131113251_6377b8ed8f.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7131113251/ "OY by marvinxsteadfast, on Flickr, via Patr")
+![OY]({filename}/images/7131113251_6377b8ed8f_b.jpg)
 
 ANTIFUN ARKESTRA
 

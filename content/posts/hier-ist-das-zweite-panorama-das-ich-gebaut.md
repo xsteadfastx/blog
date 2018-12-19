@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: israel, jerusalem, panorama, photography
 Slug: hier-ist-das-zweite-panorama-das-ich-gebaut
 
-[![Jerusalem](http://farm8.staticflickr.com/7213/7302940970_909600888d_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7302940970/ "Jerusalem by marvinxsteadfast, on Flickr, via Patr")
+![Jerusalem]({filename}/images/7302940970_909600888d_b.jpg)
 
 Hier ist das zweite Panorama das ich gebaut habe. Dies ist bis jetzt das
 aufwendigste. Es entstand auf der

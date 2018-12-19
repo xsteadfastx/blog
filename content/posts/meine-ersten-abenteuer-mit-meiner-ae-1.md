@@ -31,15 +31,15 @@ großartigen 50mm Standardobjektiv. Also APX100 Film bei DM gekauft
 
 Das sind die ersten Ergebnisse...
 
-[![img364](http://farm7.static.flickr.com/6205/6146528773_33499dc51d.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6146528773/ "img364 by marvinxsteadfast, on Flickr, via Patr")
+![img364]({filename}/images/6146528773_33499dc51d_b.jpg)
 
-[![img380](http://farm7.static.flickr.com/6174/6146530349_8547eb09e6.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6146530349/ "img380 by marvinxsteadfast, on Flickr, via Patr")
+![img380]({filename}/images/6146530349_8547eb09e6_b.jpg)
 
-[![img389](http://farm7.static.flickr.com/6072/6147080826_c4c77e7e6d.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6147080826/ "img389 by marvinxsteadfast, on Flickr, via Patr")
+![img389]({filename}/images/6147080826_c4c77e7e6d_b.jpg)
 
-[![img394](http://farm7.static.flickr.com/6088/6146533011_55c7a013c5.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6146533011/ "img394 by marvinxsteadfast, on Flickr, via Patr")
+![img394]({filename}/images/6146533011_55c7a013c5_b.jpg)
 
-[![img404](http://farm7.static.flickr.com/6087/6147083578_5f1a6289fc.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6147083578/ "img404 by marvinxsteadfast, on Flickr, via Patr")
+![img404]({filename}/images/6147083578_5f1a6289fc_b.jpg)
 
-[![img406](http://farm7.static.flickr.com/6173/6146536411_4ed8343635.jpg)](http://www.flickr.com/photos/marvinxsteadfast/6146536411/ "img406 by marvinxsteadfast, on Flickr, via Patr")
+![img406]({filename}/images/6146536411_4ed8343635_b.jpg)
 

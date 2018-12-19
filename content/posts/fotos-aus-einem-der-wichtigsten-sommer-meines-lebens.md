@@ -15,20 +15,20 @@ Schublade verschwunden und wurde vor ein paar Tagen wiederentdeckt und
 entwickelt. Neben vielen Test-Bildern sind auch ein paar Erinnerungen an
 einen aufregenden Sommer geblieben.
 
-[![Christine](https://farm4.staticflickr.com/3827/9183517755_ba35372bf2_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9183517755/ "Christine by marvinxsteadfast, on Flickr")
+![Christine]({filename}/images/9183517755_ba35372bf2_b.jpg)
 
-[![Akademie](https://farm6.staticflickr.com/5514/9183519145_05bfcc5c28_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9183519145/ "Akademie by marvinxsteadfast, on Flickr")
+![Akademie]({filename}/images/9183519145_05bfcc5c28_b.jpg)
 
-[![Akademie](https://farm4.staticflickr.com/3692/9185737610_b22ca0beb3_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9185737610/ "Akademie by marvinxsteadfast, on Flickr")
+![Akademie]({filename}/images/9185737610_b22ca0beb3_b.jpg)
 
-[![Christine](https://farm6.staticflickr.com/5496/9185735006_dcbcbd0c96_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9185735006/ "Christine by marvinxsteadfast, on Flickr")
+![Christine]({filename}/images/9185735006_dcbcbd0c96_b.jpg)
 
 [![Its
 me](https://farm8.staticflickr.com/7376/9185736406_e6285f6767_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9185736406/ "Its me by marvinxsteadfast, on Flickr")
 
-[![Ruth](https://farm4.staticflickr.com/3736/9185735342_f612a5eaf5_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9185735342/ "Ruth by marvinxsteadfast, on Flickr")
+![Ruth]({filename}/images/9185735342_f612a5eaf5_b.jpg)
 
-[![Ruth](https://farm3.staticflickr.com/2868/9185737910_9875f50c16_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9185737910/ "Ruth by marvinxsteadfast, on Flickr")
+![Ruth]({filename}/images/9185737910_9875f50c16_b.jpg)
 
-[![Tasse](https://farm6.staticflickr.com/5485/9185738178_c69c59e8a9_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9185738178/ "Tasse by marvinxsteadfast, on Flickr")
+![Tasse]({filename}/images/9185738178_c69c59e8a9_b.jpg)
 

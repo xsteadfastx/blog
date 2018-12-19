@@ -22,23 +22,23 @@ Geldregen](https://farm3.staticflickr.com/2841/9376545899_be391c0ab1_b.jpg)](htt
 [![Ich vor dem israelischen
 Pavillon](https://farm4.staticflickr.com/3670/9379358502_fbe4665f01_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9379358502/ "Ich vor dem israelischen Pavillon by marvinxsteadfast, on Flickr")
 
-[![Biennale](https://farm8.staticflickr.com/7452/9379374674_1302b5500a_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9379374674/ "Biennale by marvinxsteadfast, on Flickr")
+![Biennale]({filename}/images/9379374674_1302b5500a_b.jpg)
 
-[![Venedig](https://farm8.staticflickr.com/7415/9379417876_1f35c4ae8f_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9379417876/ "Venedig by marvinxsteadfast, on Flickr")
+![Venedig]({filename}/images/9379417876_1f35c4ae8f_b.jpg)
 
 [![La
 Biennale](https://farm6.staticflickr.com/5487/9376639941_3fe489f2ea_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9376639941/ "La Biennale by marvinxsteadfast, on Flickr")
 
-[![Pavillon](https://farm4.staticflickr.com/3756/9376643753_daf8ac8b83_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9376643753/ "Pavillon by marvinxsteadfast, on Flickr")
+![Pavillon]({filename}/images/9376643753_daf8ac8b83_b.jpg)
 
-[![Mickey](https://farm3.staticflickr.com/2821/9376666347_f30762dedd_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9376666347/ "Mickey by marvinxsteadfast, on Flickr")
+![Mickey]({filename}/images/9376666347_f30762dedd_b.jpg)
 
-[![Kanal](https://farm6.staticflickr.com/5519/9379459882_4d1deea269_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9379459882/ "Kanal by marvinxsteadfast, on Flickr")
+![Kanal]({filename}/images/9379459882_4d1deea269_b.jpg)
 
 [![Sonne über dem
 Wasser](https://farm6.staticflickr.com/5341/9376685713_21b16e0f0c_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9376685713/ "Sonne über dem Wasser by marvinxsteadfast, on Flickr")
 
-[![Venedig](https://farm4.staticflickr.com/3782/9379509100_a4baccd2ed_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9379509100/ "Venedig by marvinxsteadfast, on Flickr")
+![Venedig]({filename}/images/9379509100_a4baccd2ed_b.jpg)
 
 [![Noch mehr Sonne über
 Venedig](https://farm8.staticflickr.com/7373/9376731705_a0ec05e3f6_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9376731705/ "Noch mehr Sonne über Venedig by marvinxsteadfast, on Flickr")
@@ -46,7 +46,7 @@ Venedig](https://farm8.staticflickr.com/7373/9376731705_a0ec05e3f6_b.jpg)](http:
 [![Venedigs
 Tod](https://farm8.staticflickr.com/7428/9379523742_f0f469949a_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9379523742/ "Venedigs Tod by marvinxsteadfast, on Flickr")
 
-[![Maria](https://farm4.staticflickr.com/3830/9379529138_60b6632a35_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9379529138/ "Maria by marvinxsteadfast, on Flickr")
+![Maria]({filename}/images/9379529138_60b6632a35_b.jpg)
 
 [![Regina Pacis Ora Pro
 Nobis](https://farm4.staticflickr.com/3813/9379535354_c69a39def9_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9379535354/ "Regina Pacis Ora Pro Nobis by marvinxsteadfast, on Flickr")

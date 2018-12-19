@@ -3,16 +3,16 @@ Date: 2015-10-26 14:41
 Slug: ach-berlin
 Tags: berlin, photography
 
-{% flickr 21864572164 %}
+![IMG_20151024_192201]({filename}/images/21864572164_2c1cd05f74_b.jpg)
 
 Es war nur ein kleiner Wochendendurlaub der sehr nötig war. Ich sage nur eins: Die [Boticelli Ausstellung](http://www.botticelli-renaissance.de/) in der Gemäldegalerie ist großartig.
 
-{% flickr 22498305781 %}
+![IMG_20151024_145523]({filename}/images/22498305781_c4ed4baf94_b.jpg)
 
-{% flickr 22300462159 %}
+![IMG_20151023_200853]({filename}/images/22300462159_b8a007824a_b.jpg)
 
-{% flickr 22461280076 %}
+![IMG_20151024_192009]({filename}/images/22461280076_6e8de456a3_b.jpg)
 
-{% flickr 22498299721 %}
+![IMG_20151024_192131]({filename}/images/22498299721_164cd6ffd0_b.jpg)
 
-{% flickr 22461288946 %}
+![IMG_20151026_065107]({filename}/images/22461288946_66101d9ca4_b.jpg)

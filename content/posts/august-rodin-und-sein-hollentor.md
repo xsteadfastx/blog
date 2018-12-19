@@ -3,7 +3,7 @@ Date: 2017-04-05 14:21
 Slug: august-rodin-und-sein-hollentor
 Tags: arte, rodin, art, documentary
 
-{% flickr 26136279792 %}
+![Paris]({filename}/images/26136279792_aafc4fdf53_b.jpg)
 
 Es ist schon wieder über ein Jahr her. Paris wurde mehr und mehr zu meiner Liebe. Nun verbringt man die Tage damit sich vorzustellen dort zu Leben, dabei selber aber in einer grauen Industriestadt verkommt.
 

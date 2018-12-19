@@ -24,7 +24,7 @@ Uli](http://farm9.staticflickr.com/8302/7865687594_852a9fd960_c.jpg)](http://www
 [![Hochzeit Caro und
 Uli](http://farm9.staticflickr.com/8424/7865713700_f1b6f21192_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7865713700/ "Hochzeit Caro und Uli by marvinxsteadfast, on Flickr, via Patr")
 
-[![Holga](http://farm9.staticflickr.com/8428/7822506548_dd9e4b49c9_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7822506548/ "Holga by marvinxsteadfast, on Flickr, via Patr")
+![Holga]({filename}/images/7822506548_dd9e4b49c9_b.jpg)
 
 [![Hochzeit Caro und
 Uli](http://farm9.staticflickr.com/8432/7865740572_0f5d1d68a1_c.jpg)](http://www.flickr.com/photos/marvinxsteadfast/7865740572/ "Hochzeit Caro und Uli by marvinxsteadfast, on Flickr, via Patr")

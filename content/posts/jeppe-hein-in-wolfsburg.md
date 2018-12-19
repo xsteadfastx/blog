@@ -3,6 +3,6 @@ Date: 2015-12-09 07:53
 Slug: jeppe-hein-in-wolfsburg
 Tags: art, jeppehein, wolfsburg
 
-{% flickr 23328848730 %}
+![IMG_20151208_173929-01]({filename}/images/23328848730_3a2744aa3c_b.jpg)
 
-{% flickr 23598463246 %}
+![IMG_20151208_173757-01]({filename}/images/23598463246_347fe5e146_b.jpg)

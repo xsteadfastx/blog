@@ -21,7 +21,7 @@ Dann waren wir auf der Jahresausstellung der Akademie...
 [![Jahresausstellung ADBK Nürnberg
 \#1](https://farm8.staticflickr.com/7389/9296998437_57e3e99970_o.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9296998437/ "Jahresausstellung ADBK Nürnberg #1 by marvinxsteadfast, on Flickr")
 
-[![Winkekatze](https://farm6.staticflickr.com/5451/9257548764_22e18cb89a_b.jpg)](http://www.flickr.com/photos/marvinxsteadfast/9257548764/ "Winkekatze by marvinxsteadfast, on Flickr")
+![Winkekatze]({filename}/images/9257548764_22e18cb89a_b.jpg)
 
 Da haben wir auch einen grafischen Tribut an die Vokuhila-Legende [Mike
 Werner](https://de.wikipedia.org/wiki/Mike_Werner) gefunden...

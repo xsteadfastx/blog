@@ -4,6 +4,6 @@ Slug: die-nasa-hat-ihr-apollo-fotoarchiv-online-gestellt
 Tags: nasa, flickr
 Description: Die NASA hat viele Fotos ihrer Mond-Missionen online gestellt
 
-{% flickr 21700196425 %}
+![AS12-46-6715]({filename}/images/21700196425_805fafce13_b.jpg)
 
 Und wiedermal zeigt sich wie toll es ist wenn Sachen unter der Public Domain veröffentlicht werden. Vor allem wenn es sich um so tolle Bilder handelt wie die der NASA. Die haben nun einen riesigen Schwung Bilder ihrer Apollo-Missionen auf Flickr [geladen](https://www.flickr.com/photos/projectapolloarchive/). Endloser Space-Pr0n. Am besten sind natürlich die Fotos mit kleinen Fehlern. Hier und da mal ein Lightleak. Perfekt!
