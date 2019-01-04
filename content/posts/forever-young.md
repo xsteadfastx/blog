@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: bobdylan, books, music, paulrogers, sarahbrendel
 Slug: forever-young
 
-![bobdylanforeveryoung]({filename}/images/bobdylanforeveryoung.jpg)
+![bobdylanforeveryoung]({static}/images/bobdylanforeveryoung.jpg)
 
 An diesem Tag im Jahr 1974 hat Bob Dylan eins, meiner Meinung nach,
 schönsten Lieder released. Es ist "Forever Young" und ist auf dem Album

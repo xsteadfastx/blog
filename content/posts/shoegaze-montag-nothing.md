@@ -3,7 +3,7 @@ Date: 2015-11-02 10:25
 Slug: shoegaze-montag-nothing
 Tags: music, nothing, shoegaze
 
-![guilty of everything]({filename}/images/nothing_guilty_of_everything.jpg)
+![guilty of everything]({static}/images/nothing_guilty_of_everything.jpg)
 
 Wie klingt es eigentlich wenn ein paar Hardcore Leute Shoegaze machen. [Nothing](http://www.bandofnothing.com/) wurde von Domenic Palermo gegründet. Seinerzeit in der Band Horror Show. Ich kann mich noch daran erinnern wie ich die damals abgefeiert habe. Nun also die musikalische Konsequenz mit diesen kaum zu überwindenden Soundwänden.
 

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: trex
 Slug: einen-t-rex-als-heizkorper-jetzt-mal-ehrlich
 
-![4]({filename}/images/4.jpg)
+![4]({static}/images/4.jpg)
 
 Einen T-Rex als Heizkörper? Jetzt mal ehrlich...wie geil ist das? Wer
 will denn nicht sowas zuhause?

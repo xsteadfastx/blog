@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, tycho
 Slug: tycho-montana
 
-![artworks-000068571467-ctyent-t500x500]({filename}/images/artworks-000068571467-ctyent-t500x500.jpg)
+![artworks-000068571467-ctyent-t500x500]({static}/images/artworks-000068571467-ctyent-t500x500.jpg)
 
 Tycho alias Scott Hansen schafft ein digitales Gesamtkunstwerk.
 Angefangen bei seinen grandiosen [Blog](http://blog.iso50.com/) (eins

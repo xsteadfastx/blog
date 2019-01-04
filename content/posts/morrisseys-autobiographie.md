@@ -6,7 +6,7 @@ Tags: books, morrissey
 Slug: morrisseys-autobiographie
 
 [![morrissey autobiography
-![morrissey-autobiography-2]({filename}/images/morrissey-autobiography-2.jpg)
+![morrissey-autobiography-2]({static}/images/morrissey-autobiography-2.jpg)
 
 Ok gut. Ich habe erst ein paar Seiten der gerade erscheinenden
 Autobiographie von Morrissey gelesen. Aber wie super muss man sein wenn

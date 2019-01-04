@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: edwardsnowden, guardian, movies, politics, wikileaks, zoolander
 Slug: die-briten-der-guardian-festplatten-und-zoolander
 
-![zoolanderdaten]({filename}/images/zoolanderdaten.jpg)
+![zoolanderdaten]({static}/images/zoolanderdaten.jpg)
 
 Es hat wohl jeder mitbekommen als der britische Offizielle ins Büro des
 Guardians kamen und Hardware zerstört haben die mit den Leaks von Edward

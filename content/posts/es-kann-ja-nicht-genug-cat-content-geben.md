@@ -5,13 +5,13 @@ Category: Uncategorized
 Tags: cats, photography, samsung
 Slug: es-kann-ja-nicht-genug-cat-content-geben
 
-![Katze auf Auto I]({filename}/images/8733597858_352ce0a8ef_b.jpg)
+![Katze auf Auto I]({static}/images/8733597858_352ce0a8ef_b.jpg)
 
-![Katze auf Auto II]({filename}/images/8732777334_78727fbf86_b.jpg)
+![Katze auf Auto II]({static}/images/8732777334_78727fbf86_b.jpg)
 
-![Katze auf Auto III]({filename}/images/8732485145_2ac97a2309_b.jpg)
+![Katze auf Auto III]({static}/images/8732485145_2ac97a2309_b.jpg)
 
-![Katze auf Auto IV]({filename}/images/8731672891_0451410308_b.jpg)
+![Katze auf Auto IV]({static}/images/8731672891_0451410308_b.jpg)
 
-![Das Modell und ich]({filename}/images/8732803024_6529fef4a9_b.jpg)
+![Das Modell und ich]({static}/images/8732803024_6529fef4a9_b.jpg)
 

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: himmelslaternen, worldrecord
 Slug: ich-weis-zwar-nicht-wieviel-hauser-wegen-himmelslaternen
 
-![335291]({filename}/images/335291.png)
+![335291]({static}/images/335291.png)
 
 Ich weiß zwar nicht wieviel Häuser wegen Himmelslaternen schon
 abgefackelt sind...wunderschön sind sie aber...

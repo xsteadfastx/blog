@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: nuernberg, photography
 Slug: 6am
 
-![6am]({filename}/images/15183963486_7e4fb33f00_b.jpg)
+![6am]({static}/images/15183963486_7e4fb33f00_b.jpg)
 
-![6am]({filename}/images/15206611422_7227771330_b.jpg)
+![6am]({static}/images/15206611422_7227771330_b.jpg)
 

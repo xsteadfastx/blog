@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: birthday, elliottsmith, music
 Slug: happy-birthday-elliott
 
-![Elliott_Smith2]({filename}/images/Elliott_Smith2.jpg)
+![Elliott_Smith2]({static}/images/Elliott_Smith2.jpg)
 
 Du wärst heute 43 alt geworden...
 

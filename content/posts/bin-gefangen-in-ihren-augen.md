@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: photography
 Slug: bin-gefangen-in-ihren-augen
 
-![its me...]({filename}/images/7421148052_0c29907421_b.jpg)
+![its me...]({static}/images/7421148052_0c29907421_b.jpg)
 
 Bin gefangen in ihren Augen...
 

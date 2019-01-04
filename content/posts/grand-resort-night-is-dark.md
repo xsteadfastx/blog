@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: grandresort, music
 Slug: grand-resort-night-is-dark
 
-![1089386220-1]({filename}/images/1089386220-1.jpg)
+![1089386220-1]({static}/images/1089386220-1.jpg)
 
 Grand Resort ist ein Muli-Instrumentalist aus Brooklyn der verstanden
 hat, dass es nur ein paar wavige Elemente, Reverb bis zum abwinken und

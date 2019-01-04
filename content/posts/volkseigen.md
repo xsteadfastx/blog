@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: documentary, germany, manuelgehrke
 Slug: volkseigen
 
-![508523]({filename}/images/508523.jpg)
+![508523]({static}/images/508523.jpg)
 
 Mein Freund Manuel Gehrke hat eine kurze Dokumentation über den Zerfall
 von drei Firmen in der ehemaligen DDR nach der Wende gedreht. Neben den

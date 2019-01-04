@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: nature
 Slug: am-liebsten-bin-ich-in-der-natur-ich
 
-![364705]({filename}/images/364705.png)
+![364705]({static}/images/364705.png)
 
 Am liebsten bin ich in der Natur. Ich genieße jeden Baum um mich herum.
 Vielleicht bin ich auch zu romantisch. Vor allem wenn man Videos wie

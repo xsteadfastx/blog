@@ -5,5 +5,5 @@ Category: Uncategorized
 Tags: avatar, owls
 Slug: der-tag-an-dem-ich-meinen-avatar-traf
 
-![Der Tag dem ich meinen Avatar traf]({filename}/images/8783409978_8f01aed7a9_b.jpg)
+![Der Tag dem ich meinen Avatar traf]({static}/images/8783409978_8f01aed7a9_b.jpg)
 

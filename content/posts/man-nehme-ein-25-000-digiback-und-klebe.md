@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: holga, photography
 Slug: man-nehme-ein-25-000-digiback-und-klebe
 
-![4a11901176a38220c6f4a8bb7963f8b55df747]({filename}/images/4a11901176a38220c6f4a8bb7963f8b55df747.jpg)
+![4a11901176a38220c6f4a8bb7963f8b55df747]({static}/images/4a11901176a38220c6f4a8bb7963f8b55df747.jpg)
 
 Man nehme ein 25.000 \$ Digiback und klebe mit Ductape eine 25 \$ Holga
 dran...fertig ist die [teuerste Holga der Welt](http://goo.gl/ywdDR).
@@ -17,5 +17,5 @@ Die
 können sich sehen lassen. Ich merke immer wieder wie mich die Holga
 fasziniert. Sie ist mit Abstand meine Lieblingskamera...
 
-![22fd0ae54eed537fc67b16fc4f6736a8635744]({filename}/images/22fd0ae54eed537fc67b16fc4f6736a8635744.jpg)
+![22fd0ae54eed537fc67b16fc4f6736a8635744]({static}/images/22fd0ae54eed537fc67b16fc4f6736a8635744.jpg)
 

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, smithwestern
 Slug: smith-westerns-varsity
 
-![smithwestern_varsity]({filename}/images/smithwestern_varsity.jpg)
+![smithwestern_varsity]({static}/images/smithwestern_varsity.jpg)
 
 Wie schön es ist verbliebt zu sein... oder sowas...
 

@@ -8,5 +8,5 @@ Slug: mal-wieder-aus-der-abteilung-die-bild-schreibt
 Mal wieder aus der Abteilung: Die BILD schreibt über Kunst...ich sag nur
 "Diese Nackte ist 25 Millionen wert".
 
-![Download-1]({filename}/images/Download-1.png)
+![Download-1]({static}/images/Download-1.png)
 

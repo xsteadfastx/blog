@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, sigurros
 Slug: gobbledigook-von-sigur-ros-zahlt-zu-meinen
 
-![391488]({filename}/images/391488.png)
+![391488]({static}/images/391488.png)
 
 "Gobbledigook" von Sigur Ros zählt zu meinen liebsten Musikvideos. Nicht
 ganz "not safe for work" aber es ist ein Traum. Und wisst ihr wieso?

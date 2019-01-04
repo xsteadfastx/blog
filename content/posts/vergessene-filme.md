@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: berlin, photography, rodinal, yashicat3
 Slug: vergessene-filme
 
-![Berlin]({filename}/images/7970270340_20d3fc0317_b.jpg)
+![Berlin]({static}/images/7970270340_20d3fc0317_b.jpg)
 
 Es passiert nicht selten das ich Filme in Kameras vergesse. Vor allem
 wenn es Kameras sind die ich selten benutze. Viel zu selten. Irgendwann
@@ -16,7 +16,7 @@ zum Vorschein. Und ich frage mich wieso.
 
 Es war Berlin im Frühjahr 2012... -20 Grad.
 
-![Berlin]({filename}/images/7970269182_00f86106bb_b.jpg)
+![Berlin]({static}/images/7970269182_00f86106bb_b.jpg)
 
-![Berlin]({filename}/images/7970271524_218d53c5e8_b.jpg)
+![Berlin]({static}/images/7970271524_218d53c5e8_b.jpg)
 

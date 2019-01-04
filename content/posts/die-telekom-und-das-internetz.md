@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: internetz, politics, telekom
 Slug: die-telekom-und-das-internetz
 
-![Symbolbild: Kaputtes Faxgerät auf Strasse]({filename}/images/8672595039_e8105314fb_o.jpg)
+![Symbolbild: Kaputtes Faxgerät auf Strasse]({static}/images/8672595039_e8105314fb_o.jpg)
 
 Oder ich den gestrigen Tag nenne: "Willkommen im Fax-Zeitalter". Die
 gestrige

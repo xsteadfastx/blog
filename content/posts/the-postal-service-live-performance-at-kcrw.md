@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: jennylewis, music, thepostalservice
 Slug: the-postal-service-live-performance-at-kcrw
 
-![postalserviceradio]({filename}/images/postalserviceradio.jpg)
+![postalserviceradio]({static}/images/postalserviceradio.jpg)
 
 Über das kommende The Postal Service Comeback kann man ja denken was man
 will. Aber ihr Album ist immer noch einer der besten Soundtracks für

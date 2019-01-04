@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: dinosaurjr, music, phoenix
 Slug: dinosaur-jr-covert-phoenix
 
-[![cc-by Johannes Scherman]({filename}/images/1024px-Dinosaur_Jr._at_WTAI_in_Stockholm.jpg)](https://en.wikipedia.org/wiki/File:Dinosaur_Jr._at_WTAI_in_Stockholm.jpg)
+[![cc-by Johannes Scherman]({static}/images/1024px-Dinosaur_Jr._at_WTAI_in_Stockholm.jpg)](https://en.wikipedia.org/wiki/File:Dinosaur_Jr._at_WTAI_in_Stockholm.jpg)
 
 Es gibt so Tage da passieren ganz wunderbare Sachen. Wie wenn Dinosaur
 Jr. auf einmal einen Phoenix Song covern.

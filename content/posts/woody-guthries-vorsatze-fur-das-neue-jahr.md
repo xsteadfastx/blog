@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: newyear, woodyguthrie
 Slug: woody-guthries-vorsatze-fur-das-neue-jahr
 
-![woody-guthrie-resolutions-530]({filename}/images/woody-guthrie-resolutions-530.jpg)
+![woody-guthrie-resolutions-530]({static}/images/woody-guthrie-resolutions-530.jpg)
 
 Was soll man noch dazu schreiben? Ach Woody...
 

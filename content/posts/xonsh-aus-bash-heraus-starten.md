@@ -3,7 +3,7 @@ Date: 2016-07-29 14:39
 Slug: xonsh-aus-bash-heraus-starten
 Tags: xonsh, python, linux
 
-Noch ein kleiner Nachtrag zu dem [Artikel]({filename}/posts/meine-neue-shell-xonsh.md) von gestern. Heute wollte ich mal wieder in meiner Blogging Vagrant Docker Box alles auf den neusten stand bringen. Ich benutze dazu `vagrant provision`. Dies startet das Provisioning, also holt meine neuen Config-Files. installiert neue Software usw. Ansible benutzt SSH um auf die Vagrant Box zuzugreifen und dies war auf einmal ein Problem. Ansible lief sofort an die Wand.
+Noch ein kleiner Nachtrag zu dem [Artikel]({static}/posts/meine-neue-shell-xonsh.md) von gestern. Heute wollte ich mal wieder in meiner Blogging Vagrant Docker Box alles auf den neusten stand bringen. Ich benutze dazu `vagrant provision`. Dies startet das Provisioning, also holt meine neuen Config-Files. installiert neue Software usw. Ansible benutzt SSH um auf die Vagrant Box zuzugreifen und dies war auf einmal ein Problem. Ansible lief sofort an die Wand.
 
     /bin/sh: sudo -H -S -n -u root /bin/sh -c 'echo BECOME-SUCCESS-mtobhjchhszgqaaixzbsbsolwbuprmhn; LANG=de_DE.UTF-7 LC_ALL=de_DE.UTF-8 LC_MESSAGES=de_DE.UTF-8 /usr/bin/python /home/vagrant/.ansible/tmp/ansible-tmp-1469778394.25-104576843898387/apk; rm -rf \"/home/vagrant/.ansible/tmp/ansible-tmp-1469778394.25-104576843898387/\" > /dev/null 2>&1' && sleep 0: not found\r\n
 

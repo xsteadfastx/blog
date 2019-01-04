@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: alanlomax, bobdylan, music, woodyguthrie
 Slug: alan-lomax-und-sein-archiv
 
-![707px-Alan_Lomax]({filename}/images/707px-Alan_Lomax.jpg)
+![707px-Alan_Lomax]({static}/images/707px-Alan_Lomax.jpg)
 
 In Zeiten des für wenige Cents geklickten One-Hit-Wonders auf iTunes
 fragt man sich schon manchmal wie die Kultur der Musik archiviert und

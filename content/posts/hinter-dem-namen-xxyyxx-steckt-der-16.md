@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, xxyyxx
 Slug: hinter-dem-namen-xxyyxx-steckt-der-16
 
-![469484_433709406642696_130263128_o]({filename}/images/469484_433709406642696_130263128_o.jpg)
+![469484_433709406642696_130263128_o]({static}/images/469484_433709406642696_130263128_o.jpg)
 
 Hinter dem Namen "XXYYXX" steckt der 16 jährige Marcel Everett. Er macht
 düstere, dahin plätschernde Bass-Lines die auf Wellen daher

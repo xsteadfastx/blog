@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: cdu, politics, racism, thorsteinar
 Slug: der-nazi-als-neuer-jude
 
-![tumblr_m7m59zHyL41qkwjtuo1_1280]({filename}/images/tumblr_m7m59zHyL41qkwjtuo1_1280.jpg)
+![tumblr_m7m59zHyL41qkwjtuo1_1280]({static}/images/tumblr_m7m59zHyL41qkwjtuo1_1280.jpg)
 
 Nachdem die letzten Tage ein Bild von dem Thor Steinar Laden Berlin im
 Internetz kursierten, ziehen einige mal wieder wahnsinnige Vergleiche...

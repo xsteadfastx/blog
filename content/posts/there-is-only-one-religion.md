@@ -5,5 +5,5 @@ Category: post
 Tags: football
 Slug: there-is-only-one-religion
 
-![wpid-1315494299385]({filename}/images/wpid-1315494299385.jpg)
+![wpid-1315494299385]({static}/images/wpid-1315494299385.jpg)
 

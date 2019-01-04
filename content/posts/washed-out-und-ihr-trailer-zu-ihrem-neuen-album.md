@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, washedout
 Slug: washed-out-und-ihr-trailer-zu-ihrem-neuen-album
 
-![washedout_paracosm]({filename}/images/washedout_paracosm.jpg)
+![washedout_paracosm]({static}/images/washedout_paracosm.jpg)
 
 Das kommende Werk, mit dem Namen Paracosm, hat nun einen tollen Trailer
 bekommen. Alles was fehlt... das passende Wetter.

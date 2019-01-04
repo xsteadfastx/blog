@@ -9,5 +9,5 @@ Habe mich heute mal wieder an die Buttonmaschine gesetzt und ein paar
 Buttons für [Verblonshen.org](http://verblonshen.org) gemacht. Hier das
 Ergebnis:
 
-![DSC_0085_NEF]({filename}/images/DSC_0085_NEF.jpg)
+![DSC_0085_NEF]({static}/images/DSC_0085_NEF.jpg)
 

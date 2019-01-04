@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: baths, music
 Slug: baths-miasma-sky
 
-![artworks-000042238035-sov3w6-t500x500]({filename}/images/artworks-000042238035-sov3w6-t500x500.jpg)
+![artworks-000042238035-sov3w6-t500x500]({static}/images/artworks-000042238035-sov3w6-t500x500.jpg)
 
 Schaut mal aus dem Fenster. Es ist grau und wo es nicht grau ist liegt
 der weiße Beweis das der Frühling nicht auftauchen mag. Braucht also

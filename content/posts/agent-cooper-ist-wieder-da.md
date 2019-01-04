@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, michellelevy, twinpeaks
 Slug: agent-cooper-ist-wieder-da
 
-[![c by Michelle Levy]({filename}/images/168462842283670351_pcOnR5R0_c.jpg)](http://www.michelle-levy.com/)
+[![c by Michelle Levy]({static}/images/168462842283670351_pcOnR5R0_c.jpg)](http://www.michelle-levy.com/)
 
 Michelle Levy hat eine
 [Kunstaustellung](http://www.michelle-levy.com/agentc.html), über die

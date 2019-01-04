@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: bayern, hartz4, politics
 Slug: ja-zur-bildung-nein-zu-studiengebuhren
 
-![LAY_VB_Twitter_00]({filename}/images/LAY_VB_Twitter_00.png)
+![LAY_VB_Twitter_00]({static}/images/LAY_VB_Twitter_00.png)
 
 Es wird Zeit die Studiengebühren abzuschaffen. Für mich ist es ein
 gescheitertes Experiment was so nicht statt finden hätte dürfen. Und da

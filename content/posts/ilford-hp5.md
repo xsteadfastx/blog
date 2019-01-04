@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: hp5, ilford, photography
 Slug: ilford-hp5
 
-![473584_10151075869273734_857330962_o]({filename}/images/473584_10151075869273734_857330962_o.jpg)
+![473584_10151075869273734_857330962_o]({static}/images/473584_10151075869273734_857330962_o.jpg)
 
 Ein Tribute an meinen allerliebsten Film! Niemand hat so tolles Korn wie
 der HP5 von Ilford... ich hoffe das diese Liebe ewig halten kann... ich

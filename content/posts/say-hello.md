@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: allegrarosenberg, amandapalmer, doctorwho, music, neilgaiman, youtube
 Slug: say-hello
 
-![a2896267751_10]({filename}/images/a2896267751_10.jpg)
+![a2896267751_10]({static}/images/a2896267751_10.jpg)
 
 Und dann kam der Zeitpunkt als Amanda Palmer das Lied covert welches ihr
 Ehemann Neil Gaiman zu der Doctor Who Episode "[The Doctors

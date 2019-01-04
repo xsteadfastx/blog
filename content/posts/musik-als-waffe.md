@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: documentary, music, torture, war
 Slug: musik-als-waffe
 
-![musikalswaffe]({filename}/images/musikalswaffe.jpg)
+![musikalswaffe]({static}/images/musikalswaffe.jpg)
 
 Heute morgen kam die Nachricht das die Dokumentation "Musik als Waffe"
 von Tristan Chytroschek einen Emmy bekommen hat. Gratulation! In der

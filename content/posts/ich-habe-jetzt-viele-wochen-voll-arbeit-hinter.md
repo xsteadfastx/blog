@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: animals, photography, wolfsburg
 Slug: ich-habe-jetzt-viele-wochen-voll-arbeit-hinter
 
-![Welpen]({filename}/images/7272344460_eb3513c9a9_b.jpg)
+![Welpen]({static}/images/7272344460_eb3513c9a9_b.jpg)
 
 Ich habe jetzt viele Wochen voll Arbeit hinter mir. Gestern ist der
 Umzug unserer Firma abgeschlossen. Hatte ganz schön Bammel das die
@@ -19,17 +19,17 @@ die Kleinen rund um die Uhr pflegen und hegen.
 
 Es werden übrigens Hunde-Eltern gesucht...
 
-![Welpen]({filename}/images/7272345914_79c65f69c8_b.jpg)
+![Welpen]({static}/images/7272345914_79c65f69c8_b.jpg)
 
-![Welpen]({filename}/images/7272347212_aa3dab1f13_b.jpg)
+![Welpen]({static}/images/7272347212_aa3dab1f13_b.jpg)
 
-![Welpen]({filename}/images/7272348212_eb3daa8b43_b.jpg)
+![Welpen]({static}/images/7272348212_eb3daa8b43_b.jpg)
 
-![Welpen]({filename}/images/7272350236_ea4a866a1a_b.jpg)
+![Welpen]({static}/images/7272350236_ea4a866a1a_b.jpg)
 
-![Welpen]({filename}/images/7272349200_c506286173_b.jpg)
+![Welpen]({static}/images/7272349200_c506286173_b.jpg)
 
-![Welpen]({filename}/images/7272351350_d3472a5849_b.jpg)
+![Welpen]({static}/images/7272351350_d3472a5849_b.jpg)
 
-![Welpen]({filename}/images/7272343100_555f66d904_b.jpg)
+![Welpen]({static}/images/7272343100_555f66d904_b.jpg)
 

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: capnjazz, music
 Slug: ich-weis-nicht-was-ich-von-diesen-ganzen
 
-![capnjazz]({filename}/images/capnjazz.jpg)
+![capnjazz]({static}/images/capnjazz.jpg)
 
 Ich weiß nicht was ich von diesen ganzen Reunion Shows so halten soll.
 Aber wenn man dann manche Live-Videos von den Shows sieht...ach ja.

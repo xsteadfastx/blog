@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: coding, rosettastone
 Slug: rosetta-code
 
-[![cc-by-sa Hans Hillewaert]({filename}/images/875px-Rosetta_Stone.jpg)](https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG)
+[![cc-by-sa Hans Hillewaert]({static}/images/875px-Rosetta_Stone.jpg)](https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG)
 
 [Der Stein von Rosette](https://de.wikipedia.org/wiki/Stein_von_Rosette)
 ist ein Stein auf dem in drei verschiedenen Sprachen das Priesterdekret,

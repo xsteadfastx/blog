@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: nasa, psychedelic, saturn
 Slug: the-rose
 
-![744808main_pia14944-full_full]({filename}/images/744808main_pia14944-full_full.jpg)
+![744808main_pia14944-full_full]({static}/images/744808main_pia14944-full_full.jpg)
 
 Das Universum malt einen psychedelischen Traum.
 

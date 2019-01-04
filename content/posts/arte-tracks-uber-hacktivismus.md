@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: alanturing, arte, documentary, hacking, telecomix
 Slug: arte-tracks-uber-hacktivismus
 
-![artetrackhacking]({filename}/images/artetrackhacking.jpg)
+![artetrackhacking]({static}/images/artetrackhacking.jpg)
 
 Ich schaue Arte Tracks wirklich gerne. Verpasse es aber eigentlich so
 ziemlich jede Woche. Durch Zufall habe ich am Samstag die Wiederholung

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: batman, movies, surfing
 Slug: surfing-batman
 
-![532423]({filename}/images/532423.jpg)
+![532423]({static}/images/532423.jpg)
 
 Scheiß auf Dark Knight Rises... die Mutter aller Duelle liefern sich
 hier Batman und Joker auf dem Surfbrett. Sogar das legendäre

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: movies, sofiacoppola, theblingring
 Slug: ein-paar-gedanken-zu-the-bling-ring
 
-![blingring]({filename}/images/blingring.jpg)
+![blingring]({static}/images/blingring.jpg)
 
 Ich war ja gespannt wie ein Flitzebogen. Seit "Somewhere" ist schon
 einige Zeit vergangen. Und nicht nur weil ich den Film damals in einem

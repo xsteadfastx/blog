@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: college, drive, electricyouth, movies, music, soundtrack
 Slug: college-electric-youth-a-real-hero
 
-![artworks-000011198794-pyx8un-original]({filename}/images/artworks-000011198794-pyx8un-original.jpg)
+![artworks-000011198794-pyx8un-original]({static}/images/artworks-000011198794-pyx8un-original.jpg)
 
 Ich muss gestehen das ich
 [DRIVE](http://de.wikipedia.org/wiki/Drive_(2011)) noch nicht gesehen

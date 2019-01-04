@@ -25,5 +25,5 @@ ich froh das es einige geschafft haben an einem eisigen Tag sich für
 mehrere Stunden in die Innenstadt zu stellen um gegen ACTA zu
 demonstrieren...also alles gut...
 
-![CameraZOOM-20120211155359125]({filename}/images/CameraZOOM-20120211155359125.jpg)
+![CameraZOOM-20120211155359125]({static}/images/CameraZOOM-20120211155359125.jpg)
 

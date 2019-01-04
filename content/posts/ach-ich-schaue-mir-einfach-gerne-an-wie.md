@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: mouthpiece, music, vinyl
 Slug: ach-ich-schaue-mir-einfach-gerne-an-wie
 
-![mouthpiecevinyl]({filename}/images/mouthpiecevinyl.jpg)
+![mouthpiecevinyl]({static}/images/mouthpiecevinyl.jpg)
 
 Ach ich schaue mir einfach gerne an wie Vinyl Platten hergestellt
 werden. Eigentlich ja alles was mit Vinyl zu tun hat. Und wenn das noch

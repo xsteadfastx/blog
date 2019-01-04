@@ -4,7 +4,7 @@ Slug: wildhoney-laura
 Tags: music
 Description: Neuer Track von dem nächsten Wildhoney Release
 
-![Wildhoney - Your Face Sideways]({filename}/images/wildhoney_your_face_sideways.jpg)
+![Wildhoney - Your Face Sideways]({static}/images/wildhoney_your_face_sideways.jpg)
 
 Es ist Montag. Zeit für etwas schönen Shoegaze von Wildhoney. Die bringen bald eine neue EP raus. Dies ist der Track "Laura".
 

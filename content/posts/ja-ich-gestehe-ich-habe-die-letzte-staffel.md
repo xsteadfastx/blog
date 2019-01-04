@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, books, gntm, heidiklum, reclam
 Slug: ja-ich-gestehe-ich-habe-die-letzte-staffel
 
-![3234224031]({filename}/images/3234224031.jpg)
+![3234224031]({static}/images/3234224031.jpg)
 
 Ja ich gestehe! Ich habe die letzte Staffel Germanys Next Topmodel
 verfolgt. Ich wünschte ich müsste das nicht zugeben. Ich steh halt auf

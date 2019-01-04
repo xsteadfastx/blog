@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: jamiexx, music, skateboard
 Slug: jamie-xx-music-to-skate-to
 
-![artworks-000005184756-pzl0n2-original]({filename}/images/artworks-000005184756-pzl0n2-original.jpg)
+![artworks-000005184756-pzl0n2-original]({static}/images/artworks-000005184756-pzl0n2-original.jpg)
 
 Der Mix von Jamie XX ist schon ein wenig älter. Nur leider habe ich ihn
 gerade erst entdeckt. Deswegen findet er erst jetzt einen Platz hier in

@@ -5,7 +5,7 @@ Category: post
 Tags: jackkerouac, kirstendunst, kristenstewart, movies, ontheroad, samriley
 Slug: on-the-road-trailer
 
-![On-The-ROad-New-Picture-4]({filename}/images/On-The-ROad-New-Picture-4.jpg)
+![On-The-ROad-New-Picture-4]({static}/images/On-The-ROad-New-Picture-4.jpg)
 
 Ich kann es kaum fassen. Endlich gibt es den ersten Trailer zu der
 Verfilmung eines meiner absoluten Lieblingsbücher. Und vor allem wenn

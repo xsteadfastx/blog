@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: andywarhol, music, nico, velvetunderground
 Slug: the-velvet-underground-and-nico-a-symphony-of-sound
 
-![771243]({filename}/images/771243.jpg)
+![771243]({static}/images/771243.jpg)
 
 67 Minuten improvisieren sich hier die Velvets, zusammen mit Nico, durch
 das Video. Gefilmt von Andy Warhol, auf 16mm Schwarzweißfilm. Kaum

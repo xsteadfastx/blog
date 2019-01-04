@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: gegenstroem, israel, jerusalem, luftmentsh, nuernberg
 Slug: so-am-samstag-ist-es-soweit-unser-projekt
 
-![lftmntshrecs]({filename}/images/lftmntshrecs.png)
+![lftmntshrecs]({static}/images/lftmntshrecs.png)
 
 So am Samstag ist es soweit...unser Projekt mit dem Namen "Luftmentsh
 Recordings" wird online gehen. Ja ok, es sollte mal Jerusalem Recordings

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: coffee
 Slug: the-compendious-coffee-chart
 
-![tumblr_m94h0v4zRC1qz6f9yo1_1280]({filename}/images/tumblr_m94h0v4zRC1qz6f9yo1_1280.jpg)
+![tumblr_m94h0v4zRC1qz6f9yo1_1280]({static}/images/tumblr_m94h0v4zRC1qz6f9yo1_1280.jpg)
 
 Eine grafische Liebeserklärung an den Schweiß Gottes...
 

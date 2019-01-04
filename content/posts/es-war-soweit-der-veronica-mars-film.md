@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: kickstarter, movies, veronicamars
 Slug: es-war-soweit-der-veronica-mars-film
 
-![eyeemfiltered1395833088887]({filename}/images/eyeemfiltered1395833088887.jpg)
+![eyeemfiltered1395833088887]({static}/images/eyeemfiltered1395833088887.jpg)
 
 Kurz vor dem ins Bett gehen, Donnerstag Abend, dachte ich mir ruhig:
 Morgen werde ich den Film sehen. Und ich konnte es ehrlich gesagt

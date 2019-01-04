@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: books, jackkerouac, ontheroad
 Slug: kerouacs-artwork-skizze
 
-![Kerouacs-Cover-Design]({filename}/images/Kerouacs-Cover-Design.jpeg)
+![Kerouacs-Cover-Design]({static}/images/Kerouacs-Cover-Design.jpeg)
 
 Und weil wir gerade bei Jack Kerouac und "On The Road" waren gibt es nun
 eine kleine Zugabe. Eine Skizze von ihm selber wie das Artwork für das

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: emo, godspeed, straightedge, turningpoint
 Slug: godspeed-written-word
 
-![tfr014.turningpoint]({filename}/images/tfr014.turningpoint.jpg)
+![tfr014.turningpoint]({static}/images/tfr014.turningpoint.jpg)
 
 Wenn ich darüber nachdenke muss ich sich damals ähnlich angefühlt haben.
 Der Zeitpunkt als ich das erste mal diesen Song gehört habe. In meinen

@@ -5,7 +5,7 @@ Category: status
 Tags: kirstendunst, larsvontrier, melancholia, movies
 Slug: ein-ganz-wunderbares-poster-zur-melancholia-hat-tomer
 
-![Melancholia_layers_Blueblog]({filename}/images/Melancholia_layers_Blueblog.jpg)
+![Melancholia_layers_Blueblog]({static}/images/Melancholia_layers_Blueblog.jpg)
 
 Ein ganz wunderbares Poster zu Melancholia hat [Tomer
 Hanuka](http://www.mondotees.com/) geschaffen...haben will...

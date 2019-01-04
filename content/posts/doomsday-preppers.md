@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: bunker, documentary, doomsdaypreppers, nationalgeographic, preppers
 Slug: doomsday-preppers
 
-[![c by National Geographic]({filename}/images/on-lawlessness_47922_0_0_610x457.jpg)](http://channel.nationalgeographic.com/channel/doomsday-preppers/galleries/most-memorable-prepper-quotes/at/on-lawlessness-47922/)
+[![c by National Geographic]({static}/images/on-lawlessness_47922_0_0_610x457.jpg)](http://channel.nationalgeographic.com/channel/doomsday-preppers/galleries/most-memorable-prepper-quotes/at/on-lawlessness-47922/)
 
 Ich bin ja schon seit Jahren ein regelmäßiger Leser der "National
 Geographic". Und da meine Eltern im Besitz eines SKY-Abo's sind komme

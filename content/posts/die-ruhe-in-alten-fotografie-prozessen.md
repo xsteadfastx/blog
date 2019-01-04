@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: mattmorris, photography
 Slug: die-ruhe-in-alten-fotografie-prozessen
 
-![tintypeprocess]({filename}/images/tintypeprocess.jpg)
+![tintypeprocess]({static}/images/tintypeprocess.jpg)
 
 Was eine wunderbare Ruhe in dem Prozess des Fotografierens liegt. Ich
 rede nicht von digitalem, schnellem Knipsen. Sich Zeit zunehmen für die

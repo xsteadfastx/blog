@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: blog, toskana
 Slug: wieder-da
 
-![Florenz]({filename}/images/7912595140_35231f1fdd_b.jpg)
+![Florenz]({static}/images/7912595140_35231f1fdd_b.jpg)
 
 So, wir sind wieder da. Eine Woche Auszeit in der Toskana ist hinter
 uns. Das war überfällig! Deswegen musste das Blog ein wenig

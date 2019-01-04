@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: germanygermany, music
 Slug: germany-germany-blank-mind-empty-heart
 
-![26955915-1]({filename}/images/26955915-1.jpg)
+![26955915-1]({static}/images/26955915-1.jpg)
 
 Großes Feuerwerk und so... da ist es endlich: Das neue Album von Germany
 Germany. Ich brauche zwar noch ein wenig um rein zu kommen... aber

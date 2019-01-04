@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: folk, johnnycash, music, peteseeger
 Slug: r-i-p-pete-seeger
 
-![885px-Pete_Seeger_NYWTS]({filename}/images/885px-Pete_Seeger_NYWTS.jpg)
+![885px-Pete_Seeger_NYWTS]({static}/images/885px-Pete_Seeger_NYWTS.jpg)
 
 Ach Pete, wir werden dich vermissen. Neben allen was du beeinflusst und
 erschaffen hast, muss ich immer wieder an deinen Auftritt bei der Johnny

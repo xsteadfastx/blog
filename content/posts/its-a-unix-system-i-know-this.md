@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: jurassicpark, movies, unix
 Slug: its-a-unix-system-i-know-this
 
-![itsaunixsystem]({filename}/images/itsaunixsystem.jpg)
+![itsaunixsystem]({static}/images/itsaunixsystem.jpg)
 
 Ja ich stehe total auf Jurassic Park. Und schon als kleiner Knirps hatte
 ich viele Sympathien für denn dicken "Nerd", der in der Jurassic Park

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: emo, music, savestheday
 Slug: saves-the-day-at-your-funeral
 
-![himom]({filename}/images/himom.jpg)
+![himom]({static}/images/himom.jpg)
 
 Dieses Video war für mich der Höhepunkt und gleichzeitig das Ende von
 Emo. Nicht das geschminkte Etwas was vor den Einkaufszentren der

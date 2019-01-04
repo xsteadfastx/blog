@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: anne, music
 Slug: chillwave-ist-ja-gerade-der-heise-scheis-ich
 
-![dreampunx]({filename}/images/dreampunx.jpg)
+![dreampunx]({static}/images/dreampunx.jpg)
 
 Chillwave ist ja gerade der heiße Scheiß. Ich stehe ja auch drauf und
 so... aber die Dream Pop / Shoegaze Elemente sind doch oft zu wenig. Man

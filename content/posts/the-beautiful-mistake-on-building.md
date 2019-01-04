@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: emo, music, thebeautifulmistake
 Slug: the-beautiful-mistake-on-building
 
-![beautifulmistakeonbuilding]({filename}/images/beautifulmistakeonbuilding.jpg)
+![beautifulmistakeonbuilding]({static}/images/beautifulmistakeonbuilding.jpg)
 
 Manchmal überfliegt mich der Wunsch nach Musik in der ich mich emotional
 einst gewälzt habe. Und so abgedroschen es klingen mag. Ich stand total

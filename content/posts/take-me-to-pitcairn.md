@@ -3,7 +3,7 @@ Date: 2015-12-08 13:11
 Slug: take-me-to-pitcairn
 Tags: pitcairn, travel
 
-![Pitcairn]({filename}/images/pitcairn.png)
+![Pitcairn]({static}/images/pitcairn.png)
 
 Das erste mal von [Pitcairn](https://de.wikipedia.org/wiki/Pitcairn) habe ich im [NSFW](http://not-safe-for-work.de/nsfw049-flauschsandstrahler/)-Podcast gehört. Eine kleine Insel die vom Festland mit am weitesten Entfernt ist. Ein kleines Eiland umringt von tausenden Kilometern Wasser. Diese wird bis heute von den Nachfahren der [Meuterei auf der Bounty](https://de.wikipedia.org/wiki/Bounty) bewohnt. Diese benutzten die Insel als Versteck vor der Todesurteils-Vollstreckung durch den Strick in England. Die wenig Überlebenden siedelten sich dort mit ihren polynesischen Frauen an. Die Geschichte hat fast alles. Mord und Totschlag, verrückte Missionare und fast endlos scheinende Isolation.
 

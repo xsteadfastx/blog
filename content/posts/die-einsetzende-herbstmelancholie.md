@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, photography
 Slug: die-einsetzende-herbstmelancholie
 
-![Holga]({filename}/images/4873456826_4434964a64_b.jpg)
+![Holga]({static}/images/4873456826_4434964a64_b.jpg)
 
 So sehr man auf den Sommer hin gesehnt hat so schnell ist er dann auch
 wieder gegangen. Gestern saß ich sogar wieder mit langer Hose und

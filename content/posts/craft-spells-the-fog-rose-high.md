@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: craftspells, music
 Slug: craft-spells-the-fog-rose-high
 
-![640078]({filename}/images/640078.jpg)
+![640078]({static}/images/640078.jpg)
 
 Dank dieser Band habe ich den letzten Winter überlebt. Also Augen
 geschlossen und so...

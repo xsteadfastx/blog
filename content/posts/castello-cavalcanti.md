@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: jasonschwartzman, movies, wesanderson
 Slug: castello-cavalcanti
 
-![castellocavalcanti]({filename}/images/castellocavalcanti.jpg)
+![castellocavalcanti]({static}/images/castellocavalcanti.jpg)
 
 Ich bin ja schon heiß wie Frittenfett auf den neuen Wes Anderson Film.
 Nun hat er nochmal einen Kurzfilm mit Jason Schwartzman himself gedreht.

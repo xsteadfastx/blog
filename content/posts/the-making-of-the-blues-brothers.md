@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: bluesbrothers, documentary, movies
 Slug: the-making-of-the-blues-brothers
 
-[![cc by Rovdyr]({filename}/images/851px-Stencil_Graffiti_at_Staromiejska_Street_in_Szczecin_Poland.jpg)](https://de.wikipedia.org/w/index.php?title=Datei:Stencil_Graffiti_at_Staromiejska_Street_in_Szczecin_Poland.jpg&filetimestamp=20071124213505)
+[![cc by Rovdyr]({static}/images/851px-Stencil_Graffiti_at_Staromiejska_Street_in_Szczecin_Poland.jpg)](https://de.wikipedia.org/w/index.php?title=Datei:Stencil_Graffiti_at_Staromiejska_Street_in_Szczecin_Poland.jpg&filetimestamp=20071124213505)
 
 Das ist der Film an den ich mich am meisten erinnern kann. Seit meiner
 frühen Kindheit habe ich den Film immer und immer wieder gesehen. Viele

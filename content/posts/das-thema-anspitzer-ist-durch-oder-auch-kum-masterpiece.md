@@ -3,7 +3,7 @@ Date: 2016-05-17 13:50
 Slug: das-thema-anspitzer-ist-durch-oder-auch-kum-masterpiece
 Tags: pencils, kum
 
-![KUM Masterpiece]({filename}/images/kummasterpiece.jpg)
+![KUM Masterpiece]({static}/images/kummasterpiece.jpg)
 
 Auf meinem Schreibtisch stehen gerade 6 Anspitzer. Es wären 7 wenn ich den einen nicht wirklich immer im Rucksack bei mir tragen würde. Als ich anfing mehr mit dem Bleistift zu schreiben hätte ich niemals gedacht das es ein großes Probleme wäre einen vernünftigen und portablen Spitzer zu finden. Ich bin naiv zum Staples gefahren und habe einen Spitzer in einer Plastikdose gekauft, mit der Hoffnung diese würde dicht halten und gut spitzen. Nach 5 Tagen hatte ich dann keine Späne mehr im Behälter, sondern nur noch im Rucksack. Dann hatte ich diverse andere Spitzer die zwar den Span sicher aufbewahrt haben, die Spitze aber mehr zum Zeichnen geeignet war als zum schreiben.
 

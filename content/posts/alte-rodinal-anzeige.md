@@ -5,7 +5,7 @@ Category: post
 Tags: photography, rodinal
 Slug: alte-rodinal-anzeige
 
-![Rodinal]({filename}/images/Rodinal.jpg)
+![Rodinal]({static}/images/Rodinal.jpg)
 
 Ich finde es witzig das sie schon 1903 mit Stand-Entwicklung Werbung
 gemacht haben. Ist ja gerade in der analogen Welt der neuste heiße

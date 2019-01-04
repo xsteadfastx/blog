@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: graceland, music, paulsimon
 Slug: legacy-records-hat-es-wieder-getan-paul-simons
 
-![artworks-000023566868-r73t57-original]({filename}/images/artworks-000023566868-r73t57-original.jpg)
+![artworks-000023566868-r73t57-original]({static}/images/artworks-000023566868-r73t57-original.jpg)
 
 Legacy Records hat es wieder getan. Paul Simons "The Boy In The Bubble"
 auf Soundcloud...Graceland...was für ein Album. Gleich mal auf meinen

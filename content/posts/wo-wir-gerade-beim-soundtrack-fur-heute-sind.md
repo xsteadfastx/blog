@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: blackbirdblackbird, music
 Slug: wo-wir-gerade-beim-soundtrack-fur-heute-sind
 
-![artworks-000022145797-i54l0z-original]({filename}/images/artworks-000022145797-i54l0z-original.jpg)
+![artworks-000022145797-i54l0z-original]({static}/images/artworks-000022145797-i54l0z-original.jpg)
 
 Wo wir gerade beim Soundtrack für heute sind. BLACKBIRD BLACKBIRD hat
 mal wieder tolle Südsee Sounds genommen und in ein Chillwave Roadtrip

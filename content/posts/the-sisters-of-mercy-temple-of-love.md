@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: mtv, music, thesistersofmercy
 Slug: the-sisters-of-mercy-temple-of-love
 
-![templeoflove]({filename}/images/templeoflove.jpg)
+![templeoflove]({static}/images/templeoflove.jpg)
 
 1992! Wahnsinn! "Temple of Love" war eins der ersten Musikvideos an die
 ich mich erinnere. Zu dem Zeitpunkt war ich 8 Jahre alt. Ich fing an

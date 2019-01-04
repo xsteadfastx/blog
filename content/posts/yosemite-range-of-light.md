@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: fernweh, timelapse, yosemite
 Slug: yosemite-range-of-light
 
-![yosemite]({filename}/images/yosemite.jpg)
+![yosemite]({static}/images/yosemite.jpg)
 
 Es ist Montag. Sehen wir uns nicht alle, gerade an diesem Tag der Woche,
 nach einem Ausweg? Eine Flucht. Und das wirklich schlimme ist, es gibt

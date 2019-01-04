@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: comtruise, music
 Slug: com-truise-open
 
-![26686_125989430775536_7921455_n]({filename}/images/26686_125989430775536_7921455_n.jpg)
+![26686_125989430775536_7921455_n]({static}/images/26686_125989430775536_7921455_n.jpg)
 
 Yeah, ein neuer Track von Com Truise. Ich verfolge ja schon eine Weile
 was der Gute so macht. I like it...

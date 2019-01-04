@@ -5,7 +5,7 @@ Category: post
 Tags: photography, revueflexb
 Slug: revueflex-b
 
-![2011-09-21-122603]({filename}/images/2011-09-21-122603.jpg)
+![2011-09-21-122603]({static}/images/2011-09-21-122603.jpg)
 
 Meine Frau und ich haben diese Kamera durch Zufall erhalten. Christine
 liebt es auf Flohmärkten oder auch Wohnungsauflösungen allte Memoralien

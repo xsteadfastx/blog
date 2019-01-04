@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, upset
 Slug: upset-oxfords-and-wingtips
 
-![artworks-000057313447-7y1036-t500x500]({filename}/images/artworks-000057313447-7y1036-t500x500.jpg)
+![artworks-000057313447-7y1036-t500x500]({static}/images/artworks-000057313447-7y1036-t500x500.jpg)
 
 Upset könnte man fast als kleine Super Group bezeichnen. Schließlich
 spielen da Mitglieder von Best Coast, den Vivian Girls und Hole mit.

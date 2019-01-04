@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: dogbite, music
 Slug: dog-bite-tranquilizers
 
-![artworks-000067822111-tffetz-t500x500]({filename}/images/artworks-000067822111-tffetz-t500x500.jpg)
+![artworks-000067822111-tffetz-t500x500]({static}/images/artworks-000067822111-tffetz-t500x500.jpg)
 
 Eigentlich braucht man immer etwas Shoegaze/Dreampop um durch den Tag zu
 kommen. Das erste Album von Dog Bite mochte ich ja schon sehr. Und das

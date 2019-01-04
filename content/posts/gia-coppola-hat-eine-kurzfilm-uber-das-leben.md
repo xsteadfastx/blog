@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: giacoppola, movies, robertschwartzman
 Slug: gia-coppola-hat-eine-kurzfilm-uber-das-leben
 
-![364925]({filename}/images/364925.png)
+![364925]({static}/images/364925.png)
 
 Gia Coppola hat eine Kurzfilm über das Leben als Screenwriter in
 Hollywood gemacht. Wie gewöhnlich...großartig! Die Musik ist übrigens

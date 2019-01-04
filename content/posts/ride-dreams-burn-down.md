@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, ride
 Slug: ride-dreams-burn-down
 
-![riderbrixton]({filename}/images/riderbrixton.jpg)
+![riderbrixton]({static}/images/riderbrixton.jpg)
 
 Gerade ist es so, dass wenn ich mich vor dieses Blog setze und
 eigentlich was schreiben möchte, ich es nicht schaffe. Meine

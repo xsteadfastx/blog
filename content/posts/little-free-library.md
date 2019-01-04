@@ -5,7 +5,7 @@ Category: post
 Tags: books
 Slug: little-free-library
 
-![little-free-library2.jpg.492x0_q85_crop-smart]({filename}/images/little-free-library2.jpg.492x0_q85_crop-smart.jpg)
+![little-free-library2.jpg.492x0_q85_crop-smart]({static}/images/little-free-library2.jpg.492x0_q85_crop-smart.jpg)
 
 Es gibt so Projekte die die Welt wirklich besser machen. Zumindestens
 bilde ich es mir ein oder würde es mir sogar wünschen. Bei [Little Free

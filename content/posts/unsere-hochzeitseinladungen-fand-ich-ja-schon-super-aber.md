@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, savestheday, wedding
 Slug: unsere-hochzeitseinladungen-fand-ich-ja-schon-super-aber
 
-![580106_766015033073_50203419_34193243_1910809581_n]({filename}/images/580106_766015033073_50203419_34193243_1910809581_n.jpg)
+![580106_766015033073_50203419_34193243_1910809581_n]({static}/images/580106_766015033073_50203419_34193243_1910809581_n.jpg)
 
 Unsere Hochzeitseinladungen fand ich ja schon super...aber ein wenig bin
 ich schon traurig das mir
@@ -14,5 +14,5 @@ hier nicht eingefallen ist: Ein Hochzeits-Ripoff von dem Saves The Day
 Album-Cover "Through Being Cool". Eins der wichtigsten Alben meiner
 Jugend. Hier das Original:
 
-![tumblr_ln8ke7dqbo1qamo7fo1_500]({filename}/images/tumblr_ln8ke7dqbo1qamo7fo1_500.jpg)
+![tumblr_ln8ke7dqbo1qamo7fo1_500]({static}/images/tumblr_ln8ke7dqbo1qamo7fo1_500.jpg)
 

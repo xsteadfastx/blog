@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: bangboombang, movies, remix
 Slug: bang-boom-bang-remix
 
-![551570]({filename}/images/551570.jpg)
+![551570]({static}/images/551570.jpg)
 
 Es gab Tage an denen mein Arbeitskollege und ich nur mit Zitaten aus
 Bang Boom Bang kommuniziert haben. Neben Macho Man eigentlich der beste

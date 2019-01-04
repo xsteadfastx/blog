@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: football, fuerth
 Slug: hat-nicht-sein-sollen
 
-![wpid-img_20140518_190534_1]({filename}/images/wpid-img_20140518_190534_1.jpg)  
+![wpid-img_20140518_190534_1]({static}/images/wpid-img_20140518_190534_1.jpg)  
 
-![wpid-img_20140518_190526_1]({filename}/images/wpid-img_20140518_190526_1.jpg)
+![wpid-img_20140518_190526_1]({static}/images/wpid-img_20140518_190526_1.jpg)
 

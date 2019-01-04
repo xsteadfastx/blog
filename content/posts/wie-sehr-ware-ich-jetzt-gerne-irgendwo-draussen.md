@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, wildnothing
 Slug: wie-sehr-ware-ich-jetzt-gerne-irgendwo-draussen
 
-![73823_109326172467187_1237314_n]({filename}/images/73823_109326172467187_1237314_n.jpg)
+![73823_109326172467187_1237314_n]({static}/images/73823_109326172467187_1237314_n.jpg)
 
 Wie sehr wäre ich jetzt gerne irgendwo draussen. Dort wo es Sommer ist.
 Dort wo man abschalten kann und alles hinter sich lässt. Ich habe das

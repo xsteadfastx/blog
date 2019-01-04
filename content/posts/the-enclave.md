@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, biennale, congo, documentary, movies, theenclave
 Slug: the-enclave
 
-![theenclave]({filename}/images/theenclave.jpg)
+![theenclave]({static}/images/theenclave.jpg)
 
 Wir versuchen es gerade irgendwie zu organisieren auf die Biennale zu
 kommen. Mal schauen welchen Renter-Tourismusbus wir beglücken können mit

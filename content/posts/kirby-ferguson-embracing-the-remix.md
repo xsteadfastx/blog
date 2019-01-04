@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: apple, kirbyferguson, remix, samsung, stevejobs, ted
 Slug: kirby-ferguson-embracing-the-remix
 
-![705157]({filename}/images/705157.jpg)
+![705157]({static}/images/705157.jpg)
 
 Diesen TED-Talk hatte ich schon lange auf der Liste der zu verbloggenen
 Dinge. Heute habe ich ihn mir nochmal angeschaut und gemerkt wie wichtig

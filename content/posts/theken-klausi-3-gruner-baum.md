@@ -5,7 +5,7 @@ Category: post
 Tags: nuernberg, photography, thekenklausi
 Slug: theken-klausi-3-gruner-baum
 
-![wpid-CameraZOOM-20111221150658459]({filename}/images/wpid-CameraZOOM-20111221150658459.jpg) 
+![wpid-CameraZOOM-20111221150658459]({static}/images/wpid-CameraZOOM-20111221150658459.jpg) 
 
 Nürnberg
 

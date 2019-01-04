@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: instagram, photography, wolfsburg
 Slug: daheim
 
-![Besuch Daheim]({filename}/images/7995708630_39c8b4d043_b.jpg)
+![Besuch Daheim]({static}/images/7995708630_39c8b4d043_b.jpg)
 
 Wir hatten vor Montag nach Wolfsburg zu fahren. Das letzte mal war ich
 kurz vor dem Sommer in der Stadt in der ich aufgewachsen bin. Dort
@@ -14,9 +14,9 @@ meine komplette Vergangenheit. In jeder Straße, jedem Baum und jeder
 Ampel. In meinen Gedanken sind die verdrängten Verbindungen die man,
 glaube ich, "Daheim" nennt. Ein Spaziergang durch dieses "Daheim".
 
-![Besuch Daheim]({filename}/images/7995708202_98b0024549_b.jpg)
+![Besuch Daheim]({static}/images/7995708202_98b0024549_b.jpg)
 
-![Besuch Daheim]({filename}/images/7995707870_9eaa2c474a_b.jpg)
+![Besuch Daheim]({static}/images/7995707870_9eaa2c474a_b.jpg)
 
-![Besuch Daheim]({filename}/images/7999206545_3f0b8fe872_b.jpg)
+![Besuch Daheim]({static}/images/7999206545_3f0b8fe872_b.jpg)
 

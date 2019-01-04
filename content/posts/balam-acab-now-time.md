@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: balamacab, jamieharley, music
 Slug: balam-acab-now-time
 
-![balamacabnowtime]({filename}/images/balamacabnowtime.jpg)
+![balamacabnowtime]({static}/images/balamacabnowtime.jpg)
 
 [Jamie Harley](http://jamieharley.tumblr.com/) hat ein ganz tolles,
 verträumtes Video zu Balam Acab's Track "Now Time" gemacht. Balam Acab

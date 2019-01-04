@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: documentary, edwardnorton, nature
 Slug: of-forests-and-men
 
-![541872]({filename}/images/541872.jpg)
+![541872]({static}/images/541872.jpg)
 
 Yann Arthus-Bertrand hat eine Liebeserklärung an die Wälder dieser Welt
 gedreht. Das ganze findet innerhalb einer Umweltkampagne gleichen

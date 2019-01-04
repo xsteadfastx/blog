@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: aphextwin, art, midi
 Slug: aphex-twin-und-sein-remote-orchestra
 
-![aphextwinorchestra]({filename}/images/aphextwinorchestra.jpg)
+![aphextwinorchestra]({static}/images/aphextwinorchestra.jpg)
 
 In letzter Zeit höre ich viel Aphex Twin. Es scheint so als ob ich mein
 Jugendtrauma des Konsums des

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, marinaabramovic, ulay
 Slug: marina-abramovic-ulay-und-die-tranen
 
-![marina_ulay]({filename}/images/marina_ulay.jpg)
+![marina_ulay]({static}/images/marina_ulay.jpg)
 
 Ich habe es bis heute nicht geschafft den Dokumentarfilm "The Artist is
 Present" zu schauen. Im Fokus des Films steht die Performance gleichen

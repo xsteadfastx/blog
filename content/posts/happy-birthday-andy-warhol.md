@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: andywarhol, art, webcam
 Slug: happy-birthday-andy-warhol
 
-![927px-Warhol_grave-RZ]({filename}/images/927px-Warhol_grave-RZ.jpg)
+![927px-Warhol_grave-RZ]({static}/images/927px-Warhol_grave-RZ.jpg)
 
 Viele halten dich für überschätzt. Ich liebe deine Sachen. Heute wäre
 dein Geburtstag und zur Feier des Tages gibt es hier Testaufnahmen die

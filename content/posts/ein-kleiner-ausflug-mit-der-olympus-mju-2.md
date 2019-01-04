@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: olympusmju2, photography, rodinal
 Slug: ein-kleiner-ausflug-mit-der-olympus-mju-2
 
-![Schlacke I]({filename}/images/11834465264_526b212ba6_b.jpg)
+![Schlacke I]({static}/images/11834465264_526b212ba6_b.jpg)
 
 Es war Silvester als ich durch Zufall an einem Fotoladen vorbei kam. Ich
 dachte ich frage einfach mal nach einer gebrauchten Olympus MJU. Und
@@ -18,11 +18,11 @@ Mini II getauscht. Und wenn ich mir ein paar der Bilder anschaue, frage
 ich mich ob ich nicht doch lieber mit den Lightleaks leben hätte
 sollen...
 
-![Schlacke III]({filename}/images/11834422983_2cbfb0ec22_b.jpg)
+![Schlacke III]({static}/images/11834422983_2cbfb0ec22_b.jpg)
 
-![Schlacke II]({filename}/images/11834401953_7afacf9c4f_b.jpg)
+![Schlacke II]({static}/images/11834401953_7afacf9c4f_b.jpg)
 
-![All Glory To Hypno-Snacks]({filename}/images/11834493163_3902afbaf7_b.jpg)
+![All Glory To Hypno-Snacks]({static}/images/11834493163_3902afbaf7_b.jpg)
 
-![Happy 2014!]({filename}/images/11834640604_227d533c66_b.jpg)
+![Happy 2014!]({static}/images/11834640604_227d533c66_b.jpg)
 

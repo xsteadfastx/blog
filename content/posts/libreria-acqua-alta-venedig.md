@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: books, venice
 Slug: libreria-acqua-alta-venedig
 
-[![cc-by-nc-nd a2zphoto]({filename}/images/5710128111_9d67e84688_b.jpg)](https://secure.flickr.com/photos/ringk/5710128111/in/photostream/)
+[![cc-by-nc-nd a2zphoto]({static}/images/5710128111_9d67e84688_b.jpg)](https://secure.flickr.com/photos/ringk/5710128111/in/photostream/)
 
 Ich liebe Bücherläden und Bibliotheken. Ehrlich gesagt, alles was mit
 Bücher zu tun hat. Erst vor zwei Wochen mussten wir neue Regale für
@@ -25,11 +25,11 @@ dieser Buchladen in Venedig. Ich war zwar noch nicht da, aber die Fotos
 sind atemberaubend. Leider war uns dieser Ort im Juli noch nicht
 bekannt...
 
-[![cc-by-nc-nd a2zphoto]({filename}/images/5710691826_093b615e93_b.jpg)](https://secure.flickr.com/photos/ringk/5710691826/)
+[![cc-by-nc-nd a2zphoto]({static}/images/5710691826_093b615e93_b.jpg)](https://secure.flickr.com/photos/ringk/5710691826/)
 
 Diese Aussicht...
 
-[![cc-by-nc-sa Silvia Zaggia]({filename}/images/4748122581_c612a20094_b.jpg)](https://secure.flickr.com/photos/31349327@N05/4748122581/)
+[![cc-by-nc-sa Silvia Zaggia]({static}/images/4748122581_c612a20094_b.jpg)](https://secure.flickr.com/photos/31349327@N05/4748122581/)
 
 <iframe width="850" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=12.34027773141861%2C45.437123095881354%2C12.344250082969666%2C45.438877170396395&amp;layer=mapnik&amp;marker=45.43800013995479%2C12.342265248298645" style="border: 1px solid black"></iframe>  
 <small>[Größere Karte

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: axelspringer, google, leistungsschutzrecht, politics, presse, saschalobo
 Slug: verteidige-dein-netz
 
-![deinnetz]({filename}/images/deinnetz.jpg)
+![deinnetz]({static}/images/deinnetz.jpg)
 
 Es wird mal wieder Zeit. Politiker den man förmlich ansieht, dass man
 ihnen eine schwarze Box mit einem blickenden roten Lämpchen als "The

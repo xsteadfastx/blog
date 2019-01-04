@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: elliottsmith, music
 Slug: keep-the-things-you-forgot-uber-elliott-smith
 
-[![cc-by MacLeod]({filename}/images/Elliott_Smith_Memorial_Wall.jpg)](https://en.wikipedia.org/wiki/File:Elliott_Smith_Memorial_Wall.jpg)
+[![cc-by MacLeod]({static}/images/Elliott_Smith_Memorial_Wall.jpg)](https://en.wikipedia.org/wiki/File:Elliott_Smith_Memorial_Wall.jpg)
 
 Jetzt ist es knapp über 10 Jahre her als Elliott Smith gestorben ist.
 Ich erinnere mich gut an den Tag. Ich las darüber morgen,s vor dem

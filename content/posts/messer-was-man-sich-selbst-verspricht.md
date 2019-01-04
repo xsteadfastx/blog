@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, manuelgehrke, messer, music
 Slug: messer-was-man-sich-selbst-verspricht
 
-![messer]({filename}/images/messer.jpg)
+![messer]({static}/images/messer.jpg)
 
 Ich weiß gar nicht was ich schreiben soll. Dies ist ein Musikvideo der
 Band Messer aus Münster. Dazu läuft eine Collage aus Fotos, bewegten

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: unicorns
 Slug: unicorn-tears
 
-![unicorn tears]({filename}/images/0551_7b31_480.jpeg)
+![unicorn tears]({static}/images/0551_7b31_480.jpeg)
 
 Ich geh mal kurz ein Glas Einhorn-Tränen trinken...
 

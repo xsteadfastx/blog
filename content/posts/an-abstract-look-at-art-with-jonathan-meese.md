@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, jonathanmeese, vice
 Slug: an-abstract-look-at-art-with-jonathan-meese
 
-![949px-Meese_040308_AS]({filename}/images/949px-Meese_040308_AS.jpg)
+![949px-Meese_040308_AS]({static}/images/949px-Meese_040308_AS.jpg)
 
 Irgendwie höre ich Jonathan Meese gerne zu. Die Ameise der Kunst. Die
 Diktatur der Kunst.

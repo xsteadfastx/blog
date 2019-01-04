@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: aiweiwei, art, gangnamstyle, music, psy
 Slug: ai-weiwei-gangnam-style
 
-![aiweiweigangnam]({filename}/images/aiweiweigangnam.jpg)
+![aiweiweigangnam]({static}/images/aiweiweigangnam.jpg)
 
 PSY und der "Gangnam Style" geht eigentlich relativ reibungslos an mir
 vorbei. Ich tat es ab als Meme für Leute die sich sonst nicht mit Memen

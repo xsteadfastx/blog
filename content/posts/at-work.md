@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: nikond60, photography
 Slug: at-work
 
-![at work.]({filename}/images/8205972831_b13f653418_b.jpg)
+![at work.]({static}/images/8205972831_b13f653418_b.jpg)
 
 Jeden Tag mehr merke ich, dass ich einfach zu wenig fotografiere. Und
 seit unserem Urlaub habe ich die Kamera kaum in die Hand genommen. Ein
@@ -18,7 +18,7 @@ Gestern habe ich dann mal meine Kamera rausgeholt. Einfach um zu sehen
 ob sie noch da ist, wie sie sich anfühlt. Dabei habe ich meine Frau
 abgelichtet. Wie sie an ihrer Kunst arbeitet.
 
-![at work.]({filename}/images/8207063728_ed82e58401_b.jpg)
+![at work.]({static}/images/8207063728_ed82e58401_b.jpg)
 
-![at work.]({filename}/images/8205974027_b028599a45_b.jpg)
+![at work.]({static}/images/8205974027_b028599a45_b.jpg)
 

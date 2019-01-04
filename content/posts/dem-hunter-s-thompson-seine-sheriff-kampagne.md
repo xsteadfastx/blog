@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: aspen, huntersthompson, politics
 Slug: dem-hunter-s-thompson-seine-sheriff-kampagne
 
-![media_httpwwwdangerou_pwcvI.jpg.scaled500]({filename}/images/media_httpwwwdangerou_pwcvI.jpg.scaled500.jpg)
+![media_httpwwwdangerou_pwcvI.jpg.scaled500]({static}/images/media_httpwwwdangerou_pwcvI.jpg.scaled500.jpg)
 
 Den großartigen Hunter S. Thompson konnte man 1970 in Aspen zu Sheriff
 wählen. Zumindest kandidierte er. Er wurde von der sogenannten "Freak

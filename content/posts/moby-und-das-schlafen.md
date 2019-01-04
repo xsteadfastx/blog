@@ -3,7 +3,7 @@ Date: 2016-09-19 12:09
 Slug: moby-und-das-schlafen
 Tags: moby, music
 
-![Moby]({filename}/images/moby-calm_sleep.jpg)
+![Moby]({static}/images/moby-calm_sleep.jpg)
 
 Moby hat ein 4 Stündiges Ambient Werk freigegeben. Anscheinend hat Moby seit langem ein Problem mit dem schlafen. Diese Tracks sind für ihn eine Art Versuch zu Ruhe zu kommen.
 

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: billmurray, money
 Slug: bill-fucking-murray
 
-![f948dd54c9d911e1aee522000a1e8a5f_7]({filename}/images/f948dd54c9d911e1aee522000a1e8a5f_7.jpg)
+![f948dd54c9d911e1aee522000a1e8a5f_7]({static}/images/f948dd54c9d911e1aee522000a1e8a5f_7.jpg)
 
 So wird ganz schnell aus Lincoln auf dem fünf Dollarschein einer der
 großartigsten Schauspieler überhaupt...  

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: creativecommons, documentary, movies, piraten, thepiratebay
 Slug: the-pirate-bay-away-from-keyboard-trailer
 
-![Low-rez]({filename}/images/Low-rez.jpg)
+![Low-rez]({static}/images/Low-rez.jpg)
 
 Die Piratenbucht ist zu etwas geworden was viel größer ist als eine
 Tauschbörse von Kulturgütern. Es wurde zu einer politischen Bewegung und

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, trololo
 Slug: es-war-ein-sehr-trauriger-tag-im-internetz
 
-![344331]({filename}/images/344331.png)
+![344331]({static}/images/344331.png)
 
 Es war ein sehr trauriger Tag im Internetz...der Trololo-Guy, oder auch
 [Eduard Anatoljewitsch

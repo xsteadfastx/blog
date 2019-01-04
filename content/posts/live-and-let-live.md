@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: crowdfunding, documentary, marcpirschel, vegan
 Slug: live-and-let-live
 
-![liveandletlive]({filename}/images/liveandletlive.jpg)
+![liveandletlive]({static}/images/liveandletlive.jpg)
 
 > Live and Let Live ist ein Dokumentarfilm über unser Verhältnis zu
 > Tieren, die Geschichte des Veganismus und die ethischen, ökologischen

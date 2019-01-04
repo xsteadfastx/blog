@@ -5,5 +5,5 @@ Category: Uncategorized
 Tags: kerksiek, photography, rodinal, wolfsburg, yashicat3
 Slug: kerksiek-006
 
-![Kerksiek \#006]({filename}/images/10117827046_b8acff3a08_b.jpg)
+![Kerksiek \#006]({static}/images/10117827046_b8acff3a08_b.jpg)
 

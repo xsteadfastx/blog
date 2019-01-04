@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, wildnothing
 Slug: wild-nothing-a-dancing-shell
 
-![wildnothing-adancingshell]({filename}/images/wildnothing-adancingshell.jpg)
+![wildnothing-adancingshell]({static}/images/wildnothing-adancingshell.jpg)
 
 Ich feiere diesen Track wirklich ab. Wild Nothing verschmilzt immer mehr
 zu einem großartigsten Dreampop-Chill-New-Wave Cocktail. Passend dazu

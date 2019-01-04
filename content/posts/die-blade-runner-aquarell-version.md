@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: andersramsell, art, bladerunner, movies
 Slug: die-blade-runner-aquarell-version
 
-![blade_runner_aquarelle]({filename}/images/blade_runner_aquarelle.jpg)
+![blade_runner_aquarelle]({static}/images/blade_runner_aquarelle.jpg)
 
 Ja ich weiß. Dies wurde die letzten Tage durch jedes Blog getrieben.
 Trotzdem bleibt es Blade Runner und ich muss es hier einfach posten.

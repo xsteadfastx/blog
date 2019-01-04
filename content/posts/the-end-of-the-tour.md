@@ -3,7 +3,7 @@ Date: 2015-11-03 09:51
 Slug: the-end-of-the-tour
 Tags: davidfosterwallace, movies
 
-![Poster]({filename}/images/the_end_of_the_tour.jpg)
+![Poster]({static}/images/the_end_of_the_tour.jpg)
 
 > If your fidelity to perfectionism is too high, you never do anything.
 

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: documentary, hippie, thesource
 Slug: the-source-family
 
-![TheSourceFamily_Poster_ALT31]({filename}/images/TheSourceFamily_Poster_ALT31.jpg)
+![TheSourceFamily_Poster_ALT31]({static}/images/TheSourceFamily_Poster_ALT31.jpg)
 
 "Couln't be more hippie" beschreibt "The Source" wohl am besten. Eine
 "Sekte" entstanden aus einem vegetarischen Restaurant in Los Angeles die

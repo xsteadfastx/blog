@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: kidwise, music
 Slug: 17-musste-man-sein-und-so-tolle-musik
 
-![2616840107-1]({filename}/images/2616840107-1.jpg)
+![2616840107-1]({static}/images/2616840107-1.jpg)
 
 17 müsste man sein...und so tolle Musik machen wie
 [KIDWISE](http://kidwise.bandcamp.com/)...

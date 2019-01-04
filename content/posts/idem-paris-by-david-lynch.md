@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, davidlynch, matisse, miro, movies, paris, picasso
 Slug: idem-paris-by-david-lynch
 
-![idemparis]({filename}/images/idemparis.jpg)
+![idemparis]({static}/images/idemparis.jpg)
 
 David Lynch hat einen kleinen Kurzfilm gedreht. Er besuchte die
 Lithografie-Werkstatt "[IDEM PARIS](http://www.idemparis.com/)" um seine

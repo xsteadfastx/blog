@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: arte, books, documentary, hermanmelville, mobydick
 Slug: auf-den-spuren-von-moby-dick
 
-![Moby_Dick_final_chase]({filename}/images/Moby_Dick_final_chase.jpg)
+![Moby_Dick_final_chase]({static}/images/Moby_Dick_final_chase.jpg)
 
 Arte hat gestern eine Dokumentation über Herman Melville's Meisterwerk
 "Moby Dick" gesendet. Es geht nicht die ganze Zeit nur um Melville oder

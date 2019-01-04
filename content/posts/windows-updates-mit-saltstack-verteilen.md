@@ -3,4 +3,4 @@ Slug: windows-updates-mit-saltstack-verteilen
 Date: 2015-02-11 16:02
 Tags: saltstack, windows
 
-{% notebook windows-updates-mit-saltstack-verteilen.ipynb %}
+{% notebook notebooks/windows-updates-mit-saltstack-verteilen.ipynb %}

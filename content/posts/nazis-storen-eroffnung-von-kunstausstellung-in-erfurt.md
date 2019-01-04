@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, erfurt, politics
 Slug: nazis-storen-eroffnung-von-kunstausstellung-in-erfurt
 
-![miss-painting-kunsthausweb]({filename}/images/miss-painting-kunsthausweb.jpg)
+![miss-painting-kunsthausweb]({static}/images/miss-painting-kunsthausweb.jpg)
 
 Am 13. Juli 2012 kamm es bei einer Vernissage in Erfurt zu rechten
 Übergriffen. Es geht um die Eröffnung der Ausstellung "[miss

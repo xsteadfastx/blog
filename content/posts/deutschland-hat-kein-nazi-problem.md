@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: germany, nazis, politics
 Slug: deutschland-hat-kein-nazi-problem
 
-![rechtesland]({filename}/images/rechtesland.jpg)
+![rechtesland]({static}/images/rechtesland.jpg)
 
 Zu mindestens versucht uns das die Regierung seit Jahren klar zumachen.
 Ach was, seit Jahrzehnten wird es propagiert. Die aktuelle Regierung

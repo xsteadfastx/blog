@@ -32,7 +32,7 @@ twitterte dies:
 
 https://twitter.com/pantoffelpunk/status/387477854004719616
 
-![friedrichhaerte]({filename}/images/friedrichhaerte.jpg)
+![friedrichhaerte]({static}/images/friedrichhaerte.jpg)
 
 Arte sendete gestern die Dokumention "Festung Europa". Ich schäme mich
 in Grund und Boden...

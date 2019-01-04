@@ -7,5 +7,5 @@ Slug: wie-sagte-es-schon-mein-guter-freund-henry
 
 Wie sagte es schon mein guter Freund Henry David Thoreau...
 
-![4503_c47e_480]({filename}/images/4503_c47e_480.jpeg)
+![4503_c47e_480]({static}/images/4503_c47e_480.jpeg)
 

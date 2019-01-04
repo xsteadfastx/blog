@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: baths, music
 Slug: baths-plea
 
-![bathsplea]({filename}/images/bathsplea.jpg)
+![bathsplea]({static}/images/bathsplea.jpg)
 
 Der Arbeitstag ist fast zu Ende. Eigentlich sollten sich ein "Weekend
 Feeling" einstellen. Ich weiß nicht. Vielleicht sind meine Gedanken

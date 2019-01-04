@@ -5,7 +5,7 @@ Category: post
 Tags: archiveorg, movies
 Slug: panzerkreuzer-potemkin
 
-![Potemkinstairs]({filename}/images/Potemkinstairs.jpg)
+![Potemkinstairs]({static}/images/Potemkinstairs.jpg)
 
 Meine Frau hat es irgendwie geschafft mich in einen
 Literaturverfilmungskurs der Kunstakademie zu schleusen. Seit diesem

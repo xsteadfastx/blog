@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: creativity, slyviaplath
 Slug: the-worst-enemy-to-creativity-is-self-doubt
 
-![3046151360_a84b4b97eb_b]({filename}/images/3046151360_a84b4b97eb_b.jpg)
+![3046151360_a84b4b97eb_b]({static}/images/3046151360_a84b4b97eb_b.jpg)
 
 > “And by the way, everything in life is writable about if you have the
 > outgoing guts to do it, and the imagination to improvise. The worst

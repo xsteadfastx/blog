@@ -6,7 +6,7 @@ Tags: 23seconds, azedabooth, creativecommons, music, netlabels
 Slug: azeda-booth-tubtrek
 
 [![1.
-![1.-cover]({filename}/images/1.-cover.jpg)
+![1.-cover]({static}/images/1.-cover.jpg)
 
 Hier mal ein ganz tolles Release des [23 Seconds
 Netlabels](http://www.23seconds.org/031.htm). Azeda Booth hat dort ihre

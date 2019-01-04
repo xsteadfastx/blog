@@ -4,7 +4,7 @@ Slug: marietta-as-it-were
 Tags: emo, music, marietta
 Description: EMO YEAH
 
-Wie großartig ist es eigentlich das es in letzter Zeit wieder richtig gute Emo-Bands gibt? Ich rede jetzt nicht von den hochprodizierten-Schmink-Bands. Neuste Entdeckung von mir [Marietta](https://www.facebook.com/whereismarietta). Da schaut man das neue [Modern Baseball Video]({filename}/posts/modern-baseball-rock-bottom.md) und googelt mal dem Band-Shirt des Sängers hinterher. Auf jeden Fall super und ich freue mich noch mehr von neuen Bands zu hören.
+Wie großartig ist es eigentlich das es in letzter Zeit wieder richtig gute Emo-Bands gibt? Ich rede jetzt nicht von den hochprodizierten-Schmink-Bands. Neuste Entdeckung von mir [Marietta](https://www.facebook.com/whereismarietta). Da schaut man das neue [Modern Baseball Video]({static}/posts/modern-baseball-rock-bottom.md) und googelt mal dem Band-Shirt des Sängers hinterher. Auf jeden Fall super und ich freue mich noch mehr von neuen Bands zu hören.
 
 {% youtube wpAmooW8FLs %}
 

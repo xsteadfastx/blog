@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: beastieboys, music, pinkfloyd, pompeii, psychedelic
 Slug: pink-floyd-live-at-pompeii
 
-![477016]({filename}/images/477016.jpg)
+![477016]({static}/images/477016.jpg)
 
 Eine Stunde völliges psychedelisches Feuerwerk... Pink Floyd Live in dem
 Amphitheater in Pompeii. Ich muss ja ehrlich zugeben das ich mich an

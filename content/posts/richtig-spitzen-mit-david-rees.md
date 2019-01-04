@@ -3,7 +3,7 @@ Date: 2016-05-27 11:26
 Slug: richtig-spitzen-mit-david-rees
 Tags: davidrees, pencils, nationalgeographic
 
-![Book Cover of How to sharpen pencils]({filename}/images/how-to-sharpen-pencils.jpg)
+![Book Cover of How to sharpen pencils]({static}/images/how-to-sharpen-pencils.jpg)
 
 [David Rees](https://en.wikipedia.org/wiki/David_Rees_(cartoonist)) Namen habe ich das erste mal gelesen als ich nach Arten des Anspitzens gesucht habe. Er hat nämlich ein ganzes [Buch](http://www.amazon.com/How-Sharpen-Pencils-Theoretical-Contractors/dp/1612193269) darüber geschrieben und betreibt ein [Artisanal Pencil Sharpening](http://www.artisanalpencilsharpening.com/) Dienstleister. Nach dem ersten Video wird man sich unsicherer ob es sich dabei um eine ganz klare Satire handelt. Die Wahrheit liegt wohl irgendwo dazwischen. Man spricht hierbei von einem Buch was gleichzeitig eine Parodie ist, aber auch die technische Referenz wenn es um das Anspitzen von Bleistiften geht. David Rees scheint sich in Themen des Alltags regelrecht reinzugraben um die richtigen Wege und Methoden zu finden. Bleistifte sind das eine... er hat aber auch eine Sendung auf National Geographic mit dem Namen [Going deep with David Rees](http://channel.nationalgeographic.com/going-deep-with-david-rees/). Dort sind die Themen etwas "wie schüttel ich Hände", "wie stelle ich Eiswürfel her" oder auch "wie grabe ich ein Loch". Ich habe nun schon ein paar Folgen gesehen und fühle mich wahnsinnig amüsiert.
 

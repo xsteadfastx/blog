@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, psychedelic, youngprisms
 Slug: young-prisms-floating-in-blue
 
-![495399]({filename}/images/495399.jpg)
+![495399]({static}/images/495399.jpg)
 
 Heute mal wieder was shoegaziges...yeah!!! Und erst das psychedelische
 und grandiose Musikvideo dazu...

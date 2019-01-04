@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: baths, boilerroom, music
 Slug: baths-im-boiler-room-los-angeles
 
-![baths_boilerroom]({filename}/images/baths_boilerroom.jpg)
+![baths_boilerroom]({static}/images/baths_boilerroom.jpg)
 
 Das Rolling Stone Magazin hat letztens über Baths geschrieben, dass es
 nicht einer der bärtigen Hipster-Möchtegern-Folk-Bands ist sondern ein

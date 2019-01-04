@@ -5,7 +5,7 @@ Category: post
 Tags: diy, tshirt
 Slug: das-erste-shirt-ist-fertig
 
-![wpid-1316603407843]({filename}/images/wpid-1316603407843.jpg)
+![wpid-1316603407843]({static}/images/wpid-1316603407843.jpg)
 
 So da ist es. Das erste T-Shirt das wir mit Linoliumschnitt und
 Textilmalfarbe gedruckt haben. Es ist kein Siebdruck aber trotzdem

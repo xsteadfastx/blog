@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: kodak, movies, sofiacoppola, virginsuicides
 Slug: sofia-coppola-uber-ihre-kodak-filmauswahl
 
-![virgin_suicides2]({filename}/images/virgin_suicides2.jpg)
+![virgin_suicides2]({static}/images/virgin_suicides2.jpg)
 
 Es ist schon interessant das die Filmauswahl, mit der gedreht wird, so
 einen starken Unterschied auf die Stimmung eines Filmes nimmt. Manche

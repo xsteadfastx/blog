@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: 3dprinter, diy, vinyl
 Slug: schallplatten-einfach-ausdrucken
 
-![FCEJISKHAWSGVZT.LARGE_]({filename}/images/FCEJISKHAWSGVZT.LARGE_.jpg)
+![FCEJISKHAWSGVZT.LARGE_]({static}/images/FCEJISKHAWSGVZT.LARGE_.jpg)
 
 Musiknerds. Ich glaube ja das mit 3D-Druckern so etwas wie eine neue,
 technische Epoche aufgemacht wird. Jetzt kann man nicht nur Musik und

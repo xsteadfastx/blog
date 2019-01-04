@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: theseaandcake, tortoise
 Slug: the-sea-and-cake-weekend
 
-![theseaandcakeweekend]({filename}/images/theseaandcakeweekend.jpg)
+![theseaandcakeweekend]({static}/images/theseaandcakeweekend.jpg)
 
 In ein Video gegossene Sommerferien. Oder ein Wochenende im Sommer.
 

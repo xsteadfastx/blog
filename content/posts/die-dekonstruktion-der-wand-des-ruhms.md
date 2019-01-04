@@ -5,7 +5,7 @@ Tags: graffiti, wolfsburg, essay
 
 *Dieser Text war seit Februar in meinem Editor offen. Der Abriss der Hall of Fame in der Wolfsburger Dieselstraße und meiner Empathie ihr gegenüber, jeden Morgen auf dem Weg zur Arbeit, ließ mich daran zurück denken, was ich dort einst erlebt hatte. Ich sehe jeden Tag die Veränderungen in dieser Stadt und frage mich was Stein und Beton mit einem einem Gefühl von Zuhause gemein hat. Oft sind es genau diese leblosen Materialen, die einen umarmen wenn es kein Anderer tut.*
 
-![Dekonstruktion]({filename}/images/hall_of_fame.jpg)
+![Dekonstruktion]({static}/images/hall_of_fame.jpg)
 
 Veränderung ist unaufhaltbar, sie schmerzt und die Realisierung davon ist Teil des Erwachsenseins. Ein gelebter Stumpfsinn, nicht mehr das auf der Haut kleben zu haben was dort einmal war. Die Teenagerjahre, Hormone, alles intensiver wahrzunehmen. Nichts scheint ohne Grund in diese Welt, dieser Stadt, materialisiert worden zu sein. Jede Stumpfheit des Lichts scheint in sommerlichen Nächten nur für einen selber, für seine Sehnsüchte, die Person die neben einem sitzt, oder es eben nicht, weil sie nichts von einem weiss. Seiner Stadt die Liebe zu erweisen, die sie sonst nicht hat, das Auszudrücken in purem Vandalismus und doch nicht mutig genug alle Wände voll zu malen. Aber es gab da diese eine Wand. Schicht und Schicht wächst sich aus sich selber heraus. Lack wächst und wächst, bis das eigene Gewicht sie zum Einsturz bringt.
 

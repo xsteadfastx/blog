@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, bittorrent, internetz, thepiratebay
 Slug: the-pirate-cinema-bittorrent-kunst
 
-![thepiratecinema]({filename}/images/thepiratecinema.jpg)
+![thepiratecinema]({static}/images/thepiratecinema.jpg)
 
 Bittorrent macht einen Großteil des globalen Internet-Traffics aus. Es
 ist ein Protokoll um begehrte Dateien schneller an jeden Benutzer zu

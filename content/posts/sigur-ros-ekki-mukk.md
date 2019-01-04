@@ -5,7 +5,7 @@ Category: post
 Tags: music, sigurros
 Slug: sigur-ros-ekki-mukk
 
-![valtari]({filename}/images/valtari.jpg)
+![valtari]({static}/images/valtari.jpg)
 
 Hier gibt es eine Vorschau zum nächsten Sigur Ros Album. Ich bin ja mal
 gespannt wie ein Flitzebogen...das was ich höre und sehe gefällt mir

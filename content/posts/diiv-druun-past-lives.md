@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: diiv, music
 Slug: diiv-druun-past-lives
 
-![diiv]({filename}/images/diiv.jpg)
+![diiv]({static}/images/diiv.jpg)
 
 Mal kurz den Ärger des Tages vergessen. Die Kälte. Den Regen. Den
 anstehenden Winter. Das alles mit schmozzy, divende Musik die einen

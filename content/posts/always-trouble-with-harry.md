@@ -5,7 +5,7 @@ Category: post
 Tags: alfredhitchcock, alwaystroublewithharry, movies
 Slug: always-trouble-with-harry
 
-![harry]({filename}/images/troubleharry.png)
+![harry]({static}/images/troubleharry.png)
 
 i kind of get addicted to Hitchcock movies. it's not just the stories
 and the way he saw things...its his perfect views and aesthetics. he was

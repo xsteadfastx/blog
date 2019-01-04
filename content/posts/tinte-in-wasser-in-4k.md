@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: 4k, ink, psychedelic, water
 Slug: tinte-in-wasser-in-4k
 
-![4kfarbeinwasser]({filename}/images/4kfarbeinwasser.jpg)
+![4kfarbeinwasser]({static}/images/4kfarbeinwasser.jpg)
 
 Wie schön farbige Tinte in Wasser aussieht wenn man es in 4K-Auflösung
 aufnimmt und in psychedelischer Slowmo abspielt... i like it.

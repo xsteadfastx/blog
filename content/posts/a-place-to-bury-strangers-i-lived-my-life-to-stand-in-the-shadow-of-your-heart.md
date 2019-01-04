@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: aplacetoburystrangers, music, newyork
 Slug: a-place-to-bury-strangers-i-lived-my-life-to-stand-in-the-shadow-of-your-heart
 
-![782509]({filename}/images/782509.jpg)
+![782509]({static}/images/782509.jpg)
 
 Gerüchteweise soll "A Place To Bury Strangers" die lauteste Band New
 Yorks sein. Kein Plan. Einer der interessantesten vielleicht. Ganz weit

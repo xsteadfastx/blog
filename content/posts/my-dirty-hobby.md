@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: graffiti
 Slug: my-dirty-hobby
 
-![494988]({filename}/images/494988.jpg)
+![494988]({static}/images/494988.jpg)
 
 Wie geil muss man eigentlich sein sich selber beim Trainbombing zu
 filmen... dann gebusted zu werden... und dann auch noch folgendes

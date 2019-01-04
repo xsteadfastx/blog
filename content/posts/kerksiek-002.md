@@ -5,5 +5,5 @@ Category: Uncategorized
 Tags: kerksiek, photography, rodinal, yashicat3
 Slug: kerksiek-002
 
-![Kerksiek \#002]({filename}/images/9960480115_1171027f18_b.jpg)
+![Kerksiek \#002]({static}/images/9960480115_1171027f18_b.jpg)
 

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, books
 Slug: was-machen-wir-eigentlich-wenn-wir-keine-tankstellen
 
-![7212963614_77108288b5_c-225x300]({filename}/images/7212963614_77108288b5_c-225x300.jpg)
+![7212963614_77108288b5_c-225x300]({static}/images/7212963614_77108288b5_c-225x300.jpg)
 
 Was machen wir eigentlich wenn wir keine Tankstellen mehr brauchen? Wir
 tanken uns mit Büchern...

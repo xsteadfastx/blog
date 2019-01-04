@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, slowmagic
 Slug: slow-magic-corvette-cassette-2
 
-![slowmagicsurf]({filename}/images/slowmagicsurf.jpg)
+![slowmagicsurf]({static}/images/slowmagicsurf.jpg)
 
 Ein Quell aktuellem Herbst-Blues ist "Slow Magic" mit diesem, abgefüllt
 mit Sommer, Video zu dem Track "Corvette Cassette". Mehr kann und will

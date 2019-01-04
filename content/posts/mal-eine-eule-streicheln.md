@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: animals, owls
 Slug: mal-eine-eule-streicheln
 
-![560390]({filename}/images/560390.jpg)
+![560390]({static}/images/560390.jpg)
 
 Ihr wisst es ja... Eulen sind immer Ontopic. Und so wird es immer ein
 Traum bleiben mal so eine süße Eule zu streicheln...

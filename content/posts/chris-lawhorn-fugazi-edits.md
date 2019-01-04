@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: chrislawhorn, fugazi, music, remix
 Slug: chris-lawhorn-fugazi-edits
 
-![artworks-000031981465-pwbtky-original]({filename}/images/artworks-000031981465-pwbtky-original.jpg)
+![artworks-000031981465-pwbtky-original]({static}/images/artworks-000031981465-pwbtky-original.jpg)
 
 [Chris Lawhorn](http://www.chrislawhorn.com/) hat, mit der Erlaubnis von
 Fugazi, die komplette Discography der Band auf eine Albumlänge

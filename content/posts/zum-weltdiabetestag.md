@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: diabetes
 Slug: zum-weltdiabetestag
 
-![IMG_0022]({filename}/images/IMG_0022.jpg)
+![IMG_0022]({static}/images/IMG_0022.jpg)
 
 Jetzt bin ich schon seit einige Jahren Diabetiker. Typ 1. Damals aus
 auch von einem Israel-Urlaub wieder kam, alleine Silvester verbrachte

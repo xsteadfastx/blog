@@ -5,5 +5,5 @@ Category: Uncategorized
 Tags: photography
 Slug: man-hatte-es-fast-sommer-nennen-konnen
 
-![Dutzendteich]({filename}/images/14271431284_f8968bc682_b.jpg)
+![Dutzendteich]({static}/images/14271431284_f8968bc682_b.jpg)
 

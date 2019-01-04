@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, conspiracy, marklombardi
 Slug: mark-lombardi-kunst-und-konspiration
 
-![Global_networks_front_cover]({filename}/images/Global_networks_front_cover.jpg)
+![Global_networks_front_cover]({static}/images/Global_networks_front_cover.jpg)
 
 Über Mark Lombardi habe ich in der dOCUMENTA(13)-Ausgabe in der Monopol
 gelesen. Er hat Fakten und Informationen gesammelt und sie in großen

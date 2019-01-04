@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: antisemitism, germany, holocaust, israel, politics, tuviatenenbom
 Slug: lesung-allein-unter-deutschen
 
-![Golem_and_Loew]({filename}/images/Golem_and_Loew.jpg)
+![Golem_and_Loew]({static}/images/Golem_and_Loew.jpg)
 
 "Allein unter Deutschen" von Tuvia Tenenbom habe ich wirklich
 verschlungen und das Thema interessant "Wie sieht es eigentlich aus mit

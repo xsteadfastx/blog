@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: lizardkisses, music
 Slug: lizard-kisses-close
 
-![269126554-1]({filename}/images/269126554-1.jpg)
+![269126554-1]({static}/images/269126554-1.jpg)
 
 Gerade dieses wunderbare Video zu diesem wunderbaren Musiktitel
 gefunden. Naja, ich glaube der Herbst-Blues ist da...

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: emo, music, owls
 Slug: owls-im-surprised
 
-![artworks-000067214045-m4ersr-t500x500]({filename}/images/artworks-000067214045-m4ersr-t500x500.jpg)
+![artworks-000067214045-m4ersr-t500x500]({static}/images/artworks-000067214045-m4ersr-t500x500.jpg)
 
 Endlich mal wieder gscheiten Emo, oder so. Auf jeden Fall hätte ich nie
 gedacht das ich nochmal was neues von Owls hören würde. Eigentlich

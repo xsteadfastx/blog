@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: azedabooth, music
 Slug: azeda-booth-kensington
 
-![azedaboothkensington]({filename}/images/azedaboothkensington.jpg)
+![azedaboothkensington]({static}/images/azedaboothkensington.jpg)
 
 Ich weiß gar nicht ob es sich hierbei um ein offizielles Musikvideo von
 Azeda Booth handelt. Es untermalt aber perfekt die Musik. Und da ich

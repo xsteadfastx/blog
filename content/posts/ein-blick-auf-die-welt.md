@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: iss, nasa, space, timelapse
 Slug: ein-blick-auf-die-welt
 
-![531997]({filename}/images/531997.jpg)
+![531997]({static}/images/531997.jpg)
 
 Was für ein Ausblick man auf der ISS haben muss. Ich weiß gar nicht ob
 man da oben die Ruhe weg hat um sich auf den Ausblick einzulassen. Ganz

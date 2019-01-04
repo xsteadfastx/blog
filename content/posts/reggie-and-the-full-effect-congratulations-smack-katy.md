@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, reggieandthefulleffect
 Slug: reggie-and-the-full-effect-congratulations-smack-katy
 
-![423513]({filename}/images/423513.jpg)
+![423513]({static}/images/423513.jpg)
 
 Auch wenn es um die verbotene Liebe zwischen einem Glass Erdnussbutter
 und einem Glas Marmelade geht...es macht es nicht weniger traurig... es

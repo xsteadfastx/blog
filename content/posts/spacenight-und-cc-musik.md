@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: creativecommons, gema, music, nasa, space, spacenight
 Slug: spacenight-und-cc-musik
 
-![7611655852_cca6986290_c]({filename}/images/7611655852_cca6986290_c.jpg)
+![7611655852_cca6986290_c]({static}/images/7611655852_cca6986290_c.jpg)
 
 Kennt ihr Space Night? Ich kann mich noch an viele Nächte erinnern an
 denen ich nicht schlafen konnte und ich auf BR-Alpha dann diese Sendung

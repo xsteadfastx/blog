@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, nojoy
 Slug: no-joy
 
-![330892_10150419557767457_1540356265_o]({filename}/images/330892_10150419557767457_1540356265_o.jpg)
+![330892_10150419557767457_1540356265_o]({static}/images/330892_10150419557767457_1540356265_o.jpg)
 
 Auch wenn viele Musik gerade so daher wellenreitet gibt es nicht
 wirklich gute Shoegaze Bands. Viele springen auf den Zug von Chillwave

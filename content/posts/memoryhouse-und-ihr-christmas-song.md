@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: christmas, memoryhouse, music
 Slug: memoryhouse-und-ihr-christmas-song
 
-![a3205418858_10]({filename}/images/a3205418858_10.jpg)
+![a3205418858_10]({static}/images/a3205418858_10.jpg)
 
 Memoryhouse hat "Christmas Island" gecovert. Dreampop-Weihnachten. Da
 habe ich ja mal gar nichts dagegen. Ich als Halbtags-Grinch. Ist ja bald

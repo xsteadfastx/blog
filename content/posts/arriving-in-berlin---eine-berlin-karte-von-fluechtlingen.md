@@ -3,7 +3,7 @@ Date: 2015-10-27 10:42
 Slug: arriving-in-berlin---eine-berlin-karte-von-fluechtlingen
 Tags: refugees, openstreetmap, berlin
 
-[![Arriving in Berlin]({filename}/images/arriving_in_berlin.jpg)](http://arriving-in-berlin.de/)
+[![Arriving in Berlin]({static}/images/arriving_in_berlin.jpg)](http://arriving-in-berlin.de/)
 
 [Arriving in Berlin](http://arriving-in-berlin.de/) ist eine Karte auf der Basis von [OpenStreetMap](http://www.openstreetmap.org/) die von Flüchtlingen gestaltet werden. Das bedeutet, dass für Flüchtlinge wichtige Punkte markiert werden.
 

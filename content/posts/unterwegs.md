@@ -5,7 +5,7 @@ Category: post
 Tags: jackkerouac, literature, music, ontheroad
 Slug: unterwegs
 
-![Kerouac_by_Palumbo]({filename}/images/Kerouac_by_Palumbo.jpg)  
+![Kerouac_by_Palumbo]({static}/images/Kerouac_by_Palumbo.jpg)  
 Oder auch genannt "On The Road". Das berühmte Buch von Jack Kerouac.
 Dieses Buch gilt als die Bibel der Ewig-Nicht-Angepassten. Und das meine
 ich noch nicht einmal negativ. Sex, Drogen und Jazz und das alles auf

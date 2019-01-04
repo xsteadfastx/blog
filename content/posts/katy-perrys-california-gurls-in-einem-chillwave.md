@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: katyperry, majestyy, music
 Slug: katy-perrys-california-gurls-in-einem-chillwave
 
-![artworks-000015304469-bqsv8c-crop]({filename}/images/artworks-000015304469-bqsv8c-crop.jpg)
+![artworks-000015304469-bqsv8c-crop]({static}/images/artworks-000015304469-bqsv8c-crop.jpg)
 
 Katy Perry's "California Gurls" in einem Chillwave Remix von
 [Majestyy](http://majestyy.com/)...

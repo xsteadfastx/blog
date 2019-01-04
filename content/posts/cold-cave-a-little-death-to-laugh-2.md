@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: coldcave, deathwishinc
 Slug: cold-cave-a-little-death-to-laugh-2
 
-![alittledeathtolove]({filename}/images/alittledeathtolove.jpg)
+![alittledeathtolove]({static}/images/alittledeathtolove.jpg)
 
 Ich habe das Gefühl, dass Cold Cave immer besser und besser werden.
 Vielleicht auch ein tick düsterer. Ich mag es. Nun gibt es, langer Zeit

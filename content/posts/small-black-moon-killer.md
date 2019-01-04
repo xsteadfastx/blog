@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, smallblack
 Slug: small-black-moon-killer
 
-![small black]({filename}/images/artworks-000012008758-mz0xih-original.png)
+![small black]({static}/images/artworks-000012008758-mz0xih-original.png)
 
 Da ich ja die Befürchtung habe das wir den Sommer für dieses Jahr
 begraben können... gibt es jetzt ein schönes Mixtape von Small Black.

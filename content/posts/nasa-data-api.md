@@ -4,4 +4,4 @@ Tags: nasa, api
 Slug: nasa-data-api
 
 
-{% notebook nasa-data-api.ipynb %}
+{% notebook notebooks/nasa-data-api.ipynb %}

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: bradleymanning, ladygaga, politics, wikileaks
 Slug: lady-gaga-uber-bradley-manning
 
-![819px-Bradley_Manning_US_Army]({filename}/images/819px-Bradley_Manning_US_Army.jpg)
+![819px-Bradley_Manning_US_Army]({static}/images/819px-Bradley_Manning_US_Army.jpg)
 
 Jetzt ist es also fix. Bradley Manning wird für 35 Jahre eingeknastet.
 Wofür? Das er die Welt über Kriegsverbrechen aufgeklärt hat. Dafür das

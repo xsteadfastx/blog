@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: consume, diy, politics
 Slug: reparaturcafes-und-konsumkritik
 
-![608148]({filename}/images/608148.jpg)
+![608148]({static}/images/608148.jpg)
 
 Seit über einem Jahr versuche ich mich dem Konsum ein wenig
 einzuschränken. Ich bin da jetzt nicht wirklich Hardline und ziehe es

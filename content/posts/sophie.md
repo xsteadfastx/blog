@@ -7,5 +7,5 @@ Slug: sophie
 
 Dies ist das Patenkind meiner Frau bei ihrer ersten Geburtstagsfeier...
 
-![img419]({filename}/images/6161973973_68f8ec73b1_b.jpg)
+![img419]({static}/images/6161973973_68f8ec73b1_b.jpg)
 

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, sigurros
 Slug: seit-fast-einer-woche-habe-ich-sie-nun
 
-![Sigur_Ros_-_Valtari]({filename}/images/Sigur_Ros_-_Valtari.jpg)
+![Sigur_Ros_-_Valtari]({static}/images/Sigur_Ros_-_Valtari.jpg)
 
 Seit fast einer Woche habe ich sie nun. Meine Frau hat mir vorzeitig zu
 meinem Geburtstag "Valtari" von Sigur Ros, auf wunderschönem, schweren

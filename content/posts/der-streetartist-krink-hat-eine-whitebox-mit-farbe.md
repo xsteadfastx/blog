@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, krink
 Slug: der-streetartist-krink-hat-eine-whitebox-mit-farbe
 
-![Download1]({filename}/images/Download1.png)
+![Download1]({static}/images/Download1.png)
 
 Der Streetartist KRINK hat eine Whitebox mit Farbe aus einem
 Feuerlöscher bespritzt...i like it...

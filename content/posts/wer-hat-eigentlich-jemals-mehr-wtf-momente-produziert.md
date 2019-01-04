@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, orsonwelles, salvadordali
 Slug: wer-hat-eigentlich-jemals-mehr-wtf-momente-produziert
 
-![371367]({filename}/images/371367.png)
+![371367]({static}/images/371367.png)
 
 Wer hat eigentlich jemals mehr WTF-Momente produziert als Salvador Dali?
 Mir wurde es durch dieses filmische Selbstportrait wieder mal bewusst...

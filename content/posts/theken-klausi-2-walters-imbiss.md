@@ -5,7 +5,7 @@ Category: post
 Tags: nuernberg, photography, thekenklausi
 Slug: theken-klausi-2-walters-imbiss
 
-![wpid-1319797486184.jpg]({filename}/images/wpid-1319797486184.jpg)
+![wpid-1319797486184.jpg]({static}/images/wpid-1319797486184.jpg)
 
 Nürnberg
 

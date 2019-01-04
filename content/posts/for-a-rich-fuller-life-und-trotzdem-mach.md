@@ -5,7 +5,7 @@ Category: status
 Tags: books, reading
 Slug: for-a-rich-fuller-life-und-trotzdem-mach
 
-![0140_a32e]({filename}/images/0140_a32e.png)
+![0140_a32e]({static}/images/0140_a32e.png)
 
 for a rich, fuller life...und trotzdem mach ich es viel zu wenig...
 

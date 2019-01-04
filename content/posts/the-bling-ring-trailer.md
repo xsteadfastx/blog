@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: movies, sofiacoppola, theblingring
 Slug: the-bling-ring-trailer
 
-![Bling_ring]({filename}/images/Bling_ring.jpg)
+![Bling_ring]({static}/images/Bling_ring.jpg)
 
 Da ist er endlich: Der Trailer zu dem neuen Sofia Coppola Film "The
 Bling Ring". Der Film handelt über eine Gruppe von Teenagern die Häuser

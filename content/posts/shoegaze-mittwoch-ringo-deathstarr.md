@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, ringodeathstarr
 Slug: shoegaze-mittwoch-ringo-deathstarr
 
-![artworks-000070398290-agt5t6-t500x500]({filename}/images/artworks-000070398290-agt5t6-t500x500.jpg)
+![artworks-000070398290-agt5t6-t500x500]({static}/images/artworks-000070398290-agt5t6-t500x500.jpg)
 
 Auch wenn Soundwände fast wieder so salonfähig geworden sind wie einst
 Anfang der Achtziger, mit so Sachen wie Chillwave und unzähligen

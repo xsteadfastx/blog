@@ -3,7 +3,7 @@ Date: 2015-10-27 09:07
 Slug: die-neue-modern-baseball-ep
 Tags: music, modernbaseball
 
-![Cover]({filename}/images/modern_baseball_ep.jpg)
+![Cover]({static}/images/modern_baseball_ep.jpg)
 
 Und ich dachte ich müsste etwas länger warten auf ein neues Release von Modern Baseball. Wie aus dem Nichts kommt da diese EP die mich wohl durch diesen Herbst boxen wird. Erst vor kurzer Zeit mussten sie die Australien Tour wegen Depressionen des Sängers absagen. Nun diese EP und vielleicht irgenwann mal eine Europa Tour. Ich bin Fan.
 

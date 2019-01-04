@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: london, queen, timelapse
 Slug: fun-fact-uber-mich-eigentlich-bin-ich-ein
 
-![343351]({filename}/images/343351.png)
+![343351]({static}/images/343351.png)
 
 Fun Fact über mich...eigentlich bin ich ein verkappter Monarchist bin.
 Naja nicht wirklich. Ich schaue halt gerne Dokumentationen über das

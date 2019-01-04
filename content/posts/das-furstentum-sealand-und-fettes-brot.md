@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: fettesbrot, music, sealand
 Slug: das-furstentum-sealand-und-fettes-brot
 
-![Sealandafterfire2]({filename}/images/Sealandafterfire2.jpg)
+![Sealandafterfire2]({static}/images/Sealandafterfire2.jpg)
 
 Es gibt ja kaum eine deutsche Band die ich langweiliger finde als Fettes
 Brot. Sowas wie die U2 des deutschen "Hip-Hop". Und der einzige Grund

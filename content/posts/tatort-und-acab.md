@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: acab, tatort, tv
 Slug: tatort-und-acab
 
-[![by dokumentage]({filename}/images/tatort.jpeg)](https://twitter.com/dokumentage/status/295641906724085761)
+[![by dokumentage]({static}/images/tatort.jpeg)](https://twitter.com/dokumentage/status/295641906724085761)
 
 Nicht nur das der Tatort gestern besonders großartig war, jemand hat
 auch eine nette Botschaft als Requisite hinterlassen. "All Cats Are

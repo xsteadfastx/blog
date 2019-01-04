@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, workdrugs
 Slug: work-drugs-pluto
 
-![artworks-000025945258-qpdpat-original]({filename}/images/artworks-000025945258-qpdpat-original.jpg)
+![artworks-000025945258-qpdpat-original]({static}/images/artworks-000025945258-qpdpat-original.jpg)
 
 Ich verfolge die band Work Drugs jetzt schon eine Weile. Sie war einer
 der bands die ich über Bandcamp gefunden habe...und letzten Sommer

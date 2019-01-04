@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: hakotel, harlemshake, jerusalem, judaism, purim
 Slug: harlem-shake-an-der-klagemauer
 
-![hakotelshake]({filename}/images/hakotelshake.jpg)
+![hakotelshake]({static}/images/hakotelshake.jpg)
 
 Es gibt Sachen die passieren wenn das Purim-Fest und das
 Harlem-Shake-Meme aufeinander treffen. An Purim kann echt alles

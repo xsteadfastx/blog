@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: fluxfm, johnnyhaeusler, ollischulz, spreeblick
 Slug: johnny-spreeblick-interviewt-olli-schulz
 
-[![cc by Franz Richter]({filename}/images/980px-Olli_Schulz_0040.jpg)](http://de.wikipedia.org/w/index.php?title=Datei:Olli_Schulz_0040.JPG&filetimestamp=20120819204641)
+[![cc by Franz Richter]({static}/images/980px-Olli_Schulz_0040.jpg)](http://de.wikipedia.org/w/index.php?title=Datei:Olli_Schulz_0040.JPG&filetimestamp=20120819204641)
 
 Johnny Häusler von [Spreeblick](http://www.spreeblick.com/) hat den
 legendären Olli Schulz für seine Sendung auf FluxFM

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: documentary, movies, stepintoliquid, surfing
 Slug: step-into-liquid
 
-![432171]({filename}/images/432171.jpg)
+![432171]({static}/images/432171.jpg)
 
 Auch wenn ich leider nie surfen konnte, bin ich fasziniert von der Kunst
 des Wellenreitens. Manchmal wünschte ich mir das ich am Meer leben

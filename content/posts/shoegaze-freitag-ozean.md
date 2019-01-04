@@ -3,7 +3,7 @@ Date: 2017-01-06 11:45
 Slug: shoegaze-freitag-ozean
 Tags: music, shoegaze
 
-![Ozean]({filename}/images/ozean-ozean.jpg)
+![Ozean]({static}/images/ozean-ozean.jpg)
 
 Dank dem Hype tauchen auf einmal alte Bands auf die man selbst damals kaum kannte. Shoegaze scheint überhaupt nicht zu altern und so sind es kleine, feine Fundstücke, Schätze und Entdeckungen.
 

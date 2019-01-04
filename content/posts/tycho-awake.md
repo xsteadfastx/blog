@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, tycho
 Slug: tycho-awake
 
-![tycho]({filename}/images/tycho.jpg)
+![tycho]({static}/images/tycho.jpg)
 
 Gerade die letzten Tage habe ich viel [Tycho](http://tychomusic.com)
 gehört. Tycho ist Grafiker, Blogger und Musiker. Dreampop der doch so

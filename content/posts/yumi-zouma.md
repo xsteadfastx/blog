@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, wildnothing, yumizouma
 Slug: yumi-zouma
 
-![Yumi-Zouma]({filename}/images/Yumi-Zouma.jpg)
+![Yumi-Zouma]({static}/images/Yumi-Zouma.jpg)
 
 Ja ich weiß, mich kann man mit seichten Dreampop wirklich bekommen.
 Dieses Gefühl hervorbringen, welches sich nach einem Sommer mit 13

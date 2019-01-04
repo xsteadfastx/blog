@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: freedom, internetz, politics
 Slug: declaration-of-internet-freedom
 
-![internet freedom]({filename}/images/net-declaration.png)
+![internet freedom]({static}/images/net-declaration.png)
 
 Die EFF, Free Press, Amnesty International, Mozilla, Reddit, der
 Digitale Gesellschaft e.V. und noch einige mehr haben an einer

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: jodiesouthgate, michaelzoidis, music, nilsfrahm, olafurarnalds, psychedelic
 Slug: olafur-arnalds-nils-frahm-a2
 
-![a2]({filename}/images/a2.jpg)
+![a2]({static}/images/a2.jpg)
 
 Ist es mal wieder psychedelic Thursday? Naja...habe ich mir gerade auch
 nur ausgedacht. Aber was hier Michael Zoidis und Jodie Southgate, in

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: alexjones, nerds, radio
 Slug: nerds-are-one-of-the-most-dangerous-groups-in-this-country
 
-![nerdsdanger]({filename}/images/nerdsdanger.jpg)
+![nerdsdanger]({static}/images/nerdsdanger.jpg)
 
 Der Waffenfreund, Verschwörungstheoretiker und Radiohost [Alex
 Jones](https://en.wikipedia.org/wiki/Alex_Jones_(radio_host)) fasst das

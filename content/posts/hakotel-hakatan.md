@@ -5,7 +5,7 @@ Category: post
 Tags: israel, jerusalem, judaism
 Slug: hakotel-hakatan
 
-![764px-The_Little_Western_Wall_P6070072]({filename}/images/764px-The_Little_Western_Wall_P6070072.jpg)
+![764px-The_Little_Western_Wall_P6070072]({static}/images/764px-The_Little_Western_Wall_P6070072.jpg)
 
 Was man hier oben sieht ist die [HaKotel
 HaKatan](http://en.wikipedia.org/wiki/Little_Western_Wall) oder auch die
@@ -31,7 +31,7 @@ nervösen Fingern hielt ich die Kippah auf meinem Kopf...es war mir fast
 unmöglich sie festzuhalten. Wenn ich ehrlich bin zählt dies zu den
 größten Erlebnissen meines Lebens...mit nichts vergleichbar.
 
-![463px-Wailing_Wall_by_Gustav_Bauernfeind]({filename}/images/463px-Wailing_Wall_by_Gustav_Bauernfeind.png)
+![463px-Wailing_Wall_by_Gustav_Bauernfeind]({static}/images/463px-Wailing_Wall_by_Gustav_Bauernfeind.png)
 
 Was mir bis vor kurzem nicht klar war ist das es noch eine kleine
 Klagemauer gibt. Die Klagemauer ist das Überbleibsel der äusseren

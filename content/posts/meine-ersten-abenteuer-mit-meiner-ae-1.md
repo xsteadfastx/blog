@@ -31,15 +31,15 @@ großartigen 50mm Standardobjektiv. Also APX100 Film bei DM gekauft
 
 Das sind die ersten Ergebnisse...
 
-![img364]({filename}/images/6146528773_33499dc51d_b.jpg)
+![img364]({static}/images/6146528773_33499dc51d_b.jpg)
 
-![img380]({filename}/images/6146530349_8547eb09e6_b.jpg)
+![img380]({static}/images/6146530349_8547eb09e6_b.jpg)
 
-![img389]({filename}/images/6147080826_c4c77e7e6d_b.jpg)
+![img389]({static}/images/6147080826_c4c77e7e6d_b.jpg)
 
-![img394]({filename}/images/6146533011_55c7a013c5_b.jpg)
+![img394]({static}/images/6146533011_55c7a013c5_b.jpg)
 
-![img404]({filename}/images/6147083578_5f1a6289fc_b.jpg)
+![img404]({static}/images/6147083578_5f1a6289fc_b.jpg)
 
-![img406]({filename}/images/6146536411_4ed8343635_b.jpg)
+![img406]({static}/images/6146536411_4ed8343635_b.jpg)
 

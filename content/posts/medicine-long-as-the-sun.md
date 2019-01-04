@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: medicine, music
 Slug: medicine-long-as-the-sun
 
-![w680]({filename}/images/w680.jpg)
+![w680]({static}/images/w680.jpg)
 
 Und nach der Überraschung des neuen My Bloody Valentine Albums kommt nun
 die Nachricht das sich Medicine wieder zusammen getan haben und es im

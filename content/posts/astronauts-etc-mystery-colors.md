@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: astronautsetc, music
 Slug: astronauts-etc-mystery-colors
 
-![599835_373610862700091_1778648540_n]({filename}/images/599835_373610862700091_1778648540_n.jpg)
+![599835_373610862700091_1778648540_n]({static}/images/599835_373610862700091_1778648540_n.jpg)
 
 Der Mensch hinter diesem tollen Projekt ist eigentlich klassischer
 Pianist der dies aber wegen seiner Krankheit Arthritis fast vollständig

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: bobmould, huskerdu, music, sugar
 Slug: bob-mould-the-descent
 
-![bobmould]({filename}/images/bobmould.jpg)
+![bobmould]({static}/images/bobmould.jpg)
 
 Ich habe schon lange nicht mehr in eine Musikzeitschrift geschaut. Es
 ist noch nicht lange her da las ich regelmäßig die Spex, den Rolling

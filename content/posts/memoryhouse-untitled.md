@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: memoryhouse, music
 Slug: memoryhouse-untitled
 
-![untitledmemoryhouse]({filename}/images/untitledmemoryhouse.jpg)
+![untitledmemoryhouse]({static}/images/untitledmemoryhouse.jpg)
 
 Memoryhouse haben als kleines Dankeschön für das letzte Jahr ein
 Musikvideo veröffentlicht. Es untermalt einen, bis jetzt, unreleasten

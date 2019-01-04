@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: messiah, religion, russia, vice
 Slug: vor-ein-paar-jahren-hatte-ich-im-geo
 
-![Vissarion-bulgary]({filename}/images/Vissarion-bulgary.jpg)
+![Vissarion-bulgary]({static}/images/Vissarion-bulgary.jpg)
 
 Vor ein paar Jahren hatte ich im GEO-Magazin eine Reportage über einen
 Mann aus Russland gelesen der sich für den rück gekehrten Jesus hält. Er

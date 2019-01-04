@@ -4,7 +4,7 @@ Slug: das-tycho-burning-man-dj-set
 Tags: tycho, music, burningman
 Description: Wunderbares DJ Set von Tycho
 
-![Elsewhere]({filename}/images/tycho_burning_man_2015.jpg)
+![Elsewhere]({static}/images/tycho_burning_man_2015.jpg)
 
 So das Burning Man 2015 ist vorbei und langsam trudeln die ganzen DJ Sets auf Soundcloud ein. Dieses ist von Tycho. Könnte kaum besser sein.
 

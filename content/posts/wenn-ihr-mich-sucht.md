@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: walden
 Slug: wenn-ihr-mich-sucht
 
-![tumblr_m1zhvzBfkJ1qjpbbqo1_500]({filename}/images/tumblr_m1zhvzBfkJ1qjpbbqo1_500.jpg)
+![tumblr_m1zhvzBfkJ1qjpbbqo1_500]({static}/images/tumblr_m1zhvzBfkJ1qjpbbqo1_500.jpg)
 
 Mach ich das hier...
 

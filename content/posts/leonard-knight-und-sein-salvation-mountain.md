@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: documentary, leonardknight, salvationmountain, vice
 Slug: leonard-knight-und-sein-salvation-mountain
 
-[![cc-by-sa Joe Decruyenaere]({filename}/images/800px-Salvation_Mountain_001.jpg)](http://www.flickr.com/people/38213125@N00)
+[![cc-by-sa Joe Decruyenaere]({static}/images/800px-Salvation_Mountain_001.jpg)](http://www.flickr.com/people/38213125@N00)
 
 Leonard Knight fasziniert mich. Er ist einer dieser Menschen die einen
 so inspirieren, dass es ganz egal ist welchen Nutzen oder Erfolg

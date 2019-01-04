@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, ernsthaeckel, nature
 Slug: kunstformen-der-natur
 
-![535px-Haeckel_Discomedusae_8]({filename}/images/535px-Haeckel_Discomedusae_8.jpg)
+![535px-Haeckel_Discomedusae_8]({static}/images/535px-Haeckel_Discomedusae_8.jpg)
 
 Zwischen 1899 und 1904 erschienen zehn Bände gefüllt mit Drucken unter
 dem Titel "[Kunstformen der

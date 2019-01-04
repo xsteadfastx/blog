@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: blog, theburninghouse
 Slug: was-wurde-ich-aus-meinem-brennenden-haus-retten
 
-![Ben-R]({filename}/images/Ben-R.jpg)
+![Ben-R]({static}/images/Ben-R.jpg)
 
 Die frage stellt das [Burning House](http://theburninghouse.com/). Es
 ist ein Blog indem Fotos von Leuten veröffentlicht werden mit den

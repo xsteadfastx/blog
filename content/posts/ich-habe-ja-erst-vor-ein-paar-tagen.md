@@ -5,7 +5,7 @@ Category: status
 Tags: books
 Slug: ich-habe-ja-erst-vor-ein-paar-tagen
 
-![tumblr_l9shpniZBR1qa2txho1_500]({filename}/images/tumblr_l9shpniZBR1qa2txho1_500.jpg)
+![tumblr_l9shpniZBR1qa2txho1_500]({static}/images/tumblr_l9shpniZBR1qa2txho1_500.jpg)
 
 Ich habe ja erst vor ein paar Tagen über die [Little Free
 Library's](http://xsteadfastx.org/2012/03/30/little-free-library/)

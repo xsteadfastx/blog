@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: drones, hacking, raspberrypi
 Slug: angriff-der-zombie-drohnen
 
-[![cc-by-sa Max Braun]({filename}/images/5376776371_745dc8f877_b.jpg)](https://secure.flickr.com/photos/72645106@N00/5376776371/in/photolist-9c8ohT-8yjAXV#)
+[![cc-by-sa Max Braun]({static}/images/5376776371_745dc8f877_b.jpg)](https://secure.flickr.com/photos/72645106@N00/5376776371/in/photolist-9c8ohT-8yjAXV#)
 
 Vor ein paar Tagen krachte die
 [Meldung](http://www.heise.de/newsticker/meldung/Drohnen-sollen-Amazon-Pakete-ausliefern-2058436.html)

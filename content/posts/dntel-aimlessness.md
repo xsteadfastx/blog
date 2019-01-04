@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: djkoze, dntel, music, postalservice
 Slug: dntel-aimlessness
 
-![artworks-000024164640-5q0qzi-original]({filename}/images/artworks-000024164640-5q0qzi-original.jpg)
+![artworks-000024164640-5q0qzi-original]({static}/images/artworks-000024164640-5q0qzi-original.jpg)
 
 Heute gelesen das Dntel bald nach Nürnberg kommt. Mal wieder nach ihm
 gegoogelt und gemerkt das es völlig an mir vorbei ging das er ein neues

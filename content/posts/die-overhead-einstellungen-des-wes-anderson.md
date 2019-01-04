@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: movies, wesanderson
 Slug: die-overhead-einstellungen-des-wes-anderson
 
-![457859]({filename}/images/457859.jpg)
+![457859]({static}/images/457859.jpg)
 
 Es gibt so manche Kameraeinstellungen die charakteristisch für einen
 Regisseur sind. Bei Wes Anderson sind es, neben seiner wunderbaren

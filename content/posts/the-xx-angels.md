@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: gema, music, proxtube, psychedelic, thexx, youtube
 Slug: the-xx-angels
 
-![526941]({filename}/images/526941.jpg)
+![526941]({static}/images/526941.jpg)
 
 Ich weiß ja nie wie ich damit umgehen soll in Deutschland gesperrte
 Musikvideos hier zu posten. Eigentlich lasse ich es immer. Ich weiß halt

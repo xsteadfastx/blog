@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: anonymous, documentary, hacking, internetz, politics, wearelegion
 Slug: we-are-legion-the-story-of-the-hacktivists
 
-![WeAreLegion_Film_Poster]({filename}/images/WeAreLegion_Film_Poster.jpg)
+![WeAreLegion_Film_Poster]({static}/images/WeAreLegion_Film_Poster.jpg)
 
 Es könnte kaum eine interessante Zeit sein, als die in der wir leben.
 Und das meine ich ernst! Für mich ist das Informationszeitalter der

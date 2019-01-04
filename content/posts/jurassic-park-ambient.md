@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, douglasgordon, jurassicpark, movies
 Slug: jurassic-park-ambient
 
-[![cc-by-sa Brian Gurrola]({filename}/images/2337641515_c41cd50614_b.jpg)](https://secure.flickr.com/photos/bredgur/2337641515/)
+[![cc-by-sa Brian Gurrola]({static}/images/2337641515_c41cd50614_b.jpg)](https://secure.flickr.com/photos/bredgur/2337641515/)
 
 Auf der Suche nach passender Hintergrundmusik zum lernen, habe ich mich
 an die um 1000% gestretchte Version des von mir geliebten

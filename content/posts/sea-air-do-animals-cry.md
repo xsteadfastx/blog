@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: animals, music, seaandair
 Slug: sea-air-do-animals-cry
 
-![seaandairanimals]({filename}/images/seaandairanimals.jpg)
+![seaandairanimals]({static}/images/seaandairanimals.jpg)
 
 Und schon hätte ich fast vergessen dieses wunderschöne, von [Benedikt
 Toniolo](http://www.benedikttoniolo.de/) animierte, Musikvideo von SEA +

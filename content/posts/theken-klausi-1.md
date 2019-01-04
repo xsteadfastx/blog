@@ -5,7 +5,7 @@ Category: post
 Tags: nuernberg, photography, thekenklausi
 Slug: theken-klausi-1
 
-![wpid-CameraZOOM-20111220190813471]({filename}/images/wpid-CameraZOOM-20111220190813471.jpg)
+![wpid-CameraZOOM-20111220190813471]({static}/images/wpid-CameraZOOM-20111220190813471.jpg)
 
 Lauf an der Pegnitz
 

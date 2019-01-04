@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: books, trumancapote
 Slug: die-sucht-gebraucht-zu-werden
 
-!["Die Sucht gebraucht zu werden"]({filename}/images/9450308459_d1fd0c29b2_b.jpg)
+!["Die Sucht gebraucht zu werden"]({static}/images/9450308459_d1fd0c29b2_b.jpg)
 
 Diese Hinterlassenschaft habe ich gestern in dem Buch "Frühstück bei
 Tiffany", von Truman Capote, gefunden. Dieses hatte ich vor einiger Zeit

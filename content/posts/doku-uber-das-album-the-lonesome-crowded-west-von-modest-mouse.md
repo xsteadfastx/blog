@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: documentary, modestmouse, music
 Slug: doku-uber-das-album-the-lonesome-crowded-west-von-modest-mouse
 
-![Modest_Mouse-The_Lonesome_Crowded_West-Frontal]({filename}/images/Modest_Mouse-The_Lonesome_Crowded_West-Frontal.jpg)
+![Modest_Mouse-The_Lonesome_Crowded_West-Frontal]({static}/images/Modest_Mouse-The_Lonesome_Crowded_West-Frontal.jpg)
 
 Pitchfork dreht ja sehr feine Dokumentationen über wichtige Alben. Dies
 ist mir gestern über den Bildschirm geflackert. Modest Mouse großartiges

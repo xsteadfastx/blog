@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: bitcoin, internetz, money
 Slug: bitcoin-explained
 
-![Bitcoin]({filename}/images/Bitcoin.png)
+![Bitcoin]({static}/images/Bitcoin.png)
 
 Gerade ist ein [Bitcoin](https://de.wikipedia.org/wiki/Bitcoin) ca.
 \$193 [wert](https://mtgox.com/). Zwischenzeitlich sah es schon mal

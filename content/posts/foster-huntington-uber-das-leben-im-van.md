@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: fernweh, fosterhuntington, surfing, vans
 Slug: foster-huntington-uber-das-leben-im-van
 
-![783599]({filename}/images/783599.jpg)
+![783599]({static}/images/783599.jpg)
 
 Hier wieder etwas von dem König des Fernwehs. Foster Huntington zeigt
 sich, seinen Van und was man so braucht um im Van zu leben. Mister

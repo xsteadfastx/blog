@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: photography
 Slug: fotografie-prozesse
 
-![588434]({filename}/images/588434.jpg)
+![588434]({static}/images/588434.jpg)
 
 Das [George Eastman House](http://www.eastmanhouse.org/) hat eine
 6-teilige Minidokumentation über die verschiedenen Fotoprozesse gemacht.

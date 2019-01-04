@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: afghanistan, photography
 Slug: mein-herz-gehort-ja-der-analog-fotografie-vor
 
-![347986]({filename}/images/347986.png)
+![347986]({static}/images/347986.png)
 
 Mein Herz gehört ja der Analog-Fotografie. Vor allem auch die mit alter
 oder außergewöhnlichker Technik. Heute habe ich ein Video gefunden von

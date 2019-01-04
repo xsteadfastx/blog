@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: aiweiwei, art, josephbeuys, music
 Slug: ai-weiwei-does-metal
 
-![aiweiwei_dumbass]({filename}/images/aiweiwei_dumbass.jpg)
+![aiweiwei_dumbass]({static}/images/aiweiwei_dumbass.jpg)
 
 Ich war ja gespannt wie ein Flitzebogen wie nun das Metalalbum Ai
 Weiwei's klingen würde. Wie ernst wird er "Metal" nehmen. Dies ist ja

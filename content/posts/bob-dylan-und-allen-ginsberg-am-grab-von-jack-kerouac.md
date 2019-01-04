@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: allenginsberg, bobdylan, jackkerouac
 Slug: bob-dylan-und-allen-ginsberg-am-grab-von-jack-kerouac
 
-![Bob-Dylan-and-Allen-Ginsberg-at-Jack-Kerouacs-Grave-e1345094580496]({filename}/images/Bob-Dylan-and-Allen-Ginsberg-at-Jack-Kerouacs-Grave-e1345094580496.jpeg)
+![Bob-Dylan-and-Allen-Ginsberg-at-Jack-Kerouacs-Grave-e1345094580496]({static}/images/Bob-Dylan-and-Allen-Ginsberg-at-Jack-Kerouacs-Grave-e1345094580496.jpeg)
 
 Wie die beiden großen amerikanischen Poeten das Grab des großen Jack
 Kerouac besuchen und aus seinem Werk Mexico City Blues vorlesen...

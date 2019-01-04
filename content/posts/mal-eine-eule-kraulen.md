@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: animals, owls
 Slug: mal-eine-eule-kraulen
 
-![616547]({filename}/images/616547.jpg)
+![616547]({static}/images/616547.jpg)
 
 Wieder mal gilt: Es kann nicht genug Eulencontent geben...
 

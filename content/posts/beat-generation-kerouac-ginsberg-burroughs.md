@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: allenginsberg, arte, beatculture, books, documentary, jackkerouac, williamsburroughs
 Slug: beat-generation-kerouac-ginsberg-burroughs
 
-![Kerouac_by_Palumbo]({filename}/images/Kerouac_by_Palumbo.jpg)
+![Kerouac_by_Palumbo]({static}/images/Kerouac_by_Palumbo.jpg)
 
 Auf ARTE lief gestern eine Dokumentation über die drei großen Autoren
 der "Beat Generation". Ich weiß nicht wieso, die Zeit mit ihrer

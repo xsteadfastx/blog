@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: csu, politics, spd, zdf
 Slug: das-einzig-spannende-an-dem-slomka-gabriel-duell
 
-![gabrielslomka]({filename}/images/gabrielslomka.jpg)
+![gabrielslomka]({static}/images/gabrielslomka.jpg)
 
 Als ob Gabriel's Empörung und Slomkas Fragen nicht schon peinlich genug
 wären. Ok es war ganz nett. Man ist ja immer dankbar wenn mal etwas

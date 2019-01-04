@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: kickstarter, movies, veronicamars
 Slug: veronica-mars-film-uber-kickstarter
 
-![Veronica_Mars_2004_logo.svg_]({filename}/images/Veronica_Mars_2004_logo.svg_.png)
+![Veronica_Mars_2004_logo.svg_]({static}/images/Veronica_Mars_2004_logo.svg_.png)
 
 Ich bin gerade wirklich aus dem Häuschen. Es soll wohl wirklich
 passieren: Es soll einen Veronica Mars Film geben. Das ganze wird aber

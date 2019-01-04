@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: boehseonkelz, ollischulz, rocheundboehmermann, tv, zdfkultur
 Slug: gegen-arschlocher-kampfen
 
-![760215]({filename}/images/760215.jpg)
+![760215]({static}/images/760215.jpg)
 
 Gestern hat mein persönlicher Held Olli Schulz bei Roche & Böhmermann
 mal so richtig Dampf abgelassen. Ich konnte meinen Ohren kaum glauben

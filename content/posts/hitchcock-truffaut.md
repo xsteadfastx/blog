@@ -3,7 +3,7 @@ Date: 2015-11-17 11:27
 Slug: hitchcock-truffaut
 Tags: hitchock, truffaut, documentary, arte
 
-[![cc-by-sa Jack Mitchell]({filename}/images/hitchcock.jpg)](https://de.wikipedia.org/wiki/Datei:Alfred_Hitchcock_by_Jack_Mitchell.jpg)
+[![cc-by-sa Jack Mitchell]({static}/images/hitchcock.jpg)](https://de.wikipedia.org/wiki/Datei:Alfred_Hitchcock_by_Jack_Mitchell.jpg)
 
 Neben ganz der Tragik im Zeichen von Paris hat gestern Arte die Dokumentation [Hitchcock/Truffaut](http://www.arte.tv/guide/de/053420-000-A/hitchcock-truffaut) gesendet.
 

@@ -6,7 +6,7 @@ Tags: amandapalmer, music, neilgaiman
 Slug: an-evening-with-neil-gaiman-amanda-palmer
 
 [![An Evening With Neil Gaiman Amanda
-![An-Evening-With-Neil-Gaiman-Amanda-Palmer]({filename}/images/An-Evening-With-Neil-Gaiman-Amanda-Palmer.jpeg)
+![An-Evening-With-Neil-Gaiman-Amanda-Palmer]({static}/images/An-Evening-With-Neil-Gaiman-Amanda-Palmer.jpeg)
 
 Wenn es nicht Neil Gaiman und Amanda Palmer wären, wäre das Cover schon
 Grund genug gewesen diese Album zu kaufen. Scherenschnitt mit Tardis.

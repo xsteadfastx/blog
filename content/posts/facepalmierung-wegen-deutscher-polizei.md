@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: frankfurt, germany, photography, police, politics
 Slug: facepalmierung-wegen-deutscher-polizei
 
-![Pink-Floyd-Facepalm..-For-Psychedelic-Fails]({filename}/images/Pink-Floyd-Facepalm..-For-Psychedelic-Fails.jpg)
+![Pink-Floyd-Facepalm..-For-Psychedelic-Fails]({static}/images/Pink-Floyd-Facepalm..-For-Psychedelic-Fails.jpg)
 
 Es gibt so Sachen die darf man sich als Demokratie nicht gefallen
 lassen. Heute morgen wurden 8 Wohnungen von Fotografen durch die Polizei

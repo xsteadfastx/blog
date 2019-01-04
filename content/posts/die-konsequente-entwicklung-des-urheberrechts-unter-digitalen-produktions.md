@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, berlin, copyright, piraten
 Slug: die-konsequente-entwicklung-des-urheberrechts-unter-digitalen-produktions
 
-![0250_9d32_480]({filename}/images/0250_9d32_480.jpeg)
+![0250_9d32_480]({static}/images/0250_9d32_480.jpeg)
 
 > Die konsequente Entwicklung des Urheberrechts unter digitalen
 > Produktions- und Verbreitungsbedingungen wird vom zuständigen

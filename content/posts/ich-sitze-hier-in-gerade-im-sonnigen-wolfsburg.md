@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, workdrugs
 Slug: ich-sitze-hier-in-gerade-im-sonnigen-wolfsburg
 
-![artworks-000023729724-mx3dqo-original]({filename}/images/artworks-000023729724-mx3dqo-original.jpg)
+![artworks-000023729724-mx3dqo-original]({static}/images/artworks-000023729724-mx3dqo-original.jpg)
 
 Ich sitze hier in gerade im sonnigen Wolfsburg. Es ist so warm. Hinter
 mir liegen mit die härtesten Wochen der letzten Zeit. Und ich höre den

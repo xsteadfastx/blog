@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: arte, documentary, dreams, fernweh, jackkerouac, ontheroad
 Slug: on-jacks-road
 
-![Kerouac_by_Palumbo]({filename}/images/Kerouac_by_Palumbo.jpg)
+![Kerouac_by_Palumbo]({static}/images/Kerouac_by_Palumbo.jpg)
 
 Gerade bekommt Jack Kerouac's Werk besonders viel Medienbeachtung. Das
 liegt sehr wahrscheinlich an dem bald erscheinenden Film von Walter

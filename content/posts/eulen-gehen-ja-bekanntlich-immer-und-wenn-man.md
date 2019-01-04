@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: orangejuice, owls
 Slug: eulen-gehen-ja-bekanntlich-immer-und-wenn-man
 
-![8541_20ca]({filename}/images/8541_20ca.jpeg)
+![8541_20ca]({static}/images/8541_20ca.jpeg)
 
 Eulen gehen ja bekanntlich immer...und wenn man eine Eule auf seinen
 Orangensaft packt, kann das nur der absolute Gewinn sein...

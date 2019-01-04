@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: blankets, books, craigthompson, graphicnovel
 Slug: carnet-de-voyage-von-craig-thompson
 
-![carnet-de-voyage-cover]({filename}/images/carnet-de-voyage-cover.jpg)
+![carnet-de-voyage-cover]({static}/images/carnet-de-voyage-cover.jpg)
 
 Gerade in den letzten Wochen bin ich mehrmals in der Woche in der
 Bibliothek in Nürnberg. Und mit jedem mal mehr merke ich das ich jeden

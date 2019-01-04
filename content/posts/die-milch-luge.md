@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: graffiti, milch, vegan
 Slug: die-milch-luge
 
-![582155_426744460701123_1097707471_n]({filename}/images/582155_426744460701123_1097707471_n.jpg)
+![582155_426744460701123_1097707471_n]({static}/images/582155_426744460701123_1097707471_n.jpg)
 
 Es steht sogar an den Wänden... der ultimative TV-Tipp! Die angepriesene
 Doku ist aber wirklich gut. Sie enthält für mich keine neuen

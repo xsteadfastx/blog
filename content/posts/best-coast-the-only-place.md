@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: bestcoast, california, fernweh, music
 Slug: best-coast-the-only-place
 
-![419276]({filename}/images/419276.png)
+![419276]({static}/images/419276.png)
 
 Kalifornien und mich verbindet nicht nur der Teil meiner Familie der
 dort lebt. Ich war 2002 dort. Drei Wochen haben wir unsere Familie

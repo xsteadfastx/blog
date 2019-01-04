@@ -16,5 +16,5 @@ ansatzweise verstehen. Das dieser Lokalpatriotismus in die tiefsten
 Kreise zieht zeigt das Transparent was letzten Freitag beim Spiel 1. FC
 Nürnberg gegen Borussia Dortmund gezeigt wurden ist.
 
-![190]({filename}/images/190.jpg)
+![190]({static}/images/190.jpg)
 

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: commercial, internetexplorer, microsoft, youth
 Slug: meine-kindheit-komprimiert-in-einem-werbespot
 
-![ie90s]({filename}/images/ie90s.jpg)
+![ie90s]({static}/images/ie90s.jpg)
 
 Und das ausgerechnet in einem Werbespot von meinen alten Freunden
 Microsoft. Eigentlich müsste es die Möglichkeit geben Microsoft dafür

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, tycho, ulrichschnauss
 Slug: tycho-ascension
 
-![913756_10151629126790520_992926046_o]({filename}/images/913756_10151629126790520_992926046_o.jpg)
+![913756_10151629126790520_992926046_o]({static}/images/913756_10151629126790520_992926046_o.jpg)
 
 Es ist noch gar nicht so lange her, dass ich das erste mal von Tycho
 hörte. Ab und zu google ich nach Musikern die ich mag und hoffe das ich

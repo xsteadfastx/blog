@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: 1984, abravenewworld, fahrenheit451, georgeorwell, politics, surfing
 Slug: the-fruits-of-dystopia
 
-![639910]({filename}/images/639910.jpg)
+![639910]({static}/images/639910.jpg)
 
 Dieser Kurzfilm soll den Spaß zeigen in einer nicht perfekten Welt...
 Neben den tollen Aufnahmen ist der Film unterlegt mit Zitaten aus

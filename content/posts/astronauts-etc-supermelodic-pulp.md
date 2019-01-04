@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: astronautsetc, music, toroymoi
 Slug: astronauts-etc-supermelodic-pulp
 
-![726688270-1]({filename}/images/726688270-1.jpg)
+![726688270-1]({static}/images/726688270-1.jpg)
 
 Ich frage mich echt wo Anthony Ferraro, alias Astronauts etc., sich die
 ganzen Jahre versteckt hat. Vor ein paar Tagen hat er seine erste Ep

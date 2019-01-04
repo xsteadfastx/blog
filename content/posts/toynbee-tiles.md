@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: documentary, graffiti, justinduerr, movies, toynbee
 Slug: toynbee-tiles
 
-![1024px-Toynbee_tile_in_crosswalk_at_intersection_of_13th_and_Market_streets_Philadelphia]({filename}/images/1024px-Toynbee_tile_in_crosswalk_at_intersection_of_13th_and_Market_streets_Philadelphia.jpeg)
+![1024px-Toynbee_tile_in_crosswalk_at_intersection_of_13th_and_Market_streets_Philadelphia]({static}/images/1024px-Toynbee_tile_in_crosswalk_at_intersection_of_13th_and_Market_streets_Philadelphia.jpeg)
 
 Seit den 80er Jahren tauchen in Teilen Amerikas und Südamerikas, in den
 Asphalt eingelassene, Straßenplatten auf. Auf ihnen steht, in

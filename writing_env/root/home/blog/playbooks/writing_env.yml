@@ -7,28 +7,26 @@
 
     - name: install deps
       apk:
-        name={{ item }}
-        state=present
-        update_cache=yes
-      with_items:
-        #- g++
-        - ack
-        - ansible
-        - bash-completion
-        - ca-certificates
-        - coreutils
-        - curl
-        - gcc
-        - git
-        - grep
-        - imagemagick
-        - lftp
-        - make
-        - musl-dev
-        - nodejs
-        - python3
-        - python3-dev
-        - wget
+        state: present
+        update_cache: true
+        name:
+          - ack
+          - ansible
+          - bash-completion
+          - ca-certificates
+          - coreutils
+          - curl
+          - gcc
+          - git
+          - grep
+          - imagemagick
+          - lftp
+          - make
+          - musl-dev
+          - nodejs
+          - python3
+          - python3-dev
+          - wget
       become: yes
 
     - name: pip status
@@ -43,19 +41,20 @@
 
     - name: install pip packages
       pip:
-        name={{ item }}
-        executable=pip3
-      with_items:
-        - beautifulsoup4
-        - cookiecutter==1.4.0
-        - flickr2markdown
-        - ipython[notebook]==2.4.1
-        - jinja2-slug
-        - markdown
-        - pelican==3.7.1
-        - typogrify
-        - tzlocal
-        - virtualenv
+        executable: pip3
+        name:
+          - beautifulsoup4
+          - cookiecutter==1.4.0
+          - flickr2markdown
+          - ipython>=4.0
+          - jinja2-slug
+          - jupyter>=1.0
+          - markdown
+          - nbconvert>=4.0
+          - pelican==4.0.1
+          - typogrify
+          - tzlocal
+          - virtualenv
       become: yes
 
     - name: add flickr2markdown config

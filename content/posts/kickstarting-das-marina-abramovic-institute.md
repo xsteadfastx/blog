@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, kickstarter, ladygaga, marinaabramovic
 Slug: kickstarting-das-marina-abramovic-institute
 
-![ladygaga_abramovic]({filename}/images/ladygaga_abramovic.jpg)
+![ladygaga_abramovic]({static}/images/ladygaga_abramovic.jpg)
 
 Ich und Performancekunst. Wir haben da ein nicht so tolles Verhältnis.
 Wenn aber Marina Abramovic ein [Kickstarter

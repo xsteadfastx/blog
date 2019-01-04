@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: drwho, hacking, maxheadroom, tv
 Slug: am-22-november-1987-wurde-die-sendung-dr
 
-![396117]({filename}/images/396117.png)
+![396117]({static}/images/396117.png)
 
 Am 22. November 1987 wurde die Sendung Dr. Who unterbrochen und von
 jemanden mit einer Max Headroom Maske gehijacked. Man kann kaum was

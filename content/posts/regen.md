@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: regen, springtime
 Slug: regen
 
-![IMG_20130419_193744]({filename}/images/IMG_20130419_193744.jpg)
+![IMG_20130419_193744]({static}/images/IMG_20130419_193744.jpg)
 
 Man könnte es fast Frühling nennen. Seit fast einer Woche sind es
 draussen erträgliche Temperaturen. Nur das ich davon nicht viel

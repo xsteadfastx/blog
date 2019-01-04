@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, pegasvs
 Slug: pegasvs-la-melodia-del-afilador
 
-![pegasvs]({filename}/images/pegasvs.jpg)
+![pegasvs]({static}/images/pegasvs.jpg)
 
 Optik und Sound sind bei diesem Video, der Band
 [PEGASVS](http://pegasvs.tumblr.com/), wirklich aller erste Sahne.

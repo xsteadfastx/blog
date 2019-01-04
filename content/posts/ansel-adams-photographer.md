@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: anseladams, photography
 Slug: ansel-adams-photographer
 
-![640371]({filename}/images/640371.jpg)
+![640371]({static}/images/640371.jpg)
 
 Wie gut es tut alte Aufnahmen von der Foto-Legende [Ansel
 Adams](http://de.wikipedia.org/wiki/Ansel_Adams) bei der Arbeit zu

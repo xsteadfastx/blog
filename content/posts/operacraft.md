@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: minecraft
 Slug: operacraft
 
-![minecraftopera]({filename}/images/minecraftopera.jpg)
+![minecraftopera]({static}/images/minecraftopera.jpg)
 
 Ich bin ja kein Gamer. Ich habe das Gefühl das ich einfach zu schlecht
 dafür bin. Viel zu oft habe ich frustriert den Controller beiseite

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: animals, rainbow, whale
 Slug: wal-verspruht-regenbogen
 
-![404942]({filename}/images/404942.png)
+![404942]({static}/images/404942.png)
 
 Manche Sachen sind einfach zu wunderbar. Zum Beispiel wenn sich das von
 einem Wal gesprühte Wasser zu einem Regenbogen verwandelt...

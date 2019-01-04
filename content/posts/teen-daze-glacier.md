@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, teendaze
 Slug: teen-daze-glacier
 
-![a1119031887_10]({filename}/images/a1119031887_10.jpg)
+![a1119031887_10]({static}/images/a1119031887_10.jpg)
 
 Seit Tagen plagt mich eine Erkältung. Die Krankheit die mich spüren
 lässt, dass es das Ende des Sommers ist. Meh. Zum Glück kann man jetzt

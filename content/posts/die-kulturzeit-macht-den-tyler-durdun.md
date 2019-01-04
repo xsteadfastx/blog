@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: 3sat, adolfhitler, burschenschaften, fightclub, kulturzeit, movies, politics, tylerdurden
 Slug: die-kulturzeit-macht-den-tyler-durdun
 
-![3satfuehrer]({filename}/images/3satfuehrer.jpg)
+![3satfuehrer]({static}/images/3satfuehrer.jpg)
 
 In der Kulturzeit am 26. November ist es passiert. In einem Beitrag über
 das Treffen vom Dachverband der Burschenschaften wurde für eine 1/4

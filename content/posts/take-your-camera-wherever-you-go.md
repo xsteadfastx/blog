@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: diary, photography
 Slug: take-your-camera-wherever-you-go
 
-![tumblr_m83vrygdlx1qz6f9yo1_500]({filename}/images/tumblr_m83vrygdlx1qz6f9yo1_500.jpg)
+![tumblr_m83vrygdlx1qz6f9yo1_500]({static}/images/tumblr_m83vrygdlx1qz6f9yo1_500.jpg)
 
 Das will ich immer machen... irgendwie bin ich zu schüchtern für den
 scheiß...  

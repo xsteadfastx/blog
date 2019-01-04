@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: backtothefuture, movies
 Slug: heute-ist-die-zukunft
 
-![547993_10150925424561094_43042367_n]({filename}/images/547993_10150925424561094_43042367_n.jpg)
+![547993_10150925424561094_43042367_n]({static}/images/547993_10150925424561094_43042367_n.jpg)
 
 Heute ist die Zukunft...also laut "Zurück in die Zukunft". Und da
 "Zurück in die Zukunft" auch wichtiger ist als Deutschland...werde ich

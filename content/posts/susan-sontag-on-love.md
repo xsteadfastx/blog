@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, susansontag
 Slug: susan-sontag-on-love
 
-![sontagonlove_brainpickings]({filename}/images/sontagonlove_brainpickings.jpg)
+![sontagonlove_brainpickings]({static}/images/sontagonlove_brainpickings.jpg)
 
 Maria Popova von
 [Brainpickings](http://www.brainpickings.org/index.php/2012/08/03/susan-sontag-on-love/)

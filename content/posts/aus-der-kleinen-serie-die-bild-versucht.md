@@ -11,5 +11,5 @@ Bild](http://www.bild.de/unterhaltung/kultur/heinz-mack/heinz-mack-und-sein-bild
 alles was ich dazu sage ist "Hier verschmelzen das KOMSISCHE und das
 IRDISCHE...
 
-![Download-2]({filename}/images/Download-2.png)
+![Download-2]({static}/images/Download-2.png)
 

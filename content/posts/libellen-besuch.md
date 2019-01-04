@@ -12,11 +12,11 @@ uns besonders angetan und fing sofort an sich auf Christine zu setzen.
 Zum Glück konnte ich schnell meine Kamera holen und ein paar Fotos
 schießen.
 
-![img555]({filename}/images/6263392718_108cb4f5a8_b.jpg)
+![img555]({static}/images/6263392718_108cb4f5a8_b.jpg)
 
-![img562]({filename}/images/6262869341_3caa16f7bb_b.jpg)
+![img562]({static}/images/6262869341_3caa16f7bb_b.jpg)
 
-![img565]({filename}/images/6263395224_36403f2d02_b.jpg)
+![img565]({static}/images/6263395224_36403f2d02_b.jpg)
 
-![img569]({filename}/images/6263395732_2ea1cfffcd_b.jpg)
+![img569]({static}/images/6263395732_2ea1cfffcd_b.jpg)
 

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, thewalkmen
 Slug: einer-meine-liebsten-indie-bands-the-walkmen
 
-![walkmen]({filename}/images/walkmen.jpg)
+![walkmen]({static}/images/walkmen.jpg)
 
 Einer meine liebsten Indie Bands "The Walkmen" haben ein neues Album
 draussen. Ich mag sie einfach. Ganz fern von diesem

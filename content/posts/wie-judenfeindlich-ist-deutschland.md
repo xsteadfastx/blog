@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: antisemitism, germany, judaism, politics
 Slug: wie-judenfeindlich-ist-deutschland
 
-![DSC\_0058]({filename}/images/3132266905_5e035cb1c8_b.jpg)
+![DSC\_0058]({static}/images/3132266905_5e035cb1c8_b.jpg)
 
 Die Antwort ist "erschreckend sehr". Und hier geht es nicht um die
 offensichtlichen Anschuldigungen und Brunnenvergifter-Mythen. Wie oft

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: documentary, football, sky
 Slug: diese-ultras
 
-[![cc-by MJ Who]({filename}/images/800px-NapoliUltras1.jpg)](https://commons.wikimedia.org/wiki/File:NapoliUltras1.jpg)
+[![cc-by MJ Who]({static}/images/800px-NapoliUltras1.jpg)](https://commons.wikimedia.org/wiki/File:NapoliUltras1.jpg)
 
 Damit konnte diesmal wirklich niemand rechnen. Eine sehr gute
 Dokumentation über Ultras in Deutschland. Und das auf dem Sender Sky.

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: boing727, oregon, walden
 Slug: der-traum-im-wald-zu-leben-daruber-schreibe
 
-![wald]({filename}/images/boinghouse.png)
+![wald]({static}/images/boinghouse.png)
 
 Der Traum im Wald zu leben. Darüber schreibe ich ja öfters. Aber es gibt
 Menschen die sind da noch ein wenig extremer. Zum Beispiel Bruce

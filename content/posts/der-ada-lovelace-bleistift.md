@@ -3,7 +3,7 @@ Date: 2017-12-07 11:58
 Slug: der-ada-lovelace-bleistift
 Tags: pencils, adalovelace
 
-![Ada Lovelace]({filename}/images/ada_lovelace.jpg)
+![Ada Lovelace]({static}/images/ada_lovelace.jpg)
 
 Der [Blackwing](https://en.wikipedia.org/wiki/Blackwing_602) Bleistift der Firma [Eberhard Faber](https://en.wikipedia.org/wiki/Eberhard_Faber) ist mittlerweile ein, durch Ebay mit Gold aufzuwiegender, Mythos geworden. Erst war es nur ein Büroartikel und mit seinem Ableben und den dadurch aufschreienden Künstlern ein begehrtes, fast unbezahlbares Objekt. Es gibt Berichte von Künstlern die mehrere Tausend Euro in ihren eigenen Vorrat investiert haben. Nun produziert die Firma Palamino einen, an das Original angelehnten, Bleistift. Sie reiten die Welle der Identifikation durch Produkte ziemlich hart. 
 

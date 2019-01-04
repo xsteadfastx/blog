@@ -12,11 +12,11 @@ people cannot love analog grain. rodinal is my developer...and i hope it
 will be like that for some more years. it even survived agfa...so lets
 hope for it...
 
-![souluk]({filename}/images/6022213996_456a1b2406_b.jpg)
+![souluk]({static}/images/6022213996_456a1b2406_b.jpg)
 
-![img272]({filename}/images/6022212824_300e176a44_b.jpg)
+![img272]({static}/images/6022212824_300e176a44_b.jpg)
 
-![img269]({filename}/images/6022211768_97e16ec14f_b.jpg)
+![img269]({static}/images/6022211768_97e16ec14f_b.jpg)
 
-![img268]({filename}/images/6022209964_05a4f9fc4b_b.jpg)
+![img268]({static}/images/6022209964_05a4f9fc4b_b.jpg)
 

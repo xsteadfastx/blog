@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: cinema, doctorwho, movies, nuernberg, tv
 Slug: the-day-of-the-doctor
 
-![tardisgermanymap]({filename}/images/tardisgermanymap.jpg)
+![tardisgermanymap]({static}/images/tardisgermanymap.jpg)
 
 Ich werde immer aufgeregter. Der 23. November kommt immer näher. Und bis
 heute morgen dachte ich noch das ich die 50 Jahre Jubiläums-Episode von

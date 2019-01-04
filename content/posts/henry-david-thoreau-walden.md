@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: books, ebooks, epub, henrydavidthoreau, kindle, mobi, walden
 Slug: henry-david-thoreau-walden
 
-![Henry_David_Thoreau]({filename}/images/Henry_David_Thoreau.jpg)
+![Henry_David_Thoreau]({static}/images/Henry_David_Thoreau.jpg)
 
 Was ein Buch. Wer danach nicht die Lust verspührt sich an einem See eine
 kleine Hütte zubauen um den Alltag hinter sich zu lassen, den kann ich

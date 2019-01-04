@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, opensource, plotter, wikipedia
 Slug: die-wikipedia-als-kunst
 
-![wikipediaplotter]({filename}/images/wikipediaplotter.jpg)
+![wikipediaplotter]({static}/images/wikipediaplotter.jpg)
 
 Es ist schon lange her das ich was in der Wikipedia geschrieben habe.
 Schade eigentlich. In meinen Augen ist die Wikipedia das Werk welches

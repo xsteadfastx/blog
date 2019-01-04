@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, slowmagic
 Slug: slow-magic-corvette-cassette
 
-[![cc by Phillip Nguyen]({filename}/images/8095861312_fe1672a4e6_c.jpg)](https://secure.flickr.com/photos/pnguyen83/8095861312/)
+[![cc by Phillip Nguyen]({static}/images/8095861312_fe1672a4e6_c.jpg)](https://secure.flickr.com/photos/pnguyen83/8095861312/)
 
 Slow Magic war gerade auf Tour durch Europa und hat sogar zwei Shows in
 Deutschland gespielt. Beide sowas von aus der Reichweite das ich mich

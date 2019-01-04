@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: comtruise, music, surfing
 Slug: kleiner-nachtrag-zum-thema-surfing-und-chillwave-das
 
-![339092]({filename}/images/339092.png)
+![339092]({static}/images/339092.png)
 
 Kleiner Nachtrag zum Thema Surfing und Chillwave...das ganze sollte ein
 neues Genre werden...hier das Video zu dem Track "Sundriped" von Com

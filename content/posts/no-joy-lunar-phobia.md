@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, nojoy
 Slug: no-joy-lunar-phobia
 
-[![cc-sa Jason Persse]({filename}/images/5116716118_87459a896a_b.jpg)](https://secure.flickr.com/photos/jasonpersse/5116716118/in/photostream/)
+[![cc-sa Jason Persse]({static}/images/5116716118_87459a896a_b.jpg)](https://secure.flickr.com/photos/jasonpersse/5116716118/in/photostream/)
 
 Nachdem das Jahr von dem neuen My Bloody Valentine Album eingeleitet
 wurde, kann es nur ein großartiges Shoegaze/Dreampop Fest werden. Dabei

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, workdrugs
 Slug: work-drugs-the-art-of-progress
 
-![artworks-000027727618-lxpt3x-crop]({filename}/images/artworks-000027727618-lxpt3x-crop.jpg)
+![artworks-000027727618-lxpt3x-crop]({static}/images/artworks-000027727618-lxpt3x-crop.jpg)
 
 Gestern kamen wir um ca. 1 Uhr nach Hause. Total abgekämpft von der
 Vernissage unserer Ausstellung. Alles steckte mir in den Knochen. Doch

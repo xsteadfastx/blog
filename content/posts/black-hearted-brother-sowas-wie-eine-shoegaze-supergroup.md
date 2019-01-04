@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: blackheartedbrother, music, seefeel, shoegaze, slowdive
 Slug: black-hearted-brother-sowas-wie-eine-shoegaze-supergroup
 
-![black-hearted-brother]({filename}/images/black-hearted-brother.jpg)
+![black-hearted-brother]({static}/images/black-hearted-brother.jpg)
 
 Ich bekomme ja nicht genug von 90er Jahre Shoegaze. Gerade Slowdive tun
 es mir immer wieder an. Immer wieder kann ich ihre Platten auflegen. Sie

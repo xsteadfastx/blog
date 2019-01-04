@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: fernweh, island, music, septemberleaves
 Slug: september-leaves-auf-island
 
-![467163]({filename}/images/467163.jpg)
+![467163]({static}/images/467163.jpg)
 
 Wie lange will ich eigentlich schon nach Island? Und wenn ich diese
 Bilder sehe, gepaart mit dieser Musik, weiß ich wieso mich dieses

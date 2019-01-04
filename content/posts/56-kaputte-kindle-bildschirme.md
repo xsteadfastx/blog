@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, books, kindle
 Slug: 56-kaputte-kindle-bildschirme
 
-![725623]({filename}/images/725623.jpg)
+![725623]({static}/images/725623.jpg)
 
 Seit Jahren wiege ich ab ob ich nun wirklich ein Kindle brauche oder
 nicht. Zu sehr bin ich verliebt in Bücher. Vor allem auch alte,

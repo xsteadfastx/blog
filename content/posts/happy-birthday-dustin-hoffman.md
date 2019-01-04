@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: dustinhoffman, movies, thegraduate
 Slug: happy-birthday-dustin-hoffman
 
-![theGraduate3]({filename}/images/theGraduate3.jpg)
+![theGraduate3]({static}/images/theGraduate3.jpg)
 
 75 Jahre...wahnsinn...
 

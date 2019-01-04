@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: movies, wesanderson
 Slug: the-grand-budapest-hotel
 
-![Grand_Hotel]({filename}/images/Grand_Hotel.jpg)
+![Grand_Hotel]({static}/images/Grand_Hotel.jpg)
 
 Kurz muss ich mich aus meinem Krankenbett melden um diesen Trailer zu
 verbloggen. Und dieser hat gerade ein Lächeln auf mein Gesicht

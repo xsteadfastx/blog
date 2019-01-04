@@ -7,5 +7,5 @@ Slug: ich-glaube
 
 ...ich könnte nicht glücklicher sein...
 
-![img391]({filename}/images/6147081764_b04fd7117d_b.jpg)
+![img391]({static}/images/6147081764_b04fd7117d_b.jpg)
 

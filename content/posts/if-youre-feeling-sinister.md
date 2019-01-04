@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: belleandsebastian, documentary, music, pitchfork
 Slug: if-youre-feeling-sinister
 
-[![cc-by-sa aurélien.]({filename}/images/5781830785_48cfcec5ca_b.jpg)](https://secure.flickr.com/photos/aguichard/5781830785/)
+[![cc-by-sa aurélien.]({static}/images/5781830785_48cfcec5ca_b.jpg)](https://secure.flickr.com/photos/aguichard/5781830785/)
 
 Eigentlich sollte das Leben sich ja so anfühlen wie Belle & Sebastian
 klingen.

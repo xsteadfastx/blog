@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, graffiti, montana, shepardfairey
 Slug: shepard-faireys-montana-cans
 
-![Spay-cans-group-shots-500x333]({filename}/images/Spay-cans-group-shots-500x333.jpg)
+![Spay-cans-group-shots-500x333]({static}/images/Spay-cans-group-shots-500x333.jpg)
 
 Montana hat Shepard Fairey seine Signature-Kannen spendiert. Egal. Aber
 einfach nur schön mal in sein Atelier zu schauen...

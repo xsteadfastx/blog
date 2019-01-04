@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: timelapse
 Slug: t-recs-haben-bei-ihrem-trip-durch-amerika
 
-![400796]({filename}/images/400796.png)
+![400796]({static}/images/400796.png)
 
 [Novalapse]({% vimeo novalapse) haben bei ihrem Trip durch %}
 Amerika eins der tollsten Night-Sky-Timelapse-Videos aufgenommen die ich

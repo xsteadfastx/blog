@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: nasa, space, timelapse
 Slug: mutter-erde-in-einem-timelapse-video
 
-![earth]({filename}/images/earth.jpg)
+![earth]({static}/images/earth.jpg)
 
 Wie faszinierend der Blick auf die Erde ist. Vor allem wenn die
 Aufnahmen nachträglich aufgemotzt wurden um sie in HD genießen zu

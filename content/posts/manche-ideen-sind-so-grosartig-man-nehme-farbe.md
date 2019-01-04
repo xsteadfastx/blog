@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, edwindeen
 Slug: manche-ideen-sind-so-grosartig-man-nehme-farbe
 
-![liquid-rainbow]({filename}/images/liquid-rainbow.jpg)
+![liquid-rainbow]({static}/images/liquid-rainbow.jpg)
 
 Manche Ideen sind so großartig. Man nehme Farbe, eine white Box und
 einen Rasensprenger... fertig ist die Installation von Edwin Deen...

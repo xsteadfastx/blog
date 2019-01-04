@@ -3,7 +3,7 @@ Date: 2016-02-16 12:04
 Slug: wdr-3-kulturfeature-ueber-james-turrell
 Tags: art, jamesturrell, wdr, documentary
 
-[![Roden Crater]({filename}/images/roden_crater.jpg)](https://commons.wikimedia.org/wiki/File:Roden.jpg)
+[![Roden Crater]({static}/images/roden_crater.jpg)](https://commons.wikimedia.org/wiki/File:Roden.jpg)
 
 Das Wolfsburg Project von James Turrell hat bei mir eine bleibenden Eindruck hinterlassen. Weiß ich doch zimelich wenig von Kunst und lasse sie einfach auf mich wirken. Wie verändert sie die Atmosphere für mich, wie wirkt sie auf den Raum. James Turrell hat dieses betretbare, riesige Werk geschaffen. Stand ich drin, zog es mir fast die Schuhe aus. Das Licht und die nicht mehr warnehmbaren Wände verwandelten meine Beine in Pudding. In einer zusätzlichen Ausstellung ging es um die anderen Werke James Turrells. Dort erfuhr ich das erste mal von seinem [Roden Crater](https://de.wikipedia.org/wiki/Roden_Crater). Einen Vulkan den er in den 70ern entdeckte als er ein Atelier aus dem Flugzeug suchte. Diesen baut er seit 1974 zu einer Kathedrale für seine Kunst aus. Immer noch nicht für die Öffentlichkeit eröffnet. Ein Lebenswerk und vielleicht das größte Werk der zeitgenössischen Kunst.
 

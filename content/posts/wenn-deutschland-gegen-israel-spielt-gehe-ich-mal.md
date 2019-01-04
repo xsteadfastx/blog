@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: antisemitism, football, germany, israel, racism
 Slug: wenn-deutschland-gegen-israel-spielt-gehe-ich-mal
 
-![deutschland_israel]({filename}/images/deutschland_israel.png)
+![deutschland_israel]({static}/images/deutschland_israel.png)
 
 Wenn Deutschland gegen Israel spielt...gehe ich mal gepflegt kotzen...
 

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: internetz, paulmiller, theverge
 Slug: finding-paul-miller
 
-![findingpaulmiller]({filename}/images/findingpaulmiller.png)
+![findingpaulmiller]({static}/images/findingpaulmiller.png)
 
 Gerade in letzter Zeit frage ich mich nach dem Zusammenhang von dem
 Überfluss an Informationen und der eigenen seelischen Stabilität. Soweit

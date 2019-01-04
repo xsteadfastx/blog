@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: germanygermany, music
 Slug: germany-germany-with-you
 
-![artworks-000026082620-xla3fb-original]({filename}/images/artworks-000026082620-xla3fb-original.jpg)
+![artworks-000026082620-xla3fb-original]({static}/images/artworks-000026082620-xla3fb-original.jpg)
 
 [Germany Germany](http://grmnygrmny.com/) hat jetzt die erste Single von
 seinem neuen Album veröffentlicht... "With You" heißt der A-Seiten

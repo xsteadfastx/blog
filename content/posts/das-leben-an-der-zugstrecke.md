@@ -5,7 +5,7 @@ Category: post
 Tags: nuernberg, thoughts, trains, travel
 Slug: das-leben-an-der-zugstrecke
 
-![CameraZOOM-20120111155208632]({filename}/images/CameraZOOM-20120111155208632.jpg)  
+![CameraZOOM-20120111155208632]({static}/images/CameraZOOM-20120111155208632.jpg)  
 Als wir uns diese Wohnung am Dutzendteich in Nürnberg angesehen haben
 war uns klar das sie direkt an einer Zugstrecke lag. Der Vermieter
 versicherte uns das er auch extra die besten schallgeschützen Fenster

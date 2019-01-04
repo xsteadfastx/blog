@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: aiweiwei, art, arte, documenta, durchdienachtmit, wimdelvoye
 Slug: durch-die-nacht-mit-ai-weiwei-und-wim-delvoye
 
-![517136]({filename}/images/517136.jpg)
+![517136]({static}/images/517136.jpg)
 
 Es gibt durchaus sehr sympatische Künstler. Zwei aus dieser Abteilung
 haben eine Nacht für die Sendung "Durch die Nacht mit" verbracht... und

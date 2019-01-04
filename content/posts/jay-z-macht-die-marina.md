@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, jayz, marinaabramovic, music
 Slug: jay-z-macht-die-marina
 
-![picassobaby]({filename}/images/picassobaby.jpg)
+![picassobaby]({static}/images/picassobaby.jpg)
 
 Nach allem Anschein ist Performance-Art der neue heiße Scheiß. Zu
 mindestens wenn man sich mit Marina Abramovic schmücken kann. Zuletzt

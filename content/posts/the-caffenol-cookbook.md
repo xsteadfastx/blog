@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: caffenol, photography
 Slug: the-caffenol-cookbook
 
-[![cc by MrFredFedora]({filename}/images/6077697151_26018b584b_b.jpg)](http://www.flickr.com/photos/fredfedora/6077697151/)
+[![cc by MrFredFedora]({static}/images/6077697151_26018b584b_b.jpg)](http://www.flickr.com/photos/fredfedora/6077697151/)
 
 Die Hoffnung stirbt zu letzt. Es passieren bei analogen Fotografieren
 immer wieder großartige Sachen. Sachen die die Plastik-Photoshop-Gang
@@ -17,7 +17,7 @@ ganzen Möglichkeiten die das Entwickeln bietet. Caffenol habe ich schon
 lange auf meiner List mit Sachen die ich ausprobieren möchte. Schön das
 es jetzt dieses Ebook mit Beispielen und Anleitung gibt.
 
-![cover]({filename}/images/cover.jpg)
+![cover]({static}/images/cover.jpg)
 
 <http://www.caffenol-cookbook.com/>
 

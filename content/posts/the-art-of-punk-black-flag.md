@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, blackflag, music, punk
 Slug: the-art-of-punk-black-flag
 
-![Blackflag-logo.svg_]({filename}/images/Blackflag-logo.svg_.png)
+![Blackflag-logo.svg_]({static}/images/Blackflag-logo.svg_.png)
 
 Das Museum of Contemporary Art in Los Angeles hat vor ein paar Tagen die
 erste Folge ihrer Serie "[The Art of

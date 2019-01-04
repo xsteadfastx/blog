@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: arte, documentary, movies, teenspirit
 Slug: teen-spirit
 
-![teen-spirit]({filename}/images/0420_0f27.gif)
+![teen-spirit]({static}/images/0420_0f27.gif)
 
 Wenn ich ehrlich sein muss sind ja Teeniefilme das was ich am liebsten
 schaue. Vielleicht sind es auch einfach nur diese Identifikationsfiguren

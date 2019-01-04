@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, observerdrift
 Slug: observer-drift-corridors
 
-![794734590-1]({filename}/images/794734590-1.jpg)
+![794734590-1]({static}/images/794734590-1.jpg)
 
 Aus der Abteilung: Jemand schraubt ein wunderschönes Album bei sich im
 Kinderzimmer zusammen. Observer Drift macht verträumten Dreampop (die

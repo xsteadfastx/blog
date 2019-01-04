@@ -5,7 +5,7 @@ Category: status
 Tags: art, cameraobscura, paris, photography
 Slug: ich-hatte-schon-immer-mal-lust-eine-camera
 
-![tumblr_lzps453JAA1roezubo1_r2_1280]({filename}/images/tumblr_lzps453JAA1roezubo1_r2_1280.jpg)
+![tumblr_lzps453JAA1roezubo1_r2_1280]({static}/images/tumblr_lzps453JAA1roezubo1_r2_1280.jpg)
 
 Ich hatte schon immer mal Lust eine Camera Obscura zu bauen. Das ist
 natürlich am beeindruckendsten wenn die Projektionsfläche groß genug

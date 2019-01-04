@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: chvrches, music
 Slug: chvrches-gun
 
-![chvrches_gun]({filename}/images/chvrches_gun.jpg)
+![chvrches_gun]({static}/images/chvrches_gun.jpg)
 
 Ich bin dem Synthie Pop verfallen. Genauer gesagt CHVRCHES! Der
 Soundtrack für meinen imaginären Californien-Highschool-Abschlussball...

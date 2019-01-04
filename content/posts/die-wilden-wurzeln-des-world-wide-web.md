@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: arte, documentary, internetz
 Slug: die-wilden-wurzeln-des-world-wide-web
 
-![wildewurzlendeswww]({filename}/images/wildewurzlendeswww.jpg)
+![wildewurzlendeswww]({static}/images/wildewurzlendeswww.jpg)
 
 Ach ja, das wilde Internetz. Was würde ich den ganzen Tag ohne es
 machen? Es ist wie ein Ritt auf einer Bombe und das erträumte Utopia

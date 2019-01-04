@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, stereophonics, veronicamars
 Slug: stereophonics-dakota
 
-![dakota]({filename}/images/dakota.jpg)
+![dakota]({static}/images/dakota.jpg)
 
 Ab und zu muss man einfach alte Indie-Gassenhauer rauskramen. Als ich
 meine Ausbildung in Peine-Ost machte und jeden Tag lange mit dem Auto

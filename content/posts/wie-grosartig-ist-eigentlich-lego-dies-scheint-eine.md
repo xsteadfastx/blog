@@ -5,7 +5,7 @@ Category: status
 Tags: asterix, donaldduck, lego, schluempfe, sesamstrasse, simpsons, southpark, turtles
 Slug: wie-grosartig-ist-eigentlich-lego-dies-scheint-eine
 
-![3030_79fa_480]({filename}/images/3030_79fa_480.png)
+![3030_79fa_480]({static}/images/3030_79fa_480.png)
 
 Wie großartig ist eigentlich Lego? Dies scheint eine neue Werbekampagne
 für die bunten Klötzchen zu sein. Lego ist eh volle Popkultur Power...

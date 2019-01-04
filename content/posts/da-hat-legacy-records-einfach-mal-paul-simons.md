@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: graceland, lindaronstadt, music, paulsimon
 Slug: da-hat-legacy-records-einfach-mal-paul-simons
 
-![artworks-000023566868-r73t57-original]({filename}/images/artworks-000023566868-r73t57-original.jpg)
+![artworks-000023566868-r73t57-original]({static}/images/artworks-000023566868-r73t57-original.jpg)
 
 Da hat Legacy Records einfach mal Paul Simons "Under African Skies" bei
 Soundcloud hochgeladen. Graceland zählt zu meinen absolute

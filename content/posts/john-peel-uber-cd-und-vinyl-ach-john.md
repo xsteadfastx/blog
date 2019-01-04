@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: johnpeel, vinyl
 Slug: john-peel-uber-cd-und-vinyl-ach-john
 
-![3074_ea11_480]({filename}/images/3074_ea11_480.jpeg)
+![3074_ea11_480]({static}/images/3074_ea11_480.jpeg)
 
 John Peel über CD und Vinyl. Ach John Peel...wir vermissen dich...
 

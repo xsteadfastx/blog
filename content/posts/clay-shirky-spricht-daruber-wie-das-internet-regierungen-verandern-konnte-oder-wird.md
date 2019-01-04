@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: bundestag, clayshirky, github, linux, opensource, politics, ted
 Slug: clay-shirky-spricht-daruber-wie-das-internet-regierungen-verandern-konnte-oder-wird
 
-![internetshirky]({filename}/images/internetshirky.jpg)
+![internetshirky]({static}/images/internetshirky.jpg)
 
 Sind wir mal ehrlich. Ich habe das Gefühl das die Politik, wie sie ist,
 die letzten Zuckungen durchlebt. Zu sehr hat sich die Gesellschaft

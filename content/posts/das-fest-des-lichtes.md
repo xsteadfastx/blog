@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: chanukka, holocaust, jerusalem, judaism, kiel, yadvashem
 Slug: das-fest-des-lichtes
 
-![happy chanukka]({filename}/images/8260658301_79ba78b73b_b.jpg)
+![happy chanukka]({static}/images/8260658301_79ba78b73b_b.jpg)
 
 Heute Abend wird überall auf der Welt die vierte Kerze angezündet. Mit
 dem Schamasch sind es fünf Kerzen die aus dem Fenster heraus auf die

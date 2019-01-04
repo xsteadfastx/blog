@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: biennale, creativity, dougaitken, jackblack, liverpool, mikekelley, tildaswinton
 Slug: the-source
 
-![thesourcedemand]({filename}/images/thesourcedemand.jpg)
+![thesourcedemand]({static}/images/thesourcedemand.jpg)
 
 Die Quelle der Kreativität. Woher kommt sie? Wie entsteht sie? [Doug
 Aitken](http://en.wikipedia.org/wiki/Doug_Aitken) Installation "the

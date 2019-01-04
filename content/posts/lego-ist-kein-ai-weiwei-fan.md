@@ -3,7 +3,7 @@ Date: 2015-10-29 12:09
 Slug: lego-ist-kein-ai-weiwei-fan
 Tags: aiweiwei, art, lego
 
-[![Original: cc-by Hafenbar]({filename}/images/aiweiwei_lego.jpg)](https://de.wikipedia.org/wiki/Ai_Weiwei#/media/File:Ai_Weiwei.jpg)
+[![Original: cc-by Hafenbar]({static}/images/aiweiwei_lego.jpg)](https://de.wikipedia.org/wiki/Ai_Weiwei#/media/File:Ai_Weiwei.jpg)
 
 Zumindestens ist LEGO nicht daran interessiert das ihre Steine als Ressource für politische Kunst genutzt werden. Ai Weiwei hat vor aus LEGO-Steinen Portraits von Bürgerrechtlern zu bauen. Nach dem Bestelleingang reagierte LEGO mit vollegendem Statement:
 

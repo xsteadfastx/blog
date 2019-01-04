@@ -13,11 +13,11 @@ wenig damit rumzuprobieren. Alles nicht so einfach aber ich habe auf
 jeden Fall Lust öfters mal mein Stativ mit zunehmen und länger zu
 belichten als 1/60s...
 
-![Holga 120 WPC]({filename}/images/15566333504_2576982280_b.jpg)
+![Holga 120 WPC]({static}/images/15566333504_2576982280_b.jpg)
 
-![Holga 120 WPC]({filename}/images/16187946812_1bf1427796_b.jpg)
+![Holga 120 WPC]({static}/images/16187946812_1bf1427796_b.jpg)
 
-![Holga 120 WPC]({filename}/images/16162891806_d452a3fa85_b.jpg)
+![Holga 120 WPC]({static}/images/16162891806_d452a3fa85_b.jpg)
 
-![Holga 120 WPC]({filename}/images/16187931592_5b665fc096_b.jpg)
+![Holga 120 WPC]({static}/images/16187931592_5b665fc096_b.jpg)
 

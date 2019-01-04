@@ -4,4 +4,4 @@ Slug: mehr-apis-braucht-die-stadt-oder-ein-kleiner-hack-um-zu-sehen-wann-die-bue
 Tags: api, library
 
 
-{% notebook mehr-apis-braucht-die-stadt-oder-ein-kleiner-hack-um-zu-sehen-wann-die-buecher-zurueck-in-die-bibliothek-muessen.ipynb %}
+{% notebook notebooks/mehr-apis-braucht-die-stadt-oder-ein-kleiner-hack-um-zu-sehen-wann-die-buecher-zurueck-in-die-bibliothek-muessen.ipynb %}

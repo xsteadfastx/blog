@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, graffiti, robots, sokanno, streetart, takahiroyamaguchi
 Slug: roboter-die-die-stadte-wieder-schon-machen
 
-![colorrobot]({filename}/images/colorrobot.jpg)
+![colorrobot]({static}/images/colorrobot.jpg)
 
 In den letzten zehn Jahren hat sich die urbane Kunstfläche wieder in ein
 graues Nichts zurück verwandelt. Die Zeiten sind vorbei in denen ich mit

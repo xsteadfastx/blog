@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: documentary, kodak, photography, rodinal
 Slug: long-live-film
 
-![img391]({filename}/images/6147081764_b04fd7117d_b.jpg)
+![img391]({static}/images/6147081764_b04fd7117d_b.jpg)
 
 Ich liebe Film. Und auch wenn ich in manchen Situationen Digital zu
 schätzen weiß, bleibt Film das Material meiner Wahl. Ich glaube es ist

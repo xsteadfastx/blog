@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: beirut, music, psychedelic
 Slug: beirut-the-rip-tide
 
-![beirut-rip-tide-3]({filename}/images/beirut-rip-tide-3.jpg)
+![beirut-rip-tide-3]({static}/images/beirut-rip-tide-3.jpg)
 
 Wenn ich den Namen Rip Tide lese muss ich eigentlich zuerst an meinen
 allerliebsten Plattenladen in Braunschweig denken. Aber hier geht es um

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: bikes, newyork, squid
 Slug: squid-ist-sowas-wie-die-fahrradkurier-legende-aus
 
-![339830]({filename}/images/339830.png)
+![339830]({static}/images/339830.png)
 
 Squid ist sowas wie DIE Fahrradkurier-Legende aus New York. Hier ein
 kleiner Film über ihn...

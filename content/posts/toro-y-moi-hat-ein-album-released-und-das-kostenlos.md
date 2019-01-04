@@ -4,7 +4,7 @@ Slug: toro-y-moi-hat-ein-album-released-und-das-kostenlos
 Tags: toroymoi, music
 Description: Toro Y Moi und sein kostenloses Album "Samantha"
 
-![Samantha]({filename}/images/toro-y-moi-samantha.png)
+![Samantha]({static}/images/toro-y-moi-samantha.png)
 
 Schwupps und das lese gerade das der von mir sehr geschätzte Toro Y Moi ein neues Album rausgebracht hat. Und das kostenlos zum downloaded. Das ganze gibt es [hier auf Dropbox](https://www.dropbox.com/sh/raajg71yzjperor/AABZYn6kJ9Hzb3O7rShxABf9a?dl=0). Hier schon einmal ein Track auf Soundcloud.
 

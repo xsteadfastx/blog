@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: germanygermany, music, nuernberg
 Slug: es-ist-jetzt-fast-auf-den-tag-genau
 
-![3663822428-1]({filename}/images/3663822428-1.jpg)
+![3663822428-1]({static}/images/3663822428-1.jpg)
 
 Es ist jetzt, fast auf den Tag genau, ein Jahr her das ich hier in
 Nürnberg wohne. Ich kann es eigentlich immer noch gar nicht fassen was

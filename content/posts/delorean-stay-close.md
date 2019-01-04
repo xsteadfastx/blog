@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: delorean, music
 Slug: delorean-stay-close
 
-![deloreanstayclose]({filename}/images/deloreanstayclose.jpg)
+![deloreanstayclose]({static}/images/deloreanstayclose.jpg)
 
 Ein in Bild und Ton zementierter Wunsch nach Sommer. Danke Delorean.
 

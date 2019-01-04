@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: cassandrabrooks, nationalgeographic, timelapse
 Slug: hypnotisierendes-eisbrechen
 
-![breakingice]({filename}/images/breakingice.jpg)
+![breakingice]({static}/images/breakingice.jpg)
 
 [Cassandro Brooks](http://www.cassandrabrooks.com/) ist eine
 Wissenschaftlerin die gerade auf einem Eisbrecher unterwegs ist und

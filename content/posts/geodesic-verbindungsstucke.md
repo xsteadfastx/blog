@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: buckminsterfuller, geodisc
 Slug: geodesic-verbindungsstucke
 
-![4340956343_b380a9f852_z]({filename}/images/4340956343_b380a9f852_z.jpg)
+![4340956343_b380a9f852_z]({static}/images/4340956343_b380a9f852_z.jpg)
 
 Seitdem ich mehr über Buckminster Fuller gelesen habe will ich auch mal
 ein Geodesic Dome bauen. Irgendwie inspiriert mich Bucky... er hat so
@@ -19,7 +19,7 @@ mit allen Informationen zum "Dome" bauen. Dort hat man mal eine
 [Auflistung](http://www.domerama.com/dome-basics/geodesic-dome-hub-connectors/)
 mit möglichen Verbindungsstücken geschrieben. Danke! Also auf gehts...
 
-![geodesicconnectors]({filename}/images/geodesicconnectors.jpg)
+![geodesicconnectors]({static}/images/geodesicconnectors.jpg)
 
 ([via](http://boingboing.net/2012/06/24/list-of-geodesic-hub-connector.html),
 pic cc

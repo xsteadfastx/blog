@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: fernweh, fieldrecordings, toskana
 Slug: listen-to-the-heart-of-tuscany
 
-![737302]({filename}/images/737302.jpg)
+![737302]({static}/images/737302.jpg)
 
 Das hat mir gerade noch gefehlt. Die ersten zwei Tage am Arbeitsplatz
 trennen mich von meinem Urlaub. Unsere Zeit in der Toskana. Jeden morgen

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: archiveorg, documentary, internetz
 Slug: die-mutter-aller-archive
 
-![archiveorg]({filename}/images/archiveorg.jpg)
+![archiveorg]({static}/images/archiveorg.jpg)
 
 Es ist der erste Teil einer Dokumentation über
 [Archive.org](http://archive.org) erschienen. Archive.org hat es sich

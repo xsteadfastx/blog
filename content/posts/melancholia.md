@@ -5,7 +5,7 @@ Category: post
 Tags: kirstendunst, larsvontrier, melancholia, movies
 Slug: melancholia
 
-![Melancholia_Poster]({filename}/images/Melancholia_Poster.jpg)Eigentlich
+![Melancholia_Poster]({static}/images/Melancholia_Poster.jpg)Eigentlich
 war ich mir überhaupt nicht sicher ob ich mich auf diesem Film wirklich
 freuen sollte. Es gibt mehrere Gründe die mich aufgeben ließen. Ich mag
 Filme die fern ab von Hollywood funktionieren, ich mag Kirsten Dunst und

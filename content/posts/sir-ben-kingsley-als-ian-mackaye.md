@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: iammackaye, minorthreat, movies, music, sirbenkingsley
 Slug: sir-ben-kingsley-als-ian-mackaye
 
-![benkingsleyminorthreat]({filename}/images/benkingsleyminorthreat.jpg)
+![benkingsleyminorthreat]({static}/images/benkingsleyminorthreat.jpg)
 
 Und dann kam der Zeitpunkt als Sir Ben Kingsley als Ian MacKaye Minor
 Threat featured...

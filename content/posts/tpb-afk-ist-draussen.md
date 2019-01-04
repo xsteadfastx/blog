@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: documentary, thepiratebay
 Slug: tpb-afk-ist-draussen
 
-![Low-rez]({filename}/images/Low-rez.jpg)
+![Low-rez]({static}/images/Low-rez.jpg)
 
 Endlich ist er online. [TPB AFK](http://watch.tpbafk.tv/), der
 Dokumentarfilm über The Pirate Bay und ihre drei, auf der Anklagebank

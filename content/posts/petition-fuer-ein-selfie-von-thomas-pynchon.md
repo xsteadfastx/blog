@@ -3,7 +3,7 @@ Date: 2015-11-10 12:27
 Slug: petition-fuer-ein-selfie-von-thomas-pynchon
 Tags: thomaspynchon, books
 
-![Thomas Pynchon]({filename}/images/simpson_pynchon.jpg)
+![Thomas Pynchon]({static}/images/simpson_pynchon.jpg)
 
 Aus der Abteilung "Petitionen die die Welt braucht". Eine [Petition](https://www.change.org/p/barack-obama-thomas-pynchon-must-post-a-selfie-on-instagram) an Barack Obama der sich darum kümmern soll, dass Thomas Pynchon einen Instagram Account eröffnent und Selfies posten soll. Wird sicher passiert... nicht.
 

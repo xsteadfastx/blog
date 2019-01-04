@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: alfredhitchcock, movies, psychedelic
 Slug: psycho-trailer
 
-![psycho]({filename}/images/psycho.jpg)
+![psycho]({static}/images/psycho.jpg)
 
 Ich stimme mich schon langsam auf den neuen Hitchcock Film ein.
 Hitchcock war ja immer für seine großartigen Trailer bekannt. Es waren

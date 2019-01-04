@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: brittariley, diy, nature, republica, windowfarms
 Slug: wer-mich-kennt-weis-wie-wichtig-mir-nahrung
 
-![5122491825_8be955bcc0_z]({filename}/images/5122491825_8be955bcc0_z.jpg)
+![5122491825_8be955bcc0_z]({static}/images/5122491825_8be955bcc0_z.jpg)
 
 Wer mich kennt weiß wie wichtig mir Nahrung, die Welt und Mutter Natur
 wichtig ist. Was mich nervt ist der

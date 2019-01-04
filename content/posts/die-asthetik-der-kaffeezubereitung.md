@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: coffee
 Slug: die-asthetik-der-kaffeezubereitung
 
-![coffeelove]({filename}/images/coffeelove.jpg)
+![coffeelove]({static}/images/coffeelove.jpg)
 
 Das schöne an dem Kaffeezubereitungsprozess sind die Einzelheiten die
 man beachten muss oder beachten kann. Geht es nach den Kaffee-Nerds kann

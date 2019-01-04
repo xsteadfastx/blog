@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, washedout
 Slug: washed-out-it-all-feels-right
 
-![washedout_itallfeelsright]({filename}/images/washedout_itallfeelsright.jpg)
+![washedout_itallfeelsright]({static}/images/washedout_itallfeelsright.jpg)
 
 Endlich hört man mal was vom neuen Washed Out Album. Der Teaser war
 super und jetzt wurde der komplette Track "It All Feels Right"

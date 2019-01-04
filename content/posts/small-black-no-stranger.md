@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: beforesunrise, music, smallblack
 Slug: small-black-no-stranger
 
-![smallblack_nostranger]({filename}/images/smallblack_nostranger.jpg)
+![smallblack_nostranger]({static}/images/smallblack_nostranger.jpg)
 
 Ich wollte dieses Video schon seit einiger Zeit posten. Irgendwie kam
 ich nicht dazu. Nachdem ich es jetzt gefühlte hundertmal gesehen habe,

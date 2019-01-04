@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: titanic, twitter
 Slug: ich-fasse-es-nicht-anscheinend-gibt-es-leute
 
-![557430942]({filename}/images/557430942.jpg)
+![557430942]({static}/images/557430942.jpg)
 
 Ich fasse es nicht...anscheinend gibt es Leute die nicht wussten das es
 die Titanic wirklich gab...meine Fresse...

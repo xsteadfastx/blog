@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: giraffage, music
 Slug: giraffage-comfort
 
-![325047_469215959769162_664813745_o]({filename}/images/325047_469215959769162_664813745_o.jpg)
+![325047_469215959769162_664813745_o]({static}/images/325047_469215959769162_664813745_o.jpg)
 
 Wie lange habe ich nach Sommer geschrien, mich gedanklich in der Wärme
 gesonnt. Nun ist es so warm das es schon fast unerträglich ist! Heute

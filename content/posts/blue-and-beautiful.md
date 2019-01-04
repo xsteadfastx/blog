@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: melodysheep, music, nasa, neilarmstrong, science, space
 Slug: blue-and-beautiful
 
-![blueandbeautiful]({filename}/images/blueandbeautiful.jpg)
+![blueandbeautiful]({static}/images/blueandbeautiful.jpg)
 
 "What does the sky acutally look like?". Diese Frage stellte die BBC
 Neil Armstrong und aus der damals entstandenen Antwort hat

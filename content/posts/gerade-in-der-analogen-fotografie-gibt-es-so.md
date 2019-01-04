@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: photography
 Slug: gerade-in-der-analogen-fotografie-gibt-es-so
 
-![640px-Boulevard_du_Temple_by_Daguerre]({filename}/images/640px-Boulevard_du_Temple_by_Daguerre.jpg)
+![640px-Boulevard_du_Temple_by_Daguerre]({static}/images/640px-Boulevard_du_Temple_by_Daguerre.jpg)
 
 Gerade in der analogen Fotografie gibt es so viel Techniken und
 Prozesse... heute habe ich über die

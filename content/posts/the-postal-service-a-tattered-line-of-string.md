@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, reunions, thepostalservice
 Slug: the-postal-service-a-tattered-line-of-string
 
-![postal-service-a-tattered-line-of-string-e1360608792758]({filename}/images/postal-service-a-tattered-line-of-string-e1360608792758.jpeg)
+![postal-service-a-tattered-line-of-string-e1360608792758]({static}/images/postal-service-a-tattered-line-of-string-e1360608792758.jpeg)
 
 Eigentlich waren The Postal Service immer mein Beispiel für eine
 großartige Band die ein Album rausbrachte, welches mir die Welt

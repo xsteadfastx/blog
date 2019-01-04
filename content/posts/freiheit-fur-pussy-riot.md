@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: politics, pussyriot, putin, russia
 Slug: freiheit-fur-pussy-riot
 
-![Az678Y0CIAAQOpW]({filename}/images/Az678Y0CIAAQOpW.jpg)
+![Az678Y0CIAAQOpW]({static}/images/Az678Y0CIAAQOpW.jpg)
 
 Ok. Nichts neues. Uns allen war eigentlich schon vorher klar das
 Russland nicht gerade zu den herausragenden Verfechtern der Demokratie
@@ -61,5 +61,5 @@ verhalten? Wieso beansprucht die Kirche in Deutschland immer noch
 schräge Sondergesetze? Ich erinnere an das Tanzverbot an Karfreitag.
 Manchmal macht mich das alles ganz schön fertig.
 
-![riot]({filename}/images/riot.jpg)
+![riot]({static}/images/riot.jpg)
 

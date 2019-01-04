@@ -5,7 +5,7 @@ Category: status
 Tags: owls
 Slug: stay-weird-und-so
 
-![8988_4fa6_480]({filename}/images/8988_4fa6_480.jpeg)
+![8988_4fa6_480]({static}/images/8988_4fa6_480.jpeg)
 
 Stay Weird und so...
 

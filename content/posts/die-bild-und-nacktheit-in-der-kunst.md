@@ -4,7 +4,7 @@ Author: marvin
 Category: Uncategorized
 Slug: die-bild-und-nacktheit-in-der-kunst
 
-![Joan Jonas - Mirror piece I 1969]({filename}/images/5822573912_917b811d43_o.jpg)
+![Joan Jonas - Mirror piece I 1969]({static}/images/5822573912_917b811d43_o.jpg)
 
 Ich freue mich einfach jedes mal wenn die BILD über Kunst schreibt.
 Selten lassen sie ein Schenkelklopfer aus. Die "Zeitung" die berühmt ist
@@ -36,7 +36,7 @@ Spiegel der deutschen Gesellschaft ist, was sie selber von sich
 behaupten. Ein weiteres Highlight sind die BILD-Leser dich sich als
 Kunstkritiker versuchen:
 
-![650175]({filename}/images/650175.jpg)
+![650175]({static}/images/650175.jpg)
 
 Weltklasse!
 
@@ -44,5 +44,5 @@ Weltklasse!
 
 **Update**: Hier noch mehr Kommentare von BILD-Lesern...
 
-![650804]({filename}/images/650804.jpg)
+![650804]({static}/images/650804.jpg)
 

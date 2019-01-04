@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: sealand, skateboard
 Slug: skateboarden-auf-sealand
 
-![475837]({filename}/images/475837.jpg)
+![475837]({static}/images/475837.jpg)
 
 Ich habe ja schonmal über Sealand gebloggt. Ein kleiner selbsternannter
 Staat der auf einer alten, schwimmenden Militärplatform vor England.

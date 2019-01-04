@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, sarahbrendel
 Slug: heute-mochte-ich-uber-eine-ganz-besondere-kunstlerin
 
-![sab_pic_02a]({filename}/images/sab_pic_02a.jpg)
+![sab_pic_02a]({static}/images/sab_pic_02a.jpg)
 
 Heute möchte ich über eine ganz besondere Künstlerin schreiben: Sarah
 Brendel. Ich hatte sie mal vor langer langer Zeit live gesehen. Es

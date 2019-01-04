@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: books, deutschlandfunk, huntersthompson, radio
 Slug: hunter-s-thompson-und-the-crazy-never-die
 
-![1000px-Gonzo.svg_]({filename}/images/1000px-Gonzo.svg_.png)
+![1000px-Gonzo.svg_]({static}/images/1000px-Gonzo.svg_.png)
 
 Samstag Nacht hatte ich noch eine lange Fahrt vor mir. Drei Stunden von
 Dresden nach Nürnberg. Die erste Stunde verbrachte ich damit alte CD's

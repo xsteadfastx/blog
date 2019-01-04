@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, purityring
 Slug: purity-ring-fineshrine
 
-![537273]({filename}/images/537273.jpg)
+![537273]({static}/images/537273.jpg)
 
 Auch wenn das Video ein wenig WTF ist, ist "Fineshrine" eins meiner
 liebsten Tracks auf dem Purity Ring Album "Shrines". Am Anfang war mir

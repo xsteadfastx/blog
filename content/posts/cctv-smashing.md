@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: activism, berlin, cctv, friedrich, germany, politics, stasi
 Slug: cctv-smashing
 
-![killcctv]({filename}/images/killcctv.jpg)
+![killcctv]({static}/images/killcctv.jpg)
 
 Gerade heute Morgen wurde ich herzallerliebst von unserem Radiowecker
 geweckt. Deutschlandfunk berichtete von den aller neusten [Stasi-esquen

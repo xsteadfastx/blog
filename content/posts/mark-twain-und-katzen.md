@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: cats, marktwain, qu
 Slug: mark-twain-und-katzen
 
-![251550_523966377619405_374295507_n]({filename}/images/251550_523966377619405_374295507_n.jpg)
+![251550_523966377619405_374295507_n]({static}/images/251550_523966377619405_374295507_n.jpg)
 
 > "When a man loves cats, I am his friend and comrade without further
 > introduction"  

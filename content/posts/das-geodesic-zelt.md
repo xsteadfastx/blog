@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: buckminsterfuller, geodisc
 Slug: das-geodesic-zelt
 
-![624169]({filename}/images/624169.jpg)
+![624169]({static}/images/624169.jpg)
 
 Was ein schönes Ding. Wenn zelten dann in einem Zelt was nach dem
 Prinzip von Buckminster Fullers Geodesic Dome aufgebaut ist. Dazu ist es

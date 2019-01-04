@@ -4,7 +4,7 @@ Tags: coffee, bamberg
 Slug: kaffeeroestereien-in-bamberg
 
 
-![Umberto checkt den gekauften Kaffee]({filename}/images/kaffeekatze.jpg)
+![Umberto checkt den gekauften Kaffee]({static}/images/kaffeekatze.jpg)
 
 Ich habe mir gedacht, dass es doch eigentlich immer eine gute Idee wäre in fremden Städten die Kaffeerösterein zu besuchen. Dann hat man nicht nur gute erste Ziele (neben den Plattenläden) sondern am Ende auch vielleicht guten Kaffee zu entdecken. Man spricht nicht nur so von "Kaffeekultur".
 

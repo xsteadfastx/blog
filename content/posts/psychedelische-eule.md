@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: animals, owls, psychedelic
 Slug: psychedelische-eule
 
-![1420_15f6_480]({filename}/images/1420_15f6_480.gif)
+![1420_15f6_480]({static}/images/1420_15f6_480.gif)
 
 Zur Feier des Tages...
 

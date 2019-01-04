@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, toskana, workdrugs
 Slug: work-drugs-tigerbeats
 
-![artworks-000032173621-p9ax7m-original]({filename}/images/artworks-000032173621-p9ax7m-original.jpg)
+![artworks-000032173621-p9ax7m-original]({static}/images/artworks-000032173621-p9ax7m-original.jpg)
 
 Work Drugs letztes Album was die Platte die ich in meinem späten
 Sommerurlaub am meisten gehört habe. Wir fuhren dabei Kilometer für

@@ -5,7 +5,7 @@ Category: post
 Tags: politics, sealand
 Slug: ab-wann-ist-ein-land-ein-land-oder-auch-kennen-sie-schon-den-baron-von-sealand
 
-![Sealandafterfire2]({filename}/images/Sealandafterfire2.jpg)
+![Sealandafterfire2]({static}/images/Sealandafterfire2.jpg)
 
 Es war mal eine kleine künstliche Insel vor der Küste Englands. Sie
 wurde in der Zeit des zweiten Weltkriegs zur Abwehr gegen deutsche

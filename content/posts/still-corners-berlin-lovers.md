@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, stillcorners
 Slug: still-corners-berlin-lovers
 
-![berlinlovers]({filename}/images/berlinlovers.jpg)
+![berlinlovers]({static}/images/berlinlovers.jpg)
 
 Meiner Meinung nach ist das Sujet "Teenager Lovestories, untermalt mit
 Dreampop" völlig unterbewertet. Naja. Ich versuche es mit diesem Video

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: foxesinfiction, music
 Slug: foxes-in-fiction-school-night
 
-![415690]({filename}/images/415690.jpg)
+![415690]({static}/images/415690.jpg)
 
 Chillwave und verträumte Video Compilations...ihr wisst was ich meine...
 

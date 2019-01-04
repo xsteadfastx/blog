@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: beatculture, music, slowmagic
 Slug: ich-vermisse-die-sonne-es-ist-ein-tag
 
-![artworks-000024202655-d2sax2-original]({filename}/images/artworks-000024202655-d2sax2-original.jpg)
+![artworks-000024202655-d2sax2-original]({static}/images/artworks-000024202655-d2sax2-original.jpg)
 
 Ich vermisse die Sonne. Es ist ein Tag vor Rock im Park. Die Mainstage
 ist gerade mal 150 Meter Luftlinie von unserem Hauseingang entfernt.

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: photography, polaroid
 Slug: ein-vergessenes-polaroid
 
-![wpid-IMG_20121024_1703271]({filename}/images/wpid-IMG_20121024_1703271.jpg)
+![wpid-IMG_20121024_1703271]({static}/images/wpid-IMG_20121024_1703271.jpg)
 
 Ich muss ja zugeben das ich von Polaroid mittlerweile nicht mehr soviel
 halte. Ich bin enttäuscht. Ich weiß das alles wieder neu entwickelt

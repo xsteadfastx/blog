@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: arestlesstransplant, fernweh, photography, surfing
 Slug: heute-mal-wieder-aus-der-abteilung-fernweh
 
-![IMG_4729]({filename}/images/IMG_4729.jpg)
+![IMG_4729]({static}/images/IMG_4729.jpg)
 
 Heute mal wieder aus der Abteilung "Fernweh". Foster Huntington kündigt
 seinen Job um sich von seinem Geld einen alten VW Bus (\<3) zu kaufen.

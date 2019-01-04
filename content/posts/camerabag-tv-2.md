@@ -5,7 +5,7 @@ Category: post
 Tags: photography
 Slug: camerabag-tv-2
 
-![logo]({filename}/images/logo.png)
+![logo]({static}/images/logo.png)
 
 i think gear is fascinating. and even more gear nerds. [camerabag
 tv](http://camerabag.tv/) is not just about gear...its mostly a full

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: maltespitz, netzpolitik, telekom, vorratsdatenspeicherung
 Slug: malte-spitz-your-phone-company-is-watching
 
-![537861]({filename}/images/537861.jpg)
+![537861]({static}/images/537861.jpg)
 
 "Wir haben eh nichts zu verbergen". Ein Satz den man in der näheren
 Peergroup doch öfters hört. Wie oft hat man versucht dagegen zu

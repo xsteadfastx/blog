@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: doctorwho
 Slug: bald-ist-the-day-of-the-doctor
 
-[![cc-by-sa randy stewart]({filename}/images/2513544827_7b72d29a5a_b.jpg)](https://secure.flickr.com/photos/stewtopia/2513544827/)
+[![cc-by-sa randy stewart]({static}/images/2513544827_7b72d29a5a_b.jpg)](https://secure.flickr.com/photos/stewtopia/2513544827/)
 
 Die BBC weiß echt wie man uns Whovians ganz heißt macht. In 8 Tagen ist
 "The Day Of The Doctor", die Jubiläumsfolge wird aufgeführt. Ich habe

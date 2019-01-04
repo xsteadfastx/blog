@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, berlin, documentary, graffiti, unlikeu
 Slug: unlike-u-ist-ein-dokumentarfilm-uber-graffiti
 
-![392448]({filename}/images/392448.png)
+![392448]({static}/images/392448.png)
 
 "Unlike U" ist ein Dokumentarfilm über Graffiti auf Zügen in Berlin. Ich
 hatte den Film schon vor einigen Monaten geschaut und war wirklich

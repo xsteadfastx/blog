@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: davidlynch, dune, lsd, movies
 Slug: jodorowskys-dune
 
-[![cc-by Sam Howzit]({filename}/images/3456998345_503c0130ea_b.jpg)](https://secure.flickr.com/photos/aloha75/3456998345/)
+[![cc-by Sam Howzit]({static}/images/3456998345_503c0130ea_b.jpg)](https://secure.flickr.com/photos/aloha75/3456998345/)
 
 An der DUNE-Verfilmung von David Lynch scheiden sich ja die Geister.
 Inklusive David Lynch selber der teilweise noch nicht mal in den Credits

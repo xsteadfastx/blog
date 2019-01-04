@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: amandapalmer, kickstarter, music
 Slug: ach-ich-stehe-auf-diese-umbruchstimmung-die-gerade
 
-![sign_sq.large_]({filename}/images/sign_sq.large_.jpg)
+![sign_sq.large_]({static}/images/sign_sq.large_.jpg)
 
 Ach ich stehe auf diese Umbruchstimmung die gerade in Musik herrscht.
 Weg von den geldfressenden, großen Labels die meist eh, abgelenkt durch

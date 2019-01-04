@@ -33,7 +33,7 @@ ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
 endif
 
-DOCKER_COMPOSE_CMD=docker-compose run --rm blog
+DOCKER_COMPOSE_CMD=docker-compose run --rm --service-ports blog
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
@@ -78,7 +78,7 @@ else
 endif
 
 serve_global:
-	cd $(OUTPUTDIR) && $(PY) -m pelican.server 8000 0.0.0.0
+	$(DOCKER_COMPOSE_CMD) $(PELICAN) -l -r -b 0.0.0.0 -p 8000
 
 devserver:
 ifdef PORT
@@ -124,7 +124,7 @@ newpost:
 	$(DOCKER_COMPOSE_CMD) $(PY) $(BASEDIR)/newpost.py
 
 writingenv:
-	docker-compose run --rm --service-ports blog /bin/sh
+	$(DOCKER_COMPOSE_CMD) /bin/sh
 
 push:
 	git push origin master

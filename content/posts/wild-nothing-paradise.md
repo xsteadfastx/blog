@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: dawsonscreek, deathcabforcutie, digitalharinezumi, fernweh, mattamato, michellewilliams, music, wildnothing
 Slug: wild-nothing-paradise
 
-![wildnothingparadise]({filename}/images/wildnothingparadise.jpg)
+![wildnothingparadise]({static}/images/wildnothingparadise.jpg)
 
 Ab und zu habe ich die letzten Monate schon geschaut ob Wild Nothing
 endlich mal ein Video zu einem Song seines letzten Albums ins Internetz

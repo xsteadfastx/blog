@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: arte, documentary, nature, ruedigernehberg, survival
 Slug: dont-mess-with-with-rudiger-nehberg-wusste-ich
 
-![339369]({filename}/images/339369.png)
+![339369]({static}/images/339369.png)
 
 Don't mess with with Rüdiger Nehberg. Wusste ich schon als Kind. Ein
 großes Idol. Nur leider würde ich glaube ich in der Wildnis nur eine

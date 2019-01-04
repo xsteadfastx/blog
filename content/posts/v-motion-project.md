@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: hacking, kinect, music
 Slug: v-motion-project
 
-![527760]({filename}/images/527760.jpg)
+![527760]({static}/images/527760.jpg)
 
 Man nehme einen Kinect-Controller...baut ein nettes optisches Interface
 und verbindet das ganze mit Ableton Live... und schon kann man seine

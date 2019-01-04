@@ -12,6 +12,6 @@ eigentlich eine offizielle Stellungnahme der Frankfurter Rundschau? Für
 mich war die Zeitung mit die einzige lesbare Zeitung in Deutschland. Ich
 glaube das sollte ich nochmal überdenken...
 
-![533971731]({filename}/images/533971731.png)
+![533971731]({static}/images/533971731.png)
 ([via](http://twitpic.com/8twv83))
 

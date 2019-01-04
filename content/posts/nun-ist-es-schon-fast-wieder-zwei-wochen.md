@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: concerts, memoryhouse
 Slug: nun-ist-es-schon-fast-wieder-zwei-wochen
 
-![memoryhouse-pixlr]({filename}/images/memoryhouse-pixlr.jpg)
+![memoryhouse-pixlr]({static}/images/memoryhouse-pixlr.jpg)
 
 Nun ist es schon fast wieder zwei Wochen her. Und doch will ich ein paar
 Worte zu dem Memoryhouse Konzert in München schreiben. Ich war war

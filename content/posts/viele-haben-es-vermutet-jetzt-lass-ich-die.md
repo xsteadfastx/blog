@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: vegan
 Slug: viele-haben-es-vermutet-jetzt-lass-ich-die
 
-![tumblr_m45bgjeUih1rnouxto1_500]({filename}/images/tumblr_m45bgjeUih1rnouxto1_500.jpg)
+![tumblr_m45bgjeUih1rnouxto1_500]({static}/images/tumblr_m45bgjeUih1rnouxto1_500.jpg)
 
 Viele haben es vermutet...jetzt lass ich die Bombe platzen...wir
 Veganer...sind nicht von hier...

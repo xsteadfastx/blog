@@ -5,7 +5,7 @@ Category: post
 Tags: art, newyork, openstreetmap
 Slug: new-york-in-wasserfarben
 
-![newyork]({filename}/images/newyork.png)
+![newyork]({static}/images/newyork.png)
 
 Wie schön ist das [gemalte New
 York](http://maps.stamen.com/watercolor/#12/40.7917/-73.9118)?

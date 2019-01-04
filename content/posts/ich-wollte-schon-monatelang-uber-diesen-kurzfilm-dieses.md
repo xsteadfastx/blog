@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: coconutrecords, giacoppola, jasonschwartzman, kirstendunst, movies, music
 Slug: ich-wollte-schon-monatelang-uber-diesen-kurzfilm-dieses
 
-![dunstschwartz1]({filename}/images/dunstschwartz1.png)
+![dunstschwartz1]({static}/images/dunstschwartz1.png)
 
 Ich wollte schon monatelang über diesen Kurzfilm / dieses Musikvideo zu
 Coconut Records "Is This Sound Ok?" schreiben. Mehr hoffnungslose

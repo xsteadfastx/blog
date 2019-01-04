@@ -10,5 +10,5 @@ Cola-Light auf dem Schreibtisch. Ein
 [Tweet](https://twitter.com/tante/statuses/399830284671385600) der die
 traurige netzpolitische Realität in Deutschland wiederspiegelt. Danke.
 
-![tante_schlandnet]({filename}/images/tante_schlandnet.png)
+![tante_schlandnet]({static}/images/tante_schlandnet.png)
 

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: internetz, politics, sexism, twitter
 Slug: no-homophobes
 
-![nohomophobes]({filename}/images/nohomophobes.jpg)
+![nohomophobes]({static}/images/nohomophobes.jpg)
 
 Man braucht nicht Twitter oder das Internetz um zu sehen, dass homophobe
 Begriffe in der Umgangssprache angekommen sind. Da wo viel gesagt wird

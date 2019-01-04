@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, reunions, slowdive
 Slug: slowdive-reunion
 
-![cc-by [Greg Neate](https://secure.flickr.com/photos/neate_photos/12528849325)]({filename}/images/slowdive.jpg)
+![cc-by [Greg Neate](https://secure.flickr.com/photos/neate_photos/12528849325)]({static}/images/slowdive.jpg)
 
 Slowdive spielen gerade Reunion-Shows??? Und so sehr wünsche ich mir
 eine von diesen zu besuchen. Slowdive sind für mich ja immer noch die

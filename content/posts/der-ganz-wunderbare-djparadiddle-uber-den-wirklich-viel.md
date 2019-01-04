@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: djparadiddle, music
 Slug: der-ganz-wunderbare-djparadiddle-uber-den-wirklich-viel
 
-![Download]({filename}/images/Download.png)
+![Download]({static}/images/Download.png)
 
 Der ganz wunderbare
 [DJparadiddle](http://www.youtube.com/user/DJparadiddle) (über den

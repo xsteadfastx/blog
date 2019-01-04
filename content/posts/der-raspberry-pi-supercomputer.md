@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: linux, raspberrypi
 Slug: der-raspberry-pi-supercomputer
 
-![raspberry-pi-supercomputer-5]({filename}/images/raspberry-pi-supercomputer-5.jpg)
+![raspberry-pi-supercomputer-5]({static}/images/raspberry-pi-supercomputer-5.jpg)
 
 Wieso haben ich eigentlich noch keinen Raspberry Pi? Ds ist ein kleiner
 Computer für wenig Geld auf dem man problemlos Linux laufen lassen kann.

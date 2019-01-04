@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, noise
 Slug: this-is-how-you-make-noise-nun-wissen
 
-![NOISE1]({filename}/images/NOISE1.jpeg)
+![NOISE1]({static}/images/NOISE1.jpeg)
 
 This is how you make NOISE...nun wissen wir es...
 

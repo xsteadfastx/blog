@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, astronomy, joydivision, music, petersaville
 Slug: peter-saville-und-das-vielleicht-beruhmteste-albumcover-der-welt
 
-![unknownpleasures]({filename}/images/unknownpleasures.jpg)
+![unknownpleasures]({static}/images/unknownpleasures.jpg)
 
 Gibt es eigentlich ein schöneres Albumcover? Ein Cover, welches in die
 popkulturelle Weltgeschichte eingegangen ist? "Unknown Pleasures" von

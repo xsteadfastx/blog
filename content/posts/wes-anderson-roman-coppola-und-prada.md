@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: giacoppola, movies, prada, romancoppola, sofiacoppola, wesanderson
 Slug: wes-anderson-roman-coppola-und-prada
 
-![prada-anderson]({filename}/images/prada-anderson.jpg)
+![prada-anderson]({static}/images/prada-anderson.jpg)
 
 Eigentlich sind diese kleinen Werbesports nicht der Rede wert. Aber
 dadurch das sie von Wes Anderson und Roman Coppola gedreht wurden,

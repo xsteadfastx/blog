@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: ccc, lockpicking
 Slug: 29c3-open-source-schlussel-und-schlosser
 
-![schluessel]({filename}/images/schluessel.jpg)
+![schluessel]({static}/images/schluessel.jpg)
 
 Ich habe mich dazu entschieden mal ein paar Videos vom letzten Chaos
 Communication Congress zu posten. Ich war zwar schon seit über 10 Jahren

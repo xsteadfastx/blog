@@ -10,5 +10,5 @@ für die steigenden Preise von Nürnberger Bratwürste verantwortlich
 gemacht. Israel auslöschen ok...aber wenn es um des Deutschen
 wertvollstes Gut geht hört der Spaß auf!!11!!!!einself
 
-![408955_354154801284025_100000685241299_1137708_965431405_n]({filename}/images/408955_354154801284025_100000685241299_1137708_965431405_n.jpg)
+![408955_354154801284025_100000685241299_1137708_965431405_n]({static}/images/408955_354154801284025_100000685241299_1137708_965431405_n.jpg)
 

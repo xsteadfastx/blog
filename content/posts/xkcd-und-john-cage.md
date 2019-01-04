@@ -6,7 +6,7 @@ Tags: art, johncage, xkcd
 Slug: xkcd-und-john-cage
 
 
-![cc-by-nc [XKCD](http://xkcd.com/1199/)]({filename}/images/silence.png)
+![cc-by-nc [XKCD](http://xkcd.com/1199/)]({static}/images/silence.png)
 
 XKCD widmetseinen heutigen Strip einer meiner liebsten Kunstarbeiten.
 [4′33″](https://de.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3) von John

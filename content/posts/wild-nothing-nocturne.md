@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, wildnothing
 Slug: wild-nothing-nocturne
 
-![artworks-000028661338-mnid22-original]({filename}/images/artworks-000028661338-mnid22-original.jpg)
+![artworks-000028661338-mnid22-original]({static}/images/artworks-000028661338-mnid22-original.jpg)
 
 Das nenne ich mal toll. Da twittere ich das ich das neue Wild Nothing
 Album mag, welches ich beim Filmentwickeln genieße, und schon sagt mir

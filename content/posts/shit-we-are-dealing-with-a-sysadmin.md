@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: internetz, sysadmin, xkcd
 Slug: shit-we-are-dealing-with-a-sysadmin
 
-![devotion_to_duty]({filename}/images/devotion_to_duty.png)
+![devotion_to_duty]({static}/images/devotion_to_duty.png)
 
 Heute ist der [System Administrator Appreciation
 Day](http://de.wikipedia.org/wiki/System_Administrator_Appreciation_Day).

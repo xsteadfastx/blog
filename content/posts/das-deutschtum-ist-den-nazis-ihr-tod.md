@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: germany, nuernberg, politics, racism
 Slug: das-deutschtum-ist-den-nazis-ihr-tod
 
-![img664]({filename}/images/6435565383_51e4581c07_b.jpg)
+![img664]({static}/images/6435565383_51e4581c07_b.jpg)
 
 Ach ja, Nürnberg und die Nazis. Nicht erst seit seit dem, oben
 gezeigten, Reichsparteitagsgelände ist die Verbindung zwischen der Stadt

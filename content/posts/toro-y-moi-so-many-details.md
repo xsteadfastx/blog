@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: music, toroymoi
 Slug: toro-y-moi-so-many-details
 
-![artworks-000031988769-3swwzd-original]({filename}/images/artworks-000031988769-3swwzd-original.jpg)
+![artworks-000031988769-3swwzd-original]({static}/images/artworks-000031988769-3swwzd-original.jpg)
 
 Und nebenbei fällt einem auf das Toro Y Moi eine Track von seinem neuen
 Album "Anything In Return" auf Soundcloud hochgeladen hat. Man wundert

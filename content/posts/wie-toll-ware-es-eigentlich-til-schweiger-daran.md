@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: movies, tatort, tilschweiger
 Slug: wie-toll-ware-es-eigentlich-til-schweiger-daran
 
-![512px-Boulevard-der-stars-IMG_1135x-200x300]({filename}/images/512px-Boulevard-der-stars-IMG_1135x-200x300.jpg)
+![512px-Boulevard-der-stars-IMG_1135x-200x300]({static}/images/512px-Boulevard-der-stars-IMG_1135x-200x300.jpg)
 
 Wie toll wäre es eigentlich Til Schweiger daran zu hindern Filme zu
 runinieren. Ok meist sind die Filme die er dreht oder in denen er

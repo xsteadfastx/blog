@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: arte, documentary, israel, photography, rudiweissenstein, telaviv
 Slug: leben-in-bildern
 
-![Declaration_of_State_of_Israel_1948]({filename}/images/Declaration_of_State_of_Israel_1948.jpg)
+![Declaration_of_State_of_Israel_1948]({static}/images/Declaration_of_State_of_Israel_1948.jpg)
 
 [Rudi und Miriam
 Weissenstein](https://de.wikipedia.org/wiki/Rudi_Weissenstein) haben die

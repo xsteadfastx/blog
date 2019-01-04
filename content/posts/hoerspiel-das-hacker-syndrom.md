@@ -3,7 +3,7 @@ Date: 2016-02-10 13:24
 Slug: hoerspiel-das-hacker-syndrom
 Tags: telecomix, podcasts, stephanurbach, hacker
 
-![Telecomix]({filename}/images/telecomix.png)
+![Telecomix]({static}/images/telecomix.png)
 
 Hier ein kleiner Podcasttipp zwischendurch. [Das Hacker-Syndrom](http://www.wdr3.de/programm/sendungen/wdr3hoerspiel/hackersyndrom-100.html) von Johannes Nichelmann. Es befasst sich mit [Stephan Urbach](http://herrurbach.de/) und die Zeit des arabischen Frühlings. Das Hörspiel hat mich wirklich sehr berührt.
 

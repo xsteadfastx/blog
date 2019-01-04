@@ -5,7 +5,7 @@ Category: status
 Tags: björk, henrydavidthoreau, island, nature, walden
 Slug: das-nenne-ich-mal-walden-vollig-einsam-auf
 
-![3871539679_fd03a034f7_z]({filename}/images/3871539679_fd03a034f7_z.jpg)
+![3871539679_fd03a034f7_z]({static}/images/3871539679_fd03a034f7_z.jpg)
 
 Das nenne ich mal Walden...völlig einsam auf einer Insel vor Island zu
 leben. Diese Insel hier heißt

@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: ceremony, matadorrecords, music
 Slug: ceremony-sick
 
-![ceremony]({filename}/images/ceremony.jpg)
+![ceremony]({static}/images/ceremony.jpg)
 
 Guten Morgen am Moshing Monday. Heute für sie: Ceremony mit "Sick". Und
 mal wieder verstehe ich den Hass nicht der dieser Band entgegen

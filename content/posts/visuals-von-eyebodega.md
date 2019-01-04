@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, eyebodega, motherganga, music, youngprisms
 Slug: visuals-von-eyebodega
 
-![eyebodega]({filename}/images/eyebodega.jpg)
+![eyebodega]({static}/images/eyebodega.jpg)
 
 Was für schöne Visuals aus dem Studio von
 [EyeBodega](http://www.eyebodega.com/) aus New York. Die visuelle

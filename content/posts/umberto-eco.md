@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: arte, books, documentary, toskana, umbertoeco
 Slug: umberto-eco
 
-![umbertoeco]({filename}/images/umbertoeco.png)
+![umbertoeco]({static}/images/umbertoeco.png)
 
 Vor einiger Zeit habe ich endlich "Der Name der Rose" ausgelesen. Die
 Hälfte des Buches habe ich mit der Aussicht auf die Landschaft der

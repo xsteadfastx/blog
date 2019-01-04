@@ -5,7 +5,7 @@ Category: status
 Tags: festivalofcolors, psychedelic
 Slug: mein-innerer-hippie-ist-schon-wieder-ganz-aus
 
-![festivalofcolors]({filename}/images/festivalofcolors.jpg)
+![festivalofcolors]({static}/images/festivalofcolors.jpg)
 
 Mein innerer Hippie ist schon wieder ganz aus dem Häuschen. Das
 [Festival of Colors](http://de.wikipedia.org/wiki/Holi) ist ein

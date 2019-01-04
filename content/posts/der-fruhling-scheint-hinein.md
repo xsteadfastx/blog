@@ -5,5 +5,5 @@ Category: Uncategorized
 Tags: photography
 Slug: der-fruhling-scheint-hinein
 
-![wpid-img_20140520_152343_1]({filename}/images/wpid-img_20140520_152343_1.jpg)
+![wpid-img_20140520_152343_1]({static}/images/wpid-img_20140520_152343_1.jpg)
 

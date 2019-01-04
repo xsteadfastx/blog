@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: alfredhitchcock, movies
 Slug: hitchcock-und-handys-im-kino
 
-![hitchcockcellphone]({filename}/images/hitchcockcellphone.jpg)
+![hitchcockcellphone]({static}/images/hitchcockcellphone.jpg)
 
 Der "Master of Suspense" scheint es wohl nicht gerne zu sehen, wenn man
 sein Handy im Kino anlässt. Ich bin ja wirklich mal gespannt auf den

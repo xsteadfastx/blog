@@ -5,7 +5,7 @@ Category: status
 Tags: owls
 Slug: eulen-content-ist-ja-hier-immer-ontopic
 
-![3086_ee67_480]({filename}/images/3086_ee67_480.gif)
+![3086_ee67_480]({static}/images/3086_ee67_480.gif)
 
 Eulen-Content ist ja hier immer ontopic...kann man sich ja denken...
 

@@ -5,7 +5,7 @@ Category: post
 Tags: alfredhitchcock, blog, movies, podcast
 Slug: hitchcast-eine-ankundigung
 
-![4670]({filename}/images/4670.jpg)
+![4670]({static}/images/4670.jpg)
 
 Nun ist es schon fast soweit...es wird den ersten Podcast in meinem
 persöhnlichen Blog geben. Nicht das jemand darauf gewartet hat, aber

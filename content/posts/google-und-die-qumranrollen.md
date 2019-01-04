@@ -5,7 +5,7 @@ Category: post
 Tags: google, israel, jerusalem, judaism
 Slug: google-und-die-qumranrollen
 
-![greatisaiahrolls]({filename}/images/greatisaiahrolls.png)
+![greatisaiahrolls]({static}/images/greatisaiahrolls.png)
 
 Google hat zusammen mit dem Israel Museum in Jerusalem die berühmten
 Schriftrollen aus Qumran aufwendig

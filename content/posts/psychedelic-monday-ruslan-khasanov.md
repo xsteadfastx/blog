@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, psychedelic, ruslankhasanov
 Slug: psychedelic-monday-ruslan-khasanov
 
-![pacificlight]({filename}/images/pacificlight.jpg)
+![pacificlight]({static}/images/pacificlight.jpg)
 
 [Ruslan Khasanov](http://ruskhasanov.com/) feier ein psychedelisches
 Feuerwerk ab. Schönen guten Morgen...

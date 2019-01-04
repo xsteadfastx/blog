@@ -3,7 +3,7 @@ Date: 2016-08-12 13:43
 Slug: eine-liebeserklarung-an-mistress-america
 Tags: movies, gretagerwig
 
-![Mistress America]({filename}/images/mistress-america.jpg)
+![Mistress America]({static}/images/mistress-america.jpg)
 
 Wenn ich an Frances Ha denke, muss ich an die Szene denken wie, alleine in Paris, am Seine Ufer langgeht. Im Hintergrund der Eiffelturm in seiner Funktion als Leuchtturm, in den von Lichtern erstrahlten Paris.
 

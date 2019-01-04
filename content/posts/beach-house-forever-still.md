@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: beachhouse, music, pinkfloyd, pompeii
 Slug: beach-house-forever-still
 
-![beachhouse]({filename}/images/beachhouse.jpg)
+![beachhouse]({static}/images/beachhouse.jpg)
 
 Pompeii von Pink Floyd ist ein großartiges Konzept. Die Vermischung von
 der experimentellen Musik und der Umgebung die zu einer perfekten

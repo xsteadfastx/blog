@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: anne, music
 Slug: anne-power-exchange
 
-![Anne-2-600x600]({filename}/images/Anne-2-600x600.jpg)
+![Anne-2-600x600]({static}/images/Anne-2-600x600.jpg)
 
 Aus der Abteilung "Song Of The Day" (manchmal gibt es ja sogar mehrere)
 gibt es heute "Power Exchange" von Anne. Shoegaze... und das ganz

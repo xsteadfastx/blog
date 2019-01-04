@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: art, moon, nasa, paulvanhoeydonck
 Slug: fallen-astronaut
 
-![Fallen_Astronaut]({filename}/images/Fallen_Astronaut.jpg)
+![Fallen_Astronaut]({static}/images/Fallen_Astronaut.jpg)
 
 Ich glaube man hat es wirklich geschafft wenn man ein Kunstwerk auf den
 Mond platzieren kann. Paul Van Hoeydonck hat bei einer Party den Apollo

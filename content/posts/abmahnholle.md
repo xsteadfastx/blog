@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: abmahnungen, blog, fairuse, internetz, politics
 Slug: abmahnholle
 
-[![Schlecky Silberstein und ihre Maßnahme gegen die Abzocker]({filename}/images/404.png)](http://www.schleckysilberstein.com/2012/10/unsere-neue-404-fehlermeldung-ein-tipp-fur-einen-sichereren-betrieb-fur-blogs-in-deutschland/)
+[![Schlecky Silberstein und ihre Maßnahme gegen die Abzocker]({static}/images/404.png)](http://www.schleckysilberstein.com/2012/10/unsere-neue-404-fehlermeldung-ein-tipp-fur-einen-sichereren-betrieb-fur-blogs-in-deutschland/)
 
 Ich weiß nicht ob man als kleines Blog der großen Gefahr ausgesetzt ist
 abgemahnt zu werden. Doch macht sich eine große Blase der Ungewissheit

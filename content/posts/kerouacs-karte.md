@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: books, jackkerouac, maps, ontheroad
 Slug: kerouacs-karte
 
-![map-otr]({filename}/images/map-otr.jpg)
+![map-otr]({static}/images/map-otr.jpg)
 
 Dies soll angeblich die Karte sein die Jack Kerouac in seinem Tagebuch
 hatte um seinen Trip festzuhalten der als Ursprung seines Romans "On The

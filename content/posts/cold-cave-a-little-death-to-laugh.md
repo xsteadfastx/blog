@@ -5,7 +5,7 @@ Category: Uncategorized
 Tags: coldcave
 Slug: cold-cave-a-little-death-to-laugh
 
-![ff9e6274065011e2b60722000a1e952e_7]({filename}/images/ff9e6274065011e2b60722000a1e952e_7.jpg)
+![ff9e6274065011e2b60722000a1e952e_7]({static}/images/ff9e6274065011e2b60722000a1e952e_7.jpg)
 
 Ein kleiner Ausblick auf die neue Single von Cold Cave. Ich habe ja die
 letzten beiden Alben wahnsinnig abgefeiert. Und jetzt auch noch dieser
