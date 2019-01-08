@@ -66,7 +66,7 @@ ARTICLE_URL = "{date:%Y}/{date:%m}/{date:%d}/{slug}/"
 ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
 
 # plugins
-PLUGIN_PATHS = ["pelican-plugins"]
+PLUGIN_PATHS = ["pelican-plugins", "pelican-plugins-3rd"]
 PLUGINS = [
     "liquid_tags.youtube",
     "liquid_tags.vimeo",
