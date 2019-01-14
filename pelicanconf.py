@@ -101,7 +101,7 @@ CC_LICENSE = {
 MAIN_MENU = False
 SOCIAL = (
     ("twitter", "https://twitter.com/xsteadfastx"),
-    ("mastadon", "https://chaos.social/@xsteadfastx"),
+    ("mastodon", "https://chaos.social/@xsteadfastx"),
     ("github", "https://github.com/xsteadfastx"),
     ("flickr", "https://www.flickr.com/photos/marvinxsteadfast/"),
     ("rss", "{}/{}".format(FEED_DOMAIN, FEED_ATOM)),
