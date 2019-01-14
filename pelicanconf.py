@@ -58,7 +58,7 @@ PYGMENTS_RST_OPTIONS = {"linenos": "table"}
 # have to be in caps
 # foobar = "barbaz"
 
-THEME = "themes/nemo"
+THEME = "themes/diana"
 OUTPUT_PATH = "output"
 PATH = "content"
 
