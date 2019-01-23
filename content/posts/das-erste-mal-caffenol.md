@@ -17,8 +17,8 @@ Das entwickeln mit Kaffee stand seit Jahren auf meiner Liste. Die Entwicklung vo
 
 ![sellin]({static}/images/46123379904_e03170b935_b.jpg)
 
-![weihnachtsmark]({static}/images/46123380274_93b9e5f2b9_b.jpg)
+![weihnachtsmarkt]({static}/images/46123380274_93b9e5f2b9_b.jpg)
 
-![weihnachtsmark]({static}/images/46123380614_336ba2551d_b.jpg)
+![weihnachtsmarkt]({static}/images/46123380614_336ba2551d_b.jpg)
 
-![weihnachtsmark]({static}/images/46123380904_63e3a9cf07_b.jpg)
+![weihnachtsmarkt]({static}/images/46123380904_63e3a9cf07_b.jpg)
