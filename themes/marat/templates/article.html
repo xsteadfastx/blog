@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block title %} - {{ article.title }}{% endblock %}
+
+{% block content %}
+  <h1>{{ article.title }}</h1>
+  <p class="post-meta">
+    Posted on {{ article.locale_date }}
+    {% if article.tags %}
+    &#8226; Tagged with
+    {% for tag in article.tags %}
+    <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %},{% endif %}
+    {% endfor %}
+    {% endif %}
+    {% if DISQUS_SITENAME %}
+    &#8226; <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread">Leave a comment</a>
+    {% endif %}
+  </p>
+  {{ article.content }}
+
+  {% include 'disqus.html' %}
+
+{% endblock %}
