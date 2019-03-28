@@ -1,19 +1,49 @@
+/* ibm-plex-sans-regular - latin */
 @font-face {
-  font-family: 'Fantasque Sans Mono';
-  src: url('/theme/fonts/FantasqueSansMono-Regular.eot'); /* IE 9 Compatibility Mode */
-  src: url('/theme/fonts/FantasqueSansMono-Regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
-       url('/theme/fonts/FantasqueSansMono-Regular.woff2') format('woff2'),
-       url('/theme/fonts/FantasqueSansMono-Regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
-       url('/theme/fonts/FantasqueSansMono-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('/theme/fonts/FantasqueSansMono-Regular.svg#FantasqueSansMono-Regular') format('svg'); /* Chrome < 4, Legacy iOS */
-  font-weight: 400;
+  font-family: 'IBM Plex Sans';
   font-style: normal;
+  font-weight: 400;
+  src: url('/theme/fonts/ibm-plex-sans-v5-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('IBM Plex Sans'), local('IBMPlexSans'),
+       url('/theme/fonts/ibm-plex-sans-v5-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/theme/fonts/ibm-plex-sans-v5-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/theme/fonts/ibm-plex-sans-v5-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('/theme/fonts/ibm-plex-sans-v5-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/theme/fonts/ibm-plex-sans-v5-latin-regular.svg#IBMPlexSans') format('svg'); /* Legacy iOS */
+}
+
+/* ibm-plex-serif-italic - latin */
+@font-face {
+  font-family: 'IBM Plex Serif';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/theme/fonts/ibm-plex-serif-v6-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local('IBM Plex Serif Italic'), local('IBMPlexSerif-Italic'),
+       url('/theme/fonts/ibm-plex-serif-v6-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/theme/fonts/ibm-plex-serif-v6-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/theme/fonts/ibm-plex-serif-v6-latin-italic.woff') format('woff'), /* Modern Browsers */
+       url('/theme/fonts/ibm-plex-serif-v6-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/theme/fonts/ibm-plex-serif-v6-latin-italic.svg#IBMPlexSerif') format('svg'); /* Legacy iOS */
+}
+
+/* ibm-plex-mono-regular - latin */
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/theme/fonts/ibm-plex-mono-v4-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('IBM Plex Mono'), local('IBMPlexMono'),
+       url('/theme/fonts/ibm-plex-mono-v4-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/theme/fonts/ibm-plex-mono-v4-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/theme/fonts/ibm-plex-mono-v4-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('/theme/fonts/ibm-plex-mono-v4-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/theme/fonts/ibm-plex-mono-v4-latin-regular.svg#IBMPlexMono') format('svg'); /* Legacy iOS */
 }
 
 body {
   background: #ffffff;
   height: 100%;
-  font-family: Fantasque Sans Mono, monospace;
+  font-family: 'IBM Plex Sans';
   font-style: normal;
   font-size: 1.5em;
 }
@@ -29,8 +59,7 @@ a:hover {
 h1 {
   color: #000000;
   margin-top: 75px;
-  font-family: 'Fantasque Sans Mono', monospace;
-  font-weight: 300
+  font-family: 'IBM Plex Serif';
 }
 
 h1 a {
@@ -39,8 +68,7 @@ h1 a {
 
 h2 {
   color: #000000;
-  font-family: 'Fantasque Sans Mono', monospace;
-  font-weight: 300
+  font-family: 'IBM Plex Serif';
 }
 
 hr {
@@ -74,9 +102,14 @@ figcaption {
   text-align: center;
 }
 
-.content pre, blockquote {
-  border: 1px solid #666666;
+.content pre {
   padding: 20px;
+  font-family: "IBM Plex Mono";
+}
+
+.content blockquote {
+  font-family: "IBM Plex Serif";
+  font-size: 1.5em;
 }
 
 .content img {
@@ -84,12 +117,12 @@ figcaption {
 }
 
 #tipue_search_input {
-  font-family: Fantasque Sans Mono, monospace;
+  font-family: 'IBM Plex Sans';
   padding: 0px;
 }
 
 #tipue_search_results_count, .tipue_search_content_title a, .tipue_search_content_url a, .tipue_search_content_text, #tipue_search_warning {
-  font-family: Fantasque Sans Mono, monospace;
+  font-family: 'IBM Plex Sans';
 }
 
 .tipue_search_content_title a, .tipue_search_content_url a {
@@ -104,7 +137,6 @@ figcaption {
   color: #000000;
   text-decoration: underline;
 }
-
 
 .sidebar {
   background-image: url(/theme/images/background.jpg);
