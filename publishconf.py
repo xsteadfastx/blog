@@ -24,6 +24,6 @@ FEED_DOMAIN = SITEURL
 #PIWIK_SITE_ID = 5
 
 # DISQUS
-DISQUS_SITENAME = "xsteadfastx"
+#DISQUS_SITENAME = "xsteadfastx"
 
 #ISSO_URL = 'http://comments.xsteadfastx.org'
