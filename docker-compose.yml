@@ -1,9 +1,8 @@
 version: '3'
 services:
   blog:
-    build:
-      context: writing_env/
-      image: xsteadfastx/blog
+    build: writing_env/
+    image: xsteadfastx/blog
     container_name: blog
     environment:
       - BLOG_UID=1000

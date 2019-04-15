@@ -10,7 +10,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 FTP_HOST=xsteadfastx.org/
 FTP_USER=xstead_0
-FTP_PASS=`cat .ftp_pass.txt`
+#FTP_PASS=`cat .ftp_pass.txt`
 FTP_TARGET_DIR=/
 
 SSH_HOST=localhost
@@ -93,7 +93,7 @@ stopserver:
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 publish:
-	$(DOCKER_COMPOSE_CMD) $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
@@ -105,7 +105,7 @@ dropbox_upload: publish
 	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
 
 ftp_upload: publish
-	$(DOCKER_COMPOSE_CMD) lftp ftp://$(FTP_USER):$(FTP_PASS)@$(FTP_HOST) -e "set ssl:verify-certificate no; mirror -R --ignore-time --no-perms --parallel=4 -e --use-cache -v $(OUTPUTDIR) $(FTP_TARGET_DIR); quit"
+	lftp ftp://$(FTP_USER):$(FTP_PASS)@$(FTP_HOST) -e "set ssl:verify-certificate no; mirror -R --ignore-time --no-perms --parallel=4 -e --use-cache -v $(OUTPUTDIR) $(FTP_TARGET_DIR); quit"
 
 ftp_upload_clean: publish
 	$(DOCKER_COMPOSE_CMD) lftp ftp://$(FTP_USER):$(FTP_PASS)@$(FTP_HOST) -e "set ssl:verify-certificate no; mirror -R --no-perms --parallel=4 -e -v $(OUTPUTDIR) $(FTP_TARGET_DIR); quit"

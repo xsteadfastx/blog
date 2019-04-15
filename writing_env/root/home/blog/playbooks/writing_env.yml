@@ -16,11 +16,13 @@
           - ca-certificates
           - coreutils
           - curl
+          - cython
           - gcc
           - git
           - grep
           - imagemagick
           - lftp
+          - linux-headers
           - make
           - musl-dev
           - nodejs

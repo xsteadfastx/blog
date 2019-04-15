@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:3.9
 
 ENV LANG C.UTF-8
 ENV SSL_CERT_FILE /etc/ssl/certs/ca-certificates.crt

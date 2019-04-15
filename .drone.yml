@@ -1,0 +1,21 @@
+kind: pipeline
+name: default
+
+steps:
+
+  - name: submodules
+    image: docker:git
+    commands:
+      - git submodule init
+      - git submodule update --recursive --remote
+
+  - name: build and upload
+    image: xsteadfastx/blog
+    environment:
+      FTP_PASS:
+        from_secret: ftp_pass
+    commands:
+      - sudo cp -a /drone/src/. /blog/
+      - sudo chown -R blog:blog /blog
+      - cd /blog
+      - make ftp_upload
