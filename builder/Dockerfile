@@ -33,12 +33,15 @@ RUN set -ex \
  && apk add --no-cache \
         lftp \
         make \
+        sudo \
         tzdata \
  && cp /usr/share/zoneinfo/Europe/Berlin /etc/localtime \
  && echo "Europe/Berlin" >  /etc/timezone \
  && apk del tzdata \
  && addgroup -g $BLOG_GID blog \
  && adduser -h /home/blog -D -s /bin/sh -G blog blog \
+ && echo 'blog ALL=(ALL) NOPASSWD: ALL' > /etc/sudoers.d/blog \
+ && chmod 0440 /etc/sudoers.d/blog \
  && chown -R $BLOG_UID:$BLOG_GID /home/blog
 USER blog
 WORKDIR /blog
