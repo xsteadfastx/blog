@@ -11,6 +11,7 @@ steps:
 
   - name: build and upload
     image: xsteadfastx/blog
+    pull: always
     environment:
       FTP_PASS:
         from_secret: ftp_pass
