@@ -1,4 +1,4 @@
-PY?=/usr/bin/python3
+PY?=/usr/local/bin/python3
 PELICAN?=pelican
 PELICANOPTS=
 

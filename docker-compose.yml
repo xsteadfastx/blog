@@ -1,7 +1,7 @@
 version: '3'
 services:
   blog:
-    build: writing_env/
+    build: builder/
     image: xsteadfastx/blog
     container_name: blog
     environment:
