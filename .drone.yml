@@ -1,6 +1,9 @@
 kind: pipeline
 name: default
 
+workspace:
+  base: /blog
+
 steps:
 
   - name: submodules
@@ -16,7 +19,5 @@ steps:
       FTP_PASS:
         from_secret: ftp_pass
     commands:
-      - sudo cp -a /drone/src/. /blog/
       - sudo chown -R blog:blog /blog
-      - cd /blog
       - make ftp_upload
