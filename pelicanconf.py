@@ -88,7 +88,7 @@ TAG_SAVE_AS = "tag/{slug}.html"
 
 # api keys
 FLICKR_API_KEY = "2207902126a225122e46533e82b6a947"
-GIPHY_API_KEY = "dc6zaTOxFJmzC"
+GIPHY_API_KEY = "5p444vy81N4TtGQ0J4CLeyyBTlZi2AIa"
 
 DEFAULT_PAGINATION = 5
 COPYRIGHT_YEAR = datetime.utcnow().strftime("%Y")
