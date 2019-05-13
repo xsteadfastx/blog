@@ -157,3 +157,7 @@ figcaption {
   }
 
 }
+
+.highlight.hl-ipython3 pre {
+  color: #000000;
+}
