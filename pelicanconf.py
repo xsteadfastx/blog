@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
+
 from datetime import datetime
 
 AUTHOR = "marvin"
@@ -88,6 +89,7 @@ TAG_SAVE_AS = "tag/{slug}.html"
 
 # api keys
 FLICKR_API_KEY = "2207902126a225122e46533e82b6a947"
+FLICKR_API_SECRET = "402a152c0cff422e3"
 GIPHY_API_KEY = "5p444vy81N4TtGQ0J4CLeyyBTlZi2AIa"
 
 DEFAULT_PAGINATION = 5
