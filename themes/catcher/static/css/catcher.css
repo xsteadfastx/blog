@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'Fantasque Sans Mono';
+  src: url('/theme/fonts/FantasqueSansMono-Regular.eot'); /* IE 9 Compatibility Mode */
+  src: url('/theme/fonts/FantasqueSansMono-Regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+       url('/theme/fonts/FantasqueSansMono-Regular.woff2') format('woff2'),
+       url('/theme/fonts/FantasqueSansMono-Regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+       url('/theme/fonts/FantasqueSansMono-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('/theme/fonts/FantasqueSansMono-Regular.svg#FantasqueSansMono-Regular') format('svg'); /* Chrome < 4, Legacy iOS */
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  background: #f8f8f2;
+  height: 100%;
+  font-family: 'Fantasque Sans Mono';
+  font-style: normal;
+  font-size: 1.5em;
+  color: #282a36;
+}
+
+a {
+  color: #6272a4;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #bd93f9;
+}
+
+h1 {
+  color: #6272a4;
+  margin-top: 75px;
+  font-family: 'Fantasque Sans Mono';
+}
+
+h1 a {
+  text-decoration: none;
+}
+
+h2 {
+  color: #6272a4;
+  font-family: 'Fantasque Sans Mono';
+}
+
+hr {
+  border: solid #44475a 1px;
+}
+
+p.post-meta {
+  color: #44475a;
+  font-size: 75%;
+}
+
+p.footer {
+  color: #44475a;
+  font-size: 75%;
+  margin-bottom: 0px;
+}
+
+figure {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+figcaption {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 90%;
+  font-size: small;
+  text-align: center;
+}
+
+.content pre {
+  padding: 20px;
+  font-family: "Fantasque Sans Mono";
+}
+
+.content blockquote {
+  font-family: "Fantasque Sans Mono";
+  font-size: 1.5em;
+}
+
+.content img {
+  width: 100%;
+}
+
+#tipue_search_input {
+  font-family: 'Fantasque Sans Mono';
+  padding: 0px;
+}
+
+#tipue_search_results_count, .tipue_search_content_title a, .tipue_search_content_url a, .tipue_search_content_text, #tipue_search_warning {
+  font-family: 'Fantasque Sans Mono';
+}
+
+.tipue_search_content_title a, .tipue_search_content_url a {
+  color: #44475a;
+}
+
+.tipue_search_content_title a:hover {
+  color: #000000;
+}
+
+.tipue_search_content_url a:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+
+.sidebar {
+  background-image: url(/theme/images/background.gif);
+  position: absolute;
+  height: 65px;
+}
+
+@media (min-width: 550px) {
+
+  .sidebar {
+    background-image: url(/theme/images/background.gif);
+    background-size: cover;
+    position: fixed;
+    height: 100%;
+  }
+
+}
+
+.highlight.hl-ipython3 pre {
+  color: #000000;
+}
