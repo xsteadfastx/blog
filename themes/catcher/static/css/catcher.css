@@ -155,7 +155,7 @@ figcaption {
 }
 
 .sidebar {
-  background-image: url(/theme/images/background.gif);
+  background-image: url(/theme/images/background.png);
   position: absolute;
   height: 65px;
 }
@@ -163,7 +163,7 @@ figcaption {
 @media (min-width: 550px) {
 
   .sidebar {
-    background-image: url(/theme/images/background.gif);
+    background-image: url(/theme/images/background.png);
     background-size: cover;
     position: fixed;
     height: 100%;
