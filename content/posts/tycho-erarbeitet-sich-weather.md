@@ -7,4 +7,4 @@ Auch wenn sich das neue Album von Tycho mir noch nicht zu 100% erschließt, ich 
 
 {% youtube rNKcJ7bIUYE %}
 
-{% youtube sFG6QWi7zHg }
+{% youtube sFG6QWi7zHg %}
