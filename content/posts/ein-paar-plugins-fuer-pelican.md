@@ -4,7 +4,7 @@ Slug: ein-paar-plugins-fuer-pelican
 Tags: pelican, blog, python
 Description: Ich habe ein paar Plugins für  den Pelican Static Site Generator geschrieben
 
-{% giphy YuNzqtXUcwbV6 'Wie ich mich beim coden fühle' %}
+{% giphy YuNzqtXUcwbV6 %}
 
 Ich bin eigentlich ziemlich glücklich mit meinem Umstieg von Wordpress auf [Pelican](http://blog.getpelican.com/). Dieses Static-Site-Ding macht in meinen Augen wirklich Sinn. Vor allem passt es sich gut in diesen GIT-Workflow ein. Alles in Markdown und keine DB im Nacken plus Backups die durch GIT ganz wunderbar sind. Meine Entscheidung für Pelican fiel durch die Programmiersprache Python. Ich dachte es ist schön wenn man fähig ist ein wenig zu verstehen was dort passiert und es eventuell die Möglichkeit gibt auch etwas dem Projekt zurück zu geben. Dies habe ich nun mit ein paar Erweiterungen für das [liquid_tags](https://github.com/getpelican/pelican-plugins/tree/master/liquid_tags) Plugin getan. Ich habe gemerkt das ich oft viele Sachen einbinde und dies frisst Zeit sich erstmal die Embeded-Codes rauszusuchen oder selber zu basteln. Dies soll für einige Dienste nun durch diese Erweiterungen verbessert werden.
 
