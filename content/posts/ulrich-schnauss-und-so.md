@@ -16,7 +16,7 @@ seine Diskographie gehört und wurde nicht enttäuscht. Elektronischer
 Shoegaze. Das trifft es eigentlich ganz recht. Sommernächte und lange
 Fahrten mit runtergekurbelten Fenstern.
 
-{% youtube JfNNlkaeTtg?t=1m39s %}
+{% youtube JfNNlkaeTtg %}
 
 [Hier](http://www.theransomnote.co.uk/music/mixes/ulrich-schnauss-the-ransom-note-mix-talk/)
 ist der Mix den Mr. Ulrich Schnauss für The Ransom Note gemacht hat.

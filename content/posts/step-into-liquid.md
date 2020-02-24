@@ -16,5 +16,5 @@ Ein guter Freund von mir hatte vor ein Jahr lang durch die Welt zu
 reisen um zu surfen. Ein Traum! Er zeigte mir diesen Film...Step Into
 Liquid...und ich verstand ihn sofort wieso er das vor hatte...
 
-Den vollen Film gibt es [hier]({% youtube Mt0yOFKIOic)... %}
+Den vollen Film gibt es [hier](https://www.youtube.com/watch?v=Mt0yOFKIOic)...
 

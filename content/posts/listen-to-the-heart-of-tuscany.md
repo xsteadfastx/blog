@@ -12,7 +12,7 @@ trennen mich von meinem Urlaub. Unsere Zeit in der Toskana. Jeden morgen
 kommt die Sehnsucht in mir hoch wieder weg zu sein.
 
 Dies wird durch dieses Video auch nicht wirklich besser. Aber danke
-[Gunther Machu]({% vimeo gunthermachu) für dieses wunderschöne %}
+Gunther Machu für dieses wunderschöne
 Fernweh.
 
 > One of my favorite places on earth - the heart of the Tuscany in
