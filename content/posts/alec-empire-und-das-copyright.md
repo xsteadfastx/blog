@@ -112,8 +112,7 @@ Netztes sind...
 </p>
 > so I am buying the damn thing…and it's basically the CDR… (here is one
 > example…shitty YouTube mp3 though
-> [youtube.com/watch?v=PgkbIp…]({% youtube PgkbIpKp04Y") %}
-> )
+> [youtube.com/watch?v=PgkbIpKp04Y](youtube.com/watch?v=PgkbIpKp04Y)
 >
 > — Alec Empire (@ALEC\_EMPIRE) [January 20,
 > 2012](https://twitter.com/ALEC_EMPIRE/status/160162518055137280)
