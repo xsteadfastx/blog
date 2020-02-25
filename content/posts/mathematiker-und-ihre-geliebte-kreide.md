@@ -7,4 +7,4 @@ Ich kann die Faszination für Schreibwaren verstehen. Für nichts würde ich mei
 
 Ich denke das sich viele Firmen ihrer Notwendigkeit nicht bewusst sind und leichtfertig Produkte einstellen, der Angst nach den Massenmarkt verloren zu haben. Die Liebe bleibt aber.
 
-{%youtube PhNUjg9X4g8 %}
+{% youtube PhNUjg9X4g8 %}
