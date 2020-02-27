@@ -11,4 +11,5 @@ steps:
     commands:
       - apk add --no-cache make
       - make install_deps
+      - make build
       - make ftp_upload
