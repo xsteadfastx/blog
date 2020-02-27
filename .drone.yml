@@ -1,0 +1,14 @@
+---
+kind: pipeline
+name: default
+steps:
+  - name: build and upload
+    image: alpine:3.11
+    pull: always
+    environment:
+      FTP_PASS:
+        from_secret: ftp_pass
+    commands:
+      - apk add --no-cache make
+      - make install_deps
+      - make ftp_upload
