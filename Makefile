@@ -12,9 +12,7 @@ build:
 
 install_deps:
 	apk add --no-cache lftp git
-	git clone -b v$(HUGO_VERSION) --depth 1 https://github.com/gohugoio/hugo.git /tmp/hugo
-	(cd /tmp/hugo; go install)
-	rm -rf /tmp/hugo
+	GO111MODULE=on go get -v -u github.com/gohugoio/hugo@v$(HUGO_VERSION)
 
 ftp_upload:
 	lftp ftp://$(FTP_USER):$(FTP_PASS)@$(FTP_HOST) -e "set ssl:verify-certificate no; mirror -R --ignore-time --no-perms --parallel=4 -e --use-cache -v $(OUTPUTDIR) $(FTP_TARGET_DIR); quit"
