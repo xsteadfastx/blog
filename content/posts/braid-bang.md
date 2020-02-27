@@ -1,10 +1,13 @@
-Title: Braid - Bang
-Date: 2014-06-05 17:03
-Author: marvin
-Category: Uncategorized
-Tags: braid, music
-Slug: braid-bang
-
+---
+title: Braid - Bang
+slug: braid-bang
+tags:
+- braid
+- music
+date: "2014-06-05T18:03:00+02:00"
+author: marvin
+draft: false
+---
 Der Zeitraum für ein Emo-Revival könnte eigentlich nicht besser liegen.
 Auch wenn viele der Bands ihre Reunion-Shows nicht in Europa spielen,
 profitiert man von den feinen Vinyl-Rereleases. Erst am Freitag

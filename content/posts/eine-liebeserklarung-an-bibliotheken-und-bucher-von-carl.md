@@ -1,14 +1,17 @@
-Title: Eine Liebeserklärung an Bibliotheken und Bücher von Carl...
-Date: 2012-04-30 10:37
-Author: marvin
-Category: Uncategorized
-Tags: books, carlsagan
-Slug: eine-liebeserklarung-an-bibliotheken-und-bucher-von-carl
-
+---
+title: Eine Liebeserklärung an Bibliotheken und Bücher von Carl...
+slug: eine-liebeserklarung-an-bibliotheken-und-bucher-von-carl
+tags:
+- books
+- carlsagan
+date: "2012-04-30T11:37:00+02:00"
+author: marvin
+draft: false
+---
 Eine Liebeserklärung an Bibliotheken und Bücher von Carl Sagan...dazu
 muss man nichts mehr sagen...
 
-{% youtube 0E0yzMgqOUg %}
+{{< youtube 0E0yzMgqOUg >}}
 
 > Books permit us to voyage through time, to tap the wisdom of our
 > ancestors. The library connects us with the insights and knowledge,
@@ -20,4 +23,3 @@ muss man nichts mehr sagen...
 > of our civilization, the depth of our awareness about the
 > underpinnings of our culture and our concern for the future can all be
 > tested by how well we support our libraries.
-

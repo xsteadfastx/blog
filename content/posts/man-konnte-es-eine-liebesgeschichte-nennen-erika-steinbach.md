@@ -1,10 +1,14 @@
-Title: Man könnte es eine Liebesgeschichte nennen Erika Steinbach...
-Date: 2012-03-16 10:32
-Author: marvin
-Category: status
-Tags: erikasteinbach, politics, twitter
-Slug: man-konnte-es-eine-liebesgeschichte-nennen-erika-steinbach
-
+---
+title: Man könnte es eine Liebesgeschichte nennen Erika Steinbach...
+slug: man-konnte-es-eine-liebesgeschichte-nennen-erika-steinbach
+tags:
+- erikasteinbach
+- politics
+- twitter
+date: "2012-03-16T10:32:00+01:00"
+author: marvin
+draft: false
+---
 Man könnte es eine Liebesgeschichte nennen: Erika Steinbach, meine
 liebste aller Geschichtsverdreher, und ich. Zumindestens auf
 Twitter...und genau deswegen mag ich sie so sehr:
@@ -43,4 +47,3 @@ Und das ganze konnte ich dann nur mit extra viel Flausch ertragen:
 Es ist halt immer sehr putzig wenn solche Politiktrolle versuchen
 Politik zumachen und das im Internetz. Immer für ein paar Lacher gut das
 ganze...
-

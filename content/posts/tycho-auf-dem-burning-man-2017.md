@@ -1,8 +1,14 @@
-Title: Tycho auf dem Burning Man 2017
-Date: 2017-11-09 09:19
-Slug: tycho-auf-dem-burning-man-2017
-Tags: tycho, music, burningman
-
+---
+title: Tycho auf dem Burning Man 2017
+slug: tycho-auf-dem-burning-man-2017
+tags:
+- tycho
+- music
+- burningman
+date: "2017-11-09T09:19:00+01:00"
+author: marvin
+draft: false
+---
 Und jährlich grüßt Tycho vom Burning Man...
 
-{% soundcloud https://soundcloud.com/tycho/ingress-burning-man-sunrise-set-2017 %}
+{{< soundcloud_tracks 341550891 >}}

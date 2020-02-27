@@ -1,11 +1,16 @@
-Title: hitchcast - Eine Ankündigung
-Date: 2011-08-25 19:31
-Author: marvin
-Category: post
-Tags: alfredhitchcock, blog, movies, podcast
-Slug: hitchcast-eine-ankundigung
-
-![4670]({static}/images/4670.jpg)
+---
+title: hitchcast - Eine Ankündigung
+slug: hitchcast-eine-ankundigung
+tags:
+- alfredhitchcock
+- blog
+- movies
+- podcast
+date: "2011-08-25T20:31:00+02:00"
+author: marvin
+draft: false
+---
+![4670](/images/4670.jpg)
 
 Nun ist es schon fast soweit...es wird den ersten Podcast in meinem
 persöhnlichen Blog geben. Nicht das jemand darauf gewartet hat, aber
@@ -67,4 +72,3 @@ Ich bin also gespannt...
 
 **Update:** Wir haben uns entschieden den Podcast auf unser anderes Blog
 zu ziehen. Man findet es nun unter <http://blog.luftmentsh.org>
-

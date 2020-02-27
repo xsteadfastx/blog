@@ -1,11 +1,17 @@
-Title: The Day of the Doctor
-Date: 2013-11-02 11:58
-Author: marvin
-Category: Uncategorized
-Tags: cinema, doctorwho, movies, nuernberg, tv
-Slug: the-day-of-the-doctor
-
-![tardisgermanymap]({static}/images/tardisgermanymap.jpg)
+---
+title: The Day of the Doctor
+slug: the-day-of-the-doctor
+tags:
+- cinema
+- doctorwho
+- movies
+- nuernberg
+- tv
+date: "2013-11-02T11:58:00+01:00"
+author: marvin
+draft: false
+---
+![tardisgermanymap](/images/tardisgermanymap.jpg)
 
 Ich werde immer aufgeregter. Der 23. November kommt immer näher. Und bis
 heute morgen dachte ich noch das ich die 50 Jahre Jubiläums-Episode von
@@ -18,5 +24,4 @@ hängen die ausgedruckten Karten in meinem Büro und ich bin über
 glücklich. Als kleinen Heißmacher gibt es jetzt den ersten Teaser zur
 Episode... yeah...
 
-{% youtube 7hRy2N2CMhQ %}
-
+{{< youtube 7hRy2N2CMhQ >}}

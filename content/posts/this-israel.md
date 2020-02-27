@@ -1,11 +1,14 @@
-Title: this israel
-Date: 2011-12-02 10:44
-Author: marvin
-Category: post
-Tags: israel, jerusalem
-Slug: this-israel
-
-{% vimeo 30861381 %}
+---
+title: this israel
+slug: this-israel
+tags:
+- israel
+- jerusalem
+date: "2011-12-02T10:44:00+01:00"
+author: marvin
+draft: false
+---
+{{< vimeo 30861381 >}}
 
 Ich war jetzt fünf Jahre in Folge in Israel. Als ich das erste mal vor 5
 1/2 Jahren dort war schwor ich mir auf dem Heimweg dieses Land einmal
@@ -18,4 +21,3 @@ meisten bedeuten. Das letzte mal war ich Anfang Januar in Israel. Es war
 das Highlight...ich war mit meiner jetzigen Frau dort. Das ist nun fast
 ein Jahr her...langsam überkommt mich die Melancholie weil ich nicht
 sagen kann wann es das nächste mal sein wird...
-

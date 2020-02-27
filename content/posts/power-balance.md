@@ -1,10 +1,15 @@
-Title: Power Balance
-Date: 2011-08-31 14:13
-Author: marvin
-Category: post
-Tags: esoterik, fcbayern, football, powerbalance
-Slug: power-balance
-
+---
+title: Power Balance
+slug: power-balance
+tags:
+- esoterik
+- fcbayern
+- football
+- powerbalance
+date: "2011-08-31T15:13:00+02:00"
+author: marvin
+draft: false
+---
 Neulich stand ich in dem Sportfachgeschäft hier um die Ecke. Eins meiner
 beiden, aus Wolfsburg mitgebrachten, Fahrräder hat schon seit Monaten
 einen Platten. Wenn man mich kennt weiß man das ich so etwas sehr lange
@@ -79,4 +84,3 @@ Mehr Infos hier:
 -   [Wikipedia](http://en.wikipedia.org/wiki/Power_balance)
 -   und endlich das passende Produkt für mich: [das Placebo
     Band](http://skepticbros.com/store/)
-

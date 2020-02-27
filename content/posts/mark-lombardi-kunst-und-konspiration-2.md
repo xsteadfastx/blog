@@ -1,10 +1,15 @@
-Title: Mark Lombardi - Kunst und Konspiration
-Date: 2014-01-13 11:12
-Author: marvin
-Category: Uncategorized
-Tags: art, arte, documentary, marklombardi
-Slug: mark-lombardi-kunst-und-konspiration-2
-
+---
+title: Mark Lombardi - Kunst und Konspiration
+slug: mark-lombardi-kunst-und-konspiration-2
+tags:
+- art
+- arte
+- documentary
+- marklombardi
+date: "2014-01-13T11:12:00+01:00"
+author: marvin
+draft: false
+---
 Ich hatte bis zur letzten Documenta nichts von [Mark
 Lombardi](https://de.wikipedia.org/wiki/Mark_Lombardi) gehört. In Kassel
 zeigte man eine große, gerahmte Zeichnung von ihm. Mark Lombardi hat
@@ -30,4 +35,3 @@ bevor die Contentmafia das Gatter zunagelt.
 <p>
 <script type="text/javascript" src="https://www-secure.arte.tv/arte_vp/embed.php?json_url=http://arte.tv/papi/tvguide/videos/stream/player/D/043707-000_PLUS7-D/ALL/ALL.json⟨=de_DE&amp;config=arte_tvguide"></script>
 </p>
-

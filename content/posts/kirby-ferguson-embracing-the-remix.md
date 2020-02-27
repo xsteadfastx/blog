@@ -1,11 +1,18 @@
-Title: Kirby Ferguson - Embracing The Remix
-Date: 2012-09-05 11:42
-Author: marvin
-Category: Uncategorized
-Tags: apple, kirbyferguson, remix, samsung, stevejobs, ted
-Slug: kirby-ferguson-embracing-the-remix
-
-![705157]({static}/images/705157.jpg)
+---
+title: Kirby Ferguson - Embracing The Remix
+slug: kirby-ferguson-embracing-the-remix
+tags:
+- apple
+- kirbyferguson
+- remix
+- samsung
+- stevejobs
+- ted
+date: "2012-09-05T12:42:00+02:00"
+author: marvin
+draft: false
+---
+![705157](/images/705157.jpg)
 
 Diesen TED-Talk hatte ich schon lange auf der Liste der zu verbloggenen
 Dinge. Heute habe ich ihn mir nochmal angeschaut und gemerkt wie wichtig
@@ -25,5 +32,4 @@ Eisberges. Moneyquote von Steve Jobs:
 Es tötet Fortschritt...Kultur und Kunst. So einfach ist das...  
 10 Minuten die sich lohnen.
 
-{% youtube zd-dqUuvLk4 %}
-
+{{< youtube zd-dqUuvLk4 >}}

@@ -1,11 +1,20 @@
-Title: Wild Nothing - Paradise
-Date: 2012-10-24 14:39
-Author: marvin
-Category: Uncategorized
-Tags: dawsonscreek, deathcabforcutie, digitalharinezumi, fernweh, mattamato, michellewilliams, music, wildnothing
-Slug: wild-nothing-paradise
-
-![wildnothingparadise]({static}/images/wildnothingparadise.jpg)
+---
+title: Wild Nothing - Paradise
+slug: wild-nothing-paradise
+tags:
+- dawsonscreek
+- deathcabforcutie
+- digitalharinezumi
+- fernweh
+- mattamato
+- michellewilliams
+- music
+- wildnothing
+date: "2012-10-24T15:39:00+02:00"
+author: marvin
+draft: false
+---
+![wildnothingparadise](/images/wildnothingparadise.jpg)
 
 Ab und zu habe ich die letzten Monate schon geschaut ob Wild Nothing
 endlich mal ein Video zu einem Song seines letzten Albums ins Internetz
@@ -25,5 +34,4 @@ ganz tolles Video...
 Benutzt hat er wohl eine "Digital Harinezumi" Kamera. Ich mag die Optik
 sehr.
 
-{% youtube zm636VSQXUU %}
-
+{{< youtube zm636VSQXUU >}}

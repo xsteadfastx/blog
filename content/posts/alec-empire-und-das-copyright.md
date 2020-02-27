@@ -1,10 +1,15 @@
-Title: Alec Empire und das Copyright
-Date: 2012-01-20 10:29
-Author: marvin
-Category: post
-Tags: alecempire, atariteenageriot, music, twitter
-Slug: alec-empire-und-das-copyright
-
+---
+title: Alec Empire und das Copyright
+slug: alec-empire-und-das-copyright
+tags:
+- alecempire
+- atariteenageriot
+- music
+- twitter
+date: "2012-01-20T10:29:00+01:00"
+author: marvin
+draft: false
+---
 Alec Empire hat mal einen Schwung über einer seiner Erfahrungen mit
 Copyright vertwittert...und wie froh ich bin das es wieder Atari Teenage
 Riot gibt und vor allem das sie eine große Stimme des kollektivem
@@ -253,4 +258,3 @@ Netztes sind...
 <p>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
-

@@ -1,13 +1,15 @@
-Title: First Person Pyro
-Date: 2014-04-29 16:15
-Author: marvin
-Category: Uncategorized
-Tags: football, pyro
-Slug: first-person-pyro
-
+---
+title: First Person Pyro
+slug: first-person-pyro
+tags:
+- football
+- pyro
+date: "2014-04-29T17:15:00+02:00"
+author: marvin
+draft: false
+---
 Schönes Pyro-Video aus Malmö. Dank einer kleinen GoPro bekommt man einen
 anderen Einblick. Nur ohne den Gestank ;-). Und ihr wisst ja:
 Pyrotechnik ist kein Verbrechen!!!11!!!einself
 
-{% youtube l76zsfQAQSo %}
-
+{{< youtube l76zsfQAQSo >}}

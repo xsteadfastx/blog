@@ -1,12 +1,16 @@
-Title: New Order spielt am Strand von Malibu ...
-Date: 2012-05-10 10:47
-Author: marvin
-Category: Uncategorized
-Tags: california, davidhasselhoff, malibu, neworder
-Slug: new-order-spielt-am-strand-von-malibu
-
+---
+title: New Order spielt am Strand von Malibu ...
+slug: new-order-spielt-am-strand-von-malibu
+tags:
+- california
+- davidhasselhoff
+- malibu
+- neworder
+date: "2012-05-10T11:47:00+02:00"
+author: marvin
+draft: false
+---
 New Order spielt am Strand von Malibu "Regret" zwischen Bikini Babes und
 The Hoff...your argument is invalid...
 
-{% youtube xzNQMW7-9Mw %}
-
+{{< youtube xzNQMW7-9Mw >}}

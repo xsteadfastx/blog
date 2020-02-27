@@ -1,10 +1,15 @@
-Title: Ulrich Schnauss und so
-Date: 2014-07-07 10:33
-Author: marvin
-Category: Uncategorized
-Tags: elizabethtown, movies, music, ulrichschnauss
-Slug: ulrich-schnauss-und-so
-
+---
+title: Ulrich Schnauss und so
+slug: ulrich-schnauss-und-so
+tags:
+- elizabethtown
+- movies
+- music
+- ulrichschnauss
+date: "2014-07-07T11:33:00+02:00"
+author: marvin
+draft: false
+---
 Das erste mal ist mit die Musik von Urlich Schnauss aufgefallen in dem
 Film
 [Elizabethtown](https://de.wikipedia.org/wiki/Elizabethtown_%28Film%29).
@@ -16,7 +21,7 @@ seine Diskographie gehört und wurde nicht enttäuscht. Elektronischer
 Shoegaze. Das trifft es eigentlich ganz recht. Sommernächte und lange
 Fahrten mit runtergekurbelten Fenstern.
 
-{% youtube JfNNlkaeTtg %}
+{{< youtube JfNNlkaeTtg >}}
 
 [Hier](http://www.theransomnote.co.uk/music/mixes/ulrich-schnauss-the-ransom-note-mix-talk/)
 ist der Mix den Mr. Ulrich Schnauss für The Ransom Note gemacht hat.

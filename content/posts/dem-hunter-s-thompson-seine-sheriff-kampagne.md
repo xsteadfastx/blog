@@ -1,11 +1,15 @@
-Title: Dem Hunter S. Thompson seine Sheriff-Kampagne
-Date: 2012-09-25 11:28
-Author: marvin
-Category: Uncategorized
-Tags: aspen, huntersthompson, politics
-Slug: dem-hunter-s-thompson-seine-sheriff-kampagne
-
-![media_httpwwwdangerou_pwcvI.jpg.scaled500]({static}/images/media_httpwwwdangerou_pwcvI.jpg.scaled500.jpg)
+---
+title: Dem Hunter S. Thompson seine Sheriff-Kampagne
+slug: dem-hunter-s-thompson-seine-sheriff-kampagne
+tags:
+- aspen
+- huntersthompson
+- politics
+date: "2012-09-25T12:28:00+02:00"
+author: marvin
+draft: false
+---
+![media_httpwwwdangerou_pwcvI.jpg.scaled500](/images/media_httpwwwdangerou_pwcvI.jpg.scaled500.jpg)
 
 Den großartigen Hunter S. Thompson konnte man 1970 in Aspen zu Sheriff
 wählen. Zumindest kandidierte er. Er wurde von der sogenannten "Freak
@@ -23,5 +27,4 @@ Thompsons Kampagnenvideo mit folgendem Wortlaut:
 > technological nightmare we've created"  
 >  <cite>Kampagnenvideo Off-Stimme</cite>
 
-{% youtube 2bGR0Jlo3Po %}
-
+{{< youtube 2bGR0Jlo3Po >}}

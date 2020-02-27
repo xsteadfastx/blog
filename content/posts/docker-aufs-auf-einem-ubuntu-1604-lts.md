@@ -1,8 +1,15 @@
-Title: Docker aufs auf einem Ubuntu 16.04 LTS
-Date: 2017-05-31 12:58
-Slug: docker-aufs-auf-einem-ubuntu-1604-lts
-Tags: ubuntu, docker, linux, mastodon
-
+---
+title: Docker aufs auf einem Ubuntu 16.04 LTS
+slug: docker-aufs-auf-einem-ubuntu-1604-lts
+tags:
+- ubuntu
+- docker
+- linux
+- mastodon
+date: "2017-05-31T13:58:00+02:00"
+author: marvin
+draft: false
+---
 Ich bin gestern auf was gestossen. Ich betreibe einen kleinen Server mit einer [Mastodon](https://mastodon.social/about) Instanz mit nur mir als User. Der Server auf dem dies läuft ist ein Ubuntu 16.04 LTS.
 
 Das neue Mastodon Docker Image hat einen Entrypoint der bei jedem Aufruf des Containers erstmal einen Haufen Files nach ihren Benutzerrechten abfragt und diese dann gegebenenfalls ändert. Dies hat beim letzten Update dann einfach Stunden gedauert, da bei jeder Datenbank-Migration oder Assert-Kompilierung erstmal wieder alle Files durchkämmt wurden. Ein Graus. Ein wenig in den Bugreports von Mastodon geschaut und auch [was](https://github.com/tootsuite/mastodon/issues/3194) gefunden. Anscheinend liegt das an dem Storagedriver `overlay2` und mit `aufs` sollte dies "viel schneller" gehen. Unter Ubuntu Zesty ist `aufs` wohl auch der Default. Nun unter 16.04 sieht man davon nichts. Dies kann man mit `grep aufs /proc/filesystems` überprüfen. Es gibt aber einen Weg...

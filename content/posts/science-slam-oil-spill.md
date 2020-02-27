@@ -1,10 +1,14 @@
-Title: Science Slam Oil Spill
-Date: 2013-12-12 12:08
-Author: marvin
-Category: Uncategorized
-Tags: activism, pengcollective, shell
-Slug: science-slam-oil-spill
-
+---
+title: Science Slam Oil Spill
+slug: science-slam-oil-spill
+tags:
+- activism
+- pengcollective
+- shell
+date: "2013-12-12T12:08:00+01:00"
+author: marvin
+draft: false
+---
 Es ist nicht das erste mal das Konzerne versuchen sich durch Kultur und
 Wissenschaftsförderung eine weißer Weste zu zulegen. Dies klappt
 natürlich eigentlich nie. Prominentes Beispiel ist die Zusammenarbeit
@@ -39,5 +43,4 @@ Das Peng!-Collective schreibt auf ihrer [Seite](http://slamshell.com/):
 
 Ich bin Fan!
 
-{% youtube At9rWPj7MzU %}
-
+{{< youtube At9rWPj7MzU >}}

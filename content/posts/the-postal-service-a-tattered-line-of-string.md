@@ -1,11 +1,15 @@
-Title: The Postal Service - A Tattered Line Of String
-Date: 2013-02-15 15:44
-Author: marvin
-Category: Uncategorized
-Tags: music, reunions, thepostalservice
-Slug: the-postal-service-a-tattered-line-of-string
-
-![postal-service-a-tattered-line-of-string-e1360608792758]({static}/images/postal-service-a-tattered-line-of-string-e1360608792758.jpeg)
+---
+title: The Postal Service - A Tattered Line Of String
+slug: the-postal-service-a-tattered-line-of-string
+tags:
+- music
+- reunions
+- thepostalservice
+date: "2013-02-15T15:44:00+01:00"
+author: marvin
+draft: false
+---
+![postal-service-a-tattered-line-of-string-e1360608792758](/images/postal-service-a-tattered-line-of-string-e1360608792758.jpeg)
 
 Eigentlich waren The Postal Service immer mein Beispiel für eine
 großartige Band die ein Album rausbrachte, welches mir die Welt
@@ -19,4 +23,3 @@ hören um mir eine Meinung zu bilden. Deswegen zögere ich mit diesem
 Blogpost schon tagelang umher. Was soll es? Alles muss raus...
 
 https://soundcloud.com/marcocollins/postal-service-tattered
-

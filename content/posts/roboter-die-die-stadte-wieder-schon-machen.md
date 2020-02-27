@@ -1,11 +1,18 @@
-Title: Roboter die die Städte wieder schön machen
-Date: 2013-02-07 13:59
-Author: marvin
-Category: Uncategorized
-Tags: art, graffiti, robots, sokanno, streetart, takahiroyamaguchi
-Slug: roboter-die-die-stadte-wieder-schon-machen
-
-![colorrobot]({static}/images/colorrobot.jpg)
+---
+title: Roboter die die Städte wieder schön machen
+slug: roboter-die-die-stadte-wieder-schon-machen
+tags:
+- art
+- graffiti
+- robots
+- sokanno
+- streetart
+- takahiroyamaguchi
+date: "2013-02-07T13:59:00+01:00"
+author: marvin
+draft: false
+---
+![colorrobot](/images/colorrobot.jpg)
 
 In den letzten zehn Jahren hat sich die urbane Kunstfläche wieder in ein
 graues Nichts zurück verwandelt. Die Zeiten sind vorbei in denen ich mit
@@ -20,7 +27,6 @@ anzukämpfen. Vielleicht sollte wir einfach ein paar dieser Roboter,
 gebaut von Takahiro Yamaguchi und So Kanno, als Söldner durch die
 Straßen jagen...
 
-{% vimeo 58191583 %}
+{{< vimeo 58191583 >}}
 
 ([via](http://www.kraftfuttermischwerk.de/blogg/?p=48706))
-

@@ -1,11 +1,14 @@
-Title: Observer Drift - Corridors
-Date: 2012-05-07 10:22
-Author: marvin
-Category: Uncategorized
-Tags: music, observerdrift
-Slug: observer-drift-corridors
-
-![794734590-1]({static}/images/794734590-1.jpg)
+---
+title: Observer Drift - Corridors
+slug: observer-drift-corridors
+tags:
+- music
+- observerdrift
+date: "2012-05-07T11:22:00+02:00"
+author: marvin
+draft: false
+---
+![794734590-1](/images/794734590-1.jpg)
 
 Aus der Abteilung: Jemand schraubt ein wunderschönes Album bei sich im
 Kinderzimmer zusammen. Observer Drift macht verträumten Dreampop (die
@@ -17,4 +20,3 @@ Trotzdem darf man den Glauben an den Frühlich nicht aufgeben.
 <iframe width="300" height="410" style="position: relative; display: block; width: 300px; height: 410px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=987835706/size=grande3/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0">[Corridors
 by Observer
 Drift](http://observerdrift.bandcamp.com/album/corridors)</iframe>
-

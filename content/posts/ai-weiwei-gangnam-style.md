@@ -1,11 +1,17 @@
-Title: Ai Weiwei Gangnam Style
-Date: 2012-10-25 11:29
-Author: marvin
-Category: Uncategorized
-Tags: aiweiwei, art, gangnamstyle, music, psy
-Slug: ai-weiwei-gangnam-style
-
-![aiweiweigangnam]({static}/images/aiweiweigangnam.jpg)
+---
+title: Ai Weiwei Gangnam Style
+slug: ai-weiwei-gangnam-style
+tags:
+- aiweiwei
+- art
+- gangnamstyle
+- music
+- psy
+date: "2012-10-25T12:29:00+02:00"
+author: marvin
+draft: false
+---
+![aiweiweigangnam](/images/aiweiweigangnam.jpg)
 
 PSY und der "Gangnam Style" geht eigentlich relativ reibungslos an mir
 vorbei. Ich tat es ab als Meme für Leute die sich sonst nicht mit Memen
@@ -33,4 +39,3 @@ Wäre er nicht Künstler... wäre er sicher Tänzer geworden.
 <!-- End of guardian embedded video -->
 
 ([via](http://www.crackajack.de/2012/10/25/ai-wei-wei-does-gangnam-style/))
-

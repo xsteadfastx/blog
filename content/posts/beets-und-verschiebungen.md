@@ -1,8 +1,13 @@
-Title: Beets und Verschiebungen 
-Slug: beets-und-verschiebungen
-Date: 2014-03-16 09:10
-Tags: beets, music
-
+---
+title: 'Beets und Verschiebungen '
+slug: beets-und-verschiebungen
+tags:
+- beets
+- music
+date: "2014-03-16T09:10:00+01:00"
+author: marvin
+draft: false
+---
 
 Viel Zeit habe ich im beets IRC-Channel verbracht. Auch wenn die Dokumentation reichlich ist, war mir einiges Verhalten dann doch nicht so klar. Wenn ich Sachen importiert habe die entweder keinen Eintrag bei musicbrainz haben oder von Discogs kommen, sind die Artists-Tags unterschiedlich. Zum Beispiel bei den Hörbüchern von C.S. Lewis. Ein Hörbuch war bei musicbrainz und war getaggt mit "C.S. Lewis". Ein anderes wiederum habe ich einfach wie es ist importiert (dies geht auch. Zum Beispiel um trotzdem eigene Sachen in der Musiksammlung zu haben). Es hat den Artist-Tag "C. S. Lewis". Ist vielleicht im ersten Augenblick nicht so schlimm, verhagelt einem aber die Verzeichnisstruktur. Nun gibt es den beets-Befehl `beet modify QUERY artist="C.S. Lewis"`. Dieser sollte das hier machen:
 

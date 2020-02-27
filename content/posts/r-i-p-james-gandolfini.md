@@ -1,11 +1,17 @@
-Title: R.I.P. James Gandolfini
-Date: 2013-06-21 13:50
-Author: marvin
-Category: Uncategorized
-Tags: jamesgandolfini, mauricesendak, movies, sopranos, wherethewildthingsare
-Slug: r-i-p-james-gandolfini
-
-[![cc-by-sa gdcgraphics]({static}/images/JamesGandolfiniSept11TIFF.jpg)](https://en.wikipedia.org/wiki/File:JamesGandolfiniSept11TIFF.jpg)
+---
+title: R.I.P. James Gandolfini
+slug: r-i-p-james-gandolfini
+tags:
+- jamesgandolfini
+- mauricesendak
+- movies
+- sopranos
+- wherethewildthingsare
+date: "2013-06-21T14:50:00+02:00"
+author: marvin
+draft: false
+---
+[![cc-by-sa gdcgraphics](/images/JamesGandolfiniSept11TIFF.jpg)](https://en.wikipedia.org/wiki/File:JamesGandolfiniSept11TIFF.jpg)
 
 Ich konnte es kaum glauben als ich gestern mich durch das Internetz
 klickte. Gleich nach dem Aufstehen las ich auf den Nachrichtenseiten,
@@ -18,12 +24,11 @@ Schauspieler der ihn verkörperte: James Gandolfini. Eins steht fest: Es
 wird wohl keinen Sopranos Kinofilm mehr geben. Ich hatte ja die Hoffnung
 nicht aufgegeben.
 
-![SopranosKuwaitUSO]({static}/images/SopranosKuwaitUSO.jpg)
+![SopranosKuwaitUSO](/images/SopranosKuwaitUSO.jpg)
 
 James Gandolfini spielte auch in dem Film "Wo die wilden Kerle wohnen".
 Die Verfilmung des Buches von Maurice Sendak. Ein paar Sekunden
 schweigen und dann liest hier Herr Gandolfini aus Maurice Sendak's Buch
 "In The Night Kitchen".
 
-{% youtube G5J050upihY %}
-
+{{< youtube G5J050upihY >}}

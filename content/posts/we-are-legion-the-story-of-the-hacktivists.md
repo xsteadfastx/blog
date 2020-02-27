@@ -1,11 +1,18 @@
-Title: We Are Legion - The Story of the Hacktivists
-Date: 2012-09-25 13:06
-Author: marvin
-Category: Uncategorized
-Tags: anonymous, documentary, hacking, internetz, politics, wearelegion
-Slug: we-are-legion-the-story-of-the-hacktivists
-
-![WeAreLegion_Film_Poster]({static}/images/WeAreLegion_Film_Poster.jpg)
+---
+title: We Are Legion - The Story of the Hacktivists
+slug: we-are-legion-the-story-of-the-hacktivists
+tags:
+- anonymous
+- documentary
+- hacking
+- internetz
+- politics
+- wearelegion
+date: "2012-09-25T14:06:00+02:00"
+author: marvin
+draft: false
+---
+![WeAreLegion_Film_Poster](/images/WeAreLegion_Film_Poster.jpg)
 
 Es könnte kaum eine interessante Zeit sein, als die in der wir leben.
 Und das meine ich ernst! Für mich ist das Informationszeitalter der
@@ -28,8 +35,7 @@ Hier verlinke ich einfach mal diese Dokumention über Hacktivismus mit
 dem schönen Namen "We Are Legion". Viel Spaß...
 
 Hier der Trailer:  
-{% youtube gn9-80ObGA8 %}
+{{< youtube gn9-80ObGA8 >}}
 
 Und hier der komplette Film:  
-{% youtube R4td7qvOmAk %}
-
+{{< youtube R4td7qvOmAk >}}

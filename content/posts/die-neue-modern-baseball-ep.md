@@ -1,9 +1,14 @@
-Title: Die neue Modern Baseball EP
-Date: 2015-10-27 09:07
-Slug: die-neue-modern-baseball-ep
-Tags: music, modernbaseball
-
-![Cover]({static}/images/modern_baseball_ep.jpg)
+---
+title: Die neue Modern Baseball EP
+slug: die-neue-modern-baseball-ep
+tags:
+- music
+- modernbaseball
+date: "2015-10-27T09:07:00+01:00"
+author: marvin
+draft: false
+---
+![Cover](/images/modern_baseball_ep.jpg)
 
 Und ich dachte ich müsste etwas länger warten auf ein neues Release von Modern Baseball. Wie aus dem Nichts kommt da diese EP die mich wohl durch diesen Herbst boxen wird. Erst vor kurzer Zeit mussten sie die Australien Tour wegen Depressionen des Sängers absagen. Nun diese EP und vielleicht irgenwann mal eine Europa Tour. Ich bin Fan.
 

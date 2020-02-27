@@ -1,11 +1,14 @@
-Title: Keep The Things You Forgot: Über Elliott Smith
-Date: 2013-10-25 12:35
-Author: marvin
-Category: Uncategorized
-Tags: elliottsmith, music
-Slug: keep-the-things-you-forgot-uber-elliott-smith
-
-[![cc-by MacLeod]({static}/images/Elliott_Smith_Memorial_Wall.jpg)](https://en.wikipedia.org/wiki/File:Elliott_Smith_Memorial_Wall.jpg)
+---
+title: 'Keep The Things You Forgot: Über Elliott Smith'
+slug: keep-the-things-you-forgot-uber-elliott-smith
+tags:
+- elliottsmith
+- music
+date: "2013-10-25T13:35:00+02:00"
+author: marvin
+draft: false
+---
+[![cc-by MacLeod](/images/Elliott_Smith_Memorial_Wall.jpg)](https://en.wikipedia.org/wiki/File:Elliott_Smith_Memorial_Wall.jpg)
 
 Jetzt ist es knapp über 10 Jahre her als Elliott Smith gestorben ist.
 Ich erinnere mich gut an den Tag. Ich las darüber morgen,s vor dem
@@ -18,10 +21,9 @@ nicht mehr hören. Zu sehr zieht sich mein Magen zusammen, denke ich an
 seinen Tod. Diese Aufnahmen von den Oscarverleihungen klingen wie eine
 Zusammenfassung seiner Karriere. Ganz oben und doch zerbrochen.
 
-{% youtube siUMfxpuwBI %}
+{{< youtube siUMfxpuwBI >}}
 
 Pitchfork hat einen sehr langen
 [Artikel](http://pitchfork.com/features/articles/9246-elliott-smith/)
 veröffentlicht, in dem viele Menschen, die Elliott Smith kannten, zu
 Wort kommen. Eine Sammlung an Erinnerungen.
-

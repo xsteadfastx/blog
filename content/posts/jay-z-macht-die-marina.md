@@ -1,11 +1,16 @@
-Title: Jay Z macht die Marina
-Date: 2013-08-21 15:36
-Author: marvin
-Category: Uncategorized
-Tags: art, jayz, marinaabramovic, music
-Slug: jay-z-macht-die-marina
-
-![picassobaby]({static}/images/picassobaby.jpg)
+---
+title: Jay Z macht die Marina
+slug: jay-z-macht-die-marina
+tags:
+- art
+- jayz
+- marinaabramovic
+- music
+date: "2013-08-21T16:36:00+02:00"
+author: marvin
+draft: false
+---
+![picassobaby](/images/picassobaby.jpg)
 
 Nach allem Anschein ist Performance-Art der neue heiße Scheiß. Zu
 mindestens wenn man sich mit Marina Abramovic schmücken kann. Zuletzt
@@ -31,5 +36,4 @@ machen. Eine gesunde Selbsteinschätzung hat noch niemanden geschadet.
 Auch wenn das Video besser ist als ich dachte kann ich den letzten
 Funken Selbstscham nicht abschalten.
 
-{% youtube xMG2oNqBy-Y %}
-
+{{< youtube xMG2oNqBy-Y >}}

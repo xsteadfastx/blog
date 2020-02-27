@@ -1,8 +1,13 @@
-Title: So Long Leonard
-Date: 2016-11-11 14:08
-Slug: so-long-leonard
-Tags: leonardcohen, music
-
+---
+title: So Long Leonard
+slug: so-long-leonard
+tags:
+- leonardcohen
+- music
+date: "2016-11-11T14:08:00+01:00"
+author: marvin
+draft: false
+---
 Wenn ich Nachts, zu früh, aufwache mache ich oft Deutschlandfunk an und hoffe, dass die Monotonität der Sprache mich zurück in die Träume leitet. Schon zum zweiten mal diese Woche wache ich durch Schlagworte in den Nachrichten auf, fange im Halbschlaf nur ein paar Verben zu den Schlagworten auf, mein Gehirn macht Annahmen und verbindet alles zu einem Brei, der sich wie ein Albtraum anfühlt. Vor allem wenn sich alles als wahr herausstellt. Am Mittwoch Morgen war es Donald Trump und heute Morgen war es der Name Leonard Cohen der mich, im Bett, aufschnellen ließ.
 
 Es ist über 10 Jahre her, als mein guter Freund Manuel mir immer wieder neue Musik zukommen ließ. All das was er als wichtig empfand, Sachen die ich kennen sollte und ohne die man höchstwahrscheinlich nicht leben könne oder ohne die man, nachdem man sie gehört hatte, nicht mehr leben konnte. Durch diese immer wachsende Sammlung fing diese sehr interessante Reise erst an. Über die frühe Folk Musik bis hin zu New Wave aus den 80er Jahren. Nun hatte ich zwei Alben von Leonard Cohen. Diese hörte ich abwechselnd mit den Alben von Bob Dylan auf meinen täglichen Touren, die ich wegen meines Zivildienstes zurück legen musste. Die Trostlosigkeit bekommt seine neue Bedeutung wenn Leonard Cohen einem vom Chelsea Hotel vorsingt.

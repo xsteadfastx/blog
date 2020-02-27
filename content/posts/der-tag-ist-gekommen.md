@@ -1,10 +1,16 @@
-Title: Der Tag ist gekommen
-Date: 2013-12-02 11:19
-Author: marvin
-Category: Uncategorized
-Tags: cdu, fdp, netzpolitik, politics, spd
-Slug: der-tag-ist-gekommen
-
+---
+title: Der Tag ist gekommen
+slug: der-tag-ist-gekommen
+tags:
+- cdu
+- fdp
+- netzpolitik
+- politics
+- spd
+date: "2013-12-02T11:19:00+01:00"
+author: marvin
+draft: false
+---
 Der Tag ist gekommen an dem man fast sogar, ein wenig, vielleicht, die
 FDP vermisst. Mir fällt gerade ein wenig der Draht aus der Mütze. Der
 Brainfart "Vorratsdatenspeicherung" ist wieder da. Das Datenspäh-Projekt
@@ -21,4 +27,3 @@ gegeben zu haben. Demokratie ist doch kein Ponyhof. Bevor man Teil der
 Ausspähungen der Geheimdienste. Dann winkt die Regierungsbeteiligung und
 man ist mitten drin. So einfach ist Politik. Werte sind dann doch sehr
 flexibel zu nehmen. Danke für nichts Deutschland.
-

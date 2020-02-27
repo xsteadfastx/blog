@@ -1,11 +1,14 @@
-Title: revueflex b
-Date: 2011-09-21 11:16
-Author: marvin
-Category: post
-Tags: photography, revueflexb
-Slug: revueflex-b
-
-![2011-09-21-122603]({static}/images/2011-09-21-122603.jpg)
+---
+title: revueflex b
+slug: revueflex-b
+tags:
+- photography
+- revueflexb
+date: "2011-09-21T12:16:00+02:00"
+author: marvin
+draft: false
+---
+![2011-09-21-122603](/images/2011-09-21-122603.jpg)
 
 Meine Frau und ich haben diese Kamera durch Zufall erhalten. Christine
 liebt es auf Flohmärkten oder auch Wohnungsauflösungen allte Memoralien
@@ -32,4 +35,3 @@ in USSR. Was will man mehr? Ich freue mich auf jeden Fall über eine
 Kamera die ich gerade bekommen habe und doch schon seit einigen Monaten
 besessen hatte. Die Scans werden natürlich hier gepostet...ich freu
 mich.
-

@@ -1,11 +1,14 @@
-Title: Upset - Oxfords and Wingtips
-Date: 2013-10-08 11:58
-Author: marvin
-Category: Uncategorized
-Tags: music, upset
-Slug: upset-oxfords-and-wingtips
-
-![artworks-000057313447-7y1036-t500x500]({static}/images/artworks-000057313447-7y1036-t500x500.jpg)
+---
+title: Upset - Oxfords and Wingtips
+slug: upset-oxfords-and-wingtips
+tags:
+- music
+- upset
+date: "2013-10-08T12:58:00+02:00"
+author: marvin
+draft: false
+---
+![artworks-000057313447-7y1036-t500x500](/images/artworks-000057313447-7y1036-t500x500.jpg)
 
 Upset könnte man fast als kleine Super Group bezeichnen. Schließlich
 spielen da Mitglieder von Best Coast, den Vivian Girls und Hole mit.

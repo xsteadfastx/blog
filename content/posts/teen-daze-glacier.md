@@ -1,11 +1,14 @@
-Title: Teen Daze - Glacier
-Date: 2013-10-02 11:10
-Author: marvin
-Category: Uncategorized
-Tags: music, teendaze
-Slug: teen-daze-glacier
-
-![a1119031887_10]({static}/images/a1119031887_10.jpg)
+---
+title: Teen Daze - Glacier
+slug: teen-daze-glacier
+tags:
+- music
+- teendaze
+date: "2013-10-02T12:10:00+02:00"
+author: marvin
+draft: false
+---
+![a1119031887_10](/images/a1119031887_10.jpg)
 
 Seit Tagen plagt mich eine Erkältung. Die Krankheit die mich spüren
 lässt, dass es das Ende des Sommers ist. Meh. Zum Glück kann man jetzt

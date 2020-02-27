@@ -1,10 +1,13 @@
-Title: Ich liebe Hitchcock Ich kann nicht genug von...
-Date: 2012-04-04 13:36
-Author: marvin
-Category: status
-Tags: alfredhitchcock, movies
-Slug: ich-liebe-hitchcock-ich-kann-nicht-genug-von
-
+---
+title: Ich liebe Hitchcock Ich kann nicht genug von...
+slug: ich-liebe-hitchcock-ich-kann-nicht-genug-von
+tags:
+- alfredhitchcock
+- movies
+date: "2012-04-04T14:36:00+02:00"
+author: marvin
+draft: false
+---
 Ich liebe Hitchcock! Ich kann nicht genug von seinen Filmen bekommen. Er
 ist unbestritten der Großmeister des Kinos. Ein Beispiel für seine
 Genialität ist der Film "Read Window". Eigentlich hat jeder den Film
@@ -26,5 +29,4 @@ Synchronisiert das man den vollen Blick auf den Innenhof bekommen kann.
 Ein ganz großartiges Projekt und es führt einen die Genialität
 Hitchcocks vor Augen.
 
-{% vimeo 37120554 %}
-
+{{< vimeo 37120554 >}}

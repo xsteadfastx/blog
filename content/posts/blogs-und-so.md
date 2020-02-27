@@ -1,10 +1,14 @@
-Title: blogs und so
-Date: 2011-12-07 12:09
-Author: marvin
-Category: post
-Tags: blog, politics, thoughts
-Slug: blogs-und-so
-
+---
+title: blogs und so
+slug: blogs-und-so
+tags:
+- blog
+- politics
+- thoughts
+date: "2011-12-07T12:09:00+01:00"
+author: marvin
+draft: false
+---
 Manchmal weiß man nicht wirklich wie man das Blog zu benutzen hat. Ist
 es einfach ein Notizbuch für witzige Internet Videos oder doch mehr.
 Vielleicht sogar ein Notizbuch für mehr? Ich weiß selber nicht was das
@@ -44,4 +48,3 @@ den Ausgestossenen, den Armen, den Verlassenen Künstler stecken. Wieso
 verdrängen wir dieses Gefühl? Wieso leben wir nicht wie die
 Künstler...schließlich ist das Internet auch nicht mehr als eine weiße
 Leinwand oder ein leerer Raum der gefüllt werden muss.
-

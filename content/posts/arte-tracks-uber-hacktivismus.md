@@ -1,11 +1,17 @@
-Title: Arte Tracks über Hacktivismus
-Date: 2012-09-24 14:38
-Author: marvin
-Category: Uncategorized
-Tags: alanturing, arte, documentary, hacking, telecomix
-Slug: arte-tracks-uber-hacktivismus
-
-![artetrackhacking]({static}/images/artetrackhacking.jpg)
+---
+title: Arte Tracks über Hacktivismus
+slug: arte-tracks-uber-hacktivismus
+tags:
+- alanturing
+- arte
+- documentary
+- hacking
+- telecomix
+date: "2012-09-24T15:38:00+02:00"
+author: marvin
+draft: false
+---
+![artetrackhacking](/images/artetrackhacking.jpg)
 
 Ich schaue Arte Tracks wirklich gerne. Verpasse es aber eigentlich so
 ziemlich jede Woche. Durch Zufall habe ich am Samstag die Wiederholung
@@ -23,4 +29,3 @@ verschwindet...
 </embed>
 </object>
 </p>
-

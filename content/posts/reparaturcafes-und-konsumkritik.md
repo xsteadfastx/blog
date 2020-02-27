@@ -1,11 +1,15 @@
-Title: Reparaturcafes und Konsumkritik
-Date: 2012-08-13 16:30
-Author: marvin
-Category: Uncategorized
-Tags: consume, diy, politics
-Slug: reparaturcafes-und-konsumkritik
-
-![608148]({static}/images/608148.jpg)
+---
+title: Reparaturcafes und Konsumkritik
+slug: reparaturcafes-und-konsumkritik
+tags:
+- consume
+- diy
+- politics
+date: "2012-08-13T17:30:00+02:00"
+author: marvin
+draft: false
+---
+![608148](/images/608148.jpg)
 
 Seit über einem Jahr versuche ich mich dem Konsum ein wenig
 einzuschränken. Ich bin da jetzt nicht wirklich Hardline und ziehe es
@@ -37,5 +41,4 @@ kenne sowas meist von freien Fahrradwerkstätten...diese "Reparaturcafes"
 sind auf nichts beschränkt. Eine großartige Einrichtung...wir wollen
 mehr davon...!!!
 
-{% youtube 18O3lZvnONQ %}
-
+{{< youtube 18O3lZvnONQ >}}

@@ -1,11 +1,13 @@
-Title: John Peel über CD und Vinyl Ach John...
-Date: 2012-04-17 12:34
-Author: marvin
-Category: Uncategorized
-Tags: johnpeel, vinyl
-Slug: john-peel-uber-cd-und-vinyl-ach-john
-
-![3074_ea11_480]({static}/images/3074_ea11_480.jpeg)
+---
+title: John Peel über CD und Vinyl Ach John...
+slug: john-peel-uber-cd-und-vinyl-ach-john
+tags:
+- johnpeel
+- vinyl
+date: "2012-04-17T13:34:00+02:00"
+author: marvin
+draft: false
+---
+![3074_ea11_480](/images/3074_ea11_480.jpeg)
 
 John Peel über CD und Vinyl. Ach John Peel...wir vermissen dich...
-

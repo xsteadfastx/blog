@@ -1,11 +1,14 @@
-Title: Heute möchte ich über eine ganz besondere Künstlerin...
-Date: 2012-06-11 13:39
-Author: marvin
-Category: Uncategorized
-Tags: music, sarahbrendel
-Slug: heute-mochte-ich-uber-eine-ganz-besondere-kunstlerin
-
-![sab_pic_02a]({static}/images/sab_pic_02a.jpg)
+---
+title: Heute möchte ich über eine ganz besondere Künstlerin...
+slug: heute-mochte-ich-uber-eine-ganz-besondere-kunstlerin
+tags:
+- music
+- sarahbrendel
+date: "2012-06-11T14:39:00+02:00"
+author: marvin
+draft: false
+---
+![sab_pic_02a](/images/sab_pic_02a.jpg)
 
 Heute möchte ich über eine ganz besondere Künstlerin schreiben: Sarah
 Brendel. Ich hatte sie mal vor langer langer Zeit live gesehen. Es
@@ -26,7 +29,6 @@ sprechen...und ich muss ehrlich sagen das es mich wirklich rührt. Vor
 allem als gleich beim ersten Video mein Trauzeuge zu sehen ist. Es
 bricht mir oft das Herz das man sich doch so selten sieht...
 
-{% youtube 7GMlsTkUW3A %}
+{{< youtube 7GMlsTkUW3A >}}
 
-{% youtube Kup6va-sDjA %}
-
+{{< youtube Kup6va-sDjA >}}

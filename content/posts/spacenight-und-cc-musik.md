@@ -1,11 +1,18 @@
-Title: Space Night und CC-Musik
-Date: 2013-01-23 10:53
-Author: marvin
-Category: Uncategorized
-Tags: creativecommons, gema, music, nasa, space, spacenight
-Slug: spacenight-und-cc-musik
-
-![7611655852_cca6986290_c]({static}/images/7611655852_cca6986290_c.jpg)
+---
+title: Space Night und CC-Musik
+slug: spacenight-und-cc-musik
+tags:
+- creativecommons
+- gema
+- music
+- nasa
+- space
+- spacenight
+date: "2013-01-23T10:53:00+01:00"
+author: marvin
+draft: false
+---
+![7611655852_cca6986290_c](/images/7611655852_cca6986290_c.jpg)
 
 Kennt ihr Space Night? Ich kann mich noch an viele Nächte erinnern an
 denen ich nicht schlafen konnte und ich auf BR-Alpha dann diese Sendung
@@ -54,4 +61,3 @@ Man könnte von einem kleinen Wunder sprechen. Danke BR-Alpha für eure
 offenen Ohren!
 
 Mehr Infos [hier](http://www.heise.de/tp/blogs/6/153598)...
-

@@ -1,11 +1,14 @@
-Title: Memory Tapes mit  Swimming Field...
-Date: 2012-05-29 12:36
-Author: marvin
-Category: Uncategorized
-Tags: ingakrohn, memorytapes, music
-Slug: memory-tapes-mit-swimming-field
-
+---
+title: Memory Tapes mit  Swimming Field...
+slug: memory-tapes-mit-swimming-field
+tags:
+- ingakrohn
+- memorytapes
+- music
+date: "2012-05-29T13:36:00+02:00"
+author: marvin
+draft: false
+---
 Memory Tapes mit "Swimming Field"...
 
-{% vimeo 32883460 %}
-
+{{< vimeo 32883460 >}}

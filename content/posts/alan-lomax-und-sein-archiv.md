@@ -1,11 +1,16 @@
-Title: Alan Lomax und sein Archiv
-Date: 2015-03-26 15:30
-Author: marvin
-Category: Uncategorized
-Tags: alanlomax, bobdylan, music, woodyguthrie
-Slug: alan-lomax-und-sein-archiv
-
-![707px-Alan_Lomax]({static}/images/707px-Alan_Lomax.jpg)
+---
+title: Alan Lomax und sein Archiv
+slug: alan-lomax-und-sein-archiv
+tags:
+- alanlomax
+- bobdylan
+- music
+- woodyguthrie
+date: "2015-03-26T15:30:00+01:00"
+author: marvin
+draft: false
+---
+![707px-Alan_Lomax](/images/707px-Alan_Lomax.jpg)
 
 In Zeiten des für wenige Cents geklickten One-Hit-Wonders auf iTunes
 fragt man sich schon manchmal wie die Kultur der Musik archiviert und
@@ -24,4 +29,3 @@ Land zu Land und nahm Menschen und ihre Musik auf. Was mir bis heute
 nicht bewusst war: Es gibt sein Archiv im
 [Internetz](http://research.culturalequity.org/audio-guide.jsp). Ich bin
 dann erstmal weg...
-

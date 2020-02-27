@@ -1,8 +1,14 @@
-Title: Realitätsabgleich mit Alan Moore
-Date: 2017-09-15 15:55
-Slug: realitatsabgleich-mit-alan-moore
-Tags: comics, arte, alanmoore
-
+---
+title: Realitätsabgleich mit Alan Moore
+slug: realitatsabgleich-mit-alan-moore
+tags:
+- comics
+- arte
+- alanmoore
+date: "2017-09-15T16:55:00+02:00"
+author: marvin
+draft: false
+---
 In solchen Zeiten sollte man sich doch vielleicht auf die Künstler verlassen die eh groß darin waren, und immer noch sind, die Dystopien des letzten Jahrhunderts aufrecht zu halten. Einer dieser Autoren ist Alan Moore. Arte hat nun eine kleine Doku-Reihe über ihn und die Themen dieser Zeit gedreht.
 
 Die Folge über die aktuell fehlende Kultur und Gegenkultur sorgte sogar zu einer heimische, hitzigen Debatte ab wann Kultur überhaupt als Wert, der in der Epoche erhalten wird, erkannt wird und dies aktuell gar keine Aussage über jetzige Zeit zuläßt. Alles nur Vermutungen.

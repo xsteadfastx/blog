@@ -1,11 +1,15 @@
-Title: Die wilden Wurzeln des World Wide Web
-Date: 2013-05-15 12:10
-Author: marvin
-Category: Uncategorized
-Tags: arte, documentary, internetz
-Slug: die-wilden-wurzeln-des-world-wide-web
-
-![wildewurzlendeswww]({static}/images/wildewurzlendeswww.jpg)
+---
+title: Die wilden Wurzeln des World Wide Web
+slug: die-wilden-wurzeln-des-world-wide-web
+tags:
+- arte
+- documentary
+- internetz
+date: "2013-05-15T13:10:00+02:00"
+author: marvin
+draft: false
+---
+![wildewurzlendeswww](/images/wildewurzlendeswww.jpg)
 
 Ach ja, das wilde Internetz. Was würde ich den ganzen Tag ohne es
 machen? Es ist wie ein Ritt auf einer Bombe und das erträumte Utopia
@@ -31,4 +35,3 @@ Verwerter-Mafia auf uns alle runterrasselt.
 </embed>
 </object>
 </p>
-

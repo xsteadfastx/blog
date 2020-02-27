@@ -1,12 +1,14 @@
-Title: Swim Deep - King City
-Date: 2013-11-19 13:15
-Author: marvin
-Category: Uncategorized
-Tags: music, swimdeep
-Slug: swim-deep-king-city
-
+---
+title: Swim Deep - King City
+slug: swim-deep-king-city
+tags:
+- music
+- swimdeep
+date: "2013-11-19T13:15:00+01:00"
+author: marvin
+draft: false
+---
 Etwas passend zum Wetter. Betonwüsten und Skateboarding untermalen
 melancholische Töne.
 
-{% vimeo 48899041 %}
-
+{{< vimeo 48899041 >}}

@@ -1,11 +1,16 @@
-Title: Hier ist das zweite Panorama das ich gebaut...
-Date: 2012-05-31 07:29
-Author: marvin
-Category: Uncategorized
-Tags: israel, jerusalem, panorama, photography
-Slug: hier-ist-das-zweite-panorama-das-ich-gebaut
-
-![Jerusalem]({static}/images/7302940970_909600888d_b.jpg)
+---
+title: Hier ist das zweite Panorama das ich gebaut...
+slug: hier-ist-das-zweite-panorama-das-ich-gebaut
+tags:
+- israel
+- jerusalem
+- panorama
+- photography
+date: "2012-05-31T08:29:00+02:00"
+author: marvin
+draft: false
+---
+![Jerusalem](/images/7302940970_909600888d_b.jpg)
 
 Hier ist das zweite Panorama das ich gebaut habe. Dies ist bis jetzt das
 aufwendigste. Es entstand auf der

@@ -1,10 +1,13 @@
-Title: Man könnte es Frühling nennen also fast zumindestens...
-Date: 2012-04-26 14:27
-Author: marvin
-Category: Uncategorized
-Tags: music, summerheart
-Slug: man-konnte-es-fruhling-nennen-also-fast-zumindestens
-
+---
+title: Man könnte es Frühling nennen also fast zumindestens...
+slug: man-konnte-es-fruhling-nennen-also-fast-zumindestens
+tags:
+- music
+- summerheart
+date: "2012-04-26T15:27:00+02:00"
+author: marvin
+draft: false
+---
 Man könnte es Frühling nennen...also fast zumindestens. Der passende
 Soundtrack flatterte gerade per Bandcamp rein: [Summer
 Heart](http://summerheart.bandcamp.com/album/about-a-feeling). Ganz
@@ -15,4 +18,3 @@ was mit mir...
 <iframe width="300" height="410" style="position: relative; display: block; width: 300px; height: 410px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=1202109290/size=grande3/bgcol=FFFFFF/linkcol=4285BB/" allowtransparency="true" frameborder="0">[About
 A Feeling by Summer
 Heart](http://summerheart.bandcamp.com/album/about-a-feeling)</iframe>
-

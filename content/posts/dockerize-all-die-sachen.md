@@ -1,7 +1,13 @@
-Title: Dockerize all die Sachen
-Date: 2015-07-01 12:28
-Slug: dockerize-all-die-sachen
-Tags: docker, linux
+---
+title: Dockerize all die Sachen
+slug: dockerize-all-die-sachen
+tags:
+- docker
+- linux
+date: "2015-07-01T13:28:00+02:00"
+author: marvin
+draft: false
+---
 Description: Ich habe mich endlich mal rangemacht um einige Sachen in Docker Container zu packen
 
 

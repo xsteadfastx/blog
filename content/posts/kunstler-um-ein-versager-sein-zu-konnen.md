@@ -1,10 +1,14 @@
-Title: Künstler, um ein Versager sein zu können
-Date: 2013-01-10 17:12
-Author: marvin
-Category: Uncategorized
-Tags: art, mikekelley, sonicyouth
-Slug: kunstler-um-ein-versager-sein-zu-konnen
-
+---
+title: Künstler, um ein Versager sein zu können
+slug: kunstler-um-ein-versager-sein-zu-konnen
+tags:
+- art
+- mikekelley
+- sonicyouth
+date: "2013-01-10T17:12:00+01:00"
+author: marvin
+draft: false
+---
 > "Ich wurde Künstler, um ein Versager sein zu können"  
 >  <cite>Mike Kelley</cite>
 
@@ -16,5 +20,4 @@ Und als kleine Zugabe gibt es eine Ausgabe von "Whats in my bag" im
 Amoeba Plattenladen mit dem guten Mike Kelley. Ich will ihn für das
 Sonic YOuth "Dirty"-Cover immer noch die Füße küssen.
 
-{% youtube lsd1bWZ1Xbo %}
-
+{{< youtube lsd1bWZ1Xbo >}}

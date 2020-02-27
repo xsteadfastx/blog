@@ -1,11 +1,16 @@
-Title: Utopia Ltd.
-Date: 2013-09-11 15:33
-Author: marvin
-Category: Uncategorized
-Tags: 1000robota, documentary, music, zdfkultur
-Slug: utopia-ltd
-
-![1000 Robota]({static}/images/2909518270_587fddabfb_b.jpg)
+---
+title: Utopia Ltd.
+slug: utopia-ltd
+tags:
+- 1000robota
+- documentary
+- music
+- zdfkultur
+date: "2013-09-11T16:33:00+02:00"
+author: marvin
+draft: false
+---
+![1000 Robota](/images/2909518270_587fddabfb_b.jpg)
 
 Am dritten Oktober 2008 sah ich 1000 Robota im Hallenbad Wolfsburg. Ich
 fand es super. Inklusive Stroboskoplicht bis die Fontanelle qualmt.

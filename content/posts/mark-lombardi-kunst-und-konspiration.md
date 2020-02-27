@@ -1,11 +1,15 @@
-Title: Mark Lombardi - Kunst und Konspiration
-Date: 2012-09-17 14:40
-Author: marvin
-Category: Uncategorized
-Tags: art, conspiracy, marklombardi
-Slug: mark-lombardi-kunst-und-konspiration
-
-![Global_networks_front_cover]({static}/images/Global_networks_front_cover.jpg)
+---
+title: Mark Lombardi - Kunst und Konspiration
+slug: mark-lombardi-kunst-und-konspiration
+tags:
+- art
+- conspiracy
+- marklombardi
+date: "2012-09-17T15:40:00+02:00"
+author: marvin
+draft: false
+---
+![Global_networks_front_cover](/images/Global_networks_front_cover.jpg)
 
 Über Mark Lombardi habe ich in der dOCUMENTA(13)-Ausgabe in der Monopol
 gelesen. Er hat Fakten und Informationen gesammelt und sie in großen
@@ -37,5 +41,4 @@ Untertitel seiner Visitenkarte.
 > "Todesverachtende Akte der Kunst und der Verschwörung"  
 >  <cite>Mark Lombardis Visitenkarte</cite>
 
-{% youtube 631jNN8-Msg %}
-
+{{< youtube 631jNN8-Msg >}}

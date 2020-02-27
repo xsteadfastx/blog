@@ -1,10 +1,15 @@
-Title: andy warhol - godfather of pop
-Date: 2012-02-27 10:05
-Author: marvin
-Category: post
-Tags: andywarhol, art, arte, documentary
-Slug: andy-warhol-godfather-of-pop
-
+---
+title: andy warhol - godfather of pop
+slug: andy-warhol-godfather-of-pop
+tags:
+- andywarhol
+- art
+- arte
+- documentary
+date: "2012-02-27T10:05:00+01:00"
+author: marvin
+draft: false
+---
 Habe durch Zufall auf Arte eine ganz wunderbare Dokumentation über Andy
 Warhol gesehen. Zum Glück gibt es ja Arte +7. Leider löschen die die
 Videos ja nach einer Woche. Also anschauen so lange es noch geht...
@@ -25,4 +30,3 @@ Videos ja nach einer Woche. Also anschauen so lange es noch geht...
 </embed>
 </object>
 </p>
-

@@ -1,10 +1,14 @@
-Title: Eucalyptus deglupta
-Date: 2011-10-14 07:55
-Author: marvin
-Category: post
-Tags: art, nature, tree
-Slug: eucalyptus-deglupta
-
+---
+title: Eucalyptus deglupta
+slug: eucalyptus-deglupta
+tags:
+- art
+- nature
+- tree
+date: "2011-10-14T08:55:00+02:00"
+author: marvin
+draft: false
+---
 http://www.flickr.com/photos/amelia525/303049143/
 
 > Eucalyptus deglupta is a tall tree, commonly known as the Rainbow
@@ -21,4 +25,3 @@ http://www.flickr.com/photos/amelia525/303049143/
 > maroon tones.
 
 Die Natur erschafft einfach die schönsten Kunstwerke...
-

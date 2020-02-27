@@ -1,11 +1,15 @@
-Title: Mini-Doku über die Biosphere 2
-Date: 2013-06-04 15:35
-Author: marvin
-Category: Uncategorized
-Tags: biosphere2, nasa, science
-Slug: mini-doku-uber-die-biosphere-2
-
-[![cc-by Johndedios]({static}/images/Wiki_bio2_sunset_001.jpg)](https://en.wikipedia.org/wiki/File:Wiki_bio2_sunset_001.jpg)
+---
+title: Mini-Doku über die Biosphere 2
+slug: mini-doku-uber-die-biosphere-2
+tags:
+- biosphere2
+- nasa
+- science
+date: "2013-06-04T16:35:00+02:00"
+author: marvin
+draft: false
+---
+[![cc-by Johndedios](/images/Wiki_bio2_sunset_001.jpg)](https://en.wikipedia.org/wiki/File:Wiki_bio2_sunset_001.jpg)
 
 Ich glaube viele haben schon von dem [Biosphere
 2](https://de.wikipedia.org/wiki/Biosph%C3%A4re_2) Experiment gehört.
@@ -58,11 +62,11 @@ der Biosphere 2. Und nicht zu vergessen den Trailer für den Film [Bio
 Dome](https://en.wikipedia.org/wiki/Bio-Dome) mit Pauly Shore... serious
 business...
 
-![800px-Biosphere2_Inside_big]({static}/images/800px-Biosphere2_Inside_big.jpg)
+![800px-Biosphere2_Inside_big](/images/800px-Biosphere2_Inside_big.jpg)
 
-[![cc-sa Microsome]({static}/images/800px-Biosphere2_aussen.jpg)](https://commons.wikimedia.org/wiki/File:Biosphere2_aussen.JPG)
+[![cc-sa Microsome](/images/800px-Biosphere2_aussen.jpg)](https://commons.wikimedia.org/wiki/File:Biosphere2_aussen.JPG)
 
-[![cc-sa svabo]({static}/images/Biosphere_2_Tucson.jpg)](https://commons.wikimedia.org/wiki/File:Biosphere_2_Tucson.JPG)
+[![cc-sa svabo](/images/Biosphere_2_Tucson.jpg)](https://commons.wikimedia.org/wiki/File:Biosphere_2_Tucson.JPG)
 
 <p>
 <object width="773" height="434" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" name="movie">
@@ -74,5 +78,4 @@ business...
 </p>
 <iframe src="http://embed.ted.com/talks/lang/de/jane_poynter_life_in_biosphere_2.html" width="853" height="480" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-{% youtube 4EWikCCfHJw %}
-
+{{< youtube 4EWikCCfHJw >}}

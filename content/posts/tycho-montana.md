@@ -1,11 +1,14 @@
-Title: Tycho - Montana
-Date: 2014-01-22 11:21
-Author: marvin
-Category: Uncategorized
-Tags: music, tycho
-Slug: tycho-montana
-
-![artworks-000068571467-ctyent-t500x500]({static}/images/artworks-000068571467-ctyent-t500x500.jpg)
+---
+title: Tycho - Montana
+slug: tycho-montana
+tags:
+- music
+- tycho
+date: "2014-01-22T11:21:00+01:00"
+author: marvin
+draft: false
+---
+![artworks-000068571467-ctyent-t500x500](/images/artworks-000068571467-ctyent-t500x500.jpg)
 
 Tycho alias Scott Hansen schafft ein digitales Gesamtkunstwerk.
 Angefangen bei seinen grandiosen [Blog](http://blog.iso50.com/) (eins

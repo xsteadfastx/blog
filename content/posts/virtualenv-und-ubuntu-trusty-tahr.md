@@ -1,8 +1,13 @@
-Title: virtualenv und Ubuntu Trusty Tahr 
-Slug: virtualenv-und-ubuntu-trusty-tahr
-Date: 2014-04-23 07:55
-Tags: ubuntu, python
-
+---
+title: 'virtualenv und Ubuntu Trusty Tahr '
+slug: virtualenv-und-ubuntu-trusty-tahr
+tags:
+- ubuntu
+- python
+date: "2014-04-23T08:55:00+02:00"
+author: marvin
+draft: false
+---
 Eigentlich wollte ich ja nur mein ThinkPad upgraden. Die neue Ubuntu Version "Trusty Tahr" ist erschienen. Der Updateprozess lief soweit sauber durch und nach dem Reboot war viel weniger kaputt als sonst. Also schnell wieder ran ans coden. Mein virtualenv ging auf einmal nicht mehr. "Trusty Tahr" ist mit Python 3.4 gekommen, da schien das "Problem" zu sein. `virtualenv` wollte nicht mehr. Irgendeine komische Fehlermeldung. Ab Python 3 und vor allem mit 3.4 sollte man eigentlich das eigene `pyvenv` benutzen anstatt `virtualenv`. Dieses failed unter Ubuntu aber sowas von:
 
 	$ pyvenv-3.4 foo

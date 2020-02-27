@@ -1,11 +1,17 @@
-Title: The Pirate Bay - Away From Keyboard Trailer
-Date: 2013-01-15 11:25
-Author: marvin
-Category: Uncategorized
-Tags: creativecommons, documentary, movies, piraten, thepiratebay
-Slug: the-pirate-bay-away-from-keyboard-trailer
-
-![Low-rez]({static}/images/Low-rez.jpg)
+---
+title: The Pirate Bay - Away From Keyboard Trailer
+slug: the-pirate-bay-away-from-keyboard-trailer
+tags:
+- creativecommons
+- documentary
+- movies
+- piraten
+- thepiratebay
+date: "2013-01-15T11:25:00+01:00"
+author: marvin
+draft: false
+---
+![Low-rez](/images/Low-rez.jpg)
 
 Die Piratenbucht ist zu etwas geworden was viel größer ist als eine
 Tauschbörse von Kulturgütern. Es wurde zu einer politischen Bewegung und
@@ -30,5 +36,4 @@ sagen, der Trailer gibt mir schon Gänsehautfeelinpur.
 > data centres, clandestine computers quietly continue to duplicate
 > files.
 
-{% youtube KCAGb7oSwDs %}
-
+{{< youtube KCAGb7oSwDs >}}

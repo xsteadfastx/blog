@@ -1,11 +1,18 @@
-Title: College & Electric Youth - A Real Hero
-Date: 2012-10-18 12:58
-Author: marvin
-Category: Uncategorized
-Tags: college, drive, electricyouth, movies, music, soundtrack
-Slug: college-electric-youth-a-real-hero
-
-![artworks-000011198794-pyx8un-original]({static}/images/artworks-000011198794-pyx8un-original.jpg)
+---
+title: College & Electric Youth - A Real Hero
+slug: college-electric-youth-a-real-hero
+tags:
+- college
+- drive
+- electricyouth
+- movies
+- music
+- soundtrack
+date: "2012-10-18T13:58:00+02:00"
+author: marvin
+draft: false
+---
+![artworks-000011198794-pyx8un-original](/images/artworks-000011198794-pyx8un-original.jpg)
 
 Ich muss gestehen das ich
 [DRIVE](http://de.wikipedia.org/wiki/Drive_(2011)) noch nicht gesehen
@@ -15,4 +22,3 @@ dem Soundtrack hat er sich auf jeden Fall auf die ersten Plätze der
 Liste vorgeschoben. Was ein tolles Stück Träumerei.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F5692525&amp;show_artwork=true"></iframe>
-

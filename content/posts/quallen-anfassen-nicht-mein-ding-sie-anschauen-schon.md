@@ -1,10 +1,13 @@
-Title: Quallen anfassen nicht mein Ding sie anschauen schon...
-Date: 2012-03-01 12:21
-Author: marvin
-Category: status
-Tags: animals, jellyfish
-Slug: quallen-anfassen-nicht-mein-ding-sie-anschauen-schon
-
+---
+title: Quallen anfassen nicht mein Ding sie anschauen schon...
+slug: quallen-anfassen-nicht-mein-ding-sie-anschauen-schon
+tags:
+- animals
+- jellyfish
+date: "2012-03-01T12:21:00+01:00"
+author: marvin
+draft: false
+---
 Quallen anfassen...nicht mein Ding...sie anschauen schon...aber sowas
 von...
 
@@ -16,4 +19,3 @@ von...
 </embed>
 </object>
 </p>
-

@@ -1,11 +1,17 @@
-Title: Peter Saville und das vielleicht berühmteste Albumcover der Welt
-Date: 2012-10-16 16:18
-Author: marvin
-Category: Uncategorized
-Tags: art, astronomy, joydivision, music, petersaville
-Slug: peter-saville-und-das-vielleicht-beruhmteste-albumcover-der-welt
-
-![unknownpleasures]({static}/images/unknownpleasures.jpg)
+---
+title: Peter Saville und das vielleicht berühmteste Albumcover der Welt
+slug: peter-saville-und-das-vielleicht-beruhmteste-albumcover-der-welt
+tags:
+- art
+- astronomy
+- joydivision
+- music
+- petersaville
+date: "2012-10-16T17:18:00+02:00"
+author: marvin
+draft: false
+---
+![unknownpleasures](/images/unknownpleasures.jpg)
 
 Gibt es eigentlich ein schöneres Albumcover? Ein Cover, welches in die
 popkulturelle Weltgeschichte eingegangen ist? "Unknown Pleasures" von
@@ -27,7 +33,6 @@ Diese kurze Dokumentation geht dem Ursprung des Covers auf die Spur.
 [VISUALIZED](http://visualized.com/) ist eine Konferenz über
 Datenvisualisierung. Großartigst...
 
-{% vimeo 51365288   %}
+{{< vimeo 51365288   >}}
 
 ([via](http://www.crackajack.de/2012/10/16/the-story-of-joy-divisions-unknown-pleasures-cover/))
-

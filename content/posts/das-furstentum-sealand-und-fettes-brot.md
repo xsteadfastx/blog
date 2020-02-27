@@ -1,11 +1,15 @@
-Title: Das Fürstentum Sealand und Fettes Brot
-Date: 2013-10-07 11:38
-Author: marvin
-Category: Uncategorized
-Tags: fettesbrot, music, sealand
-Slug: das-furstentum-sealand-und-fettes-brot
-
-![Sealandafterfire2]({static}/images/Sealandafterfire2.jpg)
+---
+title: Das Fürstentum Sealand und Fettes Brot
+slug: das-furstentum-sealand-und-fettes-brot
+tags:
+- fettesbrot
+- music
+- sealand
+date: "2013-10-07T12:38:00+02:00"
+author: marvin
+draft: false
+---
+![Sealandafterfire2](/images/Sealandafterfire2.jpg)
 
 Es gibt ja kaum eine deutsche Band die ich langweiliger finde als Fettes
 Brot. Sowas wie die U2 des deutschen "Hip-Hop". Und der einzige Grund
@@ -23,4 +27,3 @@ weiß ja nie...
 </embed>
 </object>
 </p>
-

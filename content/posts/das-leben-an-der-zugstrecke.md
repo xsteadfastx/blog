@@ -1,11 +1,16 @@
-Title: Das Leben an der Zugstrecke
-Date: 2012-01-11 14:50
-Author: marvin
-Category: post
-Tags: nuernberg, thoughts, trains, travel
-Slug: das-leben-an-der-zugstrecke
-
-![CameraZOOM-20120111155208632]({static}/images/CameraZOOM-20120111155208632.jpg)  
+---
+title: Das Leben an der Zugstrecke
+slug: das-leben-an-der-zugstrecke
+tags:
+- nuernberg
+- thoughts
+- trains
+- travel
+date: "2012-01-11T14:50:00+01:00"
+author: marvin
+draft: false
+---
+![CameraZOOM-20120111155208632](/images/CameraZOOM-20120111155208632.jpg)  
 Als wir uns diese Wohnung am Dutzendteich in Nürnberg angesehen haben
 war uns klar das sie direkt an einer Zugstrecke lag. Der Vermieter
 versicherte uns das er auch extra die besten schallgeschützen Fenster
@@ -20,4 +25,3 @@ sitzen würden. Romantische Hobbo Geschichten spielen sich jedes mal in
 meinem Kopf ab. Es sind wie die Adern der Reise die durch Europa sich
 ziehen und mit jedem Klappern der Züge wünsche ich mir mehr diese Welt
 zu bereisen...
-

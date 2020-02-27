@@ -1,11 +1,17 @@
-Title: Wer mich kennt weiß wie wichtig mir Nahrung...
-Date: 2012-05-30 13:38
-Author: marvin
-Category: Uncategorized
-Tags: brittariley, diy, nature, republica, windowfarms
-Slug: wer-mich-kennt-weis-wie-wichtig-mir-nahrung
-
-![5122491825_8be955bcc0_z]({static}/images/5122491825_8be955bcc0_z.jpg)
+---
+title: Wer mich kennt weiß wie wichtig mir Nahrung...
+slug: wer-mich-kennt-weis-wie-wichtig-mir-nahrung
+tags:
+- brittariley
+- diy
+- nature
+- republica
+- windowfarms
+date: "2012-05-30T14:38:00+02:00"
+author: marvin
+draft: false
+---
+![5122491825_8be955bcc0_z](/images/5122491825_8be955bcc0_z.jpg)
 
 Wer mich kennt weiß wie wichtig mir Nahrung, die Welt und Mutter Natur
 wichtig ist. Was mich nervt ist der
@@ -23,7 +29,6 @@ anbauen kann. Ihre Erfahrungen und Pläne hat sie Open Source gemacht und
 läd ein nachzubauen. Auf der re:publica hat sie dazu einen Talk
 gehalten. Super interessant...
 
-{% youtube 73c_qkuOLIY %}
+{{< youtube 73c_qkuOLIY >}}
 
 (pic cc [Ars Electronica](http://www.flickr.com/photos/arselectronica/5122491825/))
-

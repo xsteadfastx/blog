@@ -1,8 +1,12 @@
-Title: Linux Audio an UPNP und Chromecast
-Date: 2017-09-05 08:54
-Slug: linux-audio-an-upnp-und-chromecast
-Tags: linux
-
+---
+title: Linux Audio an UPNP und Chromecast
+slug: linux-audio-an-upnp-und-chromecast
+tags:
+- linux
+date: "2017-09-05T09:54:00+02:00"
+author: marvin
+draft: false
+---
 Ich sitze krank zuhause. Was stellt man an? Der Kopf brummt und das so laut und intensiv, dass man am besten, natürlich kontraproduktiv, an seinem Linux-Audio-Setup rumschraubt. Oder ist dies der Grund für mein Unbehagen? Was kann denn da schon schiefgehen? Ich starte mal mit einem kleinen Schaubild meines Setups.
 
 

@@ -1,10 +1,13 @@
-Title: Ach Maurice Sendak was eine Woche Aber gestern...
-Date: 2012-05-09 09:00
-Author: marvin
-Category: Uncategorized
-Tags: mauricesendak, stephencolbert
-Slug: ach-maurice-sendak-was-eine-woche-aber-gestern
-
+---
+title: Ach Maurice Sendak was eine Woche Aber gestern...
+slug: ach-maurice-sendak-was-eine-woche-aber-gestern
+tags:
+- mauricesendak
+- stephencolbert
+date: "2012-05-09T10:00:00+02:00"
+author: marvin
+draft: false
+---
 Ach Maurice Sendak...was eine Woche. Aber gestern lief zu seinem
 Gedenken ein Inteview von Stephen Colbert mit Maurice Sendak...
 

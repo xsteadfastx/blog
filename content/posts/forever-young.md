@@ -1,11 +1,17 @@
-Title: Forever Young
-Date: 2013-01-18 15:28
-Author: marvin
-Category: Uncategorized
-Tags: bobdylan, books, music, paulrogers, sarahbrendel
-Slug: forever-young
-
-![bobdylanforeveryoung]({static}/images/bobdylanforeveryoung.jpg)
+---
+title: Forever Young
+slug: forever-young
+tags:
+- bobdylan
+- books
+- music
+- paulrogers
+- sarahbrendel
+date: "2013-01-18T15:28:00+01:00"
+author: marvin
+draft: false
+---
+![bobdylanforeveryoung](/images/bobdylanforeveryoung.jpg)
 
 An diesem Tag im Jahr 1974 hat Bob Dylan eins, meiner Meinung nach,
 schönsten Lieder released. Es ist "Forever Young" und ist auf dem Album
@@ -29,7 +35,6 @@ illustrieren. Eine kleine Vorschau gibt es in diesem Video. Ach...
 >  May you stay forever young  
 >  <cite>Bob Dylan</cite>
 
-{% youtube Hc-a1kP7ITA %}
+{{< youtube Hc-a1kP7ITA >}}
 
 ([via](http://www.brainpickings.org/index.php/2013/01/18/bob-dylan-forever-young-illustrated-by-paul-rogers/))
-

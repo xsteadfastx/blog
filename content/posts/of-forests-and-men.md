@@ -1,11 +1,15 @@
-Title: Of Forests and Men
-Date: 2012-07-27 16:00
-Author: marvin
-Category: Uncategorized
-Tags: documentary, edwardnorton, nature
-Slug: of-forests-and-men
-
-![541872]({static}/images/541872.jpg)
+---
+title: Of Forests and Men
+slug: of-forests-and-men
+tags:
+- documentary
+- edwardnorton
+- nature
+date: "2012-07-27T17:00:00+02:00"
+author: marvin
+draft: false
+---
+![541872](/images/541872.jpg)
 
 Yann Arthus-Bertrand hat eine Liebeserklärung an die Wälder dieser Welt
 gedreht. Das ganze findet innerhalb einer Umweltkampagne gleichen
@@ -13,7 +17,6 @@ gedreht. Das ganze findet innerhalb einer Umweltkampagne gleichen
 sehe weiß ich wieso ich schon immer Wälder geliebt habe. Für mich gibt
 es kaum einen schöneren Ort als den Wald...
 
-{% vimeo 19434428   %}
+{{< vimeo 19434428   >}}
 
 ([via](http://www.geeksaresexy.net/2012/07/26/of-forests-and-men-video))
-

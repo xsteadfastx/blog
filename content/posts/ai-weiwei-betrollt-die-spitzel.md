@@ -1,7 +1,14 @@
-Title: Ai Weiwei betrollt die Spitzel
-Date: 2015-10-05 15:19
-Slug: ai-weiwei-betrollt-die-spitzel
-Tags: aiweiwei, art, china
+---
+title: Ai Weiwei betrollt die Spitzel
+slug: ai-weiwei-betrollt-die-spitzel
+tags:
+- aiweiwei
+- art
+- china
+date: "2015-10-05T16:19:00+02:00"
+author: marvin
+draft: false
+---
 Description: Ein wenig Feuerwerk bitte
 
 {% gram 8ZsZy0qDz0 %}

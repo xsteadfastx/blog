@@ -1,10 +1,15 @@
-Title: Ich muss ehrlich sagen das mir der Oscar...
-Date: 2012-02-28 10:15
-Author: marvin
-Category: status
-Tags: elliottsmith, movies, music, oscars
-Slug: ich-muss-ehrlich-sagen-das-mir-der-oscar
-
+---
+title: Ich muss ehrlich sagen das mir der Oscar...
+slug: ich-muss-ehrlich-sagen-das-mir-der-oscar
+tags:
+- elliottsmith
+- movies
+- music
+- oscars
+date: "2012-02-28T10:15:00+01:00"
+author: marvin
+draft: false
+---
 Ich muss ehrlich sagen das mir der Oscar relativ am Arsch vorbei geht.
 Meistens dreht sich alles um schlechte Hollywood Filme und aufgeblasene
 Stars. Es gewinnen eh immer die Filme über die im Vorraus am meisten
@@ -17,5 +22,4 @@ ihr aufgesetzter Glamour wie ein Spiegel vor die Augen gehalten wird.
 Übrigens hat er gegen "My Heart Will Go On" verloren. Tragischer hätte
 das ganze nicht sein können...
 
-{% youtube _2IcoVQO7yo %}
-
+{{< youtube _2IcoVQO7yo >}}

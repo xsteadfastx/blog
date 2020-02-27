@@ -1,11 +1,15 @@
-Title: Tatort und ACAB
-Date: 2013-01-28 15:39
-Author: marvin
-Category: Uncategorized
-Tags: acab, tatort, tv
-Slug: tatort-und-acab
-
-[![by dokumentage]({static}/images/tatort.jpeg)](https://twitter.com/dokumentage/status/295641906724085761)
+---
+title: Tatort und ACAB
+slug: tatort-und-acab
+tags:
+- acab
+- tatort
+- tv
+date: "2013-01-28T15:39:00+01:00"
+author: marvin
+draft: false
+---
+[![by dokumentage](/images/tatort.jpeg)](https://twitter.com/dokumentage/status/295641906724085761)
 
 Nicht nur das der Tatort gestern besonders großartig war, jemand hat
 auch eine nette Botschaft als Requisite hinterlassen. "All Cats Are
@@ -19,5 +23,4 @@ der Episode muss man den neuen Kommissar einfach ins Herz aufnehmen:
 
 "Vom Internet."
 
-{% youtube upEoXK3h_dk %}
-
+{{< youtube upEoXK3h_dk >}}

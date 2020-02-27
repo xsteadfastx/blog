@@ -1,11 +1,16 @@
-Title: If Youre Feeling Sinister
-Date: 2013-02-18 16:16
-Author: marvin
-Category: Uncategorized
-Tags: belleandsebastian, documentary, music, pitchfork
-Slug: if-youre-feeling-sinister
-
-[![cc-by-sa aurélien.]({static}/images/5781830785_48cfcec5ca_b.jpg)](https://secure.flickr.com/photos/aguichard/5781830785/)
+---
+title: If Youre Feeling Sinister
+slug: if-youre-feeling-sinister
+tags:
+- belleandsebastian
+- documentary
+- music
+- pitchfork
+date: "2013-02-18T16:16:00+01:00"
+author: marvin
+draft: false
+---
+[![cc-by-sa aurélien.](/images/5781830785_48cfcec5ca_b.jpg)](https://secure.flickr.com/photos/aguichard/5781830785/)
 
 Eigentlich sollte das Leben sich ja so anfühlen wie Belle & Sebastian
 klingen.
@@ -24,5 +29,4 @@ Sinister" bei Youtube hochgeladen.
 > she was drunk at a party. The film features archival photos and videos
 > from the band's early days.
 
-{% youtube JaR3DK43T74 %}
-
+{{< youtube JaR3DK43T74 >}}

@@ -1,11 +1,13 @@
-Title: Wie fertige ich eigentlich eine Daguerreotypie an?
-Date: 2012-09-21 13:05
-Author: marvin
-Category: Uncategorized
-Tags: photography
-Slug: wie-fertige-ich-eigentlich-eine-daguerreotypie-an
-
-![Daguerreotypie von Louis Daguerre, aufgenommen vom Fenster seines Arbeitszimmers aus, 1838]({static}/images/1024px-Boulevard_du_Temple_by_Daguerre.jpg)
+---
+title: Wie fertige ich eigentlich eine Daguerreotypie an?
+slug: wie-fertige-ich-eigentlich-eine-daguerreotypie-an
+tags:
+- photography
+date: "2012-09-21T14:05:00+02:00"
+author: marvin
+draft: false
+---
+![Daguerreotypie von Louis Daguerre, aufgenommen vom Fenster seines Arbeitszimmers aus, 1838](/images/1024px-Boulevard_du_Temple_by_Daguerre.jpg)
 
 Mein Herz gehört der analogen Fotografie. Zu gerne würde ich auch mal
 alte Verfahren ausprobieren. Wie zum Beispiel die der Daguerreotypie.
@@ -36,7 +38,6 @@ Bremse der Kreativität.
 Jerry Spagnoli zeigt hier erstmal wie so etwas hergestellt werden kann.
 Nachmachen will...
 
-{% youtube t_swRk9JaCc %}
+{{< youtube t_swRk9JaCc >}}
 
 ([via](http://www.petapixel.com/2012/09/06/creating-a-daguerreotype-plate-using-the-becquerel-method-from-start-to-finish/))
-

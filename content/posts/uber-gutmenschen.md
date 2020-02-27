@@ -1,9 +1,11 @@
-Title: Über Gutmenschen.*
-Date: 2012-12-07 16:00
-Author: marvin
-Category: Uncategorized
-Slug: uber-gutmenschen
-
+---
+title: Über Gutmenschen.*
+slug: uber-gutmenschen
+tags: []
+date: "2012-12-07T16:00:00+01:00"
+author: marvin
+draft: false
+---
 *Yeah...dies ist das erste Gastposting auf diesem Blog. Und darüber
 freue ich mich besonders. Es ist von der ganz tollen und wunderbaren
 Katja mit der ich schon ganze Nächte durch diskutiert habe. Danke
@@ -44,7 +46,6 @@ keine Probleme.
 Na und? Bekanntermaßen verändert sich die Welt durch die, die nichts
 tun.
 
-{% vimeo 23630228 %}
+{{< vimeo 23630228 >}}
 
 \* kein Versuch der Ironie
-

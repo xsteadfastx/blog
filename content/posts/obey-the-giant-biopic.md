@@ -1,11 +1,16 @@
-Title: Obey the Giant Biopic
-Date: 2013-04-15 11:14
-Author: marvin
-Category: Uncategorized
-Tags: art, documentary, graffiti, shepardfairey
-Slug: obey-the-giant-biopic
-
-[![cc-by-sa Santaduck]({static}/images/Obeyshepard2.jpg)](https://en.wikipedia.org/wiki/File:Obeyshepard2.jpg)
+---
+title: Obey the Giant Biopic
+slug: obey-the-giant-biopic
+tags:
+- art
+- documentary
+- graffiti
+- shepardfairey
+date: "2013-04-15T12:14:00+02:00"
+author: marvin
+draft: false
+---
+[![cc-by-sa Santaduck](/images/Obeyshepard2.jpg)](https://en.wikipedia.org/wiki/File:Obeyshepard2.jpg)
 
 Julian Marshall hat ein kleines Biopic über Shepard Fairey gemacht. Es
 geht primär um sein erstes modifiziertes Billboard und die Geschichte
@@ -28,7 +33,6 @@ dahinter.
 > both a blessing and a curse.
 >  <cite>[Official Website](http://obeythegiantmovie.com/)</cite>
 
-{% vimeo 64039197 %}
+{{< vimeo 64039197 >}}
 
 ([via](http://blog.vandalog.com/2013/04/obey-the-giant-first-shepard-fairey-biopic-now-online/))
-

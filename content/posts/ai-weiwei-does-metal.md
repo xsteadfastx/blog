@@ -1,11 +1,16 @@
-Title: Ai Weiwei does Metal
-Date: 2013-05-23 11:58
-Author: marvin
-Category: Uncategorized
-Tags: aiweiwei, art, josephbeuys, music
-Slug: ai-weiwei-does-metal
-
-![aiweiwei_dumbass]({static}/images/aiweiwei_dumbass.jpg)
+---
+title: Ai Weiwei does Metal
+slug: ai-weiwei-does-metal
+tags:
+- aiweiwei
+- art
+- josephbeuys
+- music
+date: "2013-05-23T12:58:00+02:00"
+author: marvin
+draft: false
+---
+![aiweiwei_dumbass](/images/aiweiwei_dumbass.jpg)
 
 Ich war ja gespannt wie ein Flitzebogen wie nun das Metalalbum Ai
 Weiwei's klingen würde. Wie ernst wird er "Metal" nehmen. Dies ist ja
@@ -39,10 +44,9 @@ egal.
 >  The field is full of fuckers, dumbasses are everywhere.  
 >  The field's full of fuckers, dumbasses are everywhere.
 
-{% youtube 4ACj86DKfWs %}
+{{< youtube 4ACj86DKfWs >}}
 
 Künstler nehmen relativ schlechte politische Songs auf? Da war doch
 was... Ich bleibe trotzdem Fan.
 
-{% youtube DQ1_ALxGbGk %}
-
+{{< youtube DQ1_ALxGbGk >}}

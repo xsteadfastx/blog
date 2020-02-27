@@ -1,10 +1,15 @@
-Title:  Unterwegs von Jack Kerouac habe ich verschlungen...
-Date: 2012-05-29 11:54
-Author: marvin
-Category: Uncategorized
-Tags: arte, hipster, jackkerouac, ontheroad
-Slug: unterwegs-von-jack-kerouac-habe-ich-verschlungen
-
+---
+title: ' Unterwegs von Jack Kerouac habe ich verschlungen...'
+slug: unterwegs-von-jack-kerouac-habe-ich-verschlungen
+tags:
+- arte
+- hipster
+- jackkerouac
+- ontheroad
+date: "2012-05-29T12:54:00+02:00"
+author: marvin
+draft: false
+---
 "Unterwegs" von Jack Kerouac habe ich verschlungen...und da jetzt bald
 die Verfilmung in die Kinos kommt, bekommt das Buch und sein Autor viel
 mehr Medienecho als sonst. Zum Beispiel in der ARTE-Sendung Abgedreht.
@@ -19,4 +24,3 @@ Interessant wird es ab Minute 33
 </embed>
 </object>
 </p>
-

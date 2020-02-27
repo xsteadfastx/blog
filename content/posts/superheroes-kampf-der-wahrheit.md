@@ -1,8 +1,14 @@
-Title: Superheroes - Kampf der Wahrheit
-Date: 2015-04-19 08:09
-Tags: comics, documentary, arte
-Slug: superheroes-kampf-der-wahrheit
-
+---
+title: Superheroes - Kampf der Wahrheit
+slug: superheroes-kampf-der-wahrheit
+tags:
+- comics
+- documentary
+- arte
+date: "2015-04-19T09:09:00+02:00"
+author: marvin
+draft: false
+---
 
 Gestern durch Zufall beim Durchzappen gesehen. Eine Dreiteilige Dokumentation der Anfänge von Comics. Inklusive mit vielen Interviews mit Legenden wie Stan Lee. Dazu die Ursprünge und Inspirationen der Superhelden. Achja, und die Rolle von Comics im zweiten Weltkrieg. Wirklich gelungen.
 

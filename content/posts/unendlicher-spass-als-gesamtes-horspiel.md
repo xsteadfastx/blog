@@ -1,8 +1,14 @@
-Title: "Unendlicher Spass" als gesamtes Hörspiel
-Date: 2017-12-04 12:24
-Slug: unendlicher-spass-als-gesamtes-horspiel
-Tags: davidfosterwallace, books, thenotwist
-
+---
+title: '"Unendlicher Spass" als gesamtes Hörspiel'
+slug: unendlicher-spass-als-gesamtes-horspiel
+tags:
+- davidfosterwallace
+- books
+- thenotwist
+date: "2017-12-04T12:24:00+01:00"
+author: marvin
+draft: false
+---
 Ich fühle mich gerade in der Verfassung mal wieder [Unendlicher Spass](https://de.wikipedia.org/wiki/Unendlicher_Spa%C3%9F) weiterzulesen. Der Umfang des Wortschatzes und der gesamt Umfang des Buches in Seite, läßt mich bei seinem Anblick zusammen zucken. Immer mal wieder mache ich mehrere Monate Pause, lege das Buch bei Seite um an mir selber zu zweifeln. Ich bin eigentlich kein großer Freund von Hörbüchern und genieße sie nur wenn die Art des Vorlesens mir in irgendeiner Weise einen Mehrwert gibt. Und dann habe ich einfach mal nach "Unendlicher Spass" und "Hörbuch" gegoogelt und bin auf ein Projekt des öffentlichen Rundfunks gestoßen: [Das Unendliche Spiel](https://unendlichesspiel.de).
 
 >  "Unendliches Spiel" mit dem „Unendlichen Spaß“: Wir laden Sie ein, den Jahrhundertroman von David Foster Wallace zum größten Hörspiel aller Zeiten zu machen. Wir brauchen dazu Ihre Stimme.

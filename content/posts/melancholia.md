@@ -1,11 +1,16 @@
-Title: melancholia
-Date: 2011-10-12 20:55
-Author: marvin
-Category: post
-Tags: kirstendunst, larsvontrier, melancholia, movies
-Slug: melancholia
-
-![Melancholia_Poster]({static}/images/Melancholia_Poster.jpg)Eigentlich
+---
+title: melancholia
+slug: melancholia
+tags:
+- kirstendunst
+- larsvontrier
+- melancholia
+- movies
+date: "2011-10-12T21:55:00+02:00"
+author: marvin
+draft: false
+---
+![Melancholia_Poster](/images/Melancholia_Poster.jpg)Eigentlich
 war ich mir überhaupt nicht sicher ob ich mich auf diesem Film wirklich
 freuen sollte. Es gibt mehrere Gründe die mich aufgeben ließen. Ich mag
 Filme die fern ab von Hollywood funktionieren, ich mag Kirsten Dunst und
@@ -74,7 +79,6 @@ Schwester da ist. Sie scheint froh zu sein das die Menschheit
 ausgelöscht wird. Während Melancholia auf die Erde rast sieht sie das
 Ende ihrer persönlichen Melancholie.
 
-{% youtube wzD0U841LRM %}
+{{< youtube wzD0U841LRM >}}
 
  
-

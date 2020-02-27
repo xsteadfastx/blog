@@ -1,11 +1,16 @@
-Title: Die konsequente Entwicklung des Urheberrechts unter digitalen Produktions...
-Date: 2012-05-07 09:22
-Author: marvin
-Category: Uncategorized
-Tags: art, berlin, copyright, piraten
-Slug: die-konsequente-entwicklung-des-urheberrechts-unter-digitalen-produktions
-
-![0250_9d32_480]({static}/images/0250_9d32_480.jpeg)
+---
+title: Die konsequente Entwicklung des Urheberrechts unter digitalen Produktions...
+slug: die-konsequente-entwicklung-des-urheberrechts-unter-digitalen-produktions
+tags:
+- art
+- berlin
+- copyright
+- piraten
+date: "2012-05-07T10:22:00+02:00"
+author: marvin
+draft: false
+---
+![0250_9d32_480](/images/0250_9d32_480.jpeg)
 
 > Die konsequente Entwicklung des Urheberrechts unter digitalen
 > Produktions- und Verbreitungsbedingungen wird vom zuständigen
@@ -33,4 +38,3 @@ Anzugträgern und Kreativbremsen.
 
 Danke für das bisschen Kotze die mir diesen Morgen wegen ihnen
 hochgekommen ist...
-

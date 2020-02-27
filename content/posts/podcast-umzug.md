@@ -1,10 +1,14 @@
-Title: Podcast Umzug
-Date: 2011-09-02 11:04
-Author: marvin
-Category: post
-Tags: blog, luftmentsh, podcast
-Slug: podcast-umzug
-
+---
+title: Podcast Umzug
+slug: podcast-umzug
+tags:
+- blog
+- luftmentsh
+- podcast
+date: "2011-09-02T12:04:00+02:00"
+author: marvin
+draft: false
+---
 Gestern war ich mit meiner Frau auf einer Ausstellungseröffnung in der
 Nürnberg Altstadt. Bewaffnet mit unserem Aufnahmegerät und vielen Ideen
 in unseren Köpfen. Es ging um den Plan von Kunststudenten am
@@ -33,4 +37,3 @@ für so Projekte die Christine und ich machen: "luftmentsh.org". Noch
 gleich in der Nacht entscheiden wir uns ein weiteres Blog aufzusetzen
 für unsere Podcast. Und tada...da ist
 es:[http://blog.luftmentsh.org](%20http://blog.luftmentsh.org)
-

@@ -1,12 +1,15 @@
-Title: Die Krauts und Balotelli
-Date: 2012-06-30 10:03
-Author: marvin
-Category: Uncategorized
-Tags: football, mariobalotelli, racism
-Slug: die-krauts-und-balotelli
-
-![7648_8787_480]({static}/images/7648_8787_480.png)
+---
+title: Die Krauts und Balotelli
+slug: die-krauts-und-balotelli
+tags:
+- football
+- mariobalotelli
+- racism
+date: "2012-06-30T11:03:00+02:00"
+author: marvin
+draft: false
+---
+![7648_8787_480](/images/7648_8787_480.png)
 
 Und wieder mal ist Twitter ein Spiegel der Deutschen. Auf diese Einsicht
 hätte ich am liebsten verzichtet... Idioten...
-

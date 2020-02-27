@@ -1,8 +1,13 @@
-Title: Pseudohaiku 
-Slug: pseudohaiku
-Date: 2014-02-12 15:00
-Tags: random, haiku
-
+---
+title: 'Pseudohaiku '
+slug: pseudohaiku
+tags:
+- random
+- haiku
+date: "2014-02-12T15:00:00+01:00"
+author: marvin
+draft: false
+---
 
 	by and Saturday referred Voice
 	shooting wrote and film clique word Theme

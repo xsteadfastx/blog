@@ -1,11 +1,15 @@
-Title: Einfach wunderbar wenn ich...
-Date: 2011-11-25 14:42
-Author: marvin
-Category: post
-Tags: blackbirdblackbird, fernweh, music
-Slug: blackbird-blackbird
-
-{% vimeo 15091837 %}
+---
+title: Einfach wunderbar wenn ich...
+slug: blackbird-blackbird
+tags:
+- blackbirdblackbird
+- fernweh
+- music
+date: "2011-11-25T14:42:00+01:00"
+author: marvin
+draft: false
+---
+{{< vimeo 15091837 >}}
 
 Einfach wunderbar wenn ich last.fm dazu benutzt neue Bands und Musiker
 aufzuspüren. Oft reicht einfach mal das Genreradio nach "chillwave"
@@ -28,4 +32,3 @@ am Rande: Bandcamp bietet seine Downloads auch in
 nicht besser sein...
 
 <iframe style="position: relative; display: block; width: 300px; height: 410px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=2655275274/size=grande3/bgcol=FFFFFF/linkcol=4285BB/" frameborder="0" width="300" height="410"></iframe>
-

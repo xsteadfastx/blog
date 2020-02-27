@@ -1,11 +1,15 @@
-Title: The Beautiful Mistake - On Building
-Date: 2012-10-24 13:44
-Author: marvin
-Category: Uncategorized
-Tags: emo, music, thebeautifulmistake
-Slug: the-beautiful-mistake-on-building
-
-![beautifulmistakeonbuilding]({static}/images/beautifulmistakeonbuilding.jpg)
+---
+title: The Beautiful Mistake - On Building
+slug: the-beautiful-mistake-on-building
+tags:
+- emo
+- music
+- thebeautifulmistake
+date: "2012-10-24T14:44:00+02:00"
+author: marvin
+draft: false
+---
+![beautifulmistakeonbuilding](/images/beautifulmistakeonbuilding.jpg)
 
 Manchmal überfliegt mich der Wunsch nach Musik in der ich mich emotional
 einst gewälzt habe. Und so abgedroschen es klingen mag. Ich stand total
@@ -25,4 +29,3 @@ Building](http://www.muzu.tv/thebeautifulmistake/on-building-music-video/647059/
 on [MUZU.TV](http://www.muzu.tv/).
 
 </p>
-

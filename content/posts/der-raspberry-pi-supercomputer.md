@@ -1,11 +1,14 @@
-Title: Der Raspberry Pi Supercomputer
-Date: 2012-09-14 13:33
-Author: marvin
-Category: Uncategorized
-Tags: linux, raspberrypi
-Slug: der-raspberry-pi-supercomputer
-
-![raspberry-pi-supercomputer-5]({static}/images/raspberry-pi-supercomputer-5.jpg)
+---
+title: Der Raspberry Pi Supercomputer
+slug: der-raspberry-pi-supercomputer
+tags:
+- linux
+- raspberrypi
+date: "2012-09-14T14:33:00+02:00"
+author: marvin
+draft: false
+---
+![raspberry-pi-supercomputer-5](/images/raspberry-pi-supercomputer-5.jpg)
 
 Wieso haben ich eigentlich noch keinen Raspberry Pi? Ds ist ein kleiner
 Computer für wenig Geld auf dem man problemlos Linux laufen lassen kann.
@@ -19,4 +22,3 @@ Keincomputer wurden dafür zusammen geschaltet. Alle Informationen zum
 Nachbauen gibt es im
 [Internetz](http://www.southampton.ac.uk/~sjc/raspberrypi/index.htm).
 Und LEGO ey... wie geil seit ihr denn bitte?!
-

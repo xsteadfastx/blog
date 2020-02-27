@@ -1,11 +1,15 @@
-Title: Saves the Day - At Your Funeral
-Date: 2012-12-04 12:35
-Author: marvin
-Category: Uncategorized
-Tags: emo, music, savestheday
-Slug: saves-the-day-at-your-funeral
-
-![himom]({static}/images/himom.jpg)
+---
+title: Saves the Day - At Your Funeral
+slug: saves-the-day-at-your-funeral
+tags:
+- emo
+- music
+- savestheday
+date: "2012-12-04T12:35:00+01:00"
+author: marvin
+draft: false
+---
+![himom](/images/himom.jpg)
 
 Dieses Video war für mich der Höhepunkt und gleichzeitig das Ende von
 Emo. Nicht das geschminkte Etwas was vor den Einkaufszentren der
@@ -18,5 +22,4 @@ einfach nichts gutes mehr. Zu mindestens ging alles was danach kam an
 mir vorbei. Ich suchte weiter und fand nichts. Und so sehr entzückt mich
 das "Hi Mom" auf dem Schlagzeug und dieser großartige Song.
 
-{% youtube 23ugXw284lU %}
-
+{{< youtube 23ugXw284lU >}}

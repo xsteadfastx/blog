@@ -1,11 +1,16 @@
-Title: Sofia Coppola über ihre Kodak-Filmauswahl
-Date: 2012-09-21 11:42
-Author: marvin
-Category: Uncategorized
-Tags: kodak, movies, sofiacoppola, virginsuicides
-Slug: sofia-coppola-uber-ihre-kodak-filmauswahl
-
-![virgin_suicides2]({static}/images/virgin_suicides2.jpg)
+---
+title: Sofia Coppola über ihre Kodak-Filmauswahl
+slug: sofia-coppola-uber-ihre-kodak-filmauswahl
+tags:
+- kodak
+- movies
+- sofiacoppola
+- virginsuicides
+date: "2012-09-21T12:42:00+02:00"
+author: marvin
+draft: false
+---
+![virgin_suicides2](/images/virgin_suicides2.jpg)
 
 Es ist schon interessant das die Filmauswahl, mit der gedreht wird, so
 einen starken Unterschied auf die Stimmung eines Filmes nimmt. Manche
@@ -33,4 +38,3 @@ irgendwie finde ich die Entwicklung ein wenig traurig. Kodak ist so gut
 wie tot. Wie wird die Zukunft aussehen? Keine Ahnung. Filme wie "The
 Virgin Suicides" werden aber immer als Inspiration gelten, dass die
 Optik einen Film besonders macht.
-

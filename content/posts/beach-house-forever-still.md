@@ -1,11 +1,16 @@
-Title: Beach House - Forever Still
-Date: 2013-02-05 14:34
-Author: marvin
-Category: Uncategorized
-Tags: beachhouse, music, pinkfloyd, pompeii
-Slug: beach-house-forever-still
-
-![beachhouse]({static}/images/beachhouse.jpg)
+---
+title: Beach House - Forever Still
+slug: beach-house-forever-still
+tags:
+- beachhouse
+- music
+- pinkfloyd
+- pompeii
+date: "2013-02-05T14:34:00+01:00"
+author: marvin
+draft: false
+---
+![beachhouse](/images/beachhouse.jpg)
 
 Pompeii von Pink Floyd ist ein großartiges Konzept. Die Vermischung von
 der experimentellen Musik und der Umgebung die zu einer perfekten
@@ -32,5 +37,4 @@ versucht zu befreien.
 >  <cite>[Beach
 > House](http://www.beachhousebaltimore.com/february-4-2013)</cite>
 
-{% youtube lgD8vWIB8hs %}
-
+{{< youtube lgD8vWIB8hs >}}

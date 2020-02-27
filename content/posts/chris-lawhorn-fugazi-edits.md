@@ -1,11 +1,16 @@
-Title: Chris Lawhorn – Fugazi Edits
-Date: 2012-11-02 16:28
-Author: marvin
-Category: Uncategorized
-Tags: chrislawhorn, fugazi, music, remix
-Slug: chris-lawhorn-fugazi-edits
-
-![artworks-000031981465-pwbtky-original]({static}/images/artworks-000031981465-pwbtky-original.jpg)
+---
+title: Chris Lawhorn – Fugazi Edits
+slug: chris-lawhorn-fugazi-edits
+tags:
+- chrislawhorn
+- fugazi
+- music
+- remix
+date: "2012-11-02T16:28:00+01:00"
+author: marvin
+draft: false
+---
+![artworks-000031981465-pwbtky-original](/images/artworks-000031981465-pwbtky-original.jpg)
 
 [Chris Lawhorn](http://www.chrislawhorn.com/) hat, mit der Erlaubnis von
 Fugazi, die komplette Discography der Band auf eine Albumlänge
@@ -20,4 +25,3 @@ gesampelt.
 Was ein Meisterwerk an Dynamik und Rhythmus. Ich bin Fan.
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F2599269&amp;show_artwork=true"></iframe>
-

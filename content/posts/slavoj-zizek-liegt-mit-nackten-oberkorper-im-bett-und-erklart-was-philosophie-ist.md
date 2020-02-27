@@ -1,10 +1,14 @@
-Title: Slavoj Žižek liegt mit nackten Oberkörper im Bett und erklärt was Philosophie ist
-Date: 2013-04-16 10:45
-Author: marvin
-Category: Uncategorized
-Tags: philosophy, slavojzizek
-Slug: slavoj-zizek-liegt-mit-nackten-oberkorper-im-bett-und-erklart-was-philosophie-ist
-
+---
+title: Slavoj Žižek liegt mit nackten Oberkörper im Bett und erklärt was Philosophie
+  ist
+slug: slavoj-zizek-liegt-mit-nackten-oberkorper-im-bett-und-erklart-was-philosophie-ist
+tags:
+- philosophy
+- slavojzizek
+date: "2013-04-16T11:45:00+02:00"
+author: marvin
+draft: false
+---
 ... your argument is invalid!
 
 > "The duty of philosophy is not to solve problems, but to redefine
@@ -13,5 +17,4 @@ Slug: slavoj-zizek-liegt-mit-nackten-oberkorper-im-bett-und-erklart-was-philosop
 > you don’t need philosophy."  
 >  `Slavoj Žižek`
 
-{% youtube IP3LoQ0vua0 %}
-
+{{< youtube IP3LoQ0vua0 >}}

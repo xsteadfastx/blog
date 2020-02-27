@@ -1,10 +1,16 @@
-Title: Mein Blog wird jetzt mal ein wenig von...
-Date: 2012-05-08 08:29
-Author: marvin
-Category: Uncategorized
-Tags: art, berlin, joshualightshow, psychedelic, transmediale
-Slug: mein-blog-wird-jetzt-mal-ein-wenig-von
-
+---
+title: Mein Blog wird jetzt mal ein wenig von...
+slug: mein-blog-wird-jetzt-mal-ein-wenig-von
+tags:
+- art
+- berlin
+- joshualightshow
+- psychedelic
+- transmediale
+date: "2012-05-08T09:29:00+02:00"
+author: marvin
+draft: false
+---
 Mein Blog wird jetzt mal ein wenig von Psychedelic geflutet. Aus
 [Gründen](http://www.blauenacht.nuernberg.de/) versuche ich mich gerade
 ein wenig zu inspirieren...
@@ -22,7 +28,6 @@ zur Transmediale in Berlin war.
 </p>
 <iframe width="640" height="360" src="http://hub.freshmilk.tv/embed/1439005299001/" frameborder="0" allowfullscreen></iframe>
 
-{% youtube JHhy0T7fY60 %}
+{{< youtube JHhy0T7fY60 >}}
 
-{% youtube kdLHxTU3_9Y %}
-
+{{< youtube kdLHxTU3_9Y >}}

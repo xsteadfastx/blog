@@ -1,11 +1,16 @@
-Title: google und die qumranrollen
-Date: 2011-09-26 15:27
-Author: marvin
-Category: post
-Tags: google, israel, jerusalem, judaism
-Slug: google-und-die-qumranrollen
-
-![greatisaiahrolls]({static}/images/greatisaiahrolls.png)
+---
+title: google und die qumranrollen
+slug: google-und-die-qumranrollen
+tags:
+- google
+- israel
+- jerusalem
+- judaism
+date: "2011-09-26T16:27:00+02:00"
+author: marvin
+draft: false
+---
+![greatisaiahrolls](/images/greatisaiahrolls.png)
 
 Google hat zusammen mit dem Israel Museum in Jerusalem die berühmten
 Schriftrollen aus Qumran aufwendig
@@ -29,4 +34,3 @@ Archäologie mit Kunst zu verbinden. Ich kann das Museum wirklich
 empfehlen. Und das schon wegen der James Turrel Installation.
 
  
-

@@ -1,11 +1,14 @@
-Title: Chillwave ist ja gerade der heiße Scheiß Ich...
-Date: 2012-05-16 10:05
-Author: marvin
-Category: Uncategorized
-Tags: anne, music
-Slug: chillwave-ist-ja-gerade-der-heise-scheis-ich
-
-![dreampunx]({static}/images/dreampunx.jpg)
+---
+title: Chillwave ist ja gerade der heiße Scheiß Ich...
+slug: chillwave-ist-ja-gerade-der-heise-scheis-ich
+tags:
+- anne
+- music
+date: "2012-05-16T11:05:00+02:00"
+author: marvin
+draft: false
+---
+![dreampunx](/images/dreampunx.jpg)
 
 Chillwave ist ja gerade der heiße Scheiß. Ich stehe ja auch drauf und
 so... aber die Dream Pop / Shoegaze Elemente sind doch oft zu wenig. Man
@@ -23,9 +26,8 @@ anhören.
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1352049&amp;show_artwork=true&amp;secret_token=s-o7Qnh"></iframe>
 
-{% youtube PLL2nYgp3es %}
+{{< youtube PLL2nYgp3es >}}
 
-{% youtube 4PJogkDV-mw %}
+{{< youtube 4PJogkDV-mw >}}
 
-{% youtube mmy2P4XOFvU %}
-
+{{< youtube mmy2P4XOFvU >}}

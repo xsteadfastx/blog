@@ -1,11 +1,15 @@
-Title: Listen To The Heart Of Tuscany
-Date: 2012-09-12 10:47
-Author: marvin
-Category: Uncategorized
-Tags: fernweh, fieldrecordings, toskana
-Slug: listen-to-the-heart-of-tuscany
-
-![737302]({static}/images/737302.jpg)
+---
+title: Listen To The Heart Of Tuscany
+slug: listen-to-the-heart-of-tuscany
+tags:
+- fernweh
+- fieldrecordings
+- toskana
+date: "2012-09-12T11:47:00+02:00"
+author: marvin
+draft: false
+---
+![737302](/images/737302.jpg)
 
 Das hat mir gerade noch gefehlt. Die ersten zwei Tage am Arbeitsplatz
 trennen mich von meinem Urlaub. Unsere Zeit in der Toskana. Jeden morgen
@@ -20,6 +24,5 @@ Fernweh.
 > life in a fantastic atmosphere.  
 >  <cite>Gunther Machu</cite>
 
-{% vimeo 48890521   %}
+{{< vimeo 48890521   >}}
 ([via](http://www.kraftfuttermischwerk.de/blogg/?p=41092))
-

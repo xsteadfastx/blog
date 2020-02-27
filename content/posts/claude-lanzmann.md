@@ -1,8 +1,15 @@
-Title: Claude Lanzmann
-Date: 2018-07-06 12:20
-Slug: claude-lanzmann
-Tags: claudelanzmann, shoa, documentary, arte
-
+---
+title: Claude Lanzmann
+slug: claude-lanzmann
+tags:
+- claudelanzmann
+- shoa
+- documentary
+- arte
+date: "2018-07-06T13:20:00+02:00"
+author: marvin
+draft: false
+---
 Und schon wieder ist jemand von uns gegangen. Das tröstende ist, ihr Werk bleibt uns. In dem Fall von Claude Lanzmann hofft man auf viele Hörende, Sehende, das er nie vergessen wird, seine Filme viele Menschen erreichen, sie zum nachdenken bringt, sie sich erinnern.
 
 Den ersten Film den ich sah, war [Warum Israel?](https://de.wikipedia.org/wiki/Warum_Israel). Gedreht 25 Jahre nach Staatsgründung, erklärt er die Notwendigkeit des Staates Israel mit einer zurückhaltenden doch klaren Draufsicht.

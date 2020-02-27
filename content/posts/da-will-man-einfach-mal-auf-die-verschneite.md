@@ -1,10 +1,13 @@
-Title: Da will man einfach mal auf die verschneite...
-Date: 2012-03-28 10:35
-Author: marvin
-Category: status
-Tags: animals, nature
-Slug: da-will-man-einfach-mal-auf-die-verschneite
-
+---
+title: Da will man einfach mal auf die verschneite...
+slug: da-will-man-einfach-mal-auf-die-verschneite
+tags:
+- animals
+- nature
+date: "2012-03-28T11:35:00+02:00"
+author: marvin
+draft: false
+---
 Da will man einfach mal auf die verschneite Terrasse gehen...und was
 erwartet einen da? Tonnen an What The Fucks...
 
@@ -16,4 +19,3 @@ erwartet einen da? Tonnen an What The Fucks...
 </embed>
 </object>
 </p>
-

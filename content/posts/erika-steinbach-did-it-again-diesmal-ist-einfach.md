@@ -1,10 +1,14 @@
-Title: Erika Steinbach did it again Diesmal ist einfach...
-Date: 2012-03-20 10:38
-Author: marvin
-Category: status
-Tags: erikasteinbach, politics, twitter
-Slug: erika-steinbach-did-it-again-diesmal-ist-einfach
-
+---
+title: Erika Steinbach did it again Diesmal ist einfach...
+slug: erika-steinbach-did-it-again-diesmal-ist-einfach
+tags:
+- erikasteinbach
+- politics
+- twitter
+date: "2012-03-20T10:38:00+01:00"
+author: marvin
+draft: false
+---
 Erika Steinbach did it again. Diesmal ist einfach zu gut um es in den
 Weiten des Internetz verschwinden zu lassen...Danke Erika... \<3
 
@@ -19,4 +23,3 @@ Weiten des Internetz verschwinden zu lassen...Danke Erika... \<3
 <p>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
-

@@ -1,10 +1,13 @@
-Title: Aus der Abteilung die BILD berichtet über Kunst...
-Date: 2012-03-23 11:48
-Author: marvin
-Category: status
-Tags: art, bild
-Slug: aus-der-abteilung-die-bild-berichtet-uber-kunst
-
+---
+title: Aus der Abteilung die BILD berichtet über Kunst...
+slug: aus-der-abteilung-die-bild-berichtet-uber-kunst
+tags:
+- art
+- bild
+date: "2012-03-23T11:48:00+01:00"
+author: marvin
+draft: false
+---
 Aus der Abteilung die BILD berichtet über Kunst...heute ist sie mal der
 Partner der Ausstellung "[ART and
 PRESS](http://www.bild.de/news/topics/artandpress/die-kunst-der-buchstaben-23264978.bild.html)"
@@ -19,4 +22,3 @@ Diekmann die Bild als Avantgarde bezichtigt...
 </embed>
 </object>
 </p>
-

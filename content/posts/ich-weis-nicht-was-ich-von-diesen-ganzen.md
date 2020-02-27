@@ -1,11 +1,14 @@
-Title: Ich weiß nicht was ich von diesen ganzen...
-Date: 2012-05-30 08:26
-Author: marvin
-Category: Uncategorized
-Tags: capnjazz, music
-Slug: ich-weis-nicht-was-ich-von-diesen-ganzen
-
-![capnjazz]({static}/images/capnjazz.jpg)
+---
+title: Ich weiß nicht was ich von diesen ganzen...
+slug: ich-weis-nicht-was-ich-von-diesen-ganzen
+tags:
+- capnjazz
+- music
+date: "2012-05-30T09:26:00+02:00"
+author: marvin
+draft: false
+---
+![capnjazz](/images/capnjazz.jpg)
 
 Ich weiß nicht was ich von diesen ganzen Reunion Shows so halten soll.
 Aber wenn man dann manche Live-Videos von den Shows sieht...ach ja.
@@ -14,5 +17,4 @@ Jeder der noch nicht die Anthology von ihnen hat sollte sofort losgehen
 und sie sich besorgen... Ich bin hier komplett mit Gänsehaut
 überzogen...
 
-{% youtube 6pgjZKH2pa4 %}
-
+{{< youtube 6pgjZKH2pa4 >}}

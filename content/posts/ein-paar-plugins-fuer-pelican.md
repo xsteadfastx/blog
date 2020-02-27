@@ -1,10 +1,17 @@
-Title: Ein paar Plugins für Pelican
-Date: 2015-09-21 15:40
-Slug: ein-paar-plugins-fuer-pelican
-Tags: pelican, blog, python
+---
+title: Ein paar Plugins für Pelican
+slug: ein-paar-plugins-fuer-pelican
+tags:
+- pelican
+- blog
+- python
+date: "2015-09-21T16:40:00+02:00"
+author: marvin
+draft: false
+---
 Description: Ich habe ein paar Plugins für  den Pelican Static Site Generator geschrieben
 
-{% giphy YuNzqtXUcwbV6 %}
+[![https://www.reddit.com/r/tvgifs/comments/13uw0l/hey_dad_think_fast_modern_family/](https://media1.giphy.com/media/YuNzqtXUcwbV6/giphy.gif)](https://giphy.com/gifs/modern-family-YuNzqtXUcwbV6)
 
 Ich bin eigentlich ziemlich glücklich mit meinem Umstieg von Wordpress auf [Pelican](http://blog.getpelican.com/). Dieses Static-Site-Ding macht in meinen Augen wirklich Sinn. Vor allem passt es sich gut in diesen GIT-Workflow ein. Alles in Markdown und keine DB im Nacken plus Backups die durch GIT ganz wunderbar sind. Meine Entscheidung für Pelican fiel durch die Programmiersprache Python. Ich dachte es ist schön wenn man fähig ist ein wenig zu verstehen was dort passiert und es eventuell die Möglichkeit gibt auch etwas dem Projekt zurück zu geben. Dies habe ich nun mit ein paar Erweiterungen für das [liquid_tags](https://github.com/getpelican/pelican-plugins/tree/master/liquid_tags) Plugin getan. Ich habe gemerkt das ich oft viele Sachen einbinde und dies frisst Zeit sich erstmal die Embeded-Codes rauszusuchen oder selber zu basteln. Dies soll für einige Dienste nun durch diese Erweiterungen verbessert werden.
 
@@ -15,7 +22,7 @@ Hier war das Problem anhand der ID an alle Informationen zu kommen um das HTML-T
 
 folgendes basteln:
 
-![Ich denke an einen Wald]({static}/images/18841046161_de05aa1433_b.jpg)
+![Ich denke an einen Wald](/images/18841046161_de05aa1433_b.jpg)
 
 Für alle Optionen schaut man [hier](https://github.com/getpelican/pelican-plugins/blob/master/liquid_tags/flickr.py) vorbei.
 
@@ -26,7 +33,7 @@ Was ich auch gerne tue, ist Soundcloud Widgets einbinden. Und hier mein großer 
 
 dies hier:
 
-{% soundcloud https://soundcloud.com/luftmentsh/hakotel %}
+{{< soundcloud_tracks 33875102 >}}
 
 Den Code gibt es [hier](https://github.com/getpelican/pelican-plugins/blob/master/liquid_tags/soundcloud.py).
 
@@ -35,7 +42,7 @@ Manche Sachen sagt man besser mit einem GIF. Ja, es macht jedes zweite Blog. Ega
 
 	\{\% giphy y6Nhc2E1ch2ww \%\}
 
-{% giphy y6Nhc2E1ch2ww %}
+[![https://rhiannonyork.tumblr.com/post/44551538237/when-i-prove-a-vendor-wrong-on-a-conference-call](https://media1.giphy.com/media/y6Nhc2E1ch2ww/giphy.gif)](https://giphy.com/gifs/dowager-countess-downtown-abbey-downton-gif-y6Nhc2E1ch2ww)
 
 Den Code gibt es [hier](https://github.com/getpelican/pelican-plugins/blob/master/liquid_tags/giphy.py).
 

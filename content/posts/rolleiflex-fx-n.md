@@ -1,11 +1,15 @@
-Title: Rolleiflex FX-N
-Date: 2012-09-21 16:13
-Author: marvin
-Category: Uncategorized
-Tags: photography, photokina, rolleiflex
-Slug: rolleiflex-fx-n
-
-[![pic c Jeriko]({static}/images/rolleiflex.jpg)](http://www.jeriko.de/2012/09/19/photokina/)
+---
+title: Rolleiflex FX-N
+slug: rolleiflex-fx-n
+tags:
+- photography
+- photokina
+- rolleiflex
+date: "2012-09-21T17:13:00+02:00"
+author: marvin
+draft: false
+---
+[![pic c Jeriko](/images/rolleiflex.jpg)](http://www.jeriko.de/2012/09/19/photokina/)
 
 Mehr Megapixel und Vollformat und überhaupt. Kleiner sowieso und mehr
 Objektive. Was gibt es schon Neues von der Photokina 2012? Erstmal bin
@@ -19,4 +23,3 @@ darüber. Film will never die...oder hoffentlich nicht so bald.
 
 Mehr Infos gibt es
 [hier](http://www.petapixel.com/2012/09/13/rolleiflex-still-happily-making-analog-tlr-cameras-fx-n-to-debut-at-photokina/).
-

@@ -1,11 +1,15 @@
-Title: Ceremony - Sick
-Date: 2012-11-12 11:11
-Author: marvin
-Category: Uncategorized
-Tags: ceremony, matadorrecords, music
-Slug: ceremony-sick
-
-![ceremony]({static}/images/ceremony.jpg)
+---
+title: Ceremony - Sick
+slug: ceremony-sick
+tags:
+- ceremony
+- matadorrecords
+- music
+date: "2012-11-12T11:11:00+01:00"
+author: marvin
+draft: false
+---
+![ceremony](/images/ceremony.jpg)
 
 Guten Morgen am Moshing Monday. Heute für sie: Ceremony mit "Sick". Und
 mal wieder verstehe ich den Hass nicht der dieser Band entgegen
@@ -16,5 +20,4 @@ wirklich interessant. Vor allem das es die Brücke schlägt zwischen Bands
 wie Sonic Youth, Cold Cave, Cat Power und Fucked Up. Also Ruhe auf den
 billigen Plätzen und sich mal freuen...
 
-{% vimeo 14735424 %}
-
+{{< vimeo 14735424 >}}

@@ -1,11 +1,16 @@
-Title: Sylvia Plath
-Date: 2013-02-12 11:46
-Author: marvin
-Category: Uncategorized
-Tags: books, slyviaplath, suicide, thebelljar
-Slug: sylvia-plath
-
-[![cc by psd]({static}/images/5818852739_c4ceffca25_b.jpg)](https://secure.flickr.com/photos/psd/5818852739/)
+---
+title: Sylvia Plath
+slug: sylvia-plath
+tags:
+- books
+- slyviaplath
+- suicide
+- thebelljar
+date: "2013-02-12T11:46:00+01:00"
+author: marvin
+draft: false
+---
+[![cc by psd](/images/5818852739_c4ceffca25_b.jpg)](https://secure.flickr.com/photos/psd/5818852739/)
 
 Nun ist es 50 Jahre her das [Sylvia
 Plat](https://de.wikipedia.org/wiki/Sylvia_Plath)h sich ihr Leben nahm.
@@ -23,5 +28,4 @@ Buch auffangen. Natürlich ohne die Erfahrungen die die Protagonistin des
 Buches zu durchleben. Berührt hat es mich trotzdem. Selbstmorde von
 Menschen die mich beeindrucken hinterlassen immer einen faden Geschmack.
 
-{% youtube _tvSDw84ArQ %}
-
+{{< youtube _tvSDw84ArQ >}}

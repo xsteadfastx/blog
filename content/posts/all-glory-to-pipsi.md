@@ -1,8 +1,12 @@
-Title: All glory to pipsi 
-Slug: all-glory-to-pipsi 
-Date: 2014-09-01 15:25
-Tags: python 
-
+---
+title: 'All glory to pipsi '
+slug: 'all-glory-to-pipsi '
+tags:
+- python
+date: "2014-09-01T16:25:00+02:00"
+author: marvin
+draft: false
+---
 Mein "Code"-Ordner sieht ganz schön zerfurcht aus. Alles voll mit Virtual-Environments. Das funktioniert schon alles ganz gut zum entwickeln. Möchte ich aber Tools wie [beets](https://github.com/sampsyo/beets) oder [youtube-dl](https://github.com/rg3/youtube-dl) installieren und nutze dafür `pip`, haut er mir einfach alle Abhängigkeiten in den systemweiten Bereich. Schöner wäre es alles seperat in Virtuelenvs im Home-Verzeichnis zu haben. Nun kommt [pipsi](https://github.com/mitsuhiko/pipsi) ins Spiel: 
 
 ```

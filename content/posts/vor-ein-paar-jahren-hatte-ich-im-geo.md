@@ -1,11 +1,16 @@
-Title: Vor ein paar Jahren hatte ich im GEO...
-Date: 2012-05-18 09:17
-Author: marvin
-Category: Uncategorized
-Tags: messiah, religion, russia, vice
-Slug: vor-ein-paar-jahren-hatte-ich-im-geo
-
-![Vissarion-bulgary]({static}/images/Vissarion-bulgary.jpg)
+---
+title: Vor ein paar Jahren hatte ich im GEO...
+slug: vor-ein-paar-jahren-hatte-ich-im-geo
+tags:
+- messiah
+- religion
+- russia
+- vice
+date: "2012-05-18T10:17:00+02:00"
+author: marvin
+draft: false
+---
+![Vissarion-bulgary](/images/Vissarion-bulgary.jpg)
 
 Vor ein paar Jahren hatte ich im GEO-Magazin eine Reportage über einen
 Mann aus Russland gelesen der sich für den rück gekehrten Jesus hält. Er
@@ -24,8 +29,7 @@ VICE hat einen kleinen Dokumentarfilm über ihn gedreht...
 [hier](http://www.vice.com/read/the-mysteries-of-the-teacher-0000099-v18n12?Contentpage=-1)
 geht es zu dem Artikel...
 
-{% youtube W2Cv5hZfOmk %}
+{{< youtube W2Cv5hZfOmk >}}
 
 (pic cc
 [Sawromat](http://en.wikipedia.org/wiki/File:Vissarion-bulgary.jpg))
-

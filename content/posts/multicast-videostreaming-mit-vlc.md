@@ -1,8 +1,14 @@
-Title: Multicast-Videostreaming mit VLC 
-Slug: multicast-videostreaming-mit-vlc
-Date: 2014-11-06 09:37
-Tags: vlc, videostreaming, multicast
-
+---
+title: 'Multicast-Videostreaming mit VLC '
+slug: multicast-videostreaming-mit-vlc
+tags:
+- vlc
+- videostreaming
+- multicast
+date: "2014-11-06T09:37:00+01:00"
+author: marvin
+draft: false
+---
 Es wird der Tag kommen an dem ich mir noch einen Raspberry Pi inklusive Camera-Modul besorge. Dann steht der Hamster-Livecam nichts mehr im Weg. Ich muss gestehen: Mit Multicast Videostreams hatte ich bisher noch keine Berührungspunkte. Also habe ich mich gestern mal auf eine Google-Suche begeben. 
 
 

@@ -1,10 +1,13 @@
-Title: Hat jemand letzten Sonntag Tatort geschaut?
-Date: 2013-09-10 17:02
-Author: marvin
-Category: Uncategorized
-Tags: politics, tatort
-Slug: hat-jemand-letzten-sonntag-tatort-geschaut
-
+---
+title: Hat jemand letzten Sonntag Tatort geschaut?
+slug: hat-jemand-letzten-sonntag-tatort-geschaut
+tags:
+- politics
+- tatort
+date: "2013-09-10T18:02:00+02:00"
+author: marvin
+draft: false
+---
 Ich glaube der Tatort gehört bei vielen zum wöchentlichen
 Sonntagsritual. Bei mir ist es zu mindestens so. Auch wenn ich in der
 letzten Zeit selten dazu gekommen bin, freue ich mich wenn ich es
@@ -33,4 +36,3 @@ Und da ratterte er es wieder runter: Natürlich sei alles eine Frage der
 Überwachung. Mehr Überwachung ist gleich mehr Sicherheit vor allen
 Verbrechen jeglicher Art. Die schlimmsten Erwartungen scheinen doch
 immer wieder einzutreten. Egal wie sehr man hofft...
-

@@ -1,10 +1,14 @@
-Title: Die BILD über Containern
-Date: 2012-01-10 11:05
-Author: marvin
-Category: post
-Tags: bild, containern, dumpsterdiving
-Slug: die-bild-uber-containern
-
+---
+title: Die BILD über Containern
+slug: die-bild-uber-containern
+tags:
+- bild
+- containern
+- dumpsterdiving
+date: "2012-01-10T11:05:00+01:00"
+author: marvin
+draft: false
+---
 Die [BILD
 berichtete](http://www.bild.de/news/inland/prozess/angeklagt-weil-er-kekse-aus-dem-muell-klaute-21985166.bild.html)
 über den "Keks Dieb Karsten H.". Es geht um eine Anklage gegen den
@@ -66,4 +70,3 @@ die die Menschen an den Mülltonnen hinterlassen. Wenn man sich den Film
 "[We Feed the World](https://de.wikipedia.org/wiki/We_Feed_the_World)"
 anschaut sieht man einen anderen Grund: Sie werden verbrannt...um
 Energie zu erzeugen. Das perfekte Bild des Kapitalimus...
-

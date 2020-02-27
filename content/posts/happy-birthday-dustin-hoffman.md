@@ -1,13 +1,16 @@
-Title: Happy Birthday Dustin Hoffman
-Date: 2012-08-08 15:00
-Author: marvin
-Category: Uncategorized
-Tags: dustinhoffman, movies, thegraduate
-Slug: happy-birthday-dustin-hoffman
-
-![theGraduate3]({static}/images/theGraduate3.jpg)
+---
+title: Happy Birthday Dustin Hoffman
+slug: happy-birthday-dustin-hoffman
+tags:
+- dustinhoffman
+- movies
+- thegraduate
+date: "2012-08-08T16:00:00+02:00"
+author: marvin
+draft: false
+---
+![theGraduate3](/images/theGraduate3.jpg)
 
 75 Jahre...wahnsinn...
 
-{% youtube 3JTH5VPAT4Y %}
-
+{{< youtube 3JTH5VPAT4Y >}}

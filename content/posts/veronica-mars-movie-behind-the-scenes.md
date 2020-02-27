@@ -1,10 +1,15 @@
-Title: Veronica Mars Movie: Behind the Scenes
-Date: 2013-03-27 12:55
-Author: marvin
-Category: Uncategorized
-Tags: kickstarter, movies, tv, veronicamars
-Slug: veronica-mars-movie-behind-the-scenes
-
+---
+title: 'Veronica Mars Movie: Behind the Scenes'
+slug: veronica-mars-movie-behind-the-scenes
+tags:
+- kickstarter
+- movies
+- tv
+- veronicamars
+date: "2013-03-27T12:55:00+01:00"
+author: marvin
+draft: false
+---
 Ich bin noch so aufgeregt wie am ersten Tag. Nun ist das
 Kickstarter-Projekt, für den Veronica Mars Film, bei fast 4 Millionen
 Dollar angekommen. Dazu kommt gerade frisch die Meldung rein das nun
@@ -18,5 +23,4 @@ dem Launch des Kickstarter-Projekts. Ach ja... eigentlich müsste man die
 Serie nochmal von vorne schauen. In meinem Fall wäre es mindestens das
 fünfte mal.
 
-{% youtube 0uiFIhxXeKI %}
-
+{{< youtube 0uiFIhxXeKI >}}

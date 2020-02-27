@@ -1,10 +1,13 @@
-Title: germany germany - radiowave II
-Date: 2011-12-15 15:36
-Author: marvin
-Category: post
-Tags: germanygermany, music
-Slug: germany-germany-radiowave-ii
-
+---
+title: germany germany - radiowave II
+slug: germany-germany-radiowave-ii
+tags:
+- germanygermany
+- music
+date: "2011-12-15T15:36:00+01:00"
+author: marvin
+draft: false
+---
 Dieses wunderbare Electro-Project von Drew Harris hat ein neues Album
 herausgebracht. Wenn ich das richtig verstanden habe ist es kein
 Nachfolge Album zu
@@ -22,4 +25,3 @@ zurück zieht. Schade Schade. Aber ich hoffe das das nicht lange sein
 wird.
 
 <iframe style="position: relative; display: block; width: 300px; height: 410px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/album=2240028907/size=grande3/bgcol=FFFFFF/linkcol=4285BB/" frameborder="0" width="300" height="410"></iframe>
-

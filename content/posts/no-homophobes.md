@@ -1,11 +1,16 @@
-Title: No Homophobes
-Date: 2012-09-27 11:28
-Author: marvin
-Category: Uncategorized
-Tags: internetz, politics, sexism, twitter
-Slug: no-homophobes
-
-![nohomophobes]({static}/images/nohomophobes.jpg)
+---
+title: No Homophobes
+slug: no-homophobes
+tags:
+- internetz
+- politics
+- sexism
+- twitter
+date: "2012-09-27T12:28:00+02:00"
+author: marvin
+draft: false
+---
+![nohomophobes](/images/nohomophobes.jpg)
 
 Man braucht nicht Twitter oder das Internetz um zu sehen, dass homophobe
 Begriffe in der Umgangssprache angekommen sind. Da wo viel gesagt wird
@@ -30,4 +35,3 @@ gelesen wird...
 >  <cite>[NoHomophobes.com](http://www.nohomophobes.com/#!/about/)</cite>
 
 ([via](http://www.kraftfuttermischwerk.de/blogg/?p=41724))
-

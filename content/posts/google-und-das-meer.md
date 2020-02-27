@@ -1,11 +1,17 @@
-Title: Google und das Meer
-Date: 2012-09-28 14:34
-Author: marvin
-Category: Uncategorized
-Tags: animals, google, nature, ocean, streetview
-Slug: google-und-das-meer
-
-[![pic c google]({static}/images/mapsunderwater.jpg)](https://maps.google.com/maps?hl=en-US≪=20.634999,-156.49741&spn=0.011577,0.018797&sll=20.631745,-156.495507&layer=c&cid=7413646003444223722&panoid=giEWSvNTE17_TlxxtfCeBQ&cbp=13,201.85,,0,0≷=US&t=m&cbll=20.634999,-156.49741&z=17)
+---
+title: Google und das Meer
+slug: google-und-das-meer
+tags:
+- animals
+- google
+- nature
+- ocean
+- streetview
+date: "2012-09-28T15:34:00+02:00"
+author: marvin
+draft: false
+---
+[![pic c google](/images/mapsunderwater.jpg)](https://maps.google.com/maps?hl=en-US≪=20.634999,-156.49741&spn=0.011577,0.018797&sll=20.631745,-156.495507&layer=c&cid=7413646003444223722&panoid=giEWSvNTE17_TlxxtfCeBQ&cbp=13,201.85,,0,0≷=US&t=m&cbll=20.634999,-156.49741&z=17)
 
 Freitag-Nachmittags-Träumerei. Erst vor ein paar Tagen habe ich über
 Google Street View in der Antarktis berichtet. Gleich darauf schieben
@@ -29,5 +35,4 @@ Bay](https://maps.google.com/maps?hl=en-US≪=21.269602,-157.695598&spn=0.007119
 Krater](https://maps.google.com/maps?hl=en-US≪=20.634999,-156.49741&spn=0.011577,0.018797&sll=20.631745,-156.495507&layer=c&cid=7413646003444223722&panoid=giEWSvNTE17_TlxxtfCeBQ&cbp=13,201.85,,0,0≷=US&t=m&cbll=20.634999,-156.49741&z=17)
 ...wegträumen...
 
-{% youtube 7syWPIZt9B4 %}
-
+{{< youtube 7syWPIZt9B4 >}}

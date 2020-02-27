@@ -1,8 +1,14 @@
-Title: Scannen in Docker, in klicki und bunti
-Date: 2017-08-04 11:45
-Slug: scannen-in-docker-in-klicki-und-bunti
-Tags: docker, photography, vuescan
-
+---
+title: Scannen in Docker, in klicki und bunti
+slug: scannen-in-docker-in-klicki-und-bunti
+tags:
+- docker
+- photography
+- vuescan
+date: "2017-08-04T12:45:00+02:00"
+author: marvin
+draft: false
+---
 Schon seit der Entdeckung der analogen Fotografie für mich, entwickel ich die schwarz-weiß Negative selber und scanne sie dann mit meinem Epson 4490. Den hatte ich mir damals gekauft, da er einerseits bei Media-Markt verfügbar bar und auch 120er Rollfilm scannen konnte. Zu der Zeit entdeckte ich meine Liebe für die [Holga Kamera](https://www.flickr.com/photos/marvinxsteadfast/albums/72157613283952566). Die Halter für die Filme sind eher ein wenig wackelig und ich hatte am Anfang Probleme das das Negativ das Glas des Scanner berührte und es zu [Newton Ringen](https://de.wikipedia.org/wiki/Newtonsche_Ringe) kam. Alles nicht so professionell aber machbar. Zu der Zeit nutze ich einen Mac Mini und war froh das es die Epson Software auch für diesen gab. Später war ich wieder zurück auf Linux und nutze Virtualbox und ein altes Windows XP um die Epson Windows Software zum laufen zu bringen. Letztes Jahr, nach dem Umzug, war mein Setup noch nicht ganz aufgebaut und ich musste ein paar Negative scannen. Ich kaufte mir [VueScan](https://www.hamrick.com/). Dies soll sowas wie der heilige Gral des Scannens sein. Die Software ist unter anderem von einem NASA Mitarbeiter programmiert und kommt mit vielen Treibern. Gerade wenn es für aktuelle Betriebssysteme keine mehr gibt, ein Segen. In meinem Fall, Epson 4490 mit VueScan unter Linux, musste ich noch einen Epson Treiber installieren. Ich weiß nicht wie ihr das seht, aber mir dreht sich alles um wenn ich als `root` eine `install.sh` ausführen soll die irgendwelchen Kram in mein System kopiert, welches ich im schlechtesten Fall per Hand wieder rauspopeln muss. Sowas wollte ich nicht mehr. Docker und X11 hatte ich bis jetzt nicht wirklich benutzt, sah darin aber den perfekten Usecase.
 
 ```

@@ -1,11 +1,15 @@
-Title: Die Mutter aller Archive
-Date: 2013-02-18 13:43
-Author: marvin
-Category: Uncategorized
-Tags: archiveorg, documentary, internetz
-Slug: die-mutter-aller-archive
-
-![archiveorg]({static}/images/archiveorg.jpg)
+---
+title: Die Mutter aller Archive
+slug: die-mutter-aller-archive
+tags:
+- archiveorg
+- documentary
+- internetz
+date: "2013-02-18T13:43:00+01:00"
+author: marvin
+draft: false
+---
+![archiveorg](/images/archiveorg.jpg)
 
 Es ist der erste Teil einer Dokumentation über
 [Archive.org](http://archive.org) erschienen. Archive.org hat es sich
@@ -35,4 +39,3 @@ Wissens. Gänsehaut überall...
 <iframe src="http://archive.org/embed/archive_documentary_internet_archive_sequence" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ([via](http://www.crackajack.de/2013/02/15/the-internet-archive-documentary/))
-

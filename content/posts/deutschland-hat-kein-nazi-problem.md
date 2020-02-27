@@ -1,11 +1,15 @@
-Title: Deutschland hat kein Nazi-Problem
-Date: 2013-03-18 15:28
-Author: marvin
-Category: Uncategorized
-Tags: germany, nazis, politics
-Slug: deutschland-hat-kein-nazi-problem
-
-![rechtesland]({static}/images/rechtesland.jpg)
+---
+title: Deutschland hat kein Nazi-Problem
+slug: deutschland-hat-kein-nazi-problem
+tags:
+- germany
+- nazis
+- politics
+date: "2013-03-18T15:28:00+01:00"
+author: marvin
+draft: false
+---
+![rechtesland](/images/rechtesland.jpg)
 
 Zu mindestens versucht uns das die Regierung seit Jahren klar zumachen.
 Ach was, seit Jahrzehnten wird es propagiert. Die aktuelle Regierung
@@ -29,7 +33,6 @@ Wovor wir unsere Augen nicht verschließen sollten zeigt die Karte
 > verzeichnet. Und nicht zuletzt geht es darum, Orte des Erinnerns an
 > die Nazivergangenheit zu zeigen.
 
-{% youtube YJoiISWnEGE %}
+{{< youtube YJoiISWnEGE >}}
 
 Es gibt ein Problem, welches gesehen werden will...
-

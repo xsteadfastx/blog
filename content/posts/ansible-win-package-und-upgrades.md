@@ -1,9 +1,15 @@
-Title: Ansible, win_package und Upgrades
-Date: 2016-04-12 12:15
-Slug: ansible-win-package-und-upgrades
-Tags: ansible, windows, linux
-
-{% giphy b5TmEXrjZ2II8 %}
+---
+title: Ansible, win_package und Upgrades
+slug: ansible-win-package-und-upgrades
+tags:
+- ansible
+- windows
+- linux
+date: "2016-04-12T13:15:00+02:00"
+author: marvin
+draft: false
+---
+[![https://childofmoonlight.tumblr.com/post/44755113585/im-a-grumpy-guss-enjoy-this-gif-set-of-grumpy](https://media1.giphy.com/media/b5TmEXrjZ2II8/giphy.gif)](https://giphy.com/gifs/transparent-supernatural-b5TmEXrjZ2II8)
 
 Das Ansible Modul [win_package](https://docs.ansible.com/ansible/win_package_module.html) beruht auf die Annahme das die `product_id` in der Registry vorhanden ist oder eben nicht. Davon macht es abhängig ob ein Paket installiert werden soll oder ob es schon vorhanden ist. Nun kann es ja auch vorkommen das man ein Paket, obwohl es laut Registry schon installiert ist, es noch einmal installieren möchte. Quasi ein Upgrade machen. Schön wäre es wenn er nicht nur schaut ob das Paket installiert ist, sondern auch die installierte Version. Daran könnte man Task Entscheidungen treffen. Dies mache ich nun manuell. Ein Beispiel für VLC:
 

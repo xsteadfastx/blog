@@ -1,11 +1,17 @@
-Title: Toynbee Tiles
-Date: 2012-08-08 11:07
-Author: marvin
-Category: Uncategorized
-Tags: documentary, graffiti, justinduerr, movies, toynbee
-Slug: toynbee-tiles
-
-![1024px-Toynbee_tile_in_crosswalk_at_intersection_of_13th_and_Market_streets_Philadelphia]({static}/images/1024px-Toynbee_tile_in_crosswalk_at_intersection_of_13th_and_Market_streets_Philadelphia.jpeg)
+---
+title: Toynbee Tiles
+slug: toynbee-tiles
+tags:
+- documentary
+- graffiti
+- justinduerr
+- movies
+- toynbee
+date: "2012-08-08T12:07:00+02:00"
+author: marvin
+draft: false
+---
+![1024px-Toynbee_tile_in_crosswalk_at_intersection_of_13th_and_Market_streets_Philadelphia](/images/1024px-Toynbee_tile_in_crosswalk_at_intersection_of_13th_and_Market_streets_Philadelphia.jpeg)
 
 Seit den 80er Jahren tauchen in Teilen Amerikas und Südamerikas, in den
 Asphalt eingelassene, Straßenplatten auf. Auf ihnen steht, in
@@ -36,8 +42,7 @@ lohnt anzuschauen. Der Film heißt [Resurrect
 Dead](http://www.resurrectdead.com/). Irgendwo zwischen Science-Fiction
 und Verfolgungswahn...
 
-{% vimeo 27086415 %}
+{{< vimeo 27086415 >}}
 
 (pic cc
 [Zuzu](http://it.wikipedia.org/wiki/File:Toynbee_tile_in_crosswalk_at_intersection_of_13th_and_Market_streets_Philadelphia.jpeg))
-

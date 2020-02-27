@@ -1,10 +1,14 @@
-Title: Das letzte Labor das Kodachrome entwickelte
-Date: 2012-01-19 17:37
-Author: marvin
-Category: post
-Tags: documentary, kodak, photography
-Slug: das-letzte-labor-das-kodachrome-entwickelte
-
+---
+title: Das letzte Labor das Kodachrome entwickelte
+slug: das-letzte-labor-das-kodachrome-entwickelte
+tags:
+- documentary
+- kodak
+- photography
+date: "2012-01-19T17:37:00+01:00"
+author: marvin
+draft: false
+---
 Liest man die Medien der letzten Tage pfeifft Kodak aus dem letzten
 Loch. Es stimmt mich traurig da ich ein großer Fan des schwarz-weiß
 Films Tri-X 400 bin. Ich hoffe das es irgendwo ein Wunder gibt was uns
@@ -26,5 +30,4 @@ nicht veröffentlichen wollen, gab es nur noch ein Labor weltweit welches
 diesen Film entwickelt hat. Über dieses Labor handelt der kleine
 Dokumentarfilm. Absoluter Filmlaborporno.
 
-{% vimeo 22543258 %}
-
+{{< vimeo 22543258 >}}

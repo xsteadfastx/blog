@@ -1,11 +1,16 @@
-Title: Joy Division
-Date: 2012-11-05 14:58
-Author: marvin
-Category: Uncategorized
-Tags: arte, documentary, joydivision, music
-Slug: joy-division
-
-[![cc by dullhunk]({static}/images/148088455_a36ee1a04a_b.jpg)](http://www.flickr.com/photos/dullhunk/148088455/)
+---
+title: Joy Division
+slug: joy-division
+tags:
+- arte
+- documentary
+- joydivision
+- music
+date: "2012-11-05T14:58:00+01:00"
+author: marvin
+draft: false
+---
+[![cc by dullhunk](/images/148088455_a36ee1a04a_b.jpg)](http://www.flickr.com/photos/dullhunk/148088455/)
 
 Am Samstag lief die Joy Division Doku von Grant Gee auf Arte. Ich habe
 die zwar schon seit einiger Zeit auf DVD, habe sie mir aber nochmal
@@ -39,4 +44,3 @@ sich auf Arte+7 anschauen. Bis die GEZ-Mafia die Tore schließt...
 </embed>
 </object>
 </p>
-

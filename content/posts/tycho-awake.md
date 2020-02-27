@@ -1,11 +1,14 @@
-Title: Tycho - Awake
-Date: 2013-12-11 09:40
-Author: marvin
-Category: Uncategorized
-Tags: music, tycho
-Slug: tycho-awake
-
-![tycho]({static}/images/tycho.jpg)
+---
+title: Tycho - Awake
+slug: tycho-awake
+tags:
+- music
+- tycho
+date: "2013-12-11T09:40:00+01:00"
+author: marvin
+draft: false
+---
+![tycho](/images/tycho.jpg)
 
 Gerade die letzten Tage habe ich viel [Tycho](http://tychomusic.com)
 gehört. Tycho ist Grafiker, Blogger und Musiker. Dreampop der doch so

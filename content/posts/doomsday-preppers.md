@@ -1,11 +1,17 @@
-Title: Doomsday Preppers
-Date: 2012-09-20 14:11
-Author: marvin
-Category: Uncategorized
-Tags: bunker, documentary, doomsdaypreppers, nationalgeographic, preppers
-Slug: doomsday-preppers
-
-[![c by National Geographic]({static}/images/on-lawlessness_47922_0_0_610x457.jpg)](http://channel.nationalgeographic.com/channel/doomsday-preppers/galleries/most-memorable-prepper-quotes/at/on-lawlessness-47922/)
+---
+title: Doomsday Preppers
+slug: doomsday-preppers
+tags:
+- bunker
+- documentary
+- doomsdaypreppers
+- nationalgeographic
+- preppers
+date: "2012-09-20T15:11:00+02:00"
+author: marvin
+draft: false
+---
+[![c by National Geographic](/images/on-lawlessness_47922_0_0_610x457.jpg)](http://channel.nationalgeographic.com/channel/doomsday-preppers/galleries/most-memorable-prepper-quotes/at/on-lawlessness-47922/)
 
 Ich bin ja schon seit Jahren ein regelmäßiger Leser der "National
 Geographic". Und da meine Eltern im Besitz eines SKY-Abo's sind komme
@@ -52,9 +58,8 @@ hatte auf jeden Fall viel Spaß diese Dokumentationsserie zu schauen.
 
 Man weiß nicht was, aber etwas wird den "fan hitten".
 
-{% youtube XbgUZFHb9QY %}
+{{< youtube XbgUZFHb9QY >}}
 
-{% youtube tH6UA_Zs3ho %}
+{{< youtube tH6UA_Zs3ho >}}
 
-{% youtube OWJi0oohn9Q %}
-
+{{< youtube OWJi0oohn9Q >}}

@@ -1,11 +1,14 @@
-Title: Wild Nothing - Nocturne
-Date: 2012-09-09 16:56
-Author: marvin
-Category: Uncategorized
-Tags: music, wildnothing
-Slug: wild-nothing-nocturne
-
-![artworks-000028661338-mnid22-original]({static}/images/artworks-000028661338-mnid22-original.jpg)
+---
+title: Wild Nothing - Nocturne
+slug: wild-nothing-nocturne
+tags:
+- music
+- wildnothing
+date: "2012-09-09T17:56:00+02:00"
+author: marvin
+draft: false
+---
+![artworks-000028661338-mnid22-original](/images/artworks-000028661338-mnid22-original.jpg)
 
 Das nenne ich mal toll. Da twittere ich das ich das neue Wild Nothing
 Album mag, welches ich beim Filmentwickeln genieße, und schon sagt mir
@@ -23,4 +26,3 @@ Also gibt es keine Ausreden mehr wieso man es nicht gehört hat...
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F2368192&amp;show_artwork=true"></iframe>
-

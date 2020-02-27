@@ -1,12 +1,14 @@
-Title: david lynch's viennale trailer
-Date: 2011-09-23 18:19
-Author: marvin
-Category: post
-Tags: davidlynch, movies
-Slug: david-lynchs-viennale-trailer
-
+---
+title: david lynch's viennale trailer
+slug: david-lynchs-viennale-trailer
+tags:
+- davidlynch
+- movies
+date: "2011-09-23T19:19:00+02:00"
+author: marvin
+draft: false
+---
 David Lynch hat den Trailer zu der aktuellen Viennale gedreht. Lynch
 halt...ich mach mir schon mal in die Hose...
 
-{% youtube DezEGKp5U3M %}
-
+{{< youtube DezEGKp5U3M >}}

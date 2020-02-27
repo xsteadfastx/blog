@@ -1,11 +1,17 @@
-Title: Visuals von EyeBodega
-Date: 2013-03-21 16:58
-Author: marvin
-Category: Uncategorized
-Tags: art, eyebodega, motherganga, music, youngprisms
-Slug: visuals-von-eyebodega
-
-![eyebodega]({static}/images/eyebodega.jpg)
+---
+title: Visuals von EyeBodega
+slug: visuals-von-eyebodega
+tags:
+- art
+- eyebodega
+- motherganga
+- music
+- youngprisms
+date: "2013-03-21T16:58:00+01:00"
+author: marvin
+draft: false
+---
+![eyebodega](/images/eyebodega.jpg)
 
 Was für schöne Visuals aus dem Studio von
 [EyeBodega](http://www.eyebodega.com/) aus New York. Die visuelle
@@ -19,9 +25,8 @@ mal kurz ab...
 > “post-apocalyptic modernism.” We create work for a large cross-section
 > of publications, musicians, DIY holes in walls, and art museums.
 
-{% vimeo 14302398 %}
+{{< vimeo 14302398 >}}
 
-{% vimeo 39805941 %}
+{{< vimeo 39805941 >}}
 
 ([via](http://www.thefoxisblack.com/2013/03/21/animated-abstractions-by-eyebodega/))
-

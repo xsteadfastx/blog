@@ -1,10 +1,14 @@
-Title: Gerade heute habe ich mich mal wieder mit...
-Date: 2012-03-23 13:12
-Author: marvin
-Category: status
-Tags: fernweh, fieldrecordings, newyork
-Slug: gerade-heute-habe-ich-mich-mal-wieder-mit
-
+---
+title: Gerade heute habe ich mich mal wieder mit...
+slug: gerade-heute-habe-ich-mich-mal-wieder-mit
+tags:
+- fernweh
+- fieldrecordings
+- newyork
+date: "2012-03-23T13:12:00+01:00"
+author: marvin
+draft: false
+---
 Gerade heute habe ich mich mal wieder mit Fieldrecordings beschäftigt.
 Christine und ich haben ja einige Recordings in Jerusalem gemacht
 letztes Jahr. Wir überlegen bis heute was wir damit machen wollen. Nun
@@ -14,5 +18,4 @@ Bis dahin habe ich dieses ganz wunderbare Video gefunden welches den
 Gang durch eine U-Bahn Station in New York zeigt. Mehr braucht man auch
 nicht. Fernweh und so...
 
-{% vimeo 38788768 %}
-
+{{< vimeo 38788768 >}}

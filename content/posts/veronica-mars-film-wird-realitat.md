@@ -1,10 +1,15 @@
-Title: Veronica Mars Film wird Realität
-Date: 2013-03-14 09:36
-Author: marvin
-Category: Uncategorized
-Tags: kickstarter, movies, tv, veronicamars
-Slug: veronica-mars-film-wird-realitat
-
+---
+title: Veronica Mars Film wird Realität
+slug: veronica-mars-film-wird-realitat
+tags:
+- kickstarter
+- movies
+- tv
+- veronicamars
+date: "2013-03-14T09:36:00+01:00"
+author: marvin
+draft: false
+---
 Nennt mich excited!!! Innerhalb von ein paar Stunden wurde das Ziel von
 \$2.000.000 für den Veronica Mars Film zusammen gebracht. Das scheint
 der bisherige Rekord auf Kickerstarter zu sein. Auch wenn ich viele
@@ -53,4 +58,3 @@ http://twitter.com/RobThomas/status/311940982709051392
 http://twitter.com/IMKristenBell/status/311935184046002176
 
 http://twitter.com/IMKristenBell/status/312054864882565120
-

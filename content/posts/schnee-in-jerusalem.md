@@ -1,10 +1,14 @@
-Title: Schnee in Jerusalem
-Date: 2013-12-18 11:55
-Author: marvin
-Category: Uncategorized
-Tags: fernweh, israel, jerusalem
-Slug: schnee-in-jerusalem
-
+---
+title: Schnee in Jerusalem
+slug: schnee-in-jerusalem
+tags:
+- fernweh
+- israel
+- jerusalem
+date: "2013-12-18T11:55:00+01:00"
+author: marvin
+draft: false
+---
 Die Abstände zu meiner letzten Israelreise werden immer länger. Gerade
 in dieser Jahreszeit war ich oft im heiligen Land. Ich hatte in der Zeit
 Wetter jeglicher Art mitgenommen. Von Sonnenbrand bis
@@ -19,5 +23,4 @@ Und so wurde dann doch nichts daraus. So versinke ich im Fernweh und
 schaue dieses Video über den Schnee auf den Dächern und Straßen von
 Jerusalem.
 
-{% youtube ovZ2DGqdzyI %}
-
+{{< youtube ovZ2DGqdzyI >}}

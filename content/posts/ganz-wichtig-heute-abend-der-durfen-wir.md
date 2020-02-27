@@ -1,10 +1,13 @@
-Title: Ganz wichtig heute Abend der  Dürfen wir...
-Date: 2012-03-27 09:32
-Author: marvin
-Category: status
-Tags: arte, vegan
-Slug: ganz-wichtig-heute-abend-der-durfen-wir
-
+---
+title: Ganz wichtig heute Abend der  Dürfen wir...
+slug: ganz-wichtig-heute-abend-der-durfen-wir
+tags:
+- arte
+- vegan
+date: "2012-03-27T10:32:00+02:00"
+author: marvin
+draft: false
+---
 Ganz wichtig heute Abend... der "Dürfen wir Tiere essen?"-Themen Abend
 auf [Arte](http://www.arte.tv/de/6449206.html). Wenn man nachdenkt ist
 die Antwort eh klar...aber ich bin ja mal auf die Dokumentationen
@@ -18,4 +21,3 @@ gespannt. Um 20.15 Uhr geht es los...
 </embed>
 </object>
 </p>
-

@@ -1,6 +1,13 @@
-Title: Fernsehserien, Trakt, Jupyter und Bokeh
-Date: 2016-02-05 15:48
-Slug: fernsehserien-trakt-jupyter-und-bokeh
-Tags: jupyter, python, trakt, tv
-
+---
+title: Fernsehserien, Trakt, Jupyter und Bokeh
+slug: fernsehserien-trakt-jupyter-und-bokeh
+tags:
+- jupyter
+- python
+- trakt
+- tv
+date: "2016-02-05T15:48:00+01:00"
+author: marvin
+draft: false
+---
 {% notebook notebooks/fernsehserien-trakt-jupyter-und-bokeh.ipynb %}

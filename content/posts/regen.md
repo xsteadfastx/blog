@@ -1,11 +1,14 @@
-Title: Regen
-Date: 2013-04-19 19:38
-Author: marvin
-Category: Uncategorized
-Tags: regen, springtime
-Slug: regen
-
-![IMG_20130419_193744]({static}/images/IMG_20130419_193744.jpg)
+---
+title: Regen
+slug: regen
+tags:
+- regen
+- springtime
+date: "2013-04-19T20:38:00+02:00"
+author: marvin
+draft: false
+---
+![IMG_20130419_193744](/images/IMG_20130419_193744.jpg)
 
 Man könnte es fast Frühling nennen. Seit fast einer Woche sind es
 draussen erträgliche Temperaturen. Nur das ich davon nicht viel
@@ -16,4 +19,3 @@ Natur die den Frühling in sich aufsaugt. Den Frühling einatmet. Irgendwo
 dazwischen laufe ich herum. Ein wenig benebelt von der Grippe. Gerade
 lese ich Fahrenheit 451. Eigentlich wäre es Zeit für Literatur die mich
 zum träumen bringt. Kenne ich aber nicht...
-

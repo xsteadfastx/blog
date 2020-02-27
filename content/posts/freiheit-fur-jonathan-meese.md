@@ -1,11 +1,14 @@
-Title: Freiheit für Jonathan Meese
-Date: 2013-08-15 10:33
-Author: marvin
-Category: Uncategorized
-Tags: art, jonathanmeese
-Slug: freiheit-fur-jonathan-meese
-
-[![cc-by-sa Warburg]({static}/images/1024px-JMeese_dragon_flag.jpg)](https://commons.wikimedia.org/wiki/File:JMeese_dragon_flag.JPG)
+---
+title: Freiheit für Jonathan Meese
+slug: freiheit-fur-jonathan-meese
+tags:
+- art
+- jonathanmeese
+date: "2013-08-15T11:33:00+02:00"
+author: marvin
+draft: false
+---
+[![cc-by-sa Warburg](/images/1024px-JMeese_dragon_flag.jpg)](https://commons.wikimedia.org/wiki/File:JMeese_dragon_flag.JPG)
 
 > "Ein deutsches Gericht sagt: Jonathan Meese ist Kunst" -Jonathan Meese
 > nach dem Freispruch
@@ -27,13 +30,12 @@ von Parisfal einfallen lässt...
 Und zur Feier des Tages gibt es hier noch mehr von meiner liebsten
 "Ameise der Kunst":
 
-{% youtube Y_z41k65Sns %}
+{{< youtube Y_z41k65Sns >}}
 
-{% youtube a389rSne2t0 %}
+{{< youtube a389rSne2t0 >}}
 
-{% youtube S2yMSjyPOng %}
+{{< youtube S2yMSjyPOng >}}
 
-{% youtube 8J0FO9tm9po %}
+{{< youtube 8J0FO9tm9po >}}
 
-{% youtube VfKOTdMks4E %}
-
+{{< youtube VfKOTdMks4E >}}

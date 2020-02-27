@@ -1,6 +1,7 @@
-Title: Impressum
-Slug: impressum
-
+---
+title: Impressum
+slug: impressum
+---
 
 Falls ihr in irgendeiner Weise Probleme mit Beitragen hier auf diesem Blog habt bitte ich euch mich direkt anzuschreiben bevor ihr mich abmahnt.
 

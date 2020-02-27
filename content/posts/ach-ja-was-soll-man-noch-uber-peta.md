@@ -1,10 +1,14 @@
-Title: Ach ja was soll man noch über PETA...
-Date: 2012-02-16 14:59
-Author: marvin
-Category: status
-Tags: peta, sexism, vegan
-Slug: ach-ja-was-soll-man-noch-uber-peta
-
+---
+title: Ach ja was soll man noch über PETA...
+slug: ach-ja-was-soll-man-noch-uber-peta
+tags:
+- peta
+- sexism
+- vegan
+date: "2012-02-16T14:59:00+01:00"
+author: marvin
+draft: false
+---
 Ach ja. was soll man noch über PETA sagen oder schreiben? Die sind ja
 mittlerweile mehr für ihre sexisische Kackscheiße bekannt als für
 irgendwas anderes. Ich glaube das was mich am meisten nervt ist das
@@ -23,4 +27,3 @@ nicht einfach sterben gehen? Euch braucht niemand...vor allem auch nicht
 die nicht-menschlichen Tiere...
 
 [Hier](https://www.youtube.com/watch?v=m0vQOnHW0Kc) klicken für sexistische Kackscheiße...
-

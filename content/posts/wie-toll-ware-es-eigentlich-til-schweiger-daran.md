@@ -1,11 +1,15 @@
-Title: Wie toll wäre es eigentlich Til Schweiger daran...
-Date: 2012-05-11 08:43
-Author: marvin
-Category: Uncategorized
-Tags: movies, tatort, tilschweiger
-Slug: wie-toll-ware-es-eigentlich-til-schweiger-daran
-
-![512px-Boulevard-der-stars-IMG_1135x-200x300]({static}/images/512px-Boulevard-der-stars-IMG_1135x-200x300.jpg)
+---
+title: Wie toll wäre es eigentlich Til Schweiger daran...
+slug: wie-toll-ware-es-eigentlich-til-schweiger-daran
+tags:
+- movies
+- tatort
+- tilschweiger
+date: "2012-05-11T09:43:00+02:00"
+author: marvin
+draft: false
+---
+![512px-Boulevard-der-stars-IMG_1135x-200x300](/images/512px-Boulevard-der-stars-IMG_1135x-200x300.jpg)
 
 Wie toll wäre es eigentlich Til Schweiger daran zu hindern Filme zu
 runinieren. Ok meist sind die Filme die er dreht oder in denen er
@@ -21,4 +25,3 @@ der dies verspricht Satire...meh...
 
 (pic cc [Thomas
 Schmidt](http://de.wikipedia.org/w/index.php?title=Datei:Boulevard-der-stars-IMG_1135x.JPG&filetimestamp=20110920222312))
-

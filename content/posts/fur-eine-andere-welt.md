@@ -1,19 +1,23 @@
-Title: Für eine andere Welt
-Date: 2012-02-15 09:22
-Author: marvin
-Category: post
-Tags: arte, documentary, revolution, youth
-Slug: fur-eine-andere-welt
-
+---
+title: Für eine andere Welt
+slug: fur-eine-andere-welt
+tags:
+- arte
+- documentary
+- revolution
+- youth
+date: "2012-02-15T09:22:00+01:00"
+author: marvin
+draft: false
+---
 Eine Dokumentation über den wachsenden Aufstand der Jugend in der Welt.
 Ich glaube übrigens das die erste große Revolution gerade in
 Griechenland beginnt...
 
-{% youtube _QpIqcfsDlQ %}
+{{< youtube _QpIqcfsDlQ >}}
 
-{% youtube uooLoBVSQzE %}
+{{< youtube uooLoBVSQzE >}}
 
-{% youtube MSuqUwU9vaE %}
+{{< youtube MSuqUwU9vaE >}}
 
-{% youtube nMIGeKbVOI4 %}
-
+{{< youtube nMIGeKbVOI4 >}}

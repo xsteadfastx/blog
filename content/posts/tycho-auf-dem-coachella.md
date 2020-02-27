@@ -1,8 +1,14 @@
-Title: Tycho auf dem Coachella
-Date: 2015-04-15 08:22
-Tags: tycho, music, coachella
-Slug: tycho-auf-dem-coachella
-
+---
+title: Tycho auf dem Coachella
+slug: tycho-auf-dem-coachella
+tags:
+- tycho
+- music
+- coachella
+date: "2015-04-15T09:22:00+02:00"
+author: marvin
+draft: false
+---
 
 Ein ganz wunderbares Liveset von [Tycho](http://iso50.com) das er gestern auf dem Coachella Festival performt hat. Die Visuals... unglaublich. Genau das richtige am Morgen.
 

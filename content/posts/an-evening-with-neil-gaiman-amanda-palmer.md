@@ -1,12 +1,16 @@
-Title: An Evening with Neil Gaiman & Amanda Palmer
-Date: 2013-12-03 15:27
-Author: marvin
-Category: Uncategorized
-Tags: amandapalmer, music, neilgaiman
-Slug: an-evening-with-neil-gaiman-amanda-palmer
-
+---
+title: An Evening with Neil Gaiman & Amanda Palmer
+slug: an-evening-with-neil-gaiman-amanda-palmer
+tags:
+- amandapalmer
+- music
+- neilgaiman
+date: "2013-12-03T15:27:00+01:00"
+author: marvin
+draft: false
+---
 [![An Evening With Neil Gaiman Amanda
-![An-Evening-With-Neil-Gaiman-Amanda-Palmer]({static}/images/An-Evening-With-Neil-Gaiman-Amanda-Palmer.jpeg)
+![An-Evening-With-Neil-Gaiman-Amanda-Palmer](/images/An-Evening-With-Neil-Gaiman-Amanda-Palmer.jpeg)
 
 Wenn es nicht Neil Gaiman und Amanda Palmer wären, wäre das Cover schon
 Grund genug gewesen diese Album zu kaufen. Scherenschnitt mit Tardis.
@@ -46,7 +50,6 @@ Und ich bin dankbar dafür.
 Das ganze könnt ihr euch
 [hier](http://amandapalmer.net/producttypes/featured/) klicken.
 
-{% youtube 1UK7EmzrLXQ %}
+{{< youtube 1UK7EmzrLXQ >}}
 
-{% youtube yVVWWHfLhZ0 %}
-
+{{< youtube yVVWWHfLhZ0 >}}

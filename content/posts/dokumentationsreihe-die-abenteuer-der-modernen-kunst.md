@@ -1,8 +1,14 @@
-Title: Dokumentationsreihe: Die Abenteuer der modernen Kunst
-Date: 2015-12-17 09:39
-Slug: dokumentationsreihe-die-abenteuer-der-modernen-kunst
-Tags: art, arte, paris
-
+---
+title: 'Dokumentationsreihe: Die Abenteuer der modernen Kunst'
+slug: dokumentationsreihe-die-abenteuer-der-modernen-kunst
+tags:
+- art
+- arte
+- paris
+date: "2015-12-17T09:39:00+01:00"
+author: marvin
+draft: false
+---
 Ein kleiner Dokumentationstipp am Rande. Die Abendteuer der modernen Kunst. Es geht um die Entstehungsgeschichte der modernen Kunst in Paris. Zusammengeschnitten aus restaurierten Aufnahmen und neuen Animations. Erzählt wie eine Geschichte. Gestern kamen die ersten beiden Episoden. Wirklich sehenswert.
 
 > Mit Archivmaterial und den Mitteln der Fiktion erzählt die Dokureihe die Geschichte der Künstler und Intellektuellen von den Anfängen der modernen Kunst in der Idylle des Montmartre bis zum Ende des Zweiten Weltkriegs. In dieser Folge: Anfang des 20. Jahrhunderts lassen sich junge Künstler im Bateau-Lavoir nieder, darunter Max Jacob, Pablo Picasso und Guillaume Apollinaire.

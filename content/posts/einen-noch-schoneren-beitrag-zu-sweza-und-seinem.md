@@ -1,10 +1,15 @@
-Title: Einen noch schöneren Beitrag zu SWEZA und seinem...
-Date: 2012-03-09 10:17
-Author: marvin
-Category: status
-Tags: art, graffiti, qrcodes, sweza
-Slug: einen-noch-schoneren-beitrag-zu-sweza-und-seinem
-
+---
+title: Einen noch schöneren Beitrag zu SWEZA und seinem...
+slug: einen-noch-schoneren-beitrag-zu-sweza-und-seinem
+tags:
+- art
+- graffiti
+- qrcodes
+- sweza
+date: "2012-03-09T10:17:00+01:00"
+author: marvin
+draft: false
+---
 Einen noch schöneren Beitrag zu SWEZA und seinem Graffyard hat ARTE
 gedreht:
 
@@ -16,4 +21,3 @@ gedreht:
 </embed>
 </object>
 </p>
-

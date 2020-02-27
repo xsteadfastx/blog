@@ -1,11 +1,16 @@
-Title: Freiheit für Pussy Riot
-Date: 2012-08-10 11:23
-Author: marvin
-Category: Uncategorized
-Tags: politics, pussyriot, putin, russia
-Slug: freiheit-fur-pussy-riot
-
-![Az678Y0CIAAQOpW]({static}/images/Az678Y0CIAAQOpW.jpg)
+---
+title: Freiheit für Pussy Riot
+slug: freiheit-fur-pussy-riot
+tags:
+- politics
+- pussyriot
+- putin
+- russia
+date: "2012-08-10T12:23:00+02:00"
+author: marvin
+draft: false
+---
+![Az678Y0CIAAQOpW](/images/Az678Y0CIAAQOpW.jpg)
 
 Ok. Nichts neues. Uns allen war eigentlich schon vorher klar das
 Russland nicht gerade zu den herausragenden Verfechtern der Demokratie
@@ -25,7 +30,7 @@ und zu
 [handeln](http://takeaction.amnestyusa.org/siteapps/advocacy/ActionItem.aspx?c=6oJCLQPAJiJUG&b=6645049&aid=517749)!
 Kunst darf nicht kriminalisiert werden!
 
-{% youtube ALS92big4TY %}
+{{< youtube ALS92big4TY >}}
 
 Wieder mal peinlich as fuck verhält sich meine gute Freundin Erika
 Steinbach:
@@ -61,5 +66,4 @@ verhalten? Wieso beansprucht die Kirche in Deutschland immer noch
 schräge Sondergesetze? Ich erinnere an das Tanzverbot an Karfreitag.
 Manchmal macht mich das alles ganz schön fertig.
 
-![riot]({static}/images/riot.jpg)
-
+![riot](/images/riot.jpg)

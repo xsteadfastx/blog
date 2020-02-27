@@ -1,15 +1,19 @@
-Title: Diesmal mal wieder aus der Abteilung Chillwave und...
-Date: 2012-06-04 14:12
-Author: marvin
-Category: Uncategorized
-Tags: comtruise, endlesssummer, music, surfing
-Slug: diesmal-mal-wieder-aus-der-abteilung-chillwave-und
-
-![335572]({static}/images/335572.png)
+---
+title: Diesmal mal wieder aus der Abteilung Chillwave und...
+slug: diesmal-mal-wieder-aus-der-abteilung-chillwave-und
+tags:
+- comtruise
+- endlesssummer
+- music
+- surfing
+date: "2012-06-04T15:12:00+02:00"
+author: marvin
+draft: false
+---
+![335572](/images/335572.png)
 
 Diesmal mal wieder aus der Abteilung: Chillwave und Surfing... "Karova"
 von Com Truise wurde mit Szenen aus dem Film "Endless Summer" versehen.
 Den Film kann ich wirklich empfehlen... Com Truise auch...
 
-{% youtube _vrc8hfdTS4 %}
-
+{{< youtube _vrc8hfdTS4 >}}

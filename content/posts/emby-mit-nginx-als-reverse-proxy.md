@@ -1,8 +1,14 @@
-Title: Emby mit NGINX als Reverse-Proxy
-Date: 2015-11-19 15:19
-Slug: emby-mit-nginx-als-reverse-proxy
-Tags: emby, nginx, linux
-
+---
+title: Emby mit NGINX als Reverse-Proxy
+slug: emby-mit-nginx-als-reverse-proxy
+tags:
+- emby
+- nginx
+- linux
+date: "2015-11-19T15:19:00+01:00"
+author: marvin
+draft: false
+---
 
 Ich bin ja vor einiger Zeit von [Plex](https://plex.tv/) auf [Emby](http://emby.media) gewächselt um sich meiner Mediendateien anzunehmen. Auch wenn Plex seinen Job gut machte, gibt es dort in mir ein kleinen Ort der bei nicht Open-Source Software ein wenig rebelliert und sich nicht so fluffig anfühlt. Zum Glück gibt es Emby. Es fühlt sich an manchen Ecken noch nicht so perfekt an wie Plex, macht seinen Job aber anständig. Dazu kommt ein Feature was ich stark vermisst habe: Encoding bei Audio-Files. Ich will über mein Handy kein [FLAC](https://de.wikipedia.org/wiki/Free_Lossless_Audio_Codec) streamen. Emby kann auch Serien selber verwalten. Das bedeutet, dass man die Files in ein Verzeichnis schmeißt und Emby die dann umbenennt und wegsortiert. Emby läuft bei mir in einem [Docker Container](https://hub.docker.com/r/emby/embyserver/) und ich leite den Port an meinem Router weiter. Eine noch schönere Lösung ist ein Reverse-Proxy. Dann könnte alles unter einer Subdomain aufrufbar sein. Ein [NGINX](http://nginx.org/) ist schon im Einsatz. Als Proxy für ein paar andere Docker Container. Also wieso nicht einfach auch für Emby benutzen? Bis jetzt läuft auch alles ziemlich gscheit.
 

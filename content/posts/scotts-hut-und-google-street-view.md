@@ -1,11 +1,17 @@
-Title: Scott's Hut und Google Street View
-Date: 2012-09-26 11:53
-Author: marvin
-Category: Uncategorized
-Tags: antarktis, google, henrydavidthoreau, streetview, walden
-Slug: scotts-hut-und-google-street-view
-
-[![pic c google]({static}/images/scottshut.jpg)](http://www.google.com/intl/en/culturalinstitute/worldwonders/scotts-hut/#ql=4)
+---
+title: Scott's Hut und Google Street View
+slug: scotts-hut-und-google-street-view
+tags:
+- antarktis
+- google
+- henrydavidthoreau
+- streetview
+- walden
+date: "2012-09-26T12:53:00+02:00"
+author: marvin
+draft: false
+---
+[![pic c google](/images/scottshut.jpg)](http://www.google.com/intl/en/culturalinstitute/worldwonders/scotts-hut/#ql=4)
 
 Google Street View. In Deutschland wegen ein paar Parkraumwächtern,
 Kleingartensherrifs und BILD-Lesern gescheitert. Zu groß ist die Angst
@@ -24,4 +30,3 @@ geschädigter, geht das Herz auf.
 
 [Hier](http://www.google.com/intl/en/culturalinstitute/worldwonders/scotts-hut/#ql=4)
 geht es los...
-

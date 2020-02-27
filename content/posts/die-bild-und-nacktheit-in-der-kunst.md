@@ -1,10 +1,12 @@
-Title: Die BILD und Nacktheit in der Kunst
-Date: 2012-08-23 13:07
-Author: marvin
-Category: Uncategorized
-Slug: die-bild-und-nacktheit-in-der-kunst
-
-![Joan Jonas - Mirror piece I 1969]({static}/images/5822573912_917b811d43_o.jpg)
+---
+title: Die BILD und Nacktheit in der Kunst
+slug: die-bild-und-nacktheit-in-der-kunst
+tags: []
+date: "2012-08-23T14:07:00+02:00"
+author: marvin
+draft: false
+---
+![Joan Jonas - Mirror piece I 1969](/images/5822573912_917b811d43_o.jpg)
 
 Ich freue mich einfach jedes mal wenn die BILD über Kunst schreibt.
 Selten lassen sie ein Schenkelklopfer aus. Die "Zeitung" die berühmt ist
@@ -36,7 +38,7 @@ Spiegel der deutschen Gesellschaft ist, was sie selber von sich
 behaupten. Ein weiteres Highlight sind die BILD-Leser dich sich als
 Kunstkritiker versuchen:
 
-![650175]({static}/images/650175.jpg)
+![650175](/images/650175.jpg)
 
 Weltklasse!
 
@@ -44,5 +46,4 @@ Weltklasse!
 
 **Update**: Hier noch mehr Kommentare von BILD-Lesern...
 
-![650804]({static}/images/650804.jpg)
-
+![650804](/images/650804.jpg)

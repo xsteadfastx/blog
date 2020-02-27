@@ -1,11 +1,16 @@
-Title: Heute gibt es ein Panorama aus Jerusalem und...
-Date: 2012-06-03 13:48
-Author: marvin
-Category: Uncategorized
-Tags: israel, jerusalem, panorama, photography
-Slug: heute-gibt-es-ein-panorama-aus-jerusalem-und
-
-![Austrian Hospice]({static}/images/7327309412_c5e3f5f310_b.jpg)
+---
+title: Heute gibt es ein Panorama aus Jerusalem und...
+slug: heute-gibt-es-ein-panorama-aus-jerusalem-und
+tags:
+- israel
+- jerusalem
+- panorama
+- photography
+date: "2012-06-03T14:48:00+02:00"
+author: marvin
+draft: false
+---
+![Austrian Hospice](/images/7327309412_c5e3f5f310_b.jpg)
 
 Heute gibt es ein Panorama aus Jerusalem...und zwar von dem Dach des
 österreichischen Hospitzes. Ein ganz toller Ort in der Altstadt

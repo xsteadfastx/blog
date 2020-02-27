@@ -1,10 +1,13 @@
-Title: elliott smith - baby britain
-Date: 2011-10-21 11:55
-Author: marvin
-Category: post
-Tags: elliottsmith, music
-Slug: elliott-smith-baby-britain
-
+---
+title: elliott smith - baby britain
+slug: elliott-smith-baby-britain
+tags:
+- elliottsmith
+- music
+date: "2011-10-21T12:55:00+02:00"
+author: marvin
+draft: false
+---
 Es ist Herbst...und willkommen geliebte Melancholie. Mal schnell Elliott
 Smith auf den Plattenteller gelegt...das bedeutet Herbst für mich.
 

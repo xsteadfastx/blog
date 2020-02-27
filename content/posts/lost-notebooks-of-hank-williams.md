@@ -1,11 +1,14 @@
-Title: lost notebooks of hank williams
-Date: 2011-09-26 07:48
-Author: marvin
-Category: post
-Tags: hankwilliams, music
-Slug: lost-notebooks-of-hank-williams
-
-{% vimeo 28206614 %}
+---
+title: lost notebooks of hank williams
+slug: lost-notebooks-of-hank-williams
+tags:
+- hankwilliams
+- music
+date: "2011-09-26T08:48:00+02:00"
+author: marvin
+draft: false
+---
+{{< vimeo 28206614 >}}
 
 Bob Dylan arbeitet zur Zeit an einer Compilation von Songs die auf
 ungenutze Liedtexte aus Hank Williams hinterlassenden Notizbüchern
@@ -23,4 +26,3 @@ ganze wird auf seiner Plattenfirma Egyptian Records erscheinen.
 Mehr Infos gibt es in
 [diesem](http://www.nytimes.com/2011/09/25/arts/music/bob-dylan-assembles-the-lost-notebooks-of-hank-williams.html?_r=1)
 NY Times Artikel.
-

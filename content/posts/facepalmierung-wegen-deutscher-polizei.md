@@ -1,11 +1,17 @@
-Title: Facepalmierung wegen deutscher Polizei
-Date: 2013-02-06 17:05
-Author: marvin
-Category: Uncategorized
-Tags: frankfurt, germany, photography, police, politics
-Slug: facepalmierung-wegen-deutscher-polizei
-
-![Pink-Floyd-Facepalm..-For-Psychedelic-Fails]({static}/images/Pink-Floyd-Facepalm..-For-Psychedelic-Fails.jpg)
+---
+title: Facepalmierung wegen deutscher Polizei
+slug: facepalmierung-wegen-deutscher-polizei
+tags:
+- frankfurt
+- germany
+- photography
+- police
+- politics
+date: "2013-02-06T17:05:00+01:00"
+author: marvin
+draft: false
+---
+![Pink-Floyd-Facepalm..-For-Psychedelic-Fails](/images/Pink-Floyd-Facepalm..-For-Psychedelic-Fails.jpg)
 
 Es gibt so Sachen die darf man sich als Demokratie nicht gefallen
 lassen. Heute morgen wurden 8 Wohnungen von Fotografen durch die Polizei
@@ -30,5 +36,4 @@ https://twitter.com/antiprodukt/status/299182124894932992
 Mehr Infos gibt es [hier](https://www.taz.de/!110503/) und
 [hier](http://www.tagesspiegel.de/berlin/polizei-justiz/ermittlung-nach-demo-in-frankfurt-bundesweite-razzia-bei-fotografen/7742288.html).
 
-{% youtube A_FAvWAMuZM %}
-
+{{< youtube A_FAvWAMuZM >}}

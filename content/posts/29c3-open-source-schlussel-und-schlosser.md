@@ -1,11 +1,14 @@
-Title: 29c3: Open Source Schlüssel und Schlösser
-Date: 2013-01-11 11:24
-Author: marvin
-Category: Uncategorized
-Tags: ccc, lockpicking
-Slug: 29c3-open-source-schlussel-und-schlosser
-
-![schluessel]({static}/images/schluessel.jpg)
+---
+title: '29c3: Open Source Schlüssel und Schlösser'
+slug: 29c3-open-source-schlussel-und-schlosser
+tags:
+- ccc
+- lockpicking
+date: "2013-01-11T11:24:00+01:00"
+author: marvin
+draft: false
+---
+![schluessel](/images/schluessel.jpg)
 
 Ich habe mich dazu entschieden mal ein paar Videos vom letzten Chaos
 Communication Congress zu posten. Ich war zwar schon seit über 10 Jahren
@@ -28,5 +31,4 @@ Heute einen Beitrag der
 > Programmieradapter angeschlossen hatten fanden wir eine Schwachstelle
 > der Hardware... Leider kein Einzelfall!
 
-{% youtube 3JK3TO_crc8 %}
-
+{{< youtube 3JK3TO_crc8 >}}

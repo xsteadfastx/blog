@@ -1,9 +1,16 @@
-Title: Das eigene 24 Hour Psycho
-Date: 2016-01-28 16:01
-Slug: das-eigene-24-hour-psycho
-Tags: python, hitchcock, douglasgordon, art
-
-{% giphy 30zT7n2imuZVe %}
+---
+title: Das eigene 24 Hour Psycho
+slug: das-eigene-24-hour-psycho
+tags:
+- python
+- hitchcock
+- douglasgordon
+- art
+date: "2016-01-28T16:01:00+01:00"
+author: marvin
+draft: false
+---
+[![https://retro-fiend.com/post/113324288809](https://media0.giphy.com/media/30zT7n2imuZVe/giphy.gif)](https://giphy.com/gifs/retro-fiend-horror-movies-retrofiend-classic-30zT7n2imuZVe)
 
 Es ist schon ein paar Jahre her als ich die [Douglas Gordon](https://de.wikipedia.org/wiki/Douglas_Gordon) Ausstellung im Kunstmuseum Wolfsburg besuchte. Ich laube es war im Jahr 2007. Ein Kunstwerk hat sich besonders in meine Erinnerungen gehalten. [24 Hour Psycho](https://de.wikipedia.org/wiki/24_Hour_Psycho). Eine entschleunigte Version von Hitchcock's Meistwerk Psycho. Eins wird auf jeden Fall klar. Jeder Frame scheint ein komponiertes Bild zu sein, nimmt man einfach die Geschwindigkeit aus dem Film.
 

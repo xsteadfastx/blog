@@ -1,8 +1,13 @@
-Title: ssl und ngircd
-Slug: ssl-und-ngircd
-Date: 2014-01-29 11:34 
-Tags: ssl, irc
-
+---
+title: ssl und ngircd
+slug: ssl-und-ngircd
+tags:
+- ssl
+- irc
+date: "2014-01-29T11:34:00+01:00"
+author: marvin
+draft: false
+---
 
 Es kam die Idee auf für das Team einen IRC-Channel aufzumachen. Einfach um sich besser koordinieren zu können. Da gibt es natürlich zwei Möglichkeiten: Wir benutzen einfach [Freenode](http://freenode.net/) oder wir setzen was eigenes auf mittles [ngircd](http://ngircd.barton.de/). Da ich das eh immer schonmal machen wollte, viel die Wahl auf Möglichkeit Nummer Zwei. Bis jetzt ist alles super einfach gehalten. Channels werden erstmal nur über die Config definiert und der Server spricht SSL only. 
 

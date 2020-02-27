@@ -1,8 +1,14 @@
-Title: Jenkins und die Dockerception
-Date: 2015-12-18 14:09
-Slug: jenkins-und-die-dockerception
-Tags: jenkins, docker, linux
-
+---
+title: Jenkins und die Dockerception
+slug: jenkins-und-die-dockerception
+tags:
+- jenkins
+- docker
+- linux
+date: "2015-12-18T14:09:00+01:00"
+author: marvin
+draft: false
+---
 Nach meinen ersten Experimenten mit Jenkins und Docker geht es nun wieder einen Schritt weiter. Mein Jenkins läuft im Docker-Container hinter einem NGINX im Docker-Container. Was könnte also noch eine Steigerung sein? Noch schöner wäre es wenn die Tests bzw Builds in eigenen Containern laufen, die dann nach dem Run wieder in sich zusammen fallen. Ich versuche mal alles zusammen zuschreiben.
 
 Docker in Docker
@@ -155,4 +161,4 @@ tox.cmdline(['-e py33,py34,py35'])
 
 Von nun an wird der Mirror benutzt.
 
-{% giphy hDLrS6Z0oO33a %}
+[![https://www.tumblr.com](https://media0.giphy.com/media/hDLrS6Z0oO33a/giphy.gif)](https://giphy.com/gifs/movie-breakfast-club-hDLrS6Z0oO33a)

@@ -1,11 +1,14 @@
-Title: Psychedelische Eule
-Date: 2012-07-02 09:09
-Author: marvin
-Category: Uncategorized
-Tags: animals, owls, psychedelic
-Slug: psychedelische-eule
-
-![1420_15f6_480]({static}/images/1420_15f6_480.gif)
+---
+title: Psychedelische Eule
+slug: psychedelische-eule
+tags:
+- animals
+- owls
+- psychedelic
+date: "2012-07-02T10:09:00+02:00"
+author: marvin
+draft: false
+---
+![1420_15f6_480](/images/1420_15f6_480.gif)
 
 Zur Feier des Tages...
-

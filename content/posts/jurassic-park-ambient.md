@@ -1,11 +1,16 @@
-Title: Jurassic Park Ambient
-Date: 2013-05-29 15:25
-Author: marvin
-Category: Uncategorized
-Tags: art, douglasgordon, jurassicpark, movies
-Slug: jurassic-park-ambient
-
-[![cc-by-sa Brian Gurrola]({static}/images/2337641515_c41cd50614_b.jpg)](https://secure.flickr.com/photos/bredgur/2337641515/)
+---
+title: Jurassic Park Ambient
+slug: jurassic-park-ambient
+tags:
+- art
+- douglasgordon
+- jurassicpark
+- movies
+date: "2013-05-29T16:25:00+02:00"
+author: marvin
+draft: false
+---
+[![cc-by-sa Brian Gurrola](/images/2337641515_c41cd50614_b.jpg)](https://secure.flickr.com/photos/bredgur/2337641515/)
 
 Auf der Suche nach passender Hintergrundmusik zum lernen, habe ich mich
 an die um 1000% gestretchte Version des von mir geliebten

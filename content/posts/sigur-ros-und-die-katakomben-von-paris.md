@@ -1,10 +1,14 @@
-Title: Sigur Ros und die Katakomben von Paris
-Date: 2013-09-27 08:18
-Author: marvin
-Category: Uncategorized
-Tags: music, paris, sigurros
-Slug: sigur-ros-und-die-katakomben-von-paris
-
+---
+title: Sigur Ros und die Katakomben von Paris
+slug: sigur-ros-und-die-katakomben-von-paris
+tags:
+- music
+- paris
+- sigurros
+date: "2013-09-27T09:18:00+02:00"
+author: marvin
+draft: false
+---
 Auch wenn ich ein riesen Fan von Sigur Ros bin und das neue Album einige
 male angehört habe, mache ich zur Zeit noch einen kleinen Bogen um die
 Platte. Die Düsterkeit von Kveikur würde mir gerade einfach zu sehr zu
@@ -26,5 +30,4 @@ Sigur Ros scheint perfekt in diese Szenerie zu passen. Eine Perfekte
 Symbiose ihres so dunklen, atmosphärischen Albums mit der Morbidität des
 unterirdischen Tunnelsystems. Danke liebe Blogotheque...
 
-{% youtube 8AuJdkZkgCw %}
-
+{{< youtube 8AuJdkZkgCw >}}

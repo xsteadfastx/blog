@@ -1,11 +1,16 @@
-Title: Hunter S. Thompson und The Crazy Never Die
-Date: 2012-09-10 14:12
-Author: marvin
-Category: Uncategorized
-Tags: books, deutschlandfunk, huntersthompson, radio
-Slug: hunter-s-thompson-und-the-crazy-never-die
-
-![1000px-Gonzo.svg_]({static}/images/1000px-Gonzo.svg_.png)
+---
+title: Hunter S. Thompson und The Crazy Never Die
+slug: hunter-s-thompson-und-the-crazy-never-die
+tags:
+- books
+- deutschlandfunk
+- huntersthompson
+- radio
+date: "2012-09-10T15:12:00+02:00"
+author: marvin
+draft: false
+---
+![1000px-Gonzo.svg_](/images/1000px-Gonzo.svg_.png)
 
 Samstag Nacht hatte ich noch eine lange Fahrt vor mir. Drei Stunden von
 Dresden nach Nürnberg. Die erste Stunde verbrachte ich damit alte CD's
@@ -40,5 +45,4 @@ sehr nette Dokumentation mit dem Namen "Buy The Ticket, Take The Ride"
 und hoffe auf ein Einlenken des, von mir, heißgeliebten
 Deutschlandfunks.
 
-{% youtube GMisOB_gHbw %}
-
+{{< youtube GMisOB_gHbw >}}

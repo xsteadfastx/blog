@@ -1,0 +1,11 @@
+<footer>
+  <small>
+    ///
+    {{ range where .Site.RegularPages "Type" "pages"}}
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ end }}
+    {{ range $name, $url := .Site.Params.links}}
+    <a href="{{ $url }}">{{ $name }}</a>
+    {{ end }}
+  </small>
+</footer>

@@ -1,11 +1,15 @@
-Title: Schallplatten einfach ausdrucken
-Date: 2012-12-21 15:59
-Author: marvin
-Category: Uncategorized
-Tags: 3dprinter, diy, vinyl
-Slug: schallplatten-einfach-ausdrucken
-
-![FCEJISKHAWSGVZT.LARGE_]({static}/images/FCEJISKHAWSGVZT.LARGE_.jpg)
+---
+title: Schallplatten einfach ausdrucken
+slug: schallplatten-einfach-ausdrucken
+tags:
+- 3dprinter
+- diy
+- vinyl
+date: "2012-12-21T15:59:00+01:00"
+author: marvin
+draft: false
+---
+![FCEJISKHAWSGVZT.LARGE_](/images/FCEJISKHAWSGVZT.LARGE_.jpg)
 
 Musiknerds. Ich glaube ja das mit 3D-Druckern so etwas wie eine neue,
 technische Epoche aufgemacht wird. Jetzt kann man nicht nur Musik und
@@ -27,7 +31,6 @@ großartig ist das denn? Die Anleitung gibt es
 
 Das Projekt ist natürlich noch am Anfang... es ist aber einer...
 
-{% vimeo 56017345 %}
+{{< vimeo 56017345 >}}
 
 ([via](http://www.kraftfuttermischwerk.de/blogg/?p=46746))
-

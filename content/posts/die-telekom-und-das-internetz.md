@@ -1,11 +1,15 @@
-Title: Die Telekom und das Internetz
-Date: 2013-04-23 10:44
-Author: marvin
-Category: Uncategorized
-Tags: internetz, politics, telekom
-Slug: die-telekom-und-das-internetz
-
-![Symbolbild: Kaputtes Faxgerät auf Strasse]({static}/images/8672595039_e8105314fb_o.jpg)
+---
+title: Die Telekom und das Internetz
+slug: die-telekom-und-das-internetz
+tags:
+- internetz
+- politics
+- telekom
+date: "2013-04-23T11:44:00+02:00"
+author: marvin
+draft: false
+---
+![Symbolbild: Kaputtes Faxgerät auf Strasse](/images/8672595039_e8105314fb_o.jpg)
 
 Oder ich den gestrigen Tag nenne: "Willkommen im Fax-Zeitalter". Die
 gestrige
@@ -35,4 +39,3 @@ eigentlich [XS4ALL](https://de.wikipedia.org/wiki/XS4ALL) nach
 Deutschland? Wäre mal eine Ansage.
 
 https://twitter.com/Danny243/status/315145778819657730
-

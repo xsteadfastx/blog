@@ -1,11 +1,15 @@
-Title: Unsere Hochzeitseinladungen fand ich ja schon super aber...
-Date: 2012-06-08 08:17
-Author: marvin
-Category: Uncategorized
-Tags: music, savestheday, wedding
-Slug: unsere-hochzeitseinladungen-fand-ich-ja-schon-super-aber
-
-![580106_766015033073_50203419_34193243_1910809581_n]({static}/images/580106_766015033073_50203419_34193243_1910809581_n.jpg)
+---
+title: Unsere Hochzeitseinladungen fand ich ja schon super aber...
+slug: unsere-hochzeitseinladungen-fand-ich-ja-schon-super-aber
+tags:
+- music
+- savestheday
+- wedding
+date: "2012-06-08T09:17:00+02:00"
+author: marvin
+draft: false
+---
+![580106_766015033073_50203419_34193243_1910809581_n](/images/580106_766015033073_50203419_34193243_1910809581_n.jpg)
 
 Unsere Hochzeitseinladungen fand ich ja schon super...aber ein wenig bin
 ich schon traurig das mir
@@ -14,5 +18,4 @@ hier nicht eingefallen ist: Ein Hochzeits-Ripoff von dem Saves The Day
 Album-Cover "Through Being Cool". Eins der wichtigsten Alben meiner
 Jugend. Hier das Original:
 
-![tumblr_ln8ke7dqbo1qamo7fo1_500]({static}/images/tumblr_ln8ke7dqbo1qamo7fo1_500.jpg)
-
+![tumblr_ln8ke7dqbo1qamo7fo1_500](/images/tumblr_ln8ke7dqbo1qamo7fo1_500.jpg)

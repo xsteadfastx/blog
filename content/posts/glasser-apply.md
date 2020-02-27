@@ -1,12 +1,15 @@
-Title: glasser - apply
-Date: 2012-02-28 11:42
-Author: marvin
-Category: post
-Tags: glasser, music, psychedelic
-Slug: glasser-apply
-
+---
+title: glasser - apply
+slug: glasser-apply
+tags:
+- glasser
+- music
+- psychedelic
+date: "2012-02-28T11:42:00+01:00"
+author: marvin
+draft: false
+---
 Aus der Welt der großartigen psychedelischen Musik-Videos...heute
 Glasser mit Apply...
 
-{% youtube hP2YydjRRUk %}
-
+{{< youtube hP2YydjRRUk >}}

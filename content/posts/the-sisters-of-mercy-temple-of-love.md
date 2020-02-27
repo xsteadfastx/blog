@@ -1,11 +1,15 @@
-Title: The Sisters of Mercy - Temple of Love
-Date: 2012-11-21 12:09
-Author: marvin
-Category: Uncategorized
-Tags: mtv, music, thesistersofmercy
-Slug: the-sisters-of-mercy-temple-of-love
-
-![templeoflove]({static}/images/templeoflove.jpg)
+---
+title: The Sisters of Mercy - Temple of Love
+slug: the-sisters-of-mercy-temple-of-love
+tags:
+- mtv
+- music
+- thesistersofmercy
+date: "2012-11-21T12:09:00+01:00"
+author: marvin
+draft: false
+---
+![templeoflove](/images/templeoflove.jpg)
 
 1992! Wahnsinn! "Temple of Love" war eins der ersten Musikvideos an die
 ich mich erinnere. Zu dem Zeitpunkt war ich 8 Jahre alt. Ich fing an
@@ -17,5 +21,4 @@ beeindruckten mich. Irgendwie genau das was MTV damals für mich
 ausmachte. Ein paar Jahre später entdeckte ich die Sisters wieder und
 lege sie regelmäßig wieder auf. Und ich liebe es.
 
-{% youtube ROnXv7Z7v28 %}
-
+{{< youtube ROnXv7Z7v28 >}}

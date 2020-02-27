@@ -1,11 +1,15 @@
-Title: Yumi Zouma
-Date: 2014-06-05 09:48
-Author: marvin
-Category: Uncategorized
-Tags: music, wildnothing, yumizouma
-Slug: yumi-zouma
-
-![Yumi-Zouma]({static}/images/Yumi-Zouma.jpg)
+---
+title: Yumi Zouma
+slug: yumi-zouma
+tags:
+- music
+- wildnothing
+- yumizouma
+date: "2014-06-05T10:48:00+02:00"
+author: marvin
+draft: false
+---
+![Yumi-Zouma](/images/Yumi-Zouma.jpg)
 
 Ja ich weiß, mich kann man mit seichten Dreampop wirklich bekommen.
 Dieses Gefühl hervorbringen, welches sich nach einem Sommer mit 13

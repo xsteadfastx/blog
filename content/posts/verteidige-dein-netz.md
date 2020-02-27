@@ -1,11 +1,18 @@
-Title: Verteidige Dein Netz
-Date: 2012-11-27 16:17
-Author: marvin
-Category: Uncategorized
-Tags: axelspringer, google, leistungsschutzrecht, politics, presse, saschalobo
-Slug: verteidige-dein-netz
-
-![deinnetz]({static}/images/deinnetz.jpg)
+---
+title: Verteidige Dein Netz
+slug: verteidige-dein-netz
+tags:
+- axelspringer
+- google
+- leistungsschutzrecht
+- politics
+- presse
+- saschalobo
+date: "2012-11-27T16:17:00+01:00"
+author: marvin
+draft: false
+---
+![deinnetz](/images/deinnetz.jpg)
 
 Es wird mal wieder Zeit. Politiker den man förmlich ansieht, dass man
 ihnen eine schwarze Box mit einem blickenden roten Lämpchen als "The
@@ -39,5 +46,4 @@ Sascha Lobo hat dazu einen sehr lesenwerten
 [Blogeintrag](http://saschalobo.com/2012/08/31/funf-entscheidende-fragen-zum-leistungsschutzrecht/)
 geschrieben.
 
-{% youtube OvhrC2eWIxw %}
-
+{{< youtube OvhrC2eWIxw >}}

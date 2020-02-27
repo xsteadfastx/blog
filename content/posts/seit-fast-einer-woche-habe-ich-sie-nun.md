@@ -1,11 +1,14 @@
-Title: Seit fast einer Woche habe ich sie nun...
-Date: 2012-06-19 09:08
-Author: marvin
-Category: Uncategorized
-Tags: music, sigurros
-Slug: seit-fast-einer-woche-habe-ich-sie-nun
-
-![Sigur_Ros_-_Valtari]({static}/images/Sigur_Ros_-_Valtari.jpg)
+---
+title: Seit fast einer Woche habe ich sie nun...
+slug: seit-fast-einer-woche-habe-ich-sie-nun
+tags:
+- music
+- sigurros
+date: "2012-06-19T10:08:00+02:00"
+author: marvin
+draft: false
+---
+![Sigur_Ros_-_Valtari](/images/Sigur_Ros_-_Valtari.jpg)
 
 Seit fast einer Woche habe ich sie nun. Meine Frau hat mir vorzeitig zu
 meinem Geburtstag "Valtari" von Sigur Ros, auf wunderschönem, schweren
@@ -37,5 +40,4 @@ daraus entstanden sind. Das zweite Video gefällt mir besonders. Es ist
 eine animierte Postkarte aus Island von der Künstlerin Inga
 Birgisdóttir.
 
-{% youtube NUysiCX-XZQ %}
-
+{{< youtube NUysiCX-XZQ >}}

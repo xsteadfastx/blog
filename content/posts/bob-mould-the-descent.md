@@ -1,11 +1,16 @@
-Title: Bob Mould - The Descent
-Date: 2013-01-01 22:31
-Author: marvin
-Category: Uncategorized
-Tags: bobmould, huskerdu, music, sugar
-Slug: bob-mould-the-descent
-
-![bobmould]({static}/images/bobmould.jpg)
+---
+title: Bob Mould - The Descent
+slug: bob-mould-the-descent
+tags:
+- bobmould
+- huskerdu
+- music
+- sugar
+date: "2013-01-01T22:31:00+01:00"
+author: marvin
+draft: false
+---
+![bobmould](/images/bobmould.jpg)
 
 Ich habe schon lange nicht mehr in eine Musikzeitschrift geschaut. Es
 ist noch nicht lange her da las ich regelmäßig die Spex, den Rolling
@@ -18,7 +23,6 @@ haben sich so krass dezimiert das es mich selber beängstigt. An diesem
 Tiefpunkt sehe ich dieses Video eines Helden meiner Jugend: Bob Mould
 mit seinem neuen Album. Und da ist es wieder...es bewegt mich...
 
-{% youtube 8MdhsCeasBQ %}
+{{< youtube 8MdhsCeasBQ >}}
 
-{% youtube Ieb_T9ylY4o %}
-
+{{< youtube Ieb_T9ylY4o >}}

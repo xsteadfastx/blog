@@ -1,11 +1,17 @@
-Title: So am Samstag ist es soweit unser Projekt...
-Date: 2012-04-23 15:12
-Author: marvin
-Category: Uncategorized
-Tags: gegenstroem, israel, jerusalem, luftmentsh, nuernberg
-Slug: so-am-samstag-ist-es-soweit-unser-projekt
-
-![lftmntshrecs]({static}/images/lftmntshrecs.png)
+---
+title: So am Samstag ist es soweit unser Projekt...
+slug: so-am-samstag-ist-es-soweit-unser-projekt
+tags:
+- gegenstroem
+- israel
+- jerusalem
+- luftmentsh
+- nuernberg
+date: "2012-04-23T16:12:00+02:00"
+author: marvin
+draft: false
+---
+![lftmntshrecs](/images/lftmntshrecs.png)
 
 So am Samstag ist es soweit...unser Projekt mit dem Namen "Luftmentsh
 Recordings" wird online gehen. Ja ok, es sollte mal Jerusalem Recordings

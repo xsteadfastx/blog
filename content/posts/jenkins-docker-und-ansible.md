@@ -1,8 +1,14 @@
-Title: Jenkins, Docker und Ansible
-Date: 2015-05-07 13:06
-Tags: jenkins, docker, ansible
-Slug: jenkins-docker-und-ansible
-
+---
+title: Jenkins, Docker und Ansible
+slug: jenkins-docker-und-ansible
+tags:
+- jenkins
+- docker
+- ansible
+date: "2015-05-07T14:06:00+02:00"
+author: marvin
+draft: false
+---
 
 Und ab in die Docker Hölle. Irgendwie scheint mir Docker nicht zu liegen. Es fängt schon damit an das mir noch nicht so ganz bewusst ist wieso man nicht einfach den Container schön macht und ihn dann immer wieder mit `docker start mein-toller-container` startet. Ich glaube es geht darum alles so weit wie möglich unabhängig zu machen. So mehr ich es benutze um so mehr wird mir langsam klar wie ich es "richtig" benutzen kann. Es scheint aber noch ein sehr langer und schmerzhafter Weg zu werden.
 
@@ -219,4 +225,4 @@ ansible-playbooks -i hosts site.yml -c local --ask-become-passansible-playbooks 
 
 Na mal schauen ob irgendwann der Zeitpunkt kommt an dem ich Docker besser verstehe. Ich verlinke hier nochmal den Docker Beitrag von Andrew T. Baker von der PyCon 2015.
 
-{% youtube GVVtR_hrdKI %}
+{{< youtube GVVtR_hrdKI >}}

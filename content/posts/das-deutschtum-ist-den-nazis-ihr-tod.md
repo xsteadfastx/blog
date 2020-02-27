@@ -1,11 +1,16 @@
-Title: Das Deutschtum ist den Nazis ihr Tod
-Date: 2012-08-09 14:27
-Author: marvin
-Category: Uncategorized
-Tags: germany, nuernberg, politics, racism
-Slug: das-deutschtum-ist-den-nazis-ihr-tod
-
-![img664]({static}/images/6435565383_51e4581c07_b.jpg)
+---
+title: Das Deutschtum ist den Nazis ihr Tod
+slug: das-deutschtum-ist-den-nazis-ihr-tod
+tags:
+- germany
+- nuernberg
+- politics
+- racism
+date: "2012-08-09T15:27:00+02:00"
+author: marvin
+draft: false
+---
+![img664](/images/6435565383_51e4581c07_b.jpg)
 
 Ach ja, Nürnberg und die Nazis. Nicht erst seit seit dem, oben
 gezeigten, Reichsparteitagsgelände ist die Verbindung zwischen der Stadt
@@ -35,4 +40,3 @@ Veranstaltungen genutzt werden. Daraus wird wohl erstmal nichts...und
 das alles wegen dem fehlenden Notausgang...
 
 ([via](http://www.nordbayern.de/region/nuernberg/kein-treff-fur-nazis-in-nurnberg-1.2266553))
-

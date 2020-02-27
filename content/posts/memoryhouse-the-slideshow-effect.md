@@ -1,10 +1,15 @@
-Title: memoryhouse - the slideshow effect
-Date: 2012-02-29 08:05
-Author: marvin
-Category: post
-Tags: gema, memoryhouse, music, subpop
-Slug: memoryhouse-the-slideshow-effect
-
+---
+title: memoryhouse - the slideshow effect
+slug: memoryhouse-the-slideshow-effect
+tags:
+- gema
+- memoryhouse
+- music
+- subpop
+date: "2012-02-29T08:05:00+01:00"
+author: marvin
+draft: false
+---
 Gerade gestern habe ich mich noch über die GEMA und Musikverlage
 aufgeregt...so einen Mist scheint es wirklich nur in Deutschland
 zugeben. In Amerika scheint es kein Problem zu sein einfach mal ein
@@ -16,4 +21,3 @@ das mal jemand. Das Album habe ich übrigens vorbestellt...Die Band
 bekommt also mein Geld. Vinyl...ist klar...
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1676028&amp;show_artwork=true"></iframe>
-

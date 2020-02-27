@@ -1,9 +1,14 @@
-Title: Eine Liebeserklärung an Mistress America
-Date: 2016-08-12 13:43
-Slug: eine-liebeserklarung-an-mistress-america
-Tags: movies, gretagerwig
-
-![Mistress America]({static}/images/mistress-america.jpg)
+---
+title: Eine Liebeserklärung an Mistress America
+slug: eine-liebeserklarung-an-mistress-america
+tags:
+- movies
+- gretagerwig
+date: "2016-08-12T14:43:00+02:00"
+author: marvin
+draft: false
+---
+![Mistress America](/images/mistress-america.jpg)
 
 Wenn ich an Frances Ha denke, muss ich an die Szene denken wie, alleine in Paris, am Seine Ufer langgeht. Im Hintergrund der Eiffelturm in seiner Funktion als Leuchtturm, in den von Lichtern erstrahlten Paris.
 
@@ -15,4 +20,4 @@ Nun habe ich vor ein paar Tagen "Mistress America" gesehen. Geschrieben von Noah
 
 Und ja der Soundtrack, er ist perfekt. Dean Wareham und Britta Philips haben ihre Hausaufgaben gemacht. Es klingt so als ob New Order Dreampop machen würden, durch und durch. Und mit diesen Songs gleitet man weiter durch das Erwachsensein, mit all den unerfüllten Ideen, an immer den falschen Orten sein, an denen man zu wenig erlebt und muss sich die Fotos der Reisen der "Freunde" auf Facebook anschauen. Denn das ist was uns ausmacht.
 
-{% youtube 6z8MCW16uZY %}
+{{< youtube 6z8MCW16uZY >}}

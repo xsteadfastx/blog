@@ -1,10 +1,13 @@
-Title: Brothertiger Liveset
-Date: 2014-08-01 12:16
-Author: marvin
-Category: Uncategorized
-Tags: brothertiger, music
-Slug: brothertiger-liveset
-
+---
+title: Brothertiger Liveset
+slug: brothertiger-liveset
+tags:
+- brothertiger
+- music
+date: "2014-08-01T13:16:00+02:00"
+author: marvin
+draft: false
+---
 Radio 1190 hat ein super verträumtes Liveset von Brothertiger hoch
 geladen. Etwas in mir wohnt ja eigentlich in Kalifornien am Strand und
 verbringt seine Zeit mit Wellenreiten anstatt im Internetz oder so...

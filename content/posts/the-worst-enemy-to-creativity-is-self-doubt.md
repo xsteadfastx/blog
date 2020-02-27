@@ -1,11 +1,14 @@
-Title: The worst enemy to creativity is self-doubt.
-Date: 2013-04-09 16:39
-Author: marvin
-Category: Uncategorized
-Tags: creativity, slyviaplath
-Slug: the-worst-enemy-to-creativity-is-self-doubt
-
-![3046151360_a84b4b97eb_b]({static}/images/3046151360_a84b4b97eb_b.jpg)
+---
+title: The worst enemy to creativity is self-doubt.
+slug: the-worst-enemy-to-creativity-is-self-doubt
+tags:
+- creativity
+- slyviaplath
+date: "2013-04-09T17:39:00+02:00"
+author: marvin
+draft: false
+---
+![3046151360_a84b4b97eb_b](/images/3046151360_a84b4b97eb_b.jpg)
 
 > “And by the way, everything in life is writable about if you have the
 > outgoing guts to do it, and the imagination to improvise. The worst
@@ -22,4 +25,3 @@ Und es deprimiert mich. Wo kommen diese Zweifel her? Was stelle ich
 damit an? Es ist nicht so als ob es jemals großartig anders gewesen
 wäre. Es muss ein Ende sein mit einer darauf folgenden Auferstehung.
 Keine Angst zu haben an etwas zu arbeiten. Ach was solls...
-

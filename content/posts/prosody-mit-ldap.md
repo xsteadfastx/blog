@@ -1,8 +1,15 @@
-Title: Prosody mit LDAP 
-Slug: prosody-mit-ldap
-Date: 2014-03-18 13:27
-Tags: prosody, xmpp, ldap, cyrus
-
+---
+title: 'Prosody mit LDAP '
+slug: prosody-mit-ldap
+tags:
+- prosody
+- xmpp
+- ldap
+- cyrus
+date: "2014-03-18T13:27:00+01:00"
+author: marvin
+draft: false
+---
 
 Ich stehe auf [Prosody](http://prosody.im) als XMPP Server. Ich habe schon etliche XMPP-Server angeschaut und eingesetzt: [jabberd](https://jabberd.org/), [ejabberd](http://www.ejabberd.im/) und [openfire](http://www.igniterealtime.org/projects/openfire/). Mein privater Server behaust nur mich und vielleicht ab und zu ein Bot. Dafür war mir ejabberd immer ein wenig zu viel und zu aufgeblasen. Vor 4-5 Jahren wurde mir Prosody empfohlen. Ein kleiner Server geschrieben in [Lua](http://www.lua.org/). Ich hatte noch nie etwas mit Lua gemacht, aber die Config von Prosody war echt übersichtlich und so war der Server innerhalb ein paar Minuten online. Die Userdaten brauchten auch keine Datenbank, sondern werden in Textfiles geschrieben. Vor allem für eine handvoll User sollte dies kein Problem sein. Auch wenn ich auf der Arbeit von Openfire zu Prosody wechseln wollte, fehlte mir der einfache LDAP-Support. Bei Openfire geht dies wirklich flott, inklusive Shared Roster die er sich per Gruppen aus LDAP holt. Openfire ist ein in Java geschriebens Biest. Zwar hatte ich bis jetzt nicht viele Probleme, aber extra Java auf dem Server zu installieren, gerade wenn es ein vserver ist, wollte ich nicht. Für dieses neue Projekt musste Prosody LDAP verstehen. Also mich mal dran gemacht. 
 

@@ -1,11 +1,16 @@
-Title: Unterwegs
-Date: 2012-01-19 11:00
-Author: marvin
-Category: post
-Tags: jackkerouac, literature, music, ontheroad
-Slug: unterwegs
-
-![Kerouac_by_Palumbo]({static}/images/Kerouac_by_Palumbo.jpg)  
+---
+title: Unterwegs
+slug: unterwegs
+tags:
+- jackkerouac
+- literature
+- music
+- ontheroad
+date: "2012-01-19T11:00:00+01:00"
+author: marvin
+draft: false
+---
+![Kerouac_by_Palumbo](/images/Kerouac_by_Palumbo.jpg)  
 Oder auch genannt "On The Road". Das berühmte Buch von Jack Kerouac.
 Dieses Buch gilt als die Bibel der Ewig-Nicht-Angepassten. Und das meine
 ich noch nicht einmal negativ. Sex, Drogen und Jazz und das alles auf
@@ -25,4 +30,3 @@ falsch...Nürnberg ist eine ganz wundervolle und wunderschöne Stadt. Es
 ist das Unterwegs sein. Es ist das wonach sich das Herz sehnt...Danke
 Sal und Dean für die Geschichten die man am liebsten selber erlebt
 hätte...
-

@@ -1,11 +1,15 @@
-Title: Ein paar Gedanken zu The Bling Ring
-Date: 2013-08-16 23:13
-Author: marvin
-Category: Uncategorized
-Tags: movies, sofiacoppola, theblingring
-Slug: ein-paar-gedanken-zu-the-bling-ring
-
-![blingring]({static}/images/blingring.jpg)
+---
+title: Ein paar Gedanken zu The Bling Ring
+slug: ein-paar-gedanken-zu-the-bling-ring
+tags:
+- movies
+- sofiacoppola
+- theblingring
+date: "2013-08-17T00:13:00+02:00"
+author: marvin
+draft: false
+---
+![blingring](/images/blingring.jpg)
 
 Ich war ja gespannt wie ein Flitzebogen. Seit "Somewhere" ist schon
 einige Zeit vergangen. Und nicht nur weil ich den Film damals in einem
@@ -35,7 +39,7 @@ besonders durch die Film-Collage von Kees van Dijkhuizen, der
 Einstellungen und Stile verschiedener Regisseure zusammen schneidet,
 bewusst:
 
-{% youtube rtieZvF-LUM %}
+{{< youtube rtieZvF-LUM >}}
 
 Die Szeneneinstellungen wirken wie Fotografien in denen die Linien
 perfekt inszeniert sind. Vielleicht bilde ich es mir nur ein, aber mir
@@ -70,5 +74,4 @@ Momente die Sofia Coppolas Filme immer ausgemacht haben. Vielleicht muss
 ich den Film einfach noch ein paarmal schauen. Und das mache ich mit
 ihren Filmen eh immer...
 
-{% youtube r4c6hmrwba0 %}
-
+{{< youtube r4c6hmrwba0 >}}

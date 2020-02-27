@@ -1,11 +1,14 @@
-Title: Happy Birthday Elliott
-Date: 2012-08-07 09:01
-Author: marvin
-Category: Uncategorized
-Tags: birthday, elliottsmith, music
-Slug: happy-birthday-elliott
-
-![Elliott_Smith2]({static}/images/Elliott_Smith2.jpg)
+---
+title: Happy Birthday Elliott
+slug: happy-birthday-elliott
+tags:
+- birthday
+- elliottsmith
+- music
+date: "2012-08-07T10:01:00+02:00"
+author: marvin
+draft: false
+---
+![Elliott_Smith2](/images/Elliott_Smith2.jpg)
 
 Du wärst heute 43 alt geworden...
-

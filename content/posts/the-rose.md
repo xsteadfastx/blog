@@ -1,11 +1,15 @@
-Title: The Rose
-Date: 2013-05-14 10:10
-Author: marvin
-Category: Uncategorized
-Tags: nasa, psychedelic, saturn
-Slug: the-rose
-
-![744808main_pia14944-full_full]({static}/images/744808main_pia14944-full_full.jpg)
+---
+title: The Rose
+slug: the-rose
+tags:
+- nasa
+- psychedelic
+- saturn
+date: "2013-05-14T11:10:00+02:00"
+author: marvin
+draft: false
+---
+![744808main_pia14944-full_full](/images/744808main_pia14944-full_full.jpg)
 
 Das Universum malt einen psychedelischen Traum.
 
@@ -52,4 +56,3 @@ Das Universum malt einen psychedelischen Traum.
 > Image Credit: NASA/JPL-Caltech/SSI  
 >
 > <cite>[NASA](http://www.nasa.gov/mission_pages/cassini/multimedia/pia14944.html)</cite>
-

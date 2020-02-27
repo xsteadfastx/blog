@@ -1,11 +1,16 @@
-Title: 24h Jerusalem
-Date: 2014-02-26 14:32
-Author: marvin
-Category: Uncategorized
-Tags: arte, documentary, jerusalem, tv
-Slug: 24h-jerusalem
-
-![dsc\_0137.jpg]({static}/images/4166708116_104c9c0473_b.jpg)
+---
+title: 24h Jerusalem
+slug: 24h-jerusalem
+tags:
+- arte
+- documentary
+- jerusalem
+- tv
+date: "2014-02-26T14:32:00+01:00"
+author: marvin
+draft: false
+---
+![dsc\_0137.jpg](/images/4166708116_104c9c0473_b.jpg)
 
 Mir fällt es oft sehr schwer über Jerusalem zu schreiben. Zu viel denke
 ich über diese Stadt nach, zu sehr sehne ich mich danach wieder dort hin
@@ -16,4 +21,3 @@ auf jeden Fall gespannt. Mal schauen wieviel "deutsche Israelkritik"
 untergebracht wird.
 
 Mehr Infos [hier](http://www.24hjerusalem.tv/).
-

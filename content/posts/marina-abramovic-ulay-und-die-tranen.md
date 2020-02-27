@@ -1,11 +1,15 @@
-Title: Marina Abramović, Ulay und die Tränen
-Date: 2013-03-06 15:19
-Author: marvin
-Category: Uncategorized
-Tags: art, marinaabramovic, ulay
-Slug: marina-abramovic-ulay-und-die-tranen
-
-![marina_ulay]({static}/images/marina_ulay.jpg)
+---
+title: Marina Abramović, Ulay und die Tränen
+slug: marina-abramovic-ulay-und-die-tranen
+tags:
+- art
+- marinaabramovic
+- ulay
+date: "2013-03-06T15:19:00+01:00"
+author: marvin
+draft: false
+---
+![marina_ulay](/images/marina_ulay.jpg)
 
 Ich habe es bis heute nicht geschafft den Dokumentarfilm "The Artist is
 Present" zu schauen. Im Fokus des Films steht die Performance gleichen
@@ -33,9 +37,8 @@ nicht ob es stimmt oder doch nur eine tief romantische Vorstellung
 meinerseits ist, dass diese Begegnung im MoMA die erste seit der
 chinesischen Mauer war. Ein paar Tränen muss ich trotzdem vergießen.
 
-{% youtube XNcWRbh8wQA %}
+{{< youtube XNcWRbh8wQA >}}
 
 Hier noch der Trailer zu der Dokumentation:
 
-{% youtube jY3VwmiT3j4 %}
-
+{{< youtube jY3VwmiT3j4 >}}

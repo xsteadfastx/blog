@@ -1,11 +1,15 @@
-Title: Was gestern in der Post war
-Date: 2013-11-12 16:19
-Author: marvin
-Category: Uncategorized
-Tags: kickstarter, movies, veronicamars
-Slug: was-gestern-in-der-post-war
-
-![Wahnsinn. Mein veronica mars shirt ist da]({static}/images/10817056673_21bce012d1_b.jpg)
+---
+title: Was gestern in der Post war
+slug: was-gestern-in-der-post-war
+tags:
+- kickstarter
+- movies
+- veronicamars
+date: "2013-11-12T16:19:00+01:00"
+author: marvin
+draft: false
+---
+![Wahnsinn. Mein veronica mars shirt ist da](/images/10817056673_21bce012d1_b.jpg)
 
 Wahnsinn. Ich hatte ja genug Geld auf das Kickstarter des Veronica Mars
 Films geworfen um ein T-Shirt zu bekommen. Eigentlich um eine digitale
@@ -19,7 +23,6 @@ ehrlich... nun kann ich den Film noch weniger erwarten.
 
 Übrigens gab es noch ein paar Sticker. Go Pirates...
 
-![Veronica Mars sticker...]({static}/images/10820714954_a161cb4d4a_b.jpg)
+![Veronica Mars sticker...](/images/10820714954_a161cb4d4a_b.jpg)
 
-{% youtube 5sBu_mkcpSU %}
-
+{{< youtube 5sBu_mkcpSU >}}

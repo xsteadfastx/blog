@@ -1,10 +1,12 @@
-Title: Diabetes Rant Posting
-Date: 2012-01-26 13:51
-Author: marvin
-Category: post
-Tags: diabetes
-Slug: diabetes-rant-posting
-
+---
+title: Diabetes Rant Posting
+slug: diabetes-rant-posting
+tags:
+- diabetes
+date: "2012-01-26T13:51:00+01:00"
+author: marvin
+draft: false
+---
 Manchmal muss man seinen Unmut über bestimmte Sachen einfach rauslassen.
 Dieses Thema hat mich jetzt schon einige Tage beschäftigt und ich will
 mal aufschreiben wieso das so ist.
@@ -41,4 +43,3 @@ egal wieviel es kostet. Hauptsache er lässt diese Lupengläser in seinem
 Schrank. Also Geld gezückt und ab vor die digitale Kamera die mein Auge
 abfotografierte. Diese Untersuchung dauerte ca zwei Minuten. Zwei
 Minuten, 25 Euro. Danke deutsches Gesundheitssystem...
-

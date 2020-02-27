@@ -1,13 +1,19 @@
-Title: Meine neue Shell: xonsh
-Date: 2016-07-28 16:47
-Slug: meine-neue-shell-xonsh
-Tags: python,xonsh,linux
-
+---
+title: 'Meine neue Shell: xonsh'
+slug: meine-neue-shell-xonsh
+tags:
+- python
+- xonsh
+- linux
+date: "2016-07-28T17:47:00+02:00"
+author: marvin
+draft: false
+---
 Manchmal macht man Sachen die man selber nicht so wirklich versteht. Zum Beispiel hatte ich mich lange quer gestellt [ZSH](https://de.wikipedia.org/wiki/Zsh) einzusetzen. Wieso eine alternative Shell? BASH ist doch sowas wie ein standard auf den Servern auf denen ich arbeite. Vor ein paar Jahren dann die erste Installation. Total abgeschreckt von der Konfiguration (bin bis Heute nicht dahinter gekommen wie das alles funktioniert), war mir [oh-my-zsh]() ein Steigbügelhalter in die Welt von ZSH. Es ist eine Paket aus verschiedenen Plugins und Konfigurationen die das erste ZSH-Erlebnis, instant, beeindruckend gestaltet. Irgendwann war es mir zu langsam und ich stieg um auf [prezto](https://github.com/sorin-ionescu/prezto). Hat sich alles ein wenig flotter angefühlt und ich habe noch weniger verstanden was da im Hintergrund abläuft. Ja, man sollte sich die Sachen genauer anschauen und dann wäre es auch kein Problem. Aber manchmal fehlt mir Zeit weil ich meine Nase in tausend anderen Projekten habe. Es soll einfach funktionieren und the world a better place machen tun... oder zumindest meinen Alltag.
 
 Nun bin ich auf einen Beitrag auf der PyCon über [xonsh](http://xon.sh) gestossen.
 
-{% youtube uaje5I22kgE %}
+{{< youtube uaje5I22kgE >}}
 
 Es ist eine alternative Shell die in Python geschrieben ist und das Bindeglied zwischen Shell und Python sein möchte. Und das beste: Endlich eine Syntax in der Shell die ich mir merken kann. Nie wieder nachschauen wie `if` oder `for` in Bash funktionieren. "Nie wieder" ist ein harter Ausdruck. Selbst ich installiere xonsh nicht auf all meinen Servern. Es setzt Python 3.4 oder 3.5 voraus.
 
@@ -17,8 +23,8 @@ Bevor ich ein paar Anwendungsbeispiele nenne, möchte ich auf mein Setup hinweis
 
 Hier ein Beispiel für ein xonsh-Script das den Output von allen Docker-Commands nimmt und den Output in Files schreibt. Dies habe ich gebraucht um meine xonsh Extension [xonsh-docker-tabcomplete](https://github.com/xsteadfastx/xonsh-docker-tabcomplete) zu testen. Ein Completer für Docker Kommandos die auch direkt auf die Docker-API zugreift. Danke [docker-py](https://github.com/docker/docker-py) und Python als Shell.
 
+{{< highlight python >}}
 
-    :::python
     """Ein xonsh-Script um alle `--help` Outputs als Textfiles
     abzuspeichern.
     """
@@ -56,6 +62,8 @@ Hier ein Beispiel für ein xonsh-Script das den Output von allen Docker-Commands
             # Es wird die Python-Variabel `command`, die gerade in benutzung ist,
             # in das Shell-Kommando `docker ... --help` eingefügt. Magic.
             f.write($(docker @(command) --help))
+
+{{< / highlight >}}
 
 
 Dieses Script speichert man als `create_test_data.xsh` und kann es mit `xonsh create_test_data.xsh` ausführen.

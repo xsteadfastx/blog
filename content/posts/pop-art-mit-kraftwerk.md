@@ -1,11 +1,17 @@
-Title: Pop-Art mit Kraftwerk
-Date: 2013-09-16 14:38
-Author: marvin
-Category: Uncategorized
-Tags: art, arte, documentary, kraftwerk, music
-Slug: pop-art-mit-kraftwerk
-
-[![cc-by-sa Daniele Dalledonne]({static}/images/808255872_35d8566085_b.jpg)](https://secure.flickr.com/photos/ddalledo/808255872/)
+---
+title: Pop-Art mit Kraftwerk
+slug: pop-art-mit-kraftwerk
+tags:
+- art
+- arte
+- documentary
+- kraftwerk
+- music
+date: "2013-09-16T15:38:00+02:00"
+author: marvin
+draft: false
+---
+[![cc-by-sa Daniele Dalledonne](/images/808255872_35d8566085_b.jpg)](https://secure.flickr.com/photos/ddalledo/808255872/)
 
 Eigentlich kann ich mich nicht mehr zurück erinnern als meine
 Faszination für Kraftwerk anfing. Ich glaube es war der Song "Autobahn",
@@ -20,7 +26,7 @@ Zeiten in denen wir von großen Pop-Gesten überrumpelt werden, sind vier
 stillstehende Männer hinter Leuchtpulten, nicht zu begreifen. Ein
 Performance-Brainfuck seines gleichen.
 
-{% youtube WGkrJ3ywbtg %}
+{{< youtube WGkrJ3ywbtg >}}
 
 Gerade das Livealbum "Minumum-Maximum" lief bei mir rauf und runter.
 Jahrelang. Es rettete mich durch die tristen Tage meines Zivildienstes
@@ -42,9 +48,9 @@ dar. Leider ein wenig zu spät. Wolfsburg ist vielleicht nicht London,
 aber die Industrialität der Arbeiterstadt passt perfekt zu der
 Fortschrittlichkeit Kraftwerks.
 
-{% youtube nNkhRGMvCu4 %}
+{{< youtube nNkhRGMvCu4 >}}
 
-{% youtube VZIPMEoMoPo %}
+{{< youtube VZIPMEoMoPo >}}
 
 Eins der besten Konzerte auf dem ich jemals war! Vielleicht sogar das
 Beste! 2011 war ich auf einer kleinen Museumsexkursion in München. Einer
@@ -61,4 +67,3 @@ Schaut sie euch an bevor die Contentmafia sie offline gehen lässt:
 <p>
 <script type="text/javascript" src="http://www.arte.tv/playerv2/embed.php?json_url=http://arte.tv/papi/tvguide/videos/stream/player/D/048927-000_PLUS7-D/ALL/ALL.json⟨=de_DE&amp;config=arte_tvguide"></script>
 </p>
-

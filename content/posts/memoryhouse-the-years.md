@@ -1,10 +1,14 @@
-Title: memoryhouse - the years
-Date: 2011-09-13 08:40
-Author: marvin
-Category: post
-Tags: memoryhouse, music, subpop
-Slug: memoryhouse-the-years
-
+---
+title: memoryhouse - the years
+slug: memoryhouse-the-years
+tags:
+- memoryhouse
+- music
+- subpop
+date: "2011-09-13T09:40:00+02:00"
+author: marvin
+draft: false
+---
 Endlich mal wieder im Internetz...unsere Hochzeit ist vorbei und ich
 sitze den ersten Tag wieder in meinem Homeoffice und durchstöber mal die
 nicht endende Müllhalde. Und wenn ich ehrlich bin läuft seit dem ich

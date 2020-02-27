@@ -1,10 +1,14 @@
-Title: Wie die Disketten von Andy Warhol aufgearbeitet wurden
-Date: 2014-05-13 11:15
-Author: marvin
-Category: Uncategorized
-Tags: andywarhol, art, atari
-Slug: wie-die-disketten-von-andy-warhol-aufgearbeitet-wurden
-
+---
+title: Wie die Disketten von Andy Warhol aufgearbeitet wurden
+slug: wie-die-disketten-von-andy-warhol-aufgearbeitet-wurden
+tags:
+- andywarhol
+- art
+- atari
+date: "2014-05-13T12:15:00+02:00"
+author: marvin
+draft: false
+---
 Vor einiger Zeit ging durchs Netz, dass Disketten von Andy Warhol
 gefunden und "restauriert"
 [wurden](http://boingboing.net/2014/04/24/lost-warhol-originals-extracte.html).
@@ -14,5 +18,4 @@ Tragik von digitalen Formaten klar. Disketten zerfallen und Formate sind
 nicht mehr lesbar. Zum Glück gibt es findige Nerds die uns diese
 Kunstwerke sichern konnten.
 
-{% vimeo 92583299 %}
-
+{{< vimeo 92583299 >}}

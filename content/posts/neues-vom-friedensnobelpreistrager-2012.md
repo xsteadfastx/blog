@@ -1,10 +1,15 @@
-Title: Neues vom Friedensnobelpreisträger 2012
-Date: 2013-10-09 06:02
-Author: marvin
-Category: Uncategorized
-Tags: arte, documentary, lampedusa, politics
-Slug: neues-vom-friedensnobelpreistrager-2012
-
+---
+title: Neues vom Friedensnobelpreisträger 2012
+slug: neues-vom-friedensnobelpreistrager-2012
+tags:
+- arte
+- documentary
+- lampedusa
+- politics
+date: "2013-10-09T07:02:00+02:00"
+author: marvin
+draft: false
+---
 Ok, so neu ist das alles nicht. Es ist kein Geheimnis wie pervers die
 Europäische Union mit Flüchtlingen umspringt. Gerade der aktuelle Fall
 im italienischen Lampedusa zeigt die verdrehten Ansichten der
@@ -32,7 +37,7 @@ twitterte dies:
 
 https://twitter.com/pantoffelpunk/status/387477854004719616
 
-![friedrichhaerte]({static}/images/friedrichhaerte.jpg)
+![friedrichhaerte](/images/friedrichhaerte.jpg)
 
 Arte sendete gestern die Dokumention "Festung Europa". Ich schäme mich
 in Grund und Boden...
@@ -40,4 +45,3 @@ in Grund und Boden...
 <p>
 <script type="text/javascript" src="http://www.arte.tv/playerv2/embed.php?json_url=http://arte.tv/papi/tvguide/videos/stream/player/D/047330-000_PLUS7-D/ALL/ALL.json⟨=de_DE&amp;config=arte_tvguide"></script>
 </p>
-

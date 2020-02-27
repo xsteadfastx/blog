@@ -1,8 +1,14 @@
-Title: Blog Merge
-Date: 2015-04-14 12:41
-Tags: blog, python, pelican
-Slug: blog-merge
-
+---
+title: Blog Merge
+slug: blog-merge
+tags:
+- blog
+- python
+- pelican
+date: "2015-04-14T13:41:00+02:00"
+author: marvin
+draft: false
+---
 
 Es wurde verbracht. Ich habe meine beiden Blogs "gemerged". Mein kleines Tech-Blog und mein Main-Blog mit den ganzen Fotos, Popkram, usw. Ich habe mir viele Gedanken darum gemacht ob es überhaupt Sinn macht. Ich kamm zu folgenden Punkten: Ich habe eh nicht viele Leser und der viel wichtigere Punkt ist, dass dieses Blog nun wirklich mich und meinte Interessen wiederspiegelt. Nicht mehr und nicht weniger. Ich will mir keine Gedanken darum machen in welches Blog meine Gedanken passen oder auch nicht. Dies ist nun mein zentrales Gedanken-Repository. Und es soll sich auch vermischen. Darum geht es hierbei.
 

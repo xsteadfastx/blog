@@ -1,11 +1,18 @@
-Title: Das Fest des Lichtes
-Date: 2012-12-11 16:09
-Author: marvin
-Category: Uncategorized
-Tags: chanukka, holocaust, jerusalem, judaism, kiel, yadvashem
-Slug: das-fest-des-lichtes
-
-![happy chanukka]({static}/images/8260658301_79ba78b73b_b.jpg)
+---
+title: Das Fest des Lichtes
+slug: das-fest-des-lichtes
+tags:
+- chanukka
+- holocaust
+- jerusalem
+- judaism
+- kiel
+- yadvashem
+date: "2012-12-11T16:09:00+01:00"
+author: marvin
+draft: false
+---
+![happy chanukka](/images/8260658301_79ba78b73b_b.jpg)
 
 Heute Abend wird überall auf der Welt die vierte Kerze angezündet. Mit
 dem Schamasch sind es fünf Kerzen die aus dem Fenster heraus auf die
@@ -48,5 +55,4 @@ Leuchter
 um ihn dann in ihr Fenster zu stellen. Gerade diese Berichte aus dem
 Holocaust bewegen mich doch sehr.
 
-{% youtube kxuub6lkmT0 %}
-
+{{< youtube kxuub6lkmT0 >}}

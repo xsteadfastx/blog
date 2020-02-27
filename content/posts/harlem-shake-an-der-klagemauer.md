@@ -1,15 +1,20 @@
-Title: Harlem Shake an der Klagemauer
-Date: 2013-02-25 15:45
-Author: marvin
-Category: Uncategorized
-Tags: hakotel, harlemshake, jerusalem, judaism, purim
-Slug: harlem-shake-an-der-klagemauer
-
-![hakotelshake]({static}/images/hakotelshake.jpg)
+---
+title: Harlem Shake an der Klagemauer
+slug: harlem-shake-an-der-klagemauer
+tags:
+- hakotel
+- harlemshake
+- jerusalem
+- judaism
+- purim
+date: "2013-02-25T15:45:00+01:00"
+author: marvin
+draft: false
+---
+![hakotelshake](/images/hakotelshake.jpg)
 
 Es gibt Sachen die passieren wenn das Purim-Fest und das
 Harlem-Shake-Meme aufeinander treffen. An Purim kann echt alles
 passieren...
 
-{% youtube TK8S6-FJXxE %}
-
+{{< youtube TK8S6-FJXxE >}}

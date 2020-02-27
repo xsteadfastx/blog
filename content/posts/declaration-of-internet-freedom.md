@@ -1,11 +1,15 @@
-Title: Declaration Of Internet Freedom
-Date: 2012-07-04 10:57
-Author: marvin
-Category: Uncategorized
-Tags: freedom, internetz, politics
-Slug: declaration-of-internet-freedom
-
-![internet freedom]({static}/images/net-declaration.png)
+---
+title: Declaration Of Internet Freedom
+slug: declaration-of-internet-freedom
+tags:
+- freedom
+- internetz
+- politics
+date: "2012-07-04T11:57:00+02:00"
+author: marvin
+draft: false
+---
+![internet freedom](/images/net-declaration.png)
 
 Die EFF, Free Press, Amnesty International, Mozilla, Reddit, der
 Digitale Gesellschaft e.V. und noch einige mehr haben an einer
@@ -38,4 +42,3 @@ unterzeichnet.
 > bestimmen.
 
 ([via](https://netzpolitik.org/2012/erklarung-der-internetfreiheit/))
-

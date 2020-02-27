@@ -1,11 +1,16 @@
-Title: Teen Spirit
-Date: 2012-07-09 09:02
-Author: marvin
-Category: Uncategorized
-Tags: arte, documentary, movies, teenspirit
-Slug: teen-spirit
-
-![teen-spirit]({static}/images/0420_0f27.gif)
+---
+title: Teen Spirit
+slug: teen-spirit
+tags:
+- arte
+- documentary
+- movies
+- teenspirit
+date: "2012-07-09T10:02:00+02:00"
+author: marvin
+draft: false
+---
+![teen-spirit](/images/0420_0f27.gif)
 
 Wenn ich ehrlich sein muss sind ja Teeniefilme das was ich am liebsten
 schaue. Vielleicht sind es auch einfach nur diese Identifikationsfiguren
@@ -28,4 +33,3 @@ ist...
 </embed>
 </object>
 </p>
-

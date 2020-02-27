@@ -1,11 +1,16 @@
-Title: Best Coast - The Only Place
-Date: 2012-06-26 12:39
-Author: marvin
-Category: Uncategorized
-Tags: bestcoast, california, fernweh, music
-Slug: best-coast-the-only-place
-
-![419276]({static}/images/419276.png)
+---
+title: Best Coast - The Only Place
+slug: best-coast-the-only-place
+tags:
+- bestcoast
+- california
+- fernweh
+- music
+date: "2012-06-26T13:39:00+02:00"
+author: marvin
+draft: false
+---
+![419276](/images/419276.png)
 
 Kalifornien und mich verbindet nicht nur der Teil meiner Familie der
 dort lebt. Ich war 2002 dort. Drei Wochen haben wir unsere Familie
@@ -21,5 +26,4 @@ stimmt weiß ich nicht...
 Und sehe ich mir das neue Video von Best Coast an falle ich in ein Meer
 aus Fernweh...
 
-{% youtube AJW00gx4wvE %}
-
+{{< youtube AJW00gx4wvE >}}

@@ -1,11 +1,16 @@
-Title: The Pirate Cinema: Bittorrent-Kunst
-Date: 2013-06-06 14:30
-Author: marvin
-Category: Uncategorized
-Tags: art, bittorrent, internetz, thepiratebay
-Slug: the-pirate-cinema-bittorrent-kunst
-
-![thepiratecinema]({static}/images/thepiratecinema.jpg)
+---
+title: 'The Pirate Cinema: Bittorrent-Kunst'
+slug: the-pirate-cinema-bittorrent-kunst
+tags:
+- art
+- bittorrent
+- internetz
+- thepiratebay
+date: "2013-06-06T15:30:00+02:00"
+author: marvin
+draft: false
+---
+![thepiratecinema](/images/thepiratecinema.jpg)
 
 Bittorrent macht einen Großteil des globalen Internet-Traffics aus. Es
 ist ein Protokoll um begehrte Dateien schneller an jeden Benutzer zu
@@ -24,7 +29,6 @@ Glitchart-Generator. Anscheinend mögen die Leute Doctor Who, Community
 und Pornos... ist so der erste Eindruck wenn ich mir das Video so
 anschaue.
 
-{% vimeo 67518774 %}
+{{< vimeo 67518774 >}}
 
 ([via](http://www.geek.com/apps/the-pirate-cinema-intercepts-torrent-traffic-for-art-1557517/))
-

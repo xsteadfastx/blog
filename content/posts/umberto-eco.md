@@ -1,11 +1,17 @@
-Title: Umberto Eco
-Date: 2012-10-11 11:38
-Author: marvin
-Category: Uncategorized
-Tags: arte, books, documentary, toskana, umbertoeco
-Slug: umberto-eco
-
-![umbertoeco]({static}/images/umbertoeco.png)
+---
+title: Umberto Eco
+slug: umberto-eco
+tags:
+- arte
+- books
+- documentary
+- toskana
+- umbertoeco
+date: "2012-10-11T12:38:00+02:00"
+author: marvin
+draft: false
+---
+![umbertoeco](/images/umbertoeco.png)
 
 Vor einiger Zeit habe ich endlich "Der Name der Rose" ausgelesen. Die
 Hälfte des Buches habe ich mit der Aussicht auf die Landschaft der
@@ -27,4 +33,3 @@ zukneift...
 </embed>
 </object>
 </p>
-

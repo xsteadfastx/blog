@@ -1,11 +1,16 @@
-Title: kraftwerk in münchen
-Date: 2011-11-11 16:22
-Author: marvin
-Category: post
-Tags: art, kraftwerk, muenchen, music
-Slug: kraftwerk-in-munchen
-
-{% youtube CUrmAKzdQ9E %}
+---
+title: kraftwerk in münchen
+slug: kraftwerk-in-munchen
+tags:
+- art
+- kraftwerk
+- muenchen
+- music
+date: "2011-11-11T16:22:00+01:00"
+author: marvin
+draft: false
+---
+{{< youtube CUrmAKzdQ9E >}}
 
 Letzten Samstag sind meine Frau und ich mit einigen Gaststudenten der
 ADBK Nürnberg nach München auf ein paar Museumsbesuche gefahren. Ich
@@ -52,4 +57,3 @@ euphorisch in sich aufnahmen wie ich...sie waren begeistert.
 Und so sitze ich hier in meinem Wohnzimmer. Auf meinem Plattenteller
 rotiert eine Erstpressung der Kraftwerkplatte "Computerworld". Bis heute
 imponiert es mich das dieses Werk älter ist als ich...
-

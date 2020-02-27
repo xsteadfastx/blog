@@ -1,11 +1,17 @@
-Title: Friedrichs dümmerer Bruder: Schlandnet
-Date: 2013-11-19 10:35
-Author: marvin
-Category: Uncategorized
-Tags: de-cix, friedrich, internetz, politics, telekom
-Slug: friedrichs-dummerer-bruder-schlandnet
-
-[![cc-by-sa Stefan Funke]({static}/images/1024px-DE-CIX_GERMANY_-_Switch_Rack_6218137120.jpg)](https://de.wikipedia.org/wiki/Datei:DE-CIX_GERMANY_-_Switch_Rack_%286218137120%29.jpg)
+---
+title: 'Friedrichs dümmerer Bruder: Schlandnet'
+slug: friedrichs-dummerer-bruder-schlandnet
+tags:
+- de-cix
+- friedrich
+- internetz
+- politics
+- telekom
+date: "2013-11-19T10:35:00+01:00"
+author: marvin
+draft: false
+---
+[![cc-by-sa Stefan Funke](/images/1024px-DE-CIX_GERMANY_-_Switch_Rack_6218137120.jpg)](https://de.wikipedia.org/wiki/Datei:DE-CIX_GERMANY_-_Switch_Rack_%286218137120%29.jpg)
 
 Was lernen wir aus der NSA-Affäre? Richtig: Routet deutsche/arische
 Pakete nur nach Blut und Boden. Zu diesem Lösungsvorschlag versammelt
@@ -32,4 +38,3 @@ dem sie keine Ahnung haben.
 Bitte macht ein richtiges Schlandnet. Packt da BILD.de, die Union und
 meine ganzes erzwungenes neo-konservatives Umfeld rein und macht den
 Deckel zu. Das wäre der einzige Grund dieses Projekt zu unterstützen.
-

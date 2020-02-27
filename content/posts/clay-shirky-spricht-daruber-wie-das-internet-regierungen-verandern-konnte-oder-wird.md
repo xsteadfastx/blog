@@ -1,11 +1,20 @@
-Title: Clay Shirky spricht darüber wie das Internet Regierungen verändern könnte oder wird
-Date: 2012-09-26 16:55
-Author: marvin
-Category: Uncategorized
-Tags: bundestag, clayshirky, github, linux, opensource, politics, ted
-Slug: clay-shirky-spricht-daruber-wie-das-internet-regierungen-verandern-konnte-oder-wird
-
-![internetshirky]({static}/images/internetshirky.jpg)
+---
+title: Clay Shirky spricht darüber wie das Internet Regierungen verändern könnte oder
+  wird
+slug: clay-shirky-spricht-daruber-wie-das-internet-regierungen-verandern-konnte-oder-wird
+tags:
+- bundestag
+- clayshirky
+- github
+- linux
+- opensource
+- politics
+- ted
+date: "2012-09-26T17:55:00+02:00"
+author: marvin
+draft: false
+---
+![internetshirky](/images/internetshirky.jpg)
 
 Sind wir mal ehrlich. Ich habe das Gefühl das die Politik, wie sie ist,
 die letzten Zuckungen durchlebt. Zu sehr hat sich die Gesellschaft
@@ -44,7 +53,6 @@ Und TED-Talks sind eh immer super...
 > transparent but also to draw on the knowledge of all their citizens.  
 >  <cite>Beschreibung des Youtube Videos</cite>
 
-{% youtube CEN4XNth61o   %}
+{{< youtube CEN4XNth61o   >}}
 
 ([via](http://www.crackajack.de/2012/09/26/clay-shirky-ted-how-the-internet-will-one-day-transform-government/))
-

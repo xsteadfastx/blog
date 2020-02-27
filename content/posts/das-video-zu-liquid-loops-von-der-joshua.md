@@ -1,10 +1,13 @@
-Title: Das Video zu Liquid Loops von der Joshua...
-Date: 2012-05-08 13:27
-Author: marvin
-Category: Uncategorized
-Tags: joshualightshow, psychedelic
-Slug: das-video-zu-liquid-loops-von-der-joshua
-
+---
+title: Das Video zu Liquid Loops von der Joshua...
+slug: das-video-zu-liquid-loops-von-der-joshua
+tags:
+- joshualightshow
+- psychedelic
+date: "2012-05-08T14:27:00+02:00"
+author: marvin
+draft: false
+---
 Das Video zu Liquid Loops von der Joshua Light Show habe ich ja schonmal
 [gepostet](http://xsteadfastx.org/2012/02/23/joshua-light-show/). Was
 mir gerade bei meiner Recherche aufgefallen ist: Per
@@ -16,5 +19,4 @@ wurde ein zweites Liquid Loops finanziert.
 Das ganze scheint schon abgedreht zu sein. Es gibt zu mindestens ein
 Making-Of auf Youtube...
 
-{% youtube 8rYAf9aeG2I %}
-
+{{< youtube 8rYAf9aeG2I >}}

@@ -1,11 +1,19 @@
-Title: IDEM PARIS by David Lynch
-Date: 2013-02-19 13:10
-Author: marvin
-Category: Uncategorized
-Tags: art, davidlynch, matisse, miro, movies, paris, picasso
-Slug: idem-paris-by-david-lynch
-
-![idemparis]({static}/images/idemparis.jpg)
+---
+title: IDEM PARIS by David Lynch
+slug: idem-paris-by-david-lynch
+tags:
+- art
+- davidlynch
+- matisse
+- miro
+- movies
+- paris
+- picasso
+date: "2013-02-19T13:10:00+01:00"
+author: marvin
+draft: false
+---
+![idemparis](/images/idemparis.jpg)
 
 David Lynch hat einen kleinen Kurzfilm gedreht. Er besuchte die
 Lithografie-Werkstatt "[IDEM PARIS](http://www.idemparis.com/)" um seine
@@ -31,7 +39,6 @@ Druckmaschine...
 > this mood, and out comes these certain ideas.  
 >  <cite>David Lynch</cite>
 
-{% youtube _jFHrpknS4c %}
+{{< youtube _jFHrpknS4c >}}
 
 ([via](http://welcometotwinpeaks.com/lynch/david-lynch-idem-paris/))
-

@@ -1,11 +1,14 @@
-Title: Panzerkreuzer Potemkin
-Date: 2012-02-14 12:52
-Author: marvin
-Category: post
-Tags: archiveorg, movies
-Slug: panzerkreuzer-potemkin
-
-![Potemkinstairs]({static}/images/Potemkinstairs.jpg)
+---
+title: Panzerkreuzer Potemkin
+slug: panzerkreuzer-potemkin
+tags:
+- archiveorg
+- movies
+date: "2012-02-14T12:52:00+01:00"
+author: marvin
+draft: false
+---
+![Potemkinstairs](/images/Potemkinstairs.jpg)
 
 Meine Frau hat es irgendwie geschafft mich in einen
 Literaturverfilmungskurs der Kunstakademie zu schleusen. Seit diesem
@@ -38,4 +41,3 @@ restauriert und neu vertont. Ich kann nur raten mal nach der Version
 ausschau zu halten. Es lohnt sich.
 
 <iframe src="http://www.archive.org/embed/BattleshipPotemkin" width="640" height="480" frameborder="0"></iframe>
-

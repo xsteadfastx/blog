@@ -1,10 +1,14 @@
-Title: the swell season
-Date: 2011-09-29 05:03
-Author: marvin
-Category: post
-Tags: documentary, music, theswellseason
-Slug: the-swell-season
-
+---
+title: the swell season
+slug: the-swell-season
+tags:
+- documentary
+- music
+- theswellseason
+date: "2011-09-29T06:03:00+02:00"
+author: marvin
+draft: false
+---
 Wer kennt ihn nicht? Diesen wunderschönen Film "Once". Ein
 Indie-Liebsfilm der in Dublin spielt und dessen Musik sogar mit einem
 Oscar prämiert wurde. Das ganze ist um die beiden Musiker Glen Hansard
@@ -26,5 +30,4 @@ Dokumentationsfilm zusammen genäht wurden. Ich wusste es nicht und bin
 gerade wieder in dieser besonderen Once-Stimmung gefangen...alleine
 durch den Fakt das es diesen Film gibt. Danke.
 
-{% youtube yT2EERWjgpc %}
-
+{{< youtube yT2EERWjgpc >}}

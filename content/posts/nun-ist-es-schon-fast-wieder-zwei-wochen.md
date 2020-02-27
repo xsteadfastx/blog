@@ -1,11 +1,14 @@
-Title: Nun ist es schon fast wieder zwei Wochen...
-Date: 2012-04-13 15:36
-Author: marvin
-Category: Uncategorized
-Tags: concerts, memoryhouse
-Slug: nun-ist-es-schon-fast-wieder-zwei-wochen
-
-![memoryhouse-pixlr]({static}/images/memoryhouse-pixlr.jpg)
+---
+title: Nun ist es schon fast wieder zwei Wochen...
+slug: nun-ist-es-schon-fast-wieder-zwei-wochen
+tags:
+- concerts
+- memoryhouse
+date: "2012-04-13T16:36:00+02:00"
+author: marvin
+draft: false
+---
+![memoryhouse-pixlr](/images/memoryhouse-pixlr.jpg)
 
 Nun ist es schon fast wieder zwei Wochen her. Und doch will ich ein paar
 Worte zu dem Memoryhouse Konzert in München schreiben. Ich war war
@@ -32,4 +35,3 @@ Memoryhouse die Bühne betrat und sie von ihrer Beamershow angestrahlt
 wurden...ab diesem Moment war mir eigentlich alles egal. Ich war total
 entzückt von diesem Klängen die ich zu meinem offiziellen
 Frühlingsanfang deklariert habe. Danke...
-

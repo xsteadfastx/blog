@@ -1,10 +1,12 @@
-Title: Analoge Fotografie starb nicht mit Kodak
-Date: 2015-01-14 14:17
-Author: marvin
-Category: Uncategorized
-Tags: photography
-Slug: analoge-fotografie-starb-nicht-mit-kodak
-
+---
+title: Analoge Fotografie starb nicht mit Kodak
+slug: analoge-fotografie-starb-nicht-mit-kodak
+tags:
+- photography
+date: "2015-01-14T14:17:00+01:00"
+author: marvin
+draft: false
+---
 Hier ein kleines Video der Financial Times zum Thema analoge Fotografie.
 
 <p>
@@ -15,4 +17,3 @@ Hier ein kleines Video der Financial Times zum Thema analoge Fotografie.
 </embed>
 </object>
 </p>
-

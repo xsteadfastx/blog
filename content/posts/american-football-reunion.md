@@ -1,10 +1,14 @@
-Title: American Football Reunion
-Date: 2014-08-08 12:31
-Author: marvin
-Category: Uncategorized
-Tags: americanfootball, emo, music
-Slug: american-football-reunion
-
+---
+title: American Football Reunion
+slug: american-football-reunion
+tags:
+- americanfootball
+- emo
+- music
+date: "2014-08-08T13:31:00+02:00"
+author: marvin
+draft: false
+---
 Dieser Post ist jetzt schon seit einiger Zeit in meinen Drafts. Woran
 liegt es? An der kulturvernichtenden Verbindung zwischen Youtube und der
 GEMA. American Football ist einer meiner absoluten Lieblingsbands. Es
@@ -25,7 +29,6 @@ Welt stiefelte. Das Video fängt genau dieses alles ein. Besorgt euch
 also einen Youtube-Entblocker und schaut es euch an. Und falls das nicht
 klappt, habe ich noch eine Liveversion des Songs drunter gepackt.
 
-{% vimeo 95995545 %}
+{{< vimeo 95995545 >}}
 
-{% youtube xFm8H_Jsm-0 %}
-
+{{< youtube xFm8H_Jsm-0 >}}

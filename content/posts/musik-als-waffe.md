@@ -1,11 +1,16 @@
-Title: Musik als Waffe
-Date: 2012-11-20 14:14
-Author: marvin
-Category: Uncategorized
-Tags: documentary, music, torture, war
-Slug: musik-als-waffe
-
-![musikalswaffe]({static}/images/musikalswaffe.jpg)
+---
+title: Musik als Waffe
+slug: musik-als-waffe
+tags:
+- documentary
+- music
+- torture
+- war
+date: "2012-11-20T14:14:00+01:00"
+author: marvin
+draft: false
+---
+![musikalswaffe](/images/musikalswaffe.jpg)
 
 Heute morgen kam die Nachricht das die Dokumentation "Musik als Waffe"
 von Tristan Chytroschek einen Emmy bekommen hat. Gratulation! In der
@@ -19,5 +24,4 @@ stumpfe "Musiker" vor die Kamera setzen, nachdem sie auf einem
 Militärstützpunkt aufgetreten sind, um zu sagen "wir foltern unsere
 Konzertgäste jeden Abend". Ich habe ein flaues Gefühl im Magen.
 
-{% youtube t7T0oH6PWLU %}
-
+{{< youtube t7T0oH6PWLU >}}

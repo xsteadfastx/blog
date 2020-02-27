@@ -1,11 +1,15 @@
-Title: Instagram und Creative Commons
-Date: 2012-09-07 11:59
-Author: marvin
-Category: Uncategorized
-Tags: creativecommons, instagram, photography
-Slug: instagram-und-creative-commons
-
-![Toskana]({static}/images/7948557084_9c11941223_b.jpg)
+---
+title: Instagram und Creative Commons
+slug: instagram-und-creative-commons
+tags:
+- creativecommons
+- instagram
+- photography
+date: "2012-09-07T12:59:00+02:00"
+author: marvin
+draft: false
+---
+![Toskana](/images/7948557084_9c11941223_b.jpg)
 
 Ja es ist verteufelt...und ja vielleicht auch teilweise zu Recht:
 Instagram. Ich benutze es super gerne. Nicht nur weil ich die Filter
@@ -24,4 +28,3 @@ benutzen. Creative Commons ist eh ein Projekt was man tatkräftig
 unterstützen sollte. Also...anmelden...und die Freiheit genießen...
 
 ([via](http://www.petapixel.com/2012/08/24/i-am-cc-allows-instagram-users-to-share-under-a-creative-commons-license))
-

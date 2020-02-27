@@ -1,8 +1,13 @@
-Title: Ansible, win_package und die product_id
-Date: 2016-04-08 11:55
-Slug: ansible-win-package-und-die-product-id
-Tags: ansible, windows
-
+---
+title: Ansible, win_package und die product_id
+slug: ansible-win-package-und-die-product-id
+tags:
+- ansible
+- windows
+date: "2016-04-08T12:55:00+02:00"
+author: marvin
+draft: false
+---
 Gerade läuft das letzte Windows 7 auf Windows 10 Update. Diese Möglichkeit habe ich genutzt um für die Administration der Clients von [SaltStack](http://saltstack.com) zu [Ansible](http://ansible.com) zu wechseln. Windows Administration ist für mich eher so ein leidiges Thema, was mich ziemlich oft auf die Palme bringt. Ansible benutze ich auf den Linux Servern für fast alles. Mal schnell ein paar Update einspielen oder auch für das ausrollen meines [batcaves](https://github.com/xsteadfastx/batcave).
 
 ## Master vorbereiten

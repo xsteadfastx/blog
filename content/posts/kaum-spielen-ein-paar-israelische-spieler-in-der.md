@@ -1,10 +1,16 @@
-Title: Kaum spielen ein paar israelische Spieler in der...
-Date: 2012-02-27 10:51
-Author: marvin
-Category: status
-Tags: antisemitism, football, israel, judaism, politics
-Slug: kaum-spielen-ein-paar-israelische-spieler-in-der
-
+---
+title: Kaum spielen ein paar israelische Spieler in der...
+slug: kaum-spielen-ein-paar-israelische-spieler-in-der
+tags:
+- antisemitism
+- football
+- israel
+- judaism
+- politics
+date: "2012-02-27T10:51:00+01:00"
+author: marvin
+draft: false
+---
 Kaum spielen ein paar israelische Spieler in der Bundesliga war es nur
 eine Frage der Zeit bis der eh schon vorhandene Antisemitismus in
 Deutschland direkt auf Spieler aus Israel angewandt wird. Antisemitische
@@ -20,4 +26,3 @@ das ganze auch gut wegdiskutieren. Nichts erkannt...!
 
 Einen Beitrag aus dem SWR gibt es [hier](http://goo.gl/KLY5l) und einen
 SPON Artikel [hier](http://goo.gl/q83HT).
-

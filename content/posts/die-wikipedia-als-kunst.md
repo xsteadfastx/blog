@@ -1,11 +1,16 @@
-Title: Die Wikipedia als Kunst
-Date: 2012-11-09 19:07
-Author: marvin
-Category: Uncategorized
-Tags: art, opensource, plotter, wikipedia
-Slug: die-wikipedia-als-kunst
-
-![wikipediaplotter]({static}/images/wikipediaplotter.jpg)
+---
+title: Die Wikipedia als Kunst
+slug: die-wikipedia-als-kunst
+tags:
+- art
+- opensource
+- plotter
+- wikipedia
+date: "2012-11-09T19:07:00+01:00"
+author: marvin
+draft: false
+---
+![wikipediaplotter](/images/wikipediaplotter.jpg)
 
 Es ist schon lange her das ich was in der Wikipedia geschrieben habe.
 Schade eigentlich. In meinen Augen ist die Wikipedia das Werk welches
@@ -29,7 +34,6 @@ montiert](http://www.dezeen.com/2012/10/16/open-source-architecture-manifesto-by
 der alle Edits und Eingriffe in den Artikel aufschreibt und verarbeitet.
 In Realtime. Was ein schönes Ding.
 
-{% vimeo 52995677 %}
+{{< vimeo 52995677 >}}
 
 ([via](http://www.kotzendes-einhorn.de/blog/2012-11/open-source-architecture-manifesto-ein-wikipedia-artikel-als-kunst-installation/))
-

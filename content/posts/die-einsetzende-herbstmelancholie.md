@@ -1,11 +1,14 @@
-Title: Die einsetzende Herbstmelancholie
-Date: 2013-09-12 11:18
-Author: marvin
-Category: Uncategorized
-Tags: music, photography
-Slug: die-einsetzende-herbstmelancholie
-
-![Holga]({static}/images/4873456826_4434964a64_b.jpg)
+---
+title: Die einsetzende Herbstmelancholie
+slug: die-einsetzende-herbstmelancholie
+tags:
+- music
+- photography
+date: "2013-09-12T12:18:00+02:00"
+author: marvin
+draft: false
+---
+![Holga](/images/4873456826_4434964a64_b.jpg)
 
 So sehr man auf den Sommer hin gesehnt hat so schnell ist er dann auch
 wieder gegangen. Gestern saß ich sogar wieder mit langer Hose und
@@ -18,5 +21,4 @@ die Zeit nach dem Sommer bedeutet. Und wieder mal habe ich zu wenig im
 Sommer fotografiert. Der ewige Kampf. Dafür habe ich hier den Soundtrack
 zur heutigen Stimmung...
 
-{% youtube Hdox2Kfe31A %}
-
+{{< youtube Hdox2Kfe31A >}}

@@ -1,9 +1,12 @@
-Title: Christine
-Date: 2011-10-31 08:05
-Author: marvin
-Category: post
-Tags: nikonf801, photography, rodinal
-Slug: christine
-
-![img594]({static}/images/6283091896_a3af9a5a45_b.jpg)
-
+---
+title: Christine
+slug: christine
+tags:
+- nikonf801
+- photography
+- rodinal
+date: "2011-10-31T08:05:00+01:00"
+author: marvin
+draft: false
+---
+![img594](/images/6283091896_a3af9a5a45_b.jpg)

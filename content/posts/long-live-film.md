@@ -1,11 +1,16 @@
-Title: Long Live Film
-Date: 2013-09-20 09:49
-Author: marvin
-Category: Uncategorized
-Tags: documentary, kodak, photography, rodinal
-Slug: long-live-film
-
-![img391]({static}/images/6147081764_b04fd7117d_b.jpg)
+---
+title: Long Live Film
+slug: long-live-film
+tags:
+- documentary
+- kodak
+- photography
+- rodinal
+date: "2013-09-20T10:49:00+02:00"
+author: marvin
+draft: false
+---
+![img391](/images/6147081764_b04fd7117d_b.jpg)
 
 Ich liebe Film. Und auch wenn ich in manchen Situationen Digital zu
 schätzen weiß, bleibt Film das Material meiner Wahl. Ich glaube es ist
@@ -31,5 +36,4 @@ Lab](https://www.facebook.com/indiefilmlab) einen Dokumentarfilm
 gedreht. Und wie könnte es anders sein, dreht sich alles um die Liebe
 zum Film. Ich hoffe das ich ihn irgendwann mal sehen kann.
 
-{% youtube TdmozD2eBp8 %}
-
+{{< youtube TdmozD2eBp8 >}}

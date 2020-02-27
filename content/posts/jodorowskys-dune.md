@@ -1,11 +1,16 @@
-Title: Jodorowskys Dune
-Date: 2014-03-14 11:43
-Author: marvin
-Category: Uncategorized
-Tags: davidlynch, dune, lsd, movies
-Slug: jodorowskys-dune
-
-[![cc-by Sam Howzit]({static}/images/3456998345_503c0130ea_b.jpg)](https://secure.flickr.com/photos/aloha75/3456998345/)
+---
+title: Jodorowskys Dune
+slug: jodorowskys-dune
+tags:
+- davidlynch
+- dune
+- lsd
+- movies
+date: "2014-03-14T11:43:00+01:00"
+author: marvin
+draft: false
+---
+[![cc-by Sam Howzit](/images/3456998345_503c0130ea_b.jpg)](https://secure.flickr.com/photos/aloha75/3456998345/)
 
 An der DUNE-Verfilmung von David Lynch scheiden sich ja die Geister.
 Inklusive David Lynch selber der teilweise noch nicht mal in den Credits
@@ -19,5 +24,4 @@ Tradition von gescheiterten Filmprojekten. Über diesen gibt es eine
 Dokumentation. Die ist noch nicht draußen und ich habe sie noch nicht
 gesehen, aber der Trailer sagt mir, dass er großartig wird. Yeah.
 
-{% youtube 4WWu1kclNDA %}
-
+{{< youtube 4WWu1kclNDA >}}

@@ -1,10 +1,13 @@
-Title: Eat The Document
-Date: 2012-01-12 09:17
-Author: marvin
-Category: post
-Tags: bobdylan, music
-Slug: eat-the-document
-
+---
+title: Eat The Document
+slug: eat-the-document
+tags:
+- bobdylan
+- music
+date: "2012-01-12T09:17:00+01:00"
+author: marvin
+draft: false
+---
 Wahnsinn wie ich mich über diesen Upload freue. Bob Dylans "Eat The
 Document" ist nun endlich online. Der, von Bob Dylan selber
 geschnittene, Dokumentar Film über seine Europa Tournee 1966. Ja genau,
@@ -26,5 +29,4 @@ beobachtete ich alte VHS Bootlegs auf Ebay...diese Zeiten sind nun
 vorbei...solange uns die GEMA Mafia keinen Strich durch die Rechnung
 macht. Genießt es solange es geht...und macht Privatkopien ;-)
 
-{% youtube eQ5f0xAHs7g %}
-
+{{< youtube eQ5f0xAHs7g >}}

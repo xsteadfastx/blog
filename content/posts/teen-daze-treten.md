@@ -1,14 +1,17 @@
-Title: Teen Daze - Treten
-Date: 2012-08-08 11:49
-Author: marvin
-Category: Uncategorized
-Tags: animals, music, teendaze
-Slug: teen-daze-treten
-
-![588073]({static}/images/588073.jpg)
+---
+title: Teen Daze - Treten
+slug: teen-daze-treten
+tags:
+- animals
+- music
+- teendaze
+date: "2012-08-08T12:49:00+02:00"
+author: marvin
+draft: false
+---
+![588073](/images/588073.jpg)
 
 Ein ganz wunderbar verträumtes Video von Teen Daze zu dem Track
 "Treten"...ach ja...Urlaub und so...
 
-{% youtube _PtjWdgOwMs %}
-
+{{< youtube _PtjWdgOwMs >}}

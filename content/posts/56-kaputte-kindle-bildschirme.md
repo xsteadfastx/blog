@@ -1,11 +1,15 @@
-Title: 56 kaputte Kindle Bildschirme
-Date: 2012-09-10 10:21
-Author: marvin
-Category: Uncategorized
-Tags: art, books, kindle
-Slug: 56-kaputte-kindle-bildschirme
-
-![725623]({static}/images/725623.jpg)
+---
+title: 56 kaputte Kindle Bildschirme
+slug: 56-kaputte-kindle-bildschirme
+tags:
+- art
+- books
+- kindle
+date: "2012-09-10T11:21:00+02:00"
+author: marvin
+draft: false
+---
+![725623](/images/725623.jpg)
 
 Seit Jahren wiege ich ab ob ich nun wirklich ein Kindle brauche oder
 nicht. Zu sehr bin ich verliebt in Bücher. Vor allem auch alte,
@@ -35,7 +39,6 @@ Bilder von den Bildschirmen gesammelt und als Buch veröffentlicht.
 Die Schönheit im Fehler. Sie ist doch stärker vorhanden als wir oft
 denken.
 
-{% vimeo 48643156 %}
+{{< vimeo 48643156 >}}
 
 ([via](http://boingboing.net/2012/09/09/56-broken-kindle-screens-book.html))
-

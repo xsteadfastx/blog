@@ -1,11 +1,16 @@
-Title: Wie judenfeindlich ist Deutschland?
-Date: 2013-10-30 10:34
-Author: marvin
-Category: Uncategorized
-Tags: antisemitism, germany, judaism, politics
-Slug: wie-judenfeindlich-ist-deutschland
-
-![DSC\_0058]({static}/images/3132266905_5e035cb1c8_b.jpg)
+---
+title: Wie judenfeindlich ist Deutschland?
+slug: wie-judenfeindlich-ist-deutschland
+tags:
+- antisemitism
+- germany
+- judaism
+- politics
+date: "2013-10-30T10:34:00+01:00"
+author: marvin
+draft: false
+---
+![DSC\_0058](/images/3132266905_5e035cb1c8_b.jpg)
 
 Die Antwort ist "erschreckend sehr". Und hier geht es nicht um die
 offensichtlichen Anschuldigungen und Brunnenvergifter-Mythen. Wie oft
@@ -21,5 +26,4 @@ What the fuck?
 Das Erste hat nun eine Dokumentation zu Antisemitismus in Deutschland
 gezeigt. Zum heulen...
 
-{% youtube ZqkY-JIKPM8 %}
-
+{{< youtube ZqkY-JIKPM8 >}}

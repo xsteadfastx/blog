@@ -1,11 +1,16 @@
-Title: 20 Jahre zapatistischer Aufstand
-Date: 2014-01-15 10:17
-Author: marvin
-Category: Uncategorized
-Tags: ezln, mexico, politics, vice
-Slug: 20-jahre-zapatistischer-aufstand
-
-[![cc-by-sa Jose Villa]({static}/images/SubMarcosHorseFromAfar.jpg)](https://commons.wikimedia.org/wiki/File:SubMarcosHorseFromAfar.jpg)
+---
+title: 20 Jahre zapatistischer Aufstand
+slug: 20-jahre-zapatistischer-aufstand
+tags:
+- ezln
+- mexico
+- politics
+- vice
+date: "2014-01-15T10:17:00+01:00"
+author: marvin
+draft: false
+---
+[![cc-by-sa Jose Villa](/images/SubMarcosHorseFromAfar.jpg)](https://commons.wikimedia.org/wiki/File:SubMarcosHorseFromAfar.jpg)
 
 > "Are you going to win?" the journalist asked the rebel.
 >
@@ -41,5 +46,4 @@ Nun ist der zapatistische Aufstand in Mexiko schon über 20 Jahre her.
 Vice hat dazu eine kurze Dokumentation veröffentlicht. Und mal
 ehrlich... wie super ist das Foto vom Subcomandante?
 
-{% youtube 3HAw8vqczJw %}
-
+{{< youtube 3HAw8vqczJw >}}

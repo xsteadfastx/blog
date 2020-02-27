@@ -1,11 +1,16 @@
-Title: Fallen Astronaut
-Date: 2013-01-08 16:32
-Author: marvin
-Category: Uncategorized
-Tags: art, moon, nasa, paulvanhoeydonck
-Slug: fallen-astronaut
-
-![Fallen_Astronaut]({static}/images/Fallen_Astronaut.jpg)
+---
+title: Fallen Astronaut
+slug: fallen-astronaut
+tags:
+- art
+- moon
+- nasa
+- paulvanhoeydonck
+date: "2013-01-08T16:32:00+01:00"
+author: marvin
+draft: false
+---
+![Fallen_Astronaut](/images/Fallen_Astronaut.jpg)
 
 Ich glaube man hat es wirklich geschafft wenn man ein Kunstwerk auf den
 Mond platzieren kann. Paul Van Hoeydonck hat bei einer Party den Apollo
@@ -31,4 +36,3 @@ abgegriffen. Seine Skulptur ist auf dem Mond gelandet...YEAH...
 > <cite>[Wikipedia](https://de.wikipedia.org/wiki/Fallen_Astronaut)</cite>
 
 ([via](http://laughingsquid.com/fallen-astronaut-a-figure-sculpture-that-was-left-on-the-moon-in-1971/))
-

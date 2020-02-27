@@ -1,10 +1,17 @@
-Title: Spraynard - Mable
-Date: 2015-08-24 16:34
-Slug: spraynard-mable
-Tags: spraynard, music, jadetree
+---
+title: Spraynard - Mable
+slug: spraynard-mable
+tags:
+- spraynard
+- music
+- jadetree
+date: "2015-08-24T17:34:00+02:00"
+author: marvin
+draft: false
+---
 Description: Spraynards tolles neues Album
 
-![Spraynard - Mable]({static}/images/spraynard-mable.jpg)
+![Spraynard - Mable](/images/spraynard-mable.jpg)
 
 Schön das [Jade Tree](http://www.jadetree.com/) in letzter Zeit wieder Sachen released. Unter anderem dieses tolle Werk von der Band Spraynard. Und es gibt sie doch wieder... diese tollen 90er "Emo-Punk"-Bands. Es fällt mir schwer das Genre besser zu beschreiben. Ihr wisst was ich meine. Also einfach mal Geld in ihre Richtung werfen bitte.
 

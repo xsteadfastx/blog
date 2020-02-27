@@ -1,8 +1,0 @@
-{
-	"repo_name": "content",
-	"title": "Title",
-	"slug": "{{ cookiecutter.title|slug }}",
-	"tags": "tags, goes, here",
-	"date": "{{ cookieicutter.date }}",
-        "_extensions": ["jinja2_slug.SlugExtension"]
-}

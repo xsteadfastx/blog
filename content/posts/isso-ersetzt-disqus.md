@@ -1,8 +1,17 @@
-Title: Isso ersetzt Disqus 
-Slug: isso-ersetzt-disqus 
-Date: 2014-02-03 13:56
-Tags: disqus, isso, blog, supervisor, gunicorn, nginx
-
+---
+title: 'Isso ersetzt Disqus '
+slug: 'isso-ersetzt-disqus '
+tags:
+- disqus
+- isso
+- blog
+- supervisor
+- gunicorn
+- nginx
+date: "2014-02-03T13:56:00+01:00"
+author: marvin
+draft: false
+---
 
 Disqus ist böse. Zumindestens geht das gerade ganz schön durch die Blogosphere. Mal davon abgesehen bin ich immer Fan vieles selber zuhosten. Gerade wenn man darauf steht vieles auszuprobieren und nach Alternativen zu stöbern. [bl1nk](http://kuchen.io/) hat mich dabei auf [Isso](http://posativ.org/isso/) aufmerksam gemacht. Also stand das Ganze auf meiner Liste der Sachen die ich mit Pelican machen wollte. Und schon ging es los. Das ganze sollte in einer [virtualenv](http://www.virtualenv.org)-Umgebung laufen, mit [Supervisor](http://supervisord.org/) und [gunicorn](http://gunicorn.org/) gestartet werden und durch [NGINX](http://nginx.org/) geschleust werden.
 

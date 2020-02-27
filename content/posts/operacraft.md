@@ -1,11 +1,13 @@
-Title: OPERAcraft
-Date: 2013-12-06 09:54
-Author: marvin
-Category: Uncategorized
-Tags: minecraft
-Slug: operacraft
-
-![minecraftopera]({static}/images/minecraftopera.jpg)
+---
+title: OPERAcraft
+slug: operacraft
+tags:
+- minecraft
+date: "2013-12-06T09:54:00+01:00"
+author: marvin
+draft: false
+---
+![minecraftopera](/images/minecraftopera.jpg)
 
 Ich bin ja kein Gamer. Ich habe das Gefühl das ich einfach zu schlecht
 dafür bin. Viel zu oft habe ich frustriert den Controller beiseite
@@ -41,4 +43,3 @@ Ich bin Fan.
 Ihr müsst auf Minute 20 springen. Vorher passiert nicht viel.
 
 <iframe src="http://new.livestream.com/accounts/6221035/events/2565769/videos/36459149/player?autoPlay=false&amp;height=360&amp;mute=false&amp;width=640" width="640" height="360" frameborder="0" scrolling="no"></iframe>
-

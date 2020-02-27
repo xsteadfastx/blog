@@ -1,10 +1,13 @@
-Title: Baths - Ocean Death
-Date: 2014-04-29 14:10
-Author: marvin
-Category: Uncategorized
-Tags: baths, music
-Slug: baths-ocean-death
-
+---
+title: Baths - Ocean Death
+slug: baths-ocean-death
+tags:
+- baths
+- music
+date: "2014-04-29T15:10:00+02:00"
+author: marvin
+draft: false
+---
 Die erste neue Single von Baths. Melancholisch ohne Ende mit einem Break
 aus Meeresrauschen.
 

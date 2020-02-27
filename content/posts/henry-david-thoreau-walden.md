@@ -1,11 +1,19 @@
-Title: Henry David Thoreau - Walden
-Date: 2013-01-07 13:22
-Author: marvin
-Category: Uncategorized
-Tags: books, ebooks, epub, henrydavidthoreau, kindle, mobi, walden
-Slug: henry-david-thoreau-walden
-
-![Henry_David_Thoreau]({static}/images/Henry_David_Thoreau.jpg)
+---
+title: Henry David Thoreau - Walden
+slug: henry-david-thoreau-walden
+tags:
+- books
+- ebooks
+- epub
+- henrydavidthoreau
+- kindle
+- mobi
+- walden
+date: "2013-01-07T13:22:00+01:00"
+author: marvin
+draft: false
+---
+![Henry_David_Thoreau](/images/Henry_David_Thoreau.jpg)
 
 Was ein Buch. Wer danach nicht die Lust verspührt sich an einem See eine
 kleine Hütte zubauen um den Alltag hinter sich zu lassen, den kann ich
@@ -28,4 +36,3 @@ Download
 
 -   [EPUB](https://docs.google.com/open?id=0B444B1kAH80sU2MtaXB5VkJjeUk)
 -   [MOBI](https://docs.google.com/open?id=0B444B1kAH80saVBWTWtlYS1Qa0U)
-

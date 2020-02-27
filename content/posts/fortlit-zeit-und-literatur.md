@@ -1,8 +1,16 @@
-Title: fortlit: Zeit und Literatur
-Date: 2018-08-08 13:55
-Slug: fortlit-zeit-und-literatur
-Tags: linux, literature, books, code, python
-
+---
+title: 'fortlit: Zeit und Literatur'
+slug: fortlit-zeit-und-literatur
+tags:
+- linux
+- literature
+- books
+- code
+- python
+date: "2018-08-08T14:55:00+02:00"
+author: marvin
+draft: false
+---
 Ich bin auf einen [Blogartikel](https://www.instructables.com/id/Literary-Clock-Made-From-E-reader/) zu einer Kindle basierten Uhr gestossen. Darin beschreibt [Jaap Meijers](http://www.eerlijkemedia.nl/) wie er zu jeder Uhrzeit ein Zitat aus der Literatur auf dem Kindle darstellt. Er nutzt dazu [Daten des Guardians](https://www.theguardian.com/books/table/2011/apr/21/literary-clock?CMP=twt_gu), die Zeiten aus Büchern sammeln ließen. Sein Projekt inspirierte [JohannesNE](https://github.com/JohannesNE/literature-clock) zu einer [Webversion](http://jenevoldsen.com/literature-clock/). Ich wieder rum wollte dies nutzen um mir bei jedem Shell Aufruf mir das passende Zitat zu der aktuellen Zeit anzeigen zu lassen. Daraus entstand [fortlit](https://github.com/xsteadfastx/fortlit). Ein kleines Python Script, welches man in die Shell seiner Wahl einbauen kann. Ich habe die Daten ein wenig gesäubert und ein schönes JSON daraus gebaut. Für die Einfachheit gibt es auch ein [PEX](https://github.com/pantsbuild/pex)-File. Viel Spaß!
 
 Der Name ist eine Anlehnung an das kleine Programm [Fortune](https://de.wikipedia.org/wiki/Fortune_(Computerprogramm)).

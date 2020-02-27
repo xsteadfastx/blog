@@ -1,10 +1,15 @@
-Title: Sich eine kleine Insel zulegen sie über Jahrzehnte...
-Date: 2012-05-02 09:25
-Author: marvin
-Category: Uncategorized
-Tags: animals, brendongrimshaw, fernweh, nature
-Slug: sich-eine-kleine-insel-zulegen-sie-uber-jahrzehnte
-
+---
+title: Sich eine kleine Insel zulegen sie über Jahrzehnte...
+slug: sich-eine-kleine-insel-zulegen-sie-uber-jahrzehnte
+tags:
+- animals
+- brendongrimshaw
+- fernweh
+- nature
+date: "2012-05-02T10:25:00+02:00"
+author: marvin
+draft: false
+---
 Sich eine kleine Insel zulegen, sie über Jahrzehnte hegen und pflegen,
 Riesenschildkröten züchten und dort zum großteil alleine leben. All das
 macht der 86 Jahre alte Brendon Grimshaw. Ein Lebenstraum...
@@ -23,7 +28,6 @@ macht der 86 Jahre alte Brendon Grimshaw. Ein Lebenstraum...
 
 - [Wikipedia](http://en.wikipedia.org/wiki/Moyenne_Island)
 
-{% youtube vdqTmBGcg3M %}
+{{< youtube vdqTmBGcg3M >}}
 
 ([via](http://twentytwowords.com/2012/05/01/86-year-old-lives-alone-on-his-island-reintroducing-indigenous-giant-tortoises/))
-

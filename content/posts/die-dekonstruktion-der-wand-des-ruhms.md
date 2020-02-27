@@ -1,11 +1,17 @@
-Title: Die Dekonstruktion der Wand des Ruhms
-Date: 2018-05-30 20:13
-Slug: die-dekonstruktion-der-wand-des-ruhms
-Tags: graffiti, wolfsburg, essay
-
+---
+title: Die Dekonstruktion der Wand des Ruhms
+slug: die-dekonstruktion-der-wand-des-ruhms
+tags:
+- graffiti
+- wolfsburg
+- essay
+date: "2018-05-30T21:13:00+02:00"
+author: marvin
+draft: false
+---
 *Dieser Text war seit Februar in meinem Editor offen. Der Abriss der Hall of Fame in der Wolfsburger Dieselstraße und meiner Empathie ihr gegenüber, jeden Morgen auf dem Weg zur Arbeit, ließ mich daran zurück denken, was ich dort einst erlebt hatte. Ich sehe jeden Tag die Veränderungen in dieser Stadt und frage mich was Stein und Beton mit einem einem Gefühl von Zuhause gemein hat. Oft sind es genau diese leblosen Materialen, die einen umarmen wenn es kein Anderer tut.*
 
-![Dekonstruktion]({static}/images/hall_of_fame.jpg)
+![Dekonstruktion](/images/hall_of_fame.jpg)
 
 Veränderung ist unaufhaltbar, sie schmerzt und die Realisierung davon ist Teil des Erwachsenseins. Ein gelebter Stumpfsinn, nicht mehr das auf der Haut kleben zu haben was dort einmal war. Die Teenagerjahre, Hormone, alles intensiver wahrzunehmen. Nichts scheint ohne Grund in diese Welt, dieser Stadt, materialisiert worden zu sein. Jede Stumpfheit des Lichts scheint in sommerlichen Nächten nur für einen selber, für seine Sehnsüchte, die Person die neben einem sitzt, oder es eben nicht, weil sie nichts von einem weiss. Seiner Stadt die Liebe zu erweisen, die sie sonst nicht hat, das Auszudrücken in purem Vandalismus und doch nicht mutig genug alle Wände voll zu malen. Aber es gab da diese eine Wand. Schicht und Schicht wächst sich aus sich selber heraus. Lack wächst und wächst, bis das eigene Gewicht sie zum Einsturz bringt.
 
@@ -28,5 +34,3 @@ Es war Heiligabend und der Spätgottesdienst war zu ende. Wir schloßen uns in u
 Ich bin erwachsen, sträube mich jeden Tag und ergebe mich dem Fakt im nächsten Moment wieder. Ich fahre auf meinem Fahrrad durch die Straßen dieser Stadt und halte Ausschau nach den Bildern die mir so viel bedeuten. Es sind nicht viele mehr übrig. Irgendwann kamen die großen Farbspritzpistolen, durch riesige Kompressoren angetrieben, mit weißer Farbe gefüllt und zerstörten diese Bilder. Ich habe Angst ihre Linien mehr und mehr zu vermissen. Die Tags von MET, MOX, 3PS, die kleinen Throw Ups verblassen mehr und mehr. Aus dem Inneren heraus zerfällt ihre Farbe, der Lack hält doch nicht so ewig wie wir alle dachten. Am Ende meines morgendlichen Weg zur Arbeit stand diese Wand. Meine Wand, frei von Besitzansprüchen, eher meine Wand, Erinnerung die mit ihr verbunden waren und immer noch sind. Es hat nur ein paar Tage gedauert, erst stand nur noch die Aussenwand, dann fuhren große Baumaschinen auf dem Staub den sie selber produziert haben. Nichts ist nun mehr übrig.
 
 Die Stadt war vielleicht einmal bunter, gefüllter von anderen Geistern. Vielleicht ist es auch das was jeder empfindet wenn er an die Städte seiner Jugend denkt, an die Wände, die Straßen und die Lichter. Alles ist überzogen mit süßestem Zucker aus Schmerz und der wundervollsten Art von Melancholie. Beißt man in die Erinnerung knackt es, und die Nervenenden zucken, wunderbar vom Schmerz verzerrt. Ich vermisse mich und diesen Stolz. Nun sind es Peinlichkeiten die man kaum herum erzählen möchte. Doch sie sind passiert, es gab sie, und ich halte daran fest.
-
-

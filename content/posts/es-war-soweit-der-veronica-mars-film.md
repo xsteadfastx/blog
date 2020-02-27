@@ -1,11 +1,15 @@
-Title: Es war soweit: Der Veronica Mars Film
-Date: 2014-03-26 12:46
-Author: marvin
-Category: Uncategorized
-Tags: kickstarter, movies, veronicamars
-Slug: es-war-soweit-der-veronica-mars-film
-
-![eyeemfiltered1395833088887]({static}/images/eyeemfiltered1395833088887.jpg)
+---
+title: 'Es war soweit: Der Veronica Mars Film'
+slug: es-war-soweit-der-veronica-mars-film
+tags:
+- kickstarter
+- movies
+- veronicamars
+date: "2014-03-26T12:46:00+01:00"
+author: marvin
+draft: false
+---
+![eyeemfiltered1395833088887](/images/eyeemfiltered1395833088887.jpg)
 
 Kurz vor dem ins Bett gehen, Donnerstag Abend, dachte ich mir ruhig:
 Morgen werde ich den Film sehen. Und ich konnte es ehrlich gesagt
@@ -51,4 +55,3 @@ raus gekommen und eine eventuell kommt eine Dick-Spin-Off.
 
 Manchmal schaue ich mir nur noch mal die Pilot-Episode an. So ganz als
 ob das Beste erst angefangen hat und alles vor einem liegt.
-

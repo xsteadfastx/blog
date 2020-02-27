@@ -1,11 +1,15 @@
-Title: "It's a UNIX system! I know this!"
-Date: 2014-03-03 15:58
-Author: marvin
-Category: Uncategorized
-Tags: jurassicpark, movies, unix
-Slug: its-a-unix-system-i-know-this
-
-![itsaunixsystem]({static}/images/itsaunixsystem.jpg)
+---
+title: '"It''s a UNIX system! I know this!"'
+slug: its-a-unix-system-i-know-this
+tags:
+- jurassicpark
+- movies
+- unix
+date: "2014-03-03T15:58:00+01:00"
+author: marvin
+draft: false
+---
+![itsaunixsystem](/images/itsaunixsystem.jpg)
 
 Ja ich stehe total auf Jurassic Park. Und schon als kleiner Knirps hatte
 ich viele Sympathien für denn dicken "Nerd", der in der Jurassic Park
@@ -19,7 +23,6 @@ Meme geworden.
 Nun hat jemand dieses System, für den Browser, nach gebaut. Ich bin
 sowas von Fan. [Viel Spaß](http://www.jurassicsystems.com/).
 
-{% youtube dFUlAQZB9Ng %}
+{{< youtube dFUlAQZB9Ng >}}
 
-{% youtube RfiQYRn7fBg %}
-
+{{< youtube RfiQYRn7fBg >}}

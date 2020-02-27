@@ -1,10 +1,15 @@
-Title: vinylmania
-Date: 2011-11-04 11:35
-Author: marvin
-Category: post
-Tags: arte, documentary, music, vinyl
-Slug: vinylmania
-
+---
+title: vinylmania
+slug: vinylmania
+tags:
+- arte
+- documentary
+- music
+- vinyl
+date: "2011-11-04T11:35:00+01:00"
+author: marvin
+draft: false
+---
 Gestern habe ich durch Zufall eine Dokumentation über Vinyl auf Arte
 gesehen. Da ich dem Vinyl ja auch liebe und schätze war ich gleich hin
 und weg. Es geht um Plattenläden, DJs und vor allem Sammlern...und was
@@ -19,4 +24,3 @@ gerne mal zu sabbern anfängt...
 </embed>
 </object>
 </p>
-

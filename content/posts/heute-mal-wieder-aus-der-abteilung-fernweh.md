@@ -1,11 +1,16 @@
-Title: Heute mal wieder aus der Abteilung  Fernweh...
-Date: 2012-04-26 10:02
-Author: marvin
-Category: Uncategorized
-Tags: arestlesstransplant, fernweh, photography, surfing
-Slug: heute-mal-wieder-aus-der-abteilung-fernweh
-
-![IMG_4729]({static}/images/IMG_4729.jpg)
+---
+title: Heute mal wieder aus der Abteilung  Fernweh...
+slug: heute-mal-wieder-aus-der-abteilung-fernweh
+tags:
+- arestlesstransplant
+- fernweh
+- photography
+- surfing
+date: "2012-04-26T11:02:00+02:00"
+author: marvin
+draft: false
+---
+![IMG_4729](/images/IMG_4729.jpg)
 
 Heute mal wieder aus der Abteilung "Fernweh". Foster Huntington kündigt
 seinen Job um sich von seinem Geld einen alten VW Bus (\<3) zu kaufen.
@@ -16,4 +21,3 @@ nicht...noch nicht...
 
 Es lohnt absolut sein [Blog](http://www.arestlesstransplant.com/) "A
 Restless Transplant" zu lesen...
-

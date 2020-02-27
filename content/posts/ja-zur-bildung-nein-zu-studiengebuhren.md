@@ -1,11 +1,15 @@
-Title: JA zur Bildung – NEIN zu Studiengebühren
-Date: 2013-01-25 10:47
-Author: marvin
-Category: Uncategorized
-Tags: bayern, hartz4, politics
-Slug: ja-zur-bildung-nein-zu-studiengebuhren
-
-![LAY_VB_Twitter_00]({static}/images/LAY_VB_Twitter_00.png)
+---
+title: JA zur Bildung – NEIN zu Studiengebühren
+slug: ja-zur-bildung-nein-zu-studiengebuhren
+tags:
+- bayern
+- hartz4
+- politics
+date: "2013-01-25T10:47:00+01:00"
+author: marvin
+draft: false
+---
+![LAY_VB_Twitter_00](/images/LAY_VB_Twitter_00.png)
 
 Es wird Zeit die Studiengebühren abzuschaffen. Für mich ist es ein
 gescheitertes Experiment was so nicht statt finden hätte dürfen. Und da
@@ -24,4 +28,3 @@ Also Leute... auf ins Amt... unterschreiben...!
 -   [Wo kann ich für das Volksbegehren gegen Studiengebühren
     unterschreiben?](http://wo-unterschreiben.de/)
 -   [Mehr Informationen](http://volksbegehren-studiengebuehren.de/)
-

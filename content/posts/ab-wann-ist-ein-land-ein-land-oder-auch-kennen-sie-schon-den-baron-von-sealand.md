@@ -1,11 +1,14 @@
-Title: Ab wann ist ein Land ein Land oder auch "Kennen Sie schon den Baron von Sealand"
-Date: 2012-04-04 10:35
-Author: marvin
-Category: post
-Tags: politics, sealand
-Slug: ab-wann-ist-ein-land-ein-land-oder-auch-kennen-sie-schon-den-baron-von-sealand
-
-![Sealandafterfire2]({static}/images/Sealandafterfire2.jpg)
+---
+title: Ab wann ist ein Land ein Land oder auch "Kennen Sie schon den Baron von Sealand"
+slug: ab-wann-ist-ein-land-ein-land-oder-auch-kennen-sie-schon-den-baron-von-sealand
+tags:
+- politics
+- sealand
+date: "2012-04-04T11:35:00+02:00"
+author: marvin
+draft: false
+---
+![Sealandafterfire2](/images/Sealandafterfire2.jpg)
 
 Es war mal eine kleine künstliche Insel vor der Küste Englands. Sie
 wurde in der Zeit des zweiten Weltkriegs zur Abwehr gegen deutsche
@@ -47,7 +50,6 @@ die meine ich damit nicht. Die Freiheit ist das was mich beeindruckt.
 Den Lebensraum zu nehmen der uns gehören sollte. Vielleicht spricht auch
 gerade nur der Besetzer-Romantiker aus mir...
 
-{% youtube 3qv67cqQHLU %}
+{{< youtube 3qv67cqQHLU >}}
 
-{% youtube cMk9vqm8a4I %}
-
+{{< youtube cMk9vqm8a4I >}}

@@ -1,11 +1,14 @@
-Title: joseph beuys - sonne statt reagan
-Date: 2011-11-25 09:48
-Author: marvin
-Category: post
-Tags: art, josephbeuys, music
-Slug: joseph-beuys-sonne-statt-reagan
-
-{% youtube DQ1_ALxGbGk %}
+---
+title: joseph beuys - sonne statt reagan
+slug: joseph-beuys-sonne-statt-reagan
+tags:
+- art
+- josephbeuys
+- music
+date: "2011-11-25T09:48:00+01:00"
+author: marvin
+draft: false
+---
+{{< youtube DQ1_ALxGbGk >}}
 
 Weltklasse!
-

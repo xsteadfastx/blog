@@ -1,10 +1,16 @@
-Title: NASA Graphics Standards Manual
-Date: 2015-09-14 11:00
-Slug: nasa-graphics-standards-manual
-Tags: nasa, design
+---
+title: NASA Graphics Standards Manual
+slug: nasa-graphics-standards-manual
+tags:
+- nasa
+- design
+date: "2015-09-14T12:00:00+02:00"
+author: marvin
+draft: false
+---
 Description: Das NASA Graphics Standards Manual downloaden
 
-![Nasa Graphics Standards Manual]({static}/images/nasa_graphics_standards_manual.jpg)
+![Nasa Graphics Standards Manual](/images/nasa_graphics_standards_manual.jpg)
 
 Letztens noch in der letzten Folge der [Freakshow](http://freakshow.fm/fs160-der-hund-hat-die-datei-gefressen) angesprochen, und schon kann man das NASA Graphics Standards Manuel auch als PDF [runterladen](https://www.nasa.gov/image-feature/nasa-graphics-standards-manual).
 

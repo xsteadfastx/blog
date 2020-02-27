@@ -1,11 +1,14 @@
-Title: TPB AFK: Ist draussen
-Date: 2013-02-13 12:50
-Author: marvin
-Category: Uncategorized
-Tags: documentary, thepiratebay
-Slug: tpb-afk-ist-draussen
-
-![Low-rez]({static}/images/Low-rez.jpg)
+---
+title: 'TPB AFK: Ist draussen'
+slug: tpb-afk-ist-draussen
+tags:
+- documentary
+- thepiratebay
+date: "2013-02-13T12:50:00+01:00"
+author: marvin
+draft: false
+---
+![Low-rez](/images/Low-rez.jpg)
 
 Endlich ist er online. [TPB AFK](http://watch.tpbafk.tv/), der
 Dokumentarfilm über The Pirate Bay und ihre drei, auf der Anklagebank
@@ -17,5 +20,4 @@ Inhalte" zu tauschen, sondern steht als Sinnbild des
 Informationszeitalters. Es ist alles sehr romantisch, und vielleicht
 deswegen so gut.
 
-{% youtube eTOKXCEwo_8 %}
-
+{{< youtube eTOKXCEwo_8 >}}

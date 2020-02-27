@@ -1,11 +1,15 @@
-Title: Angriff der Zombie-Drohnen
-Date: 2013-12-04 19:50
-Author: marvin
-Category: Uncategorized
-Tags: drones, hacking, raspberrypi
-Slug: angriff-der-zombie-drohnen
-
-[![cc-by-sa Max Braun]({static}/images/5376776371_745dc8f877_b.jpg)](https://secure.flickr.com/photos/72645106@N00/5376776371/in/photolist-9c8ohT-8yjAXV#)
+---
+title: Angriff der Zombie-Drohnen
+slug: angriff-der-zombie-drohnen
+tags:
+- drones
+- hacking
+- raspberrypi
+date: "2013-12-04T19:50:00+01:00"
+author: marvin
+draft: false
+---
+[![cc-by-sa Max Braun](/images/5376776371_745dc8f877_b.jpg)](https://secure.flickr.com/photos/72645106@N00/5376776371/in/photolist-9c8ohT-8yjAXV#)
 
 Vor ein paar Tagen krachte die
 [Meldung](http://www.heise.de/newsticker/meldung/Drohnen-sollen-Amazon-Pakete-ausliefern-2058436.html)
@@ -29,5 +33,4 @@ seiner [Seite](http://samy.pl/skyjack/) hat er alle Einzelheiten
 beschrieben. Den [Sourcecode](https://github.com/samyk/skyjack) hat er
 auch veröffentlicht.
 
-{% youtube EHKV01YQX_w %}
-
+{{< youtube EHKV01YQX_w >}}

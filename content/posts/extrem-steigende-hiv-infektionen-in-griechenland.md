@@ -1,10 +1,14 @@
-Title: Extrem steigende HIV-Infektionen in Griechenland
-Date: 2012-03-21 14:46
-Author: marvin
-Category: post
-Tags: griechenland, hiv, politics
-Slug: extrem-steigende-hiv-infektionen-in-griechenland
-
+---
+title: Extrem steigende HIV-Infektionen in Griechenland
+slug: extrem-steigende-hiv-infektionen-in-griechenland
+tags:
+- griechenland
+- hiv
+- politics
+date: "2012-03-21T14:46:00+01:00"
+author: marvin
+draft: false
+---
 Mir fällt es sehr schwer über dieses Thema zu schreiben. Und ehrlich
 gesagt weiß ich gerade garnicht wie ich damit anfangen soll. Kaum eine
 Meldung hat mich die letzte Zeit zu berührt, schockiert wie diese:
@@ -30,4 +34,3 @@ anstecken damit sie Geld vom Staat bekommen. Wenn ich dann sehe wie hier
 die Witze über Griechenland hoch und runter laufen bekomme ich das
 Kotzen. Wo bleibt die Solidarität? Wo das Mitgefühl...oder einfach nur
 die Menschlichkeit?
-

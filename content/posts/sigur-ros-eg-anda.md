@@ -1,14 +1,17 @@
-Title: Sigur Ros - Eg Anda
-Date: 2012-07-19 14:51
-Author: marvin
-Category: Uncategorized
-Tags: music, raminbahrani, sigurros
-Slug: sigur-ros-eg-anda
-
-![509978]({static}/images/509978.jpg)
+---
+title: Sigur Ros - Eg Anda
+slug: sigur-ros-eg-anda
+tags:
+- music
+- raminbahrani
+- sigurros
+date: "2012-07-19T15:51:00+02:00"
+author: marvin
+draft: false
+---
+![509978](/images/509978.jpg)
 
 Wie dankbar ich für Bands wie Sigur Ros bin... und manchmal machen sie
 mich sprachlos...
 
-{% vimeo 45775119 %}
-
+{{< vimeo 45775119 >}}

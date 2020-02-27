@@ -1,11 +1,16 @@
-Title: Das einzig spannende an dem Slomka-Gabriel Duell
-Date: 2013-12-03 10:59
-Author: marvin
-Category: Uncategorized
-Tags: csu, politics, spd, zdf
-Slug: das-einzig-spannende-an-dem-slomka-gabriel-duell
-
-![gabrielslomka]({static}/images/gabrielslomka.jpg)
+---
+title: Das einzig spannende an dem Slomka-Gabriel Duell
+slug: das-einzig-spannende-an-dem-slomka-gabriel-duell
+tags:
+- csu
+- politics
+- spd
+- zdf
+date: "2013-12-03T10:59:00+01:00"
+author: marvin
+draft: false
+---
+![gabrielslomka](/images/gabrielslomka.jpg)
 
 Als ob Gabriel's Empörung und Slomkas Fragen nicht schon peinlich genug
 wären. Ok es war ganz nett. Man ist ja immer dankbar wenn mal etwas
@@ -22,5 +27,4 @@ nicht. Die Parteien sitzen in den Sendern und treffen
 Personalentscheidungen. Da bekommt man schon ein wenig Gänsehaut. Die
 ganz schlimme.
 
-{% youtube Ow-36rH-nY8 %}
-
+{{< youtube Ow-36rH-nY8 >}}

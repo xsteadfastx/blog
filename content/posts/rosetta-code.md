@@ -1,11 +1,14 @@
-Title: Rosetta Code
-Date: 2013-12-26 19:45
-Author: marvin
-Category: Uncategorized
-Tags: coding, rosettastone
-Slug: rosetta-code
-
-[![cc-by-sa Hans Hillewaert]({static}/images/875px-Rosetta_Stone.jpg)](https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG)
+---
+title: Rosetta Code
+slug: rosetta-code
+tags:
+- coding
+- rosettastone
+date: "2013-12-26T19:45:00+01:00"
+author: marvin
+draft: false
+---
+[![cc-by-sa Hans Hillewaert](/images/875px-Rosetta_Stone.jpg)](https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG)
 
 [Der Stein von Rosette](https://de.wikipedia.org/wiki/Stein_von_Rosette)
 ist ein Stein auf dem in drei verschiedenen Sprachen das Priesterdekret,
@@ -18,4 +21,3 @@ Programmieraufgaben in den verschiedenen Sprachen gelöst werden. In
 letzter Zeit programmiere ich wieder mehr. Natürlich auf unterstem
 Niveau aber mit viel Spaß und viel mehr Verzweiflung. Ich stehe einfach
 auf solche Projekte.
-

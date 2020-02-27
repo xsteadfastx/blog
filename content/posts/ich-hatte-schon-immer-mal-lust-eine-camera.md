@@ -1,11 +1,16 @@
-Title: Ich hatte schon immer mal Lust eine Camera...
-Date: 2012-03-15 12:22
-Author: marvin
-Category: status
-Tags: art, cameraobscura, paris, photography
-Slug: ich-hatte-schon-immer-mal-lust-eine-camera
-
-![tumblr_lzps453JAA1roezubo1_r2_1280]({static}/images/tumblr_lzps453JAA1roezubo1_r2_1280.jpg)
+---
+title: Ich hatte schon immer mal Lust eine Camera...
+slug: ich-hatte-schon-immer-mal-lust-eine-camera
+tags:
+- art
+- cameraobscura
+- paris
+- photography
+date: "2012-03-15T12:22:00+01:00"
+author: marvin
+draft: false
+---
+![tumblr_lzps453JAA1roezubo1_r2_1280](/images/tumblr_lzps453JAA1roezubo1_r2_1280.jpg)
 
 Ich hatte schon immer mal Lust eine Camera Obscura zu bauen. Das ist
 natürlich am beeindruckendsten wenn die Projektionsfläche groß genug
@@ -17,5 +22,4 @@ ganze Zimmer abgedunktelt, die Fenster verhüllt und ein Loch in die
 Abdeckung gemacht. Dadurch fiel das Licht in die Wohnung mit einem
 umgedrehten Bild der Stadt die sich vor dem Fenster abspielt.
 
-{% vimeo 37102493 %}
-
+{{< vimeo 37102493 >}}

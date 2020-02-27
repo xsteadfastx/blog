@@ -1,11 +1,16 @@
-Title: The Art of Punk: Black Flag
-Date: 2013-06-13 15:09
-Author: marvin
-Category: Uncategorized
-Tags: art, blackflag, music, punk
-Slug: the-art-of-punk-black-flag
-
-![Blackflag-logo.svg_]({static}/images/Blackflag-logo.svg_.png)
+---
+title: 'The Art of Punk: Black Flag'
+slug: the-art-of-punk-black-flag
+tags:
+- art
+- blackflag
+- music
+- punk
+date: "2013-06-13T16:09:00+02:00"
+author: marvin
+draft: false
+---
+![Blackflag-logo.svg_](/images/Blackflag-logo.svg_.png)
 
 Das Museum of Contemporary Art in Los Angeles hat vor ein paar Tagen die
 erste Folge ihrer Serie "[The Art of
@@ -27,5 +32,4 @@ und so tun als ob ich wieder 16 bin. Danke [Bo
 Bushnell](https://twitter.com/BoBushnell) und [Bryan Ray
 Turcotte](http://killyouridols.com/).
 
-{% youtube N0u04EqNVjo %}
-
+{{< youtube N0u04EqNVjo >}}

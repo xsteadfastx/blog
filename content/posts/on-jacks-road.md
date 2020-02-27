@@ -1,11 +1,18 @@
-Title: On Jack's Road
-Date: 2012-09-30 13:47
-Author: marvin
-Category: Uncategorized
-Tags: arte, documentary, dreams, fernweh, jackkerouac, ontheroad
-Slug: on-jacks-road
-
-![Kerouac_by_Palumbo]({static}/images/Kerouac_by_Palumbo.jpg)
+---
+title: On Jack's Road
+slug: on-jacks-road
+tags:
+- arte
+- documentary
+- dreams
+- fernweh
+- jackkerouac
+- ontheroad
+date: "2012-09-30T14:47:00+02:00"
+author: marvin
+draft: false
+---
+![Kerouac_by_Palumbo](/images/Kerouac_by_Palumbo.jpg)
 
 Gerade bekommt Jack Kerouac's Werk besonders viel Medienbeachtung. Das
 liegt sehr wahrscheinlich an dem bald erscheinenden Film von Walter
@@ -40,7 +47,7 @@ Mehr Infos gibt es
 [hier](http://www.arte.tv/de/on-jack-s-road/6937826,CmC=6937440.html)
 und auf dem [Blog](http://onjacksroad.tumblr.com/) der Dokumentation.
 
-{% vimeo 49404710 %}
+{{< vimeo 49404710 >}}
 
 <p>
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" id="playerArte" allowscriptaccess="always" width="450" height="303">
@@ -58,4 +65,3 @@ und auf dem [Blog](http://onjacksroad.tumblr.com/) der Dokumentation.
 </embed>
 </object>
 </p>
-

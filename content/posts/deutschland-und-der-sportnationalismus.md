@@ -1,10 +1,16 @@
-Title: Deutschland und der Sportnationalismus
-Date: 2012-08-01 12:53
-Author: marvin
-Category: Uncategorized
-Tags: football, germany, olympia, politics, racism
-Slug: deutschland-und-der-sportnationalismus
-
+---
+title: Deutschland und der Sportnationalismus
+slug: deutschland-und-der-sportnationalismus
+tags:
+- football
+- germany
+- olympia
+- politics
+- racism
+date: "2012-08-01T13:53:00+02:00"
+author: marvin
+draft: false
+---
 Carsten Sostmeier kommentierte die Gold-Medaille der deutschen Reiter
 mit folgenden Worten:
 
@@ -43,4 +49,3 @@ Deutschland... wir sind immer noch keine Freunde...
 
 ([via](http://www.spiegel.de/kultur/tv/ard-reporter-sostmeier-zu-olympiasieg-seit-2008-wird-zurueckgeritten-a-847447.html),
 [via](http://www.spiegel.de/kultur/tv/innerer-reichsparteitag-fuer-klose-spruch-von-zdf-moderatorin-loest-protest-aus-a-700458.html))
-

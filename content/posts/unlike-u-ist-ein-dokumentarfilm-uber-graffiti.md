@@ -1,11 +1,17 @@
-Title:  Unlike U ist ein Dokumentarfilm über Graffiti...
-Date: 2012-06-19 13:38
-Author: marvin
-Category: Uncategorized
-Tags: art, berlin, documentary, graffiti, unlikeu
-Slug: unlike-u-ist-ein-dokumentarfilm-uber-graffiti
-
-![392448]({static}/images/392448.png)
+---
+title: ' Unlike U ist ein Dokumentarfilm über Graffiti...'
+slug: unlike-u-ist-ein-dokumentarfilm-uber-graffiti
+tags:
+- art
+- berlin
+- documentary
+- graffiti
+- unlikeu
+date: "2012-06-19T14:38:00+02:00"
+author: marvin
+draft: false
+---
+![392448](/images/392448.png)
 
 "Unlike U" ist ein Dokumentarfilm über Graffiti auf Zügen in Berlin. Ich
 hatte den Film schon vor einigen Monaten geschaut und war wirklich
@@ -35,7 +41,6 @@ verboten.
 Jemand hat seine Privatkopie des Films bei Youtube hochgeladen...böse
 Buben ihr...
 
-{% youtube aDFlghRGkRU   %}
+{{< youtube aDFlghRGkRU   >}}
 
 ([via](http://ilovegraffiti.de/blog/2012/06/11/urteil-landgericht-berlin-verbietet-unlike-u/))
-

@@ -1,11 +1,16 @@
-Title: September Leaves auf Island
-Date: 2012-07-09 12:04
-Author: marvin
-Category: Uncategorized
-Tags: fernweh, island, music, septemberleaves
-Slug: september-leaves-auf-island
-
-![467163]({static}/images/467163.jpg)
+---
+title: September Leaves auf Island
+slug: september-leaves-auf-island
+tags:
+- fernweh
+- island
+- music
+- septemberleaves
+date: "2012-07-09T13:04:00+02:00"
+author: marvin
+draft: false
+---
+![467163](/images/467163.jpg)
 
 Wie lange will ich eigentlich schon nach Island? Und wenn ich diese
 Bilder sehe, gepaart mit dieser Musik, weiß ich wieso mich dieses
@@ -14,5 +19,4 @@ hören?
 
 Danke September Leaves...
 
-{% vimeo 45351562 %}
-
+{{< vimeo 45351562 >}}

@@ -1,11 +1,16 @@
-Title: Ferrero und der Sumpf aus Kackscheisse
-Date: 2012-08-22 13:47
-Author: marvin
-Category: Uncategorized
-Tags: bild, ferrero, politics, sexism
-Slug: ferrero-und-der-sumpf-aus-kackscheisse
-
-![hanutamaedchen_balken]({static}/images/hanutamaedchen_balken.jpg)
+---
+title: Ferrero und der Sumpf aus Kackscheisse
+slug: ferrero-und-der-sumpf-aus-kackscheisse
+tags:
+- bild
+- ferrero
+- politics
+- sexism
+date: "2012-08-22T14:47:00+02:00"
+author: marvin
+draft: false
+---
+![hanutamaedchen_balken](/images/hanutamaedchen_balken.jpg)
 
 Ich kann mich ja schon ganz fürchterlich über diese "Überraschungsei für
 Kinder"-Nummer von Ferrero aufregen. Als ich die Plakatwerbung das erste
@@ -33,14 +38,13 @@ Seite 1 Mädchen, und fertig ist die Zielgruppen-Kampagne. Wir wissen ja
 alle was dabei rauskommt wenn die BILD an einer Werbekampagne beteiligt
 ist. Hier ein paar Highlights:
 
-![A02RCuDCAAA4vfI]({static}/images/A02RCuDCAAA4vfI.png)
+![A02RCuDCAAA4vfI](/images/A02RCuDCAAA4vfI.png)
 
-![A02Q2vWCMAEN_Sq]({static}/images/A02Q2vWCMAEN_Sq.png)
+![A02Q2vWCMAEN_Sq](/images/A02Q2vWCMAEN_Sq.png)
 
-![A02QlB5CIAI8Et2]({static}/images/A02QlB5CIAI8Et2.png)
+![A02QlB5CIAI8Et2](/images/A02QlB5CIAI8Et2.png)
 
 Ganz oben seht ihr übrigens meine Bewerbung zur wunderschönsten
 Hanuta-Bäckerin...
 
 Macht doch eure Kackscheisse alleine!
-

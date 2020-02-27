@@ -1,11 +1,17 @@
-Title: Auf den Spuren von Moby-Dick
-Date: 2013-01-06 12:48
-Author: marvin
-Category: Uncategorized
-Tags: arte, books, documentary, hermanmelville, mobydick
-Slug: auf-den-spuren-von-moby-dick
-
-![Moby_Dick_final_chase]({static}/images/Moby_Dick_final_chase.jpg)
+---
+title: Auf den Spuren von Moby-Dick
+slug: auf-den-spuren-von-moby-dick
+tags:
+- arte
+- books
+- documentary
+- hermanmelville
+- mobydick
+date: "2013-01-06T12:48:00+01:00"
+author: marvin
+draft: false
+---
+![Moby_Dick_final_chase](/images/Moby_Dick_final_chase.jpg)
 
 Arte hat gestern eine Dokumentation über Herman Melville's Meisterwerk
 "Moby Dick" gesendet. Es geht nicht die ganze Zeit nur um Melville oder
@@ -58,4 +64,3 @@ ganzen Körper. Was ein Werk...
 </embed>
 </object>
 </p>
-

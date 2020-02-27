@@ -1,8 +1,13 @@
-Title: Ansible dazu benutzen um einen Fileserver zu migrieren
-Date: 2015-06-17 10:44
-Slug: ansible-dazu-benutzen-um-einen-fileserver-zu-migrieren
-Tags: ansible, python
-
+---
+title: Ansible dazu benutzen um einen Fileserver zu migrieren
+slug: ansible-dazu-benutzen-um-einen-fileserver-zu-migrieren
+tags:
+- ansible
+- python
+date: "2015-06-17T11:44:00+02:00"
+author: marvin
+draft: false
+---
 
 Ab und zu kommt es dann doch einmal vor das man seinen Fileserver umziehen muss. Diese Migration kann man gut benutzen um zum Beispiel mal ein paar Permissions gerade zu ziehen oder andere Kleinigkeiten anzupassen. Nun hatte ich mich dran gemacht ein Script zu schreiben mit allen Befehlen die ich dazu brauche. Wir kennen alle die Nachteile von schnell gehackten Bash-Scripten. Irgendwo ein Dreher drin und die Daten müssen aus dem Backup geholt werden oder man vergisst User oder Gruppen.
 

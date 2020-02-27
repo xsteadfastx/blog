@@ -1,11 +1,18 @@
-Title: Lesung "Allein unter Deutschen"
-Date: 2013-03-12 13:03
-Author: marvin
-Category: Uncategorized
-Tags: antisemitism, germany, holocaust, israel, politics, tuviatenenbom
-Slug: lesung-allein-unter-deutschen
-
-![Golem_and_Loew]({static}/images/Golem_and_Loew.jpg)
+---
+title: Lesung "Allein unter Deutschen"
+slug: lesung-allein-unter-deutschen
+tags:
+- antisemitism
+- germany
+- holocaust
+- israel
+- politics
+- tuviatenenbom
+date: "2013-03-12T13:03:00+01:00"
+author: marvin
+draft: false
+---
+![Golem_and_Loew](/images/Golem_and_Loew.jpg)
 
 "Allein unter Deutschen" von Tuvia Tenenbom habe ich wirklich
 verschlungen und das Thema interessant "Wie sieht es eigentlich aus mit

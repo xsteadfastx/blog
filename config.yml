@@ -1,0 +1,24 @@
+---
+baseURL: "https://xsteadfastx.org/"
+languageCode: "de-de"
+title: "xsteadfastx"
+author:
+  name: "Marvin Preuss"
+params:
+  AuthorName: "Marvin Preuss"
+  mainSections:
+    - "posts"
+  links:
+    github: https://github.com/xsteadfastx/
+    twitter: https://twitter.com/xsteadfastx
+    mastodon: https://chaos.social/@xsteadfastx
+    flickr: https://www.flickr.com/photos/marvinxsteadfast/
+theme: "xsfx"
+permalinks:
+  posts: "/:year/:month/:day/:slug/"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: algol

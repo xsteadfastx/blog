@@ -1,10 +1,12 @@
-Title: Gerettete Filme aus dem zweiten Weltkrieg
-Date: 2015-01-20 15:49
-Author: marvin
-Category: Uncategorized
-Tags: photography
-Slug: gerettete-filme-aus-dem-zweiten-weltkrieg
-
+---
+title: Gerettete Filme aus dem zweiten Weltkrieg
+slug: gerettete-filme-aus-dem-zweiten-weltkrieg
+tags:
+- photography
+date: "2015-01-20T15:49:00+01:00"
+author: marvin
+draft: false
+---
 Vor einigen Jahren fand mein Vater einen unentwickelten Rollfilm in
 einer Kameratasche seiner Kamerasammlung. Irgendwann wollte ich diesen
 sehr alt-wirkenden Film entwickeln. Ich setzte auf Rodinal, den
@@ -22,7 +24,6 @@ Einziger Kritikpunkt bleibt das Copyright. Dies beansprucht das Projekt
 für sich selber. Da sie nicht der Urheber sind und der Fotograf nicht
 bekannt ist, finde ich es fragwürdig. Naja... trotzdem schön
 
-{% vimeo 116735360   %}
+{{< vimeo 116735360   >}}
 
 ([via](http://www.kraftfuttermischwerk.de/blogg/31-erst-jetzt-entwickelte-filmrollen-amerikanischer-soldaten-aus-dem-2-weltkrieg/))
-

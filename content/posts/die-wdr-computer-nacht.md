@@ -1,11 +1,15 @@
-Title: Die WDR Computer Nacht
-Date: 2013-04-08 14:33
-Author: marvin
-Category: Uncategorized
-Tags: internetz, nerds, wdr
-Slug: die-wdr-computer-nacht
-
-[![cc-by-sa Stefan Kögl]({static}/images/1024px-Zuse-Z-11.jpg)](https://commons.wikimedia.org/wiki/File:Zuse-Z-11.jpg)
+---
+title: Die WDR Computer Nacht
+slug: die-wdr-computer-nacht
+tags:
+- internetz
+- nerds
+- wdr
+date: "2013-04-08T15:33:00+02:00"
+author: marvin
+draft: false
+---
+[![cc-by-sa Stefan Kögl](/images/1024px-Zuse-Z-11.jpg)](https://commons.wikimedia.org/wiki/File:Zuse-Z-11.jpg)
 
 Ging ganz an mir vorbei. Aber wozu hat man sonst das Internetz? Eine
 vier Stunden Dokumentation über die Geschichte der Computer. Alles aus
@@ -28,8 +32,7 @@ Archivmaterial des WDR zusammen geschnitten. Computer-Pr0n as it best.
 -   <span style="line-height: 1.714285714; font-size: 1rem;">Kapitel 8:
     Künstliche Intelligenz?</span>
 
-{% youtube O-q5-AFHK_A %}
+{{< youtube O-q5-AFHK_A >}}
 
 [Hier](http://www.spiegel.de/netzwelt/gadgets/tv-tipp-wdr-computernacht-zeigt-50-jahre-computergeschichte-a-892615.html)
 gibt es einen Artikel des Spiegels zu der Dokumentation.
-

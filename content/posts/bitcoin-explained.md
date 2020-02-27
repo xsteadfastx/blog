@@ -1,11 +1,15 @@
-Title: Bitcoin Explained
-Date: 2013-04-09 09:57
-Author: marvin
-Category: Uncategorized
-Tags: bitcoin, internetz, money
-Slug: bitcoin-explained
-
-![Bitcoin]({static}/images/Bitcoin.png)
+---
+title: Bitcoin Explained
+slug: bitcoin-explained
+tags:
+- bitcoin
+- internetz
+- money
+date: "2013-04-09T10:57:00+02:00"
+author: marvin
+draft: false
+---
+![Bitcoin](/images/Bitcoin.png)
 
 Gerade ist ein [Bitcoin](https://de.wikipedia.org/wiki/Bitcoin) ca.
 \$193 [wert](https://mtgox.com/). Zwischenzeitlich sah es schon mal
@@ -18,5 +22,4 @@ Sind es die Heuschrecken die den Preis der Bitcoins nach oben treibt?
 Duncan Elms hat zu Bitcoin einen kleinen Film gemacht, der die Technik
 dahinter versucht zu erklären.
 
-{% vimeo 63502573 %}
-
+{{< vimeo 63502573 >}}

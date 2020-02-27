@@ -1,10 +1,15 @@
-Title: wolfgang amadeus phoenix
-Date: 2011-10-14 13:49
-Author: marvin
-Category: post
-Tags: arte, documentary, music, phoenix
-Slug: wolfgang-amadeus-phoenix
-
+---
+title: wolfgang amadeus phoenix
+slug: wolfgang-amadeus-phoenix
+tags:
+- arte
+- documentary
+- music
+- phoenix
+date: "2011-10-14T14:49:00+02:00"
+author: marvin
+draft: false
+---
 Gestern lief die Dokumentation "Wolfgang Amadeus Phoenix" auf Arte. Ich
 habe es natürlich mit wehenden Fahnen nicht mitbekommen. Zum Glück kann
 man es noch auf Arte+7 anschauen. Was für eine gute Band. Und eine sehr
@@ -18,4 +23,3 @@ gute Dokumentation wie ich finde. Viel Spaß...
 </embed>
 </object>
 </p>
-

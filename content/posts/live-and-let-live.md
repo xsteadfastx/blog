@@ -1,11 +1,16 @@
-Title: Live And Let Live
-Date: 2013-08-12 15:08
-Author: marvin
-Category: Uncategorized
-Tags: crowdfunding, documentary, marcpirschel, vegan
-Slug: live-and-let-live
-
-![liveandletlive]({static}/images/liveandletlive.jpg)
+---
+title: Live And Let Live
+slug: live-and-let-live
+tags:
+- crowdfunding
+- documentary
+- marcpirschel
+- vegan
+date: "2013-08-12T16:08:00+02:00"
+author: marvin
+draft: false
+---
+![liveandletlive](/images/liveandletlive.jpg)
 
 > Live and Let Live ist ein Dokumentarfilm über unser Verhältnis zu
 > Tieren, die Geschichte des Veganismus und die ethischen, ökologischen
@@ -23,7 +28,6 @@ Edge Dokumentation "EDGE" gedreht. Jetzt wird per Crowdfunding Geld für
 die finalen Schritte des Films gesammelt. Also...
 [supporten](http://www.startnext.de/liveandletlive)!!!
 
-{% youtube 10MK7v6Mhjc %}
+{{< youtube 10MK7v6Mhjc >}}
 
-{% youtube hepwlJD_xz8 %}
-
+{{< youtube hepwlJD_xz8 >}}

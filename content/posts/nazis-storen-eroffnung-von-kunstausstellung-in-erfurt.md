@@ -1,11 +1,15 @@
-Title: Nazis stören Eröffnung von Kunstausstellung in Erfurt
-Date: 2012-07-16 10:26
-Author: marvin
-Category: Uncategorized
-Tags: art, erfurt, politics
-Slug: nazis-storen-eroffnung-von-kunstausstellung-in-erfurt
-
-![miss-painting-kunsthausweb]({static}/images/miss-painting-kunsthausweb.jpg)
+---
+title: Nazis stören Eröffnung von Kunstausstellung in Erfurt
+slug: nazis-storen-eroffnung-von-kunstausstellung-in-erfurt
+tags:
+- art
+- erfurt
+- politics
+date: "2012-07-16T11:26:00+02:00"
+author: marvin
+draft: false
+---
+![miss-painting-kunsthausweb](/images/miss-painting-kunsthausweb.jpg)
 
 Am 13. Juli 2012 kamm es bei einer Vernissage in Erfurt zu rechten
 Übergriffen. Es geht um die Eröffnung der Ausstellung "[miss
@@ -31,4 +35,3 @@ Media-Aufmerksamkeit...! War ja auch irgendwie zu erwarten. Deutschland
 ignoriert es einfach... Danke...ihr Pfeifen...
 
 ([via](http://www.publikative.org/2012/07/16/nazis-uberfallen-kunstausstellung-kein-rechtsextremes-motiv/))
-

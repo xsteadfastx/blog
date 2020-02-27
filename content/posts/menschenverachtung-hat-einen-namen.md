@@ -1,11 +1,17 @@
-Title: Menschenverachtung hat einen Namen
-Date: 2012-10-30 15:56
-Author: marvin
-Category: Uncategorized
-Tags: berlin, erikasteinbach, piraten, politics, refugeecamp
-Slug: menschenverachtung-hat-einen-namen
-
-[![cc by cephir]({static}/images/8134539264_c76e86b0e7_b.jpg)](http://www.flickr.com/photos/cephir/8134539264/)
+---
+title: Menschenverachtung hat einen Namen
+slug: menschenverachtung-hat-einen-namen
+tags:
+- berlin
+- erikasteinbach
+- piraten
+- politics
+- refugeecamp
+date: "2012-10-30T15:56:00+01:00"
+author: marvin
+draft: false
+---
+[![cc by cephir](/images/8134539264_c76e86b0e7_b.jpg)](http://www.flickr.com/photos/cephir/8134539264/)
 
 Anscheinend hat es die "Menschenrechtsbeauftragte" und Hobbyhistorikerin
 nicht so mit der Nächstenliebe. Während die Exekutive gerade in Berlin
@@ -13,7 +19,7 @@ demonstriert wieso sie sich den Friedensnobelpreis verdient hat,
 schreibt Frau Steinbach das Internetz mit billigen Parolen voll. Wir
 kennen diese Sprüche zu gut.
 
-![481043_505177022826176_1933654624_n]({static}/images/481043_505177022826176_1933654624_n.png)
+![481043_505177022826176_1933654624_n](/images/481043_505177022826176_1933654624_n.png)
 
 Es sind diese Klischee-Sätze wie "lassen sich ja nicht helfen",
 "Sozialschmarotzer" oder "die sollen mal nicht jammern, sonst können sie
@@ -119,4 +125,3 @@ geschrieben:
 
 Wenn den Schwächsten die kleinste Menschlichkeit vorenthalten wird...
 Courage und Mitgefühl... Deutschland...
-

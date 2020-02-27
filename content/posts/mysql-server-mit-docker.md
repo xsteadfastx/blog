@@ -1,8 +1,13 @@
-Title: MySQL Server mit Docker
-Slug: mysql-server-mit-docker
-Date: 2015-02-05 08:50
-Tags: docker, mysql
-
+---
+title: MySQL Server mit Docker
+slug: mysql-server-mit-docker
+tags:
+- docker
+- mysql
+date: "2015-02-05T08:50:00+01:00"
+author: marvin
+draft: false
+---
 Es ist schon ein Jahr her das ich mir mal [Docker](http://docker.com) angeschaut habe. Bis dato war meine einzige Erfahrung mit "Virtualisierung" VMware im Desktopeinsatz und Virtualbox wenn ich mal eine Windows-Umgebung unter Linux brauche. Nun gibt es diesen Hype um Docker. Vereinfacht gesagt geht es darum einzellne Anwendungen in seperaten Linux-Container laufen zu lassen. Zum Beispiel kann man als Entwickler seine schöne Webapp komplett zusammen kleben, den Container exportieren und dem Admin zum ausrollen geben. Desweitern ist es auch möglich mehrere Container zusammen zu kleben. Zum Beispiel wenn die App in ihrem eignen Container noch eine Datenbank braucht.
 
 Ich wollte es mal ausprobieren. Und zwar einen einfachen MySQL-Server in einem Docker Container laufen lassen. Problem ist nur: Hat man sein Container fertig und darin entstehen Veränderungen, zum Beispiel in dem Sachen in die Datenbank geschrieben werden, müssten diese Änderungen explizit wieder "committed" werden um sie auch nach einem Neustart zu erhalten. Nun gibt es einen anderen Ansatz für dieses Problem. Es gibt unter Docker [Volumes](https://docs.docker.com/userguide/dockervolumes/). Diese wollen genau das umgehen. Man definiert Verzeichnisse im Docker-Container die erhalten bleiben sollen. Funktioniert auch ganz fein nur sollte man diese Volumes in einem seperaten Container anlegen und den MySQL-Container anweisen die Volumes aus dem DATA-Container zu benutzen. Dies spielt der Modularität Dockers völlig in die Karten. Docker hat mein Gehirn ziemlich zermatscht, aber im Endeffekt hat es geklappt.

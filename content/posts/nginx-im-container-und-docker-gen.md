@@ -1,9 +1,15 @@
-Title: NGINX im Container und docker-gen
-Date: 2016-03-01 09:48
-Slug: nginx-im-container-und-docker-gen
-Tags: nginx, docker, linux
-
-{% giphy achBohanYCPPG %}
+---
+title: NGINX im Container und docker-gen
+slug: nginx-im-container-und-docker-gen
+tags:
+- nginx
+- docker
+- linux
+date: "2016-03-01T09:48:00+01:00"
+author: marvin
+draft: false
+---
+[![https://gifsboom.net/post/106865490574/fail-container-video](https://media0.giphy.com/media/achBohanYCPPG/giphy.gif)](https://giphy.com/gifs/fail-lol-achBohanYCPPG)
 
 Das hatte ich lange auf meiner Liste. Bei mir lief immer noch der NGINX nicht im Container. Um ehrlich zu sein hatte ich mir alles schwieriger vorgestellt als es dann am Ende war. Ich halte mir immer alles in `docker-compose.yml`-Files fest.
 

@@ -1,10 +1,16 @@
-Title: Shoegaze Freitag: Jaguwar - Eyes Collide
-Date: 2016-08-19 12:35
-Slug: shoegaze-freitag-jaguwar-eyes-collide
-Tags: music, shoegaze, jaguwar
-
-![Jaguwar]({static}/images/jaguwar-eyescollide.jpg)
+---
+title: 'Shoegaze Freitag: Jaguwar - Eyes Collide'
+slug: shoegaze-freitag-jaguwar-eyes-collide
+tags:
+- music
+- shoegaze
+- jaguwar
+date: "2016-08-19T13:35:00+02:00"
+author: marvin
+draft: false
+---
+![Jaguwar](/images/jaguwar-eyescollide.jpg)
 
 Jaguwar kommen aus Dresden und habe mit diesem Track einen riesigen Shoegaze Song geschaffen. Mit dem Kopf durch die Soundwand.
 
-{% soundcloud https://soundcloud.com/jaguwarmusic/eyes-collide %}
+{{< soundcloud_tracks 256801702 >}}

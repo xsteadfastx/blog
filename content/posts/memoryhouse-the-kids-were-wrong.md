@@ -1,10 +1,14 @@
-Title: memoryhouse - the kids were wrong
-Date: 2011-12-19 14:05
-Author: marvin
-Category: post
-Tags: memoryhouse, music, subpop
-Slug: memoryhouse-the-kids-were-wrong
-
+---
+title: memoryhouse - the kids were wrong
+slug: memoryhouse-the-kids-were-wrong
+tags:
+- memoryhouse
+- music
+- subpop
+date: "2011-12-19T14:05:00+01:00"
+author: marvin
+draft: false
+---
 Ich weiß schon garnicht mehr was ich über Memoryhouse schreiben sollen.
 Die begleiten mich jetzt schon über ein Jahr durch die besten Zeiten
 meines Lebens. Nun wurden sie ja von Sub Pop unter Vertrag genommen,

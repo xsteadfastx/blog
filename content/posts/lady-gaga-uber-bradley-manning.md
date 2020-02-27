@@ -1,11 +1,16 @@
-Title: Lady Gaga über Bradley Manning
-Date: 2013-08-22 10:24
-Author: marvin
-Category: Uncategorized
-Tags: bradleymanning, ladygaga, politics, wikileaks
-Slug: lady-gaga-uber-bradley-manning
-
-![819px-Bradley_Manning_US_Army]({static}/images/819px-Bradley_Manning_US_Army.jpg)
+---
+title: Lady Gaga über Bradley Manning
+slug: lady-gaga-uber-bradley-manning
+tags:
+- bradleymanning
+- ladygaga
+- politics
+- wikileaks
+date: "2013-08-22T11:24:00+02:00"
+author: marvin
+draft: false
+---
+![819px-Bradley_Manning_US_Army](/images/819px-Bradley_Manning_US_Army.jpg)
 
 Jetzt ist es also fix. Bradley Manning wird für 35 Jahre eingeknastet.
 Wofür? Das er die Welt über Kriegsverbrechen aufgeklärt hat. Dafür das
@@ -20,4 +25,3 @@ Reichweite sich zu dem Urteil gegen Bradley Manning äussern. In diesem
 Fall Lady Gaga mit diesem Tweet:
 
 https://twitter.com/ladygaga/status/370209858600976387
-

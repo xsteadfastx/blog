@@ -1,10 +1,12 @@
-Title: Dymaxion Chronofile
-Date: 2012-02-22 08:42
-Author: marvin
-Category: post
-Tags: buckminsterfuller
-Slug: dymaxion-chronofile
-
+---
+title: Dymaxion Chronofile
+slug: dymaxion-chronofile
+tags:
+- buckminsterfuller
+date: "2012-02-22T08:42:00+01:00"
+author: marvin
+draft: false
+---
 [Buckminster
 Fuller](http://de.wikipedia.org/wiki/Richard_Buckminster_Fuller)
 beeindruckt mich immer und immer wieder. Heute mit seinem "[Dymaxion
@@ -29,4 +31,3 @@ vielleicht auch zu führen. Aber es könnte gut sein das mir die Ruhe und
 Disziplin fehlt. Aber vielleicht sind genau diese kleinen 15 Minütigen
 Updates was es so banal macht. Man denkt nicht über eine Qualität seiner
 Tagebucheinträge nach...man updatet...
-

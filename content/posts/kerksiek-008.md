@@ -1,9 +1,13 @@
-Title: Kerksiek #008
-Date: 2013-10-15 13:07
-Author: marvin
-Category: Uncategorized
-Tags: kerksiek, photography, rodinal, yashicat3
-Slug: kerksiek-008
-
-![Kerksiek \#008]({static}/images/10289242153_fd7c814f7f_b.jpg)
-
+---
+title: 'Kerksiek #008'
+slug: kerksiek-008
+tags:
+- kerksiek
+- photography
+- rodinal
+- yashicat3
+date: "2013-10-15T14:07:00+02:00"
+author: marvin
+draft: false
+---
+![Kerksiek \#008](/images/10289242153_fd7c814f7f_b.jpg)

@@ -1,10 +1,16 @@
-Title: work drugs - license to drive
-Date: 2012-02-27 08:53
-Author: marvin
-Category: post
-Tags: johnhughes, movies, music, phoenix, workdrugs
-Slug: work-drugs-license-to-drive
-
+---
+title: work drugs - license to drive
+slug: work-drugs-license-to-drive
+tags:
+- johnhughes
+- movies
+- music
+- phoenix
+- workdrugs
+date: "2012-02-27T08:53:00+01:00"
+author: marvin
+draft: false
+---
 Was passt schon besser zusammen als Chillwave und 80er Teenager Filme?
 Einer der besten Kombinationen der Popkultur. Ok ist kein Chillwave aber
 das Prinzip wurde bei dem Fanvideo zu Phoenix Lisztomania zur Perfektion
@@ -23,9 +29,8 @@ großartig. Vor allem kann man den Track auch noch einfach
 [runterladen](http://soundcloud.com/work-drugs/license-to-drive/s-Dqt4r).
 Gefällt mir und versüßt mir den Montag.
 
-{% vimeo 37401727 %}
+{{< vimeo 37401727 >}}
 
-{% vimeo 23274394 %}
+{{< vimeo 23274394 >}}
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F37524211&amp;show_artwork=true"></iframe>
-

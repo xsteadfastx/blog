@@ -1,10 +1,12 @@
-Title: So nimm das Content Mafia “An IP address...
-Date: 2012-05-04 00:58
-Author: marvin
-Category: Uncategorized
-Tags: internetz
-Slug: so-nimm-das-content-mafia-an-ip-address
-
+---
+title: So nimm das Content Mafia “An IP address...
+slug: so-nimm-das-content-mafia-an-ip-address
+tags:
+- internetz
+date: "2012-05-04T01:58:00+02:00"
+author: marvin
+draft: false
+---
 So nimm das Content-Mafia...
 
 > An IP address provides only the location at which one of any number of
@@ -23,4 +25,3 @@ Und es wird noch besser...
 > recommends other judges to reject similar cases in the future.
 
 ([via](http://blog.fefe.de/?ts=b15c088b))
-

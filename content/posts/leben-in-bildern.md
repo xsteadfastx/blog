@@ -1,11 +1,18 @@
-Title: Leben in Bildern
-Date: 2013-01-15 12:38
-Author: marvin
-Category: Uncategorized
-Tags: arte, documentary, israel, photography, rudiweissenstein, telaviv
-Slug: leben-in-bildern
-
-![Declaration_of_State_of_Israel_1948]({static}/images/Declaration_of_State_of_Israel_1948.jpg)
+---
+title: Leben in Bildern
+slug: leben-in-bildern
+tags:
+- arte
+- documentary
+- israel
+- photography
+- rudiweissenstein
+- telaviv
+date: "2013-01-15T12:38:00+01:00"
+author: marvin
+draft: false
+---
+![Declaration_of_State_of_Israel_1948](/images/Declaration_of_State_of_Israel_1948.jpg)
 
 [Rudi und Miriam
 Weissenstein](https://de.wikipedia.org/wiki/Rudi_Weissenstein) haben die
@@ -40,4 +47,3 @@ Mehr Infos gibt es auf der Arte
 </embed>
 </object>
 </p>
-

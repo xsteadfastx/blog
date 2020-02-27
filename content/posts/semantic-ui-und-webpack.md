@@ -1,9 +1,15 @@
-Title: semantic-ui und webpack
-Date: 2016-09-21 14:57
-Slug: semantic-ui-und-webpack
-Tags: javascript, semanticui, webpack
-
-{% giphy rR0ELLMF09bUI %}
+---
+title: semantic-ui und webpack
+slug: semantic-ui-und-webpack
+tags:
+- javascript
+- semanticui
+- webpack
+date: "2016-09-21T15:57:00+02:00"
+author: marvin
+draft: false
+---
+[![https://www.headoverfeels.com/2013/04/25/it-does-tend-to-haunt-you-doctor-who-recap/](https://media2.giphy.com/media/rR0ELLMF09bUI/giphy.gif)](https://giphy.com/gifs/eleventh-doctor-rR0ELLMF09bUI)
 
 Hier bin ich, der mega Java Script, CSS Webentwickler. Ich habe vor vielen Jahren aufgegeben überhaupt ansatzweise CSS zu verstehen. Danke Google und viel Copy-Pasta komme ich damit auch irgendwie über die runden. Verstehen tue ich fast nichts. Noch schlimmer ist JavaScript für mich. Ich habe auch sonst nicht die riesige Programmiererfahrung und fühle mich in meiner kleinen Python-Welt ziemlich wohl. Es gibt aber Projekte an denen kommt man nicht darum herum ein wenig Webkram zu erledigen.
 

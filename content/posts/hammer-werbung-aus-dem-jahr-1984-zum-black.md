@@ -1,11 +1,13 @@
-Title: Hammer Werbung aus dem Jahr 1984 zum Black...
-Date: 2012-04-24 08:52
-Author: marvin
-Category: Uncategorized
-Tags: blackflag, skateboard
-Slug: hammer-werbung-aus-dem-jahr-1984-zum-black
-
+---
+title: Hammer Werbung aus dem Jahr 1984 zum Black...
+slug: hammer-werbung-aus-dem-jahr-1984-zum-black
+tags:
+- blackflag
+- skateboard
+date: "2012-04-24T09:52:00+02:00"
+author: marvin
+draft: false
+---
 Hammer Werbung aus dem Jahr 1984 zum Black Flag Skateboard Deck...
 
-{% youtube -t_p5jOlnUQ %}
-
+{{< youtube -t_p5jOlnUQ >}}

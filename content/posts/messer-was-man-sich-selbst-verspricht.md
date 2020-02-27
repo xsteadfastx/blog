@@ -1,11 +1,16 @@
-Title: Messer - Was man sich selbst verspricht
-Date: 2012-12-03 11:47
-Author: marvin
-Category: Uncategorized
-Tags: art, manuelgehrke, messer, music
-Slug: messer-was-man-sich-selbst-verspricht
-
-![messer]({static}/images/messer.jpg)
+---
+title: Messer - Was man sich selbst verspricht
+slug: messer-was-man-sich-selbst-verspricht
+tags:
+- art
+- manuelgehrke
+- messer
+- music
+date: "2012-12-03T11:47:00+01:00"
+author: marvin
+draft: false
+---
+![messer](/images/messer.jpg)
 
 Ich weiß gar nicht was ich schreiben soll. Dies ist ein Musikvideo der
 Band Messer aus Münster. Dazu läuft eine Collage aus Fotos, bewegten
@@ -34,5 +39,4 @@ außerdem ist Manuel eh der Beste... \<3
 > malträtiert und man findet die Erlösung im Detail."  
 >  <cite>Manuel Gehrke</cite>
 
-{% vimeo 54761286 %}
-
+{{< vimeo 54761286 >}}

@@ -1,11 +1,13 @@
-Title: Zum Weltdiabetestag
-Date: 2013-11-14 12:20
-Author: marvin
-Category: Uncategorized
-Tags: diabetes
-Slug: zum-weltdiabetestag
-
-![IMG_0022]({static}/images/IMG_0022.jpg)
+---
+title: Zum Weltdiabetestag
+slug: zum-weltdiabetestag
+tags:
+- diabetes
+date: "2013-11-14T12:20:00+01:00"
+author: marvin
+draft: false
+---
+![IMG_0022](/images/IMG_0022.jpg)
 
 Jetzt bin ich schon seit einige Jahren Diabetiker. Typ 1. Damals aus
 auch von einem Israel-Urlaub wieder kam, alleine Silvester verbrachte
@@ -43,4 +45,3 @@ gerichtet hat. Irgendwie komisch das ganze.
 
 Mehr Informationen zum
 [Weltdiabetestag](http://www.welt-diabetes-tag.de/)...
-

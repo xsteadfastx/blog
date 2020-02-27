@@ -1,11 +1,17 @@
-Title: Abmahnhölle
-Date: 2012-10-09 17:07
-Author: marvin
-Category: Uncategorized
-Tags: abmahnungen, blog, fairuse, internetz, politics
-Slug: abmahnholle
-
-[![Schlecky Silberstein und ihre Maßnahme gegen die Abzocker]({static}/images/404.png)](http://www.schleckysilberstein.com/2012/10/unsere-neue-404-fehlermeldung-ein-tipp-fur-einen-sichereren-betrieb-fur-blogs-in-deutschland/)
+---
+title: Abmahnhölle
+slug: abmahnholle
+tags:
+- abmahnungen
+- blog
+- fairuse
+- internetz
+- politics
+date: "2012-10-09T18:07:00+02:00"
+author: marvin
+draft: false
+---
+[![Schlecky Silberstein und ihre Maßnahme gegen die Abzocker](/images/404.png)](http://www.schleckysilberstein.com/2012/10/unsere-neue-404-fehlermeldung-ein-tipp-fur-einen-sichereren-betrieb-fur-blogs-in-deutschland/)
 
 Ich weiß nicht ob man als kleines Blog der großen Gefahr ausgesetzt ist
 abgemahnt zu werden. Doch macht sich eine große Blase der Ungewissheit
@@ -52,4 +58,3 @@ Hier ein paar Links zu der aktuellen Abmahnhölle:
 That](http://www.welikethat.de/2012/10/01/abmahnung-jetzt-hats-uns-auch-erwischt/)  
 -
 [Nerdcore](http://www.crackajack.de/2012/10/02/blog-abmahnungen-fur-lego-kunst/)
-

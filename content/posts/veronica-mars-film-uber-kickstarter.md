@@ -1,11 +1,15 @@
-Title: Veronica Mars Film über Kickstarter
-Date: 2013-03-13 16:49
-Author: marvin
-Category: Uncategorized
-Tags: kickstarter, movies, veronicamars
-Slug: veronica-mars-film-uber-kickstarter
-
-![Veronica_Mars_2004_logo.svg_]({static}/images/Veronica_Mars_2004_logo.svg_.png)
+---
+title: Veronica Mars Film über Kickstarter
+slug: veronica-mars-film-uber-kickstarter
+tags:
+- kickstarter
+- movies
+- veronicamars
+date: "2013-03-13T16:49:00+01:00"
+author: marvin
+draft: false
+---
+![Veronica_Mars_2004_logo.svg_](/images/Veronica_Mars_2004_logo.svg_.png)
 
 Ich bin gerade wirklich aus dem Häuschen. Es soll wohl wirklich
 passieren: Es soll einen Veronica Mars Film geben. Das ganze wird aber
@@ -47,4 +51,3 @@ Amazon klicken und süchtig werden.
 
 <iframe width="800" height="600" src="http://www.kickstarter.com/projects/559914737/the-veronica-mars-movie-project/widget/video.html" frameborder="0">
 </iframe>
-

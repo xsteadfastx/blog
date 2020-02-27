@@ -1,10 +1,17 @@
-Title: Yeah gerade festgestellt das es schon eine zweite...
-Date: 2012-03-15 08:41
-Author: marvin
-Category: status
-Tags: art, arte, boesner, documentary, josefgyrls, nielsruf
-Slug: yeah-gerade-festgestellt-das-es-schon-eine-zweite
-
+---
+title: Yeah gerade festgestellt das es schon eine zweite...
+slug: yeah-gerade-festgestellt-das-es-schon-eine-zweite
+tags:
+- art
+- arte
+- boesner
+- documentary
+- josefgyrls
+- nielsruf
+date: "2012-03-15T08:41:00+01:00"
+author: marvin
+draft: false
+---
 Yeah...gerade festgestellt das es schon eine zweite Folge der ganz
 großartigen Mini-Serie über den fiktiven Künstler Joseph Gyrls auf Arte
 gibt. Steht der ersten Folge um nichts nach. Es kommt sogar
@@ -19,4 +26,3 @@ machen?
 </embed>
 </object>
 </p>
-

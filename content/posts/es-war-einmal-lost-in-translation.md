@@ -1,7 +1,16 @@
-Title: Es war einmal... "Lost in Translation"
-Date: 2015-08-23 06:33
-Slug: es-war-einmal-lost-in-translation
-Tags: documentary, arte, movies, lostintranslation, sofiacoppola
+---
+title: Es war einmal... "Lost in Translation"
+slug: es-war-einmal-lost-in-translation
+tags:
+- documentary
+- arte
+- movies
+- lostintranslation
+- sofiacoppola
+date: "2015-08-23T07:33:00+02:00"
+author: marvin
+draft: false
+---
 Description: Dokumentation ueber den grossartigen Film Lost in Translation
 
 Eigentlich stecke ich gerade mit beiden Ohren im Renovierungsstreß. Aber wenn Arte eine Dokumentation über meinen Lieblings-Film "Lost in Translation" zeigt, muss ich es einfach verbloggen. Ein Film der mir gleichzeitig viel Frohsinn spendet und mich in Melancholie taucht. Ich habe immer gesagt "Musik muss so klingen als sei sie auf dem Soundtrack von Lost in Translation". Einfach perfekt!

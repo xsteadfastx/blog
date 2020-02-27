@@ -1,11 +1,16 @@
-Title: Carnet de Voyage von Craig Thompson
-Date: 2013-10-14 14:33
-Author: marvin
-Category: Uncategorized
-Tags: blankets, books, craigthompson, graphicnovel
-Slug: carnet-de-voyage-von-craig-thompson
-
-![carnet-de-voyage-cover]({static}/images/carnet-de-voyage-cover.jpg)
+---
+title: Carnet de Voyage von Craig Thompson
+slug: carnet-de-voyage-von-craig-thompson
+tags:
+- blankets
+- books
+- craigthompson
+- graphicnovel
+date: "2013-10-14T15:33:00+02:00"
+author: marvin
+draft: false
+---
+![carnet-de-voyage-cover](/images/carnet-de-voyage-cover.jpg)
 
 Gerade in den letzten Wochen bin ich mehrmals in der Woche in der
 Bibliothek in Nürnberg. Und mit jedem mal mehr merke ich das ich jeden
@@ -29,4 +34,3 @@ Reisetagebüchern fliegen die ganzen Zweifel mit, an sich und seine
 Kunst, seine Heimweh und das Gefühl erschlagen zu werden von allen was
 auf ihn einprasselt. Ich weiß genau was er meint. Erschlagenheit die auf
 eingelöstes Fernweh folgt.
-

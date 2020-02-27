@@ -1,11 +1,15 @@
-Title: Finding Paul Miller
-Date: 2013-05-08 13:43
-Author: marvin
-Category: Uncategorized
-Tags: internetz, paulmiller, theverge
-Slug: finding-paul-miller
-
-![findingpaulmiller]({static}/images/findingpaulmiller.png)
+---
+title: Finding Paul Miller
+slug: finding-paul-miller
+tags:
+- internetz
+- paulmiller
+- theverge
+date: "2013-05-08T14:43:00+02:00"
+author: marvin
+draft: false
+---
+![findingpaulmiller](/images/findingpaulmiller.png)
 
 Gerade in letzter Zeit frage ich mich nach dem Zusammenhang von dem
 Überfluss an Informationen und der eigenen seelischen Stabilität. Soweit
@@ -19,5 +23,4 @@ Katzenbilder und Meme er alles
 [verpasst](http://www.theverge.com/2013/5/3/4297870/offline-how-to-use-the-internet/in/2771566)
 hat.
 
-{% youtube 2PEALS5IJe4 %}
-
+{{< youtube 2PEALS5IJe4 >}}

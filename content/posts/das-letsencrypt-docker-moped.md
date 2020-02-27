@@ -1,8 +1,16 @@
-Title: Das Letsencrypt Docker Moped
-Date: 2015-12-07 16:17
-Slug: das-letsencrypt-docker-moped
-Tags: docker, linux, letsencrypt, ssl, nginx
-
+---
+title: Das Letsencrypt Docker Moped
+slug: das-letsencrypt-docker-moped
+tags:
+- docker
+- linux
+- letsencrypt
+- ssl
+- nginx
+date: "2015-12-07T16:17:00+01:00"
+author: marvin
+draft: false
+---
 Darauf haben wir lange gewartet: SSL für alle!!1!!!111! Wie oft musste ich Leuten erzählen das sie keine Angst haben müssen vor dem Polizisten mit dem Schlagstock (zumindestens nicht vor dem im Chrome Browser). Ich hatte persöhnlich nie etwas gegen selbstsignierte Zertifikate, wenn ich nicht gerade Geld über diese Seiten schubsen musste. Aber könnte nun alles der Vergangenheit angehören. [Letsencrypt](https://letsencrypt.org) bieten nun einen einfachen Weg an um sich seine Zertifikate unterschreiben zu lassen. Und nicht nur das. Sie wollen Tools mitliefern, die ohne viel Vorwissen die Arbeit für einen erledigen. Sprich Keys erzeugen und den Zertfikatsrequest. Dann findet eine überprüfung statt ob die Domain für die ihr das Zertifikat haben wollt, auch wirklich euch gehört. Ein wichtiger Schritt. Nur weil ihr keine Hunderte von Euro für ein Zertifikat ausgibt, sollt ihr trotzdem das Recht haben das der Transport über das Netz verschlüßelt ist. Ohne Schlagstock-Polizisten-Warning. Nun geht das Projekt in die BETA-Phase und die [üblich Verdächtigen](http://blog.fefe.de/?ts=a89f4ed6)(WARNUNG: fefe link) ranten rum. Räudiges Python und alles viel zu einfach... und vor allem... jeder weiß doch wie man openssl richtig bedient und wo man richtige Zertifikate bekommt. Ich finde den Ansatz gut. Natürlich ist der Client noch nicht dort angekommen wo er ankommen will. Aber es funktioniert. Der Client bietet mehrere Modi an. Der eine öffent die Ports 80 und 443 und Letsencrypt schaut dann ob sie erreichbar sind und tauschen ein paar Sachen aus. Problem: Auf dem Server läuft meist schon ein Webserver und blockiert die Ports. Ich muss also NGINX stoppen, den Client starten und dann NGINX wieder anschieben. Irgendwie nicht so schön. Eine andere Möglichkeit ist `webroot`. Dafür legt der Client ein paar Ordner in das Root-Verzeichnis des Webservers und der Dienst schaut dann dort nach. Problem hierbei: Ich habe in meine NGINX keine Files im Root. Ich benutze NGINX nur als Reverse-Proxy. Es gibt Hilfe:
 
 Das NGINX Snippet

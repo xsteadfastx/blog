@@ -1,11 +1,16 @@
-Title: Kickstarting das Marina Abramovic Institute
-Date: 2013-08-08 13:15
-Author: marvin
-Category: Uncategorized
-Tags: art, kickstarter, ladygaga, marinaabramovic
-Slug: kickstarting-das-marina-abramovic-institute
-
-![ladygaga_abramovic]({static}/images/ladygaga_abramovic.jpg)
+---
+title: Kickstarting das Marina Abramovic Institute
+slug: kickstarting-das-marina-abramovic-institute
+tags:
+- art
+- kickstarter
+- ladygaga
+- marinaabramovic
+date: "2013-08-08T14:15:00+02:00"
+author: marvin
+draft: false
+---
+![ladygaga_abramovic](/images/ladygaga_abramovic.jpg)
 
 Ich und Performancekunst. Wir haben da ein nicht so tolles Verhältnis.
 Wenn aber Marina Abramovic ein [Kickstarter
@@ -14,5 +19,4 @@ gestartet hat um ein Institut aufzubauen und in ihrem Promovideo Lady
 Gaga auftreten lässt ist das Grund genug das hier zu posten. Das ganze
 ist nicht ganz NSFW...
 
-{% vimeo 71919803 %}
-
+{{< vimeo 71919803 >}}

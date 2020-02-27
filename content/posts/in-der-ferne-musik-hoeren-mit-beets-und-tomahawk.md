@@ -1,8 +1,14 @@
-Title: In der Ferne Musik hören, mit Beets und Tomahawk 
-Slug: in-der-ferne-musik-hoeren-mit-beets-und-tomahawk 
-Date: 2014-03-17 16:32
-Tags: beets, music, tomahawk
-
+---
+title: 'In der Ferne Musik hören, mit Beets und Tomahawk '
+slug: 'in-der-ferne-musik-hoeren-mit-beets-und-tomahawk '
+tags:
+- beets
+- music
+- tomahawk
+date: "2014-03-17T16:32:00+01:00"
+author: marvin
+draft: false
+---
 
 Ich muss mein Homeoffice für ein paar Tage in ein anderen Ort verlegen. Wie komme ich nun an meine inspirierende Musiksammlung auf dem Homeserver? Da ich [MPD](http://www.musicpd.org/) benutze, habe ich noch schnell ein Streaming Output definiert.
 

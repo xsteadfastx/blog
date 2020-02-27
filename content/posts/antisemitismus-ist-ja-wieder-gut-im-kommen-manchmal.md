@@ -1,10 +1,13 @@
-Title: Antisemitismus ist ja wieder gut im kommen Manchmal...
-Date: 2012-05-03 12:33
-Author: marvin
-Category: Uncategorized
-Tags: antisemitism, israel
-Slug: antisemitismus-ist-ja-wieder-gut-im-kommen-manchmal
-
+---
+title: Antisemitismus ist ja wieder gut im kommen Manchmal...
+slug: antisemitismus-ist-ja-wieder-gut-im-kommen-manchmal
+tags:
+- antisemitism
+- israel
+date: "2012-05-03T13:33:00+02:00"
+author: marvin
+draft: false
+---
 Antisemitismus ist ja wieder gut im kommen. Manchmal versteckter und
 manchmal so offensichtlich das man am liebsten erstmal sich unter die
 Dusche stellen möchte nachdem bestimmte Aussagen gelesen hat.
@@ -25,4 +28,3 @@ Firma](http://goo.gl/VvlVs) bestellen. Und so reagiert man wohl wenn man
 Wenn einem da nicht die Kotze hochkommt dann weiß ich auch nicht mehr.
 
 ([via](http://goo.gl/6Uz2Y))
-

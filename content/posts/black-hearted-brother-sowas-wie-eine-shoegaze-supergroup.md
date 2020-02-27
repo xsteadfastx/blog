@@ -1,11 +1,17 @@
-Title: Black Hearted Brother. Sowas wie eine Shoegaze-Supergroup
-Date: 2013-08-08 11:26
-Author: marvin
-Category: Uncategorized
-Tags: blackheartedbrother, music, seefeel, shoegaze, slowdive
-Slug: black-hearted-brother-sowas-wie-eine-shoegaze-supergroup
-
-![black-hearted-brother]({static}/images/black-hearted-brother.jpg)
+---
+title: Black Hearted Brother. Sowas wie eine Shoegaze-Supergroup
+slug: black-hearted-brother-sowas-wie-eine-shoegaze-supergroup
+tags:
+- blackheartedbrother
+- music
+- seefeel
+- shoegaze
+- slowdive
+date: "2013-08-08T12:26:00+02:00"
+author: marvin
+draft: false
+---
+![black-hearted-brother](/images/black-hearted-brother.jpg)
 
 Ich bekomme ja nicht genug von 90er Jahre Shoegaze. Gerade Slowdive tun
 es mir immer wieder an. Immer wieder kann ich ihre Platten auflegen. Sie
@@ -19,4 +25,3 @@ schon zuhören. Und was für ein Artwork...
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/102178754&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 ([via](http://www.brooklynvegan.com/archives/2013/08/members_of_slow.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BrooklynVeganFeed+%28brooklynvegan%29))
-

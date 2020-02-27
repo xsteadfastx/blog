@@ -1,11 +1,15 @@
-Title: Tycho - Ascension
-Date: 2013-05-07 10:27
-Author: marvin
-Category: Uncategorized
-Tags: music, tycho, ulrichschnauss
-Slug: tycho-ascension
-
-![913756_10151629126790520_992926046_o]({static}/images/913756_10151629126790520_992926046_o.jpg)
+---
+title: Tycho - Ascension
+slug: tycho-ascension
+tags:
+- music
+- tycho
+- ulrichschnauss
+date: "2013-05-07T11:27:00+02:00"
+author: marvin
+draft: false
+---
+![913756_10151629126790520_992926046_o](/images/913756_10151629126790520_992926046_o.jpg)
 
 Es ist noch gar nicht so lange her, dass ich das erste mal von Tycho
 hörte. Ab und zu google ich nach Musikern die ich mag und hoffe das ich
@@ -23,5 +27,4 @@ Videoaufnahmen und den Visuals die Tycho für seine Liveshows benutzt.
 Und nach diesem Video weiß ich, dass ich ihn unbedingt mal Live sehen
 will. Vielleicht ja sogar im Sommer... das wäre perfekt.
 
-{% youtube M3i8zU4FFTg %}
-
+{{< youtube M3i8zU4FFTg >}}
