@@ -1,3 +1,5 @@
+/* using this "colors": https://www.color-hex.com/color/333333 */
+
 @font-face {
   font-family: 'Go Mono';
   src: url('/fonts/GoMono.eot');
@@ -74,6 +76,7 @@ h6 {
 a {
   color: #5b5b5b;
   text-decoration: none;
+  text-shadow: 4px 4px #eaeaea;
 }
 
 a:focus,
@@ -81,14 +84,16 @@ a:hover {
   color: #848484;
 }
 
-h1#logo {
+h1#logo,
+h1#logo a:link {
   font-size: 5rem;
   text-decoration: line-through;
   text-shadow: 4px 4px #848484;
 }
 
 @media (min-width: 80.0rem) {
-  h1#logo {
+  h1#logo,
+  h1#logo a:link {
     font-size: 7rem;
   }
 }
@@ -132,6 +137,10 @@ footer {
 footer a {
   background-color: #ffffff;
   text-decoration: line-through;
+}
+
+footer span {
+  background-color: #ffffff;
 }
 
 section.article_content {
