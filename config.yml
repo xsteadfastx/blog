@@ -14,6 +14,9 @@ params:
     mastodon: https://chaos.social/@xsteadfastx
     flickr: https://www.flickr.com/photos/marvinxsteadfast/
     feed: https://xsteadfastx.org/index.xml
+  description: they made me do it
+  images:
+    - /images/vertigo1000.png
 theme: "xsfx"
 permalinks:
   posts: "/:year/:month/:day/:slug/"
