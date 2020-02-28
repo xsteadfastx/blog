@@ -1,11 +1,14 @@
 <footer>
-  <small>
-    ///
+  <div class="row">
+    <div class="column"></div>
+    <div class="column"></div>
     {{ range where .Site.RegularPages "Type" "pages"}}
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <div class="column"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
     {{ end }}
     {{ range $name, $url := .Site.Params.links}}
-    <a href="{{ $url }}">{{ $name }}</a>
+    <div class="column"><a href="{{ $url }}">{{ $name }}</a></div>
     {{ end }}
-  </small>
+    <div class="column"></div>
+    <div class="column"></div>
+  </div>
 </footer>
