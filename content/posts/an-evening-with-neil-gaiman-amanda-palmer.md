@@ -9,7 +9,6 @@ date: "2013-12-03T15:27:00+01:00"
 author: marvin
 draft: false
 ---
-[![An Evening With Neil Gaiman Amanda
 ![An-Evening-With-Neil-Gaiman-Amanda-Palmer](/images/An-Evening-With-Neil-Gaiman-Amanda-Palmer.jpeg)
 
 Wenn es nicht Neil Gaiman und Amanda Palmer wären, wäre das Cover schon
