@@ -26,3 +26,8 @@ markup:
       unsafe: true
   highlight:
     style: algol
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

@@ -9,6 +9,8 @@ clean:
 
 build:
 	hugo
+	mkdir public/feed
+	cp public/index.xml public/feed/index.html
 
 install_deps:
 	apk add --no-cache lftp git
