@@ -113,6 +113,11 @@ article h1 {
   text-align: left;
 }
 
+main article,
+main section {
+  padding: 1.0rem 1.0rem;
+}
+
 header {
   background-image: url("/images/newstile.png");
   background-repeat: repeat;
@@ -143,15 +148,9 @@ footer span {
   background-color: #ffffff;
 }
 
-section.article_content {
-  padding-bottom: 15px;
-  padding-left: 0px;
-  padding-right: 0px;
-  padding-top: 15px;
-}
-
 section#pagination {
   text-align: center;
+  padding-top: 7.5rem;
 }
 
 figure {
