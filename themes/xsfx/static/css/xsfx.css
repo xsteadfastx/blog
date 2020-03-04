@@ -118,6 +118,10 @@ main section {
   padding: 1.0rem 1.0rem;
 }
 
+main article .content {
+  padding-left: 0px;
+}
+
 header {
   background-image: url("/images/newstile.png");
   background-repeat: repeat;
