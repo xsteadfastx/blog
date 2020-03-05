@@ -2,7 +2,6 @@ HUGO_VERSION=0.65.3
 RCLONE_VERSION=1.51.0
 OUTPUT_DIR=./public
 FTP_HOST=xsteadfastx.org
-FTP_TARGET_DIR=/
 FTP_USER=xstead_0
 
 clean:
@@ -19,7 +18,7 @@ install_deps:
 	GO111MODULE=on go get -v github.com/rclone/rclone@v$(RCLONE_VERSION)
 
 ftp_upload:
-	rclone sync $(OUTPUT_DIR) blog://
+	rclone sync --progress --size-only $(OUTPUT_DIR) blog:/
 
 rclone_config:
 	echo "[blog]" > ~/.config/rclone/rclone.conf
