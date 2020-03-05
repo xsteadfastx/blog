@@ -9,7 +9,7 @@ steps:
       RCLONE_CONF:
         from_secret: rclone.conf
     commands:
-      - apk add --no-cache make rclone
+      - apk add --no-cache make
       - mkdir -p ~/.config/rclone
       - echo $RCLONE_CONF > ~/.config/rclone/rclone.conf
       - cat ~/.config/rclone/rclone.conf
