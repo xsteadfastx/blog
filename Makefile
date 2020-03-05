@@ -11,9 +11,9 @@ build:
 	cp public/index.xml public/feed/index.html
 
 install_deps:
-	apk add --no-cache git
-	GO111MODULE=on go get -v -u github.com/gohugoio/hugo@v$(HUGO_VERSION)
-	GO111MODULE=on go get -v -u github.com/rclone/rclone@v$(RCLONE_VERSION)
+	apk add --no-cache git gcc musl-dev
+	GO111MODULE=on go get -v github.com/gohugoio/hugo@v$(HUGO_VERSION)
+	GO111MODULE=on go get -v github.com/rclone/rclone@v$(RCLONE_VERSION)
 
 ftp_upload:
 	rclone sync $(OUTPUT_DIR) blog://
