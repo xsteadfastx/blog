@@ -4,6 +4,7 @@
   <p>
     <small>
       {{ .Date.Format "02.01.2006 15:04" }}
+      {{ if .GitInfo }}/// <a href="https://github.com/xsteadfastx/blog/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>{{ end }}
       {{ if .Params.tags }}///{{ end }}
       {{ range .Params.tags }}
       <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>

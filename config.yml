@@ -31,3 +31,4 @@ outputs:
     - HTML
     - RSS
     - JSON
+enableGitInfo: true
