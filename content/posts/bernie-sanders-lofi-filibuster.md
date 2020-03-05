@@ -1,7 +1,7 @@
 ---
 title: "Bernie Sanders Lofi Filibuster"
 slug: bernie-sanders-lofi-filibuster
-date: 2020-03-05T09:54:36+01:00
+date: 2020-03-05T13:06:04+01:00
 tags:
   - politics
   - berniesanders
