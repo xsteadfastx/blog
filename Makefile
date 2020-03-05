@@ -1,6 +1,9 @@
 HUGO_VERSION=0.65.3
 RCLONE_VERSION=1.51.0
 OUTPUT_DIR=./public
+FTP_HOST=xsteadfastx.org
+FTP_TARGET_DIR=/
+FTP_USER=xstead_0
 
 clean:
 	rm -rf public
@@ -18,4 +21,12 @@ install_deps:
 ftp_upload:
 	rclone sync $(OUTPUT_DIR) blog://
 
-.PHONY: clean build install_deps ftp_upload
+rclone_config:
+	echo "[blog]" > ~/.config/rclone/rclone.conf
+	echo "type = sftp" >> ~/.config/rclone/rclone.conf
+	echo "host = $(FTP_HOST)" >> ~/.config/rclone/rclone.conf
+	echo "user = $(FTP_USER)" >> ~/.config/rclone/rclone.conf
+	echo "pass = $(FTP_PASS)" >> ~/.config/rclone/rclone.conf
+
+
+.PHONY: clean build install_deps ftp_upload rclone_config

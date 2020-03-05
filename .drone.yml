@@ -6,12 +6,12 @@ steps:
     image: golang:1.14.0-alpine3.11
     pull: always
     environment:
-      RCLONE_CONF:
-        from_secret: rclone.conf
+      FTP_PASS:
+        from_secret: ftp_pass
     commands:
       - apk add --no-cache make
       - mkdir -p ~/.config/rclone
-      - echo $RCLONE_CONF > ~/.config/rclone/rclone.conf
+      - make rclone_config
       - cat ~/.config/rclone/rclone.conf
       - make install_deps
       - make build
