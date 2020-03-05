@@ -13,3 +13,6 @@ steps:
       - make install_deps
       - make build
       - make ftp_upload
+    when:
+      branch:
+        - master
