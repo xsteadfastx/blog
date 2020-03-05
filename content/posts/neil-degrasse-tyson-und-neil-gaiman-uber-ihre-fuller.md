@@ -1,5 +1,6 @@
 ---
 title: "Neil deGrasse Tyson und Neil Gaiman über ihre Füller"
+slug: neil-degrasse-tyson-und-neil-gaiman-uber-ihre-fuller
 date: 2020-03-05T09:26:43+01:00
 tags:
   - stationary
