@@ -87,7 +87,6 @@ a:hover {
 h1#logo,
 h1#logo a:link {
   font-size: 5rem;
-  text-decoration: line-through;
   text-shadow: 4px 4px #848484;
 }
 
@@ -174,4 +173,11 @@ figcaption {
 
 iframe {
   padding-bottom: 5px;
+}
+
+header .upsidedown {
+  transform: rotate(-180deg);
+  -webkit-transform: rotate(-180deg);
+  -moz-transform: rotate(-180deg);
+  display: inline-block;
 }
