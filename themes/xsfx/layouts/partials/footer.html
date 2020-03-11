@@ -5,8 +5,8 @@
     {{ range where .Site.RegularPages "Type" "pages"}}
     <div class="column"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
     {{ end }}
-    {{ range $name, $url := .Site.Params.links}}
-    <div class="column"><a href="{{ $url }}">{{ $name }}</a></div>
+    {{ range $name, $url := .Site.Params.me}}
+    <div class="column"><a href="{{ $url }}" rel="me">{{ $name }}</a></div>
     {{ end }}
     <div class="column"></div>
     <div class="column"></div>
