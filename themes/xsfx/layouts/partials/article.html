@@ -1,18 +1,18 @@
 <article class="h-entry">
-  <h1 class="p-name"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+  <h1 class="p-name"><a class="u-url" href="{{ .Permalink }}">{{ .Title }}</a></h1>
   {{ if (isset .Params "date") }}
   <p>
     <small>
-      {{ .Date.Format "02.01.2006 15:04" }}
+      <time class="dt-published" datetime="{{ .Date.Format "2006-01-02 15:04:05" }}">{{ .Date.Format "02.01.2006 15:04" }}</time>
       {{ if .GitInfo }}/// <a href="https://github.com/xsteadfastx/blog/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>{{ end }}
       {{ if .Params.tags }}///{{ end }}
       {{ range .Params.tags }}
-      <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+      <a class="{{ . }}" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
       {{ end }}
     </small>
   {{ end }}
   </p>
-  <section class="content e-content">
+  <section class="e-content">
   {{ .Content}}
   </section>
 </article>
