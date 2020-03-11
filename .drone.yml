@@ -1,6 +1,8 @@
 ---
 kind: pipeline
 name: default
+concurrency:
+  limit: 1
 steps:
   - name: build and upload
     image: golang:1.14.0-alpine3.11
