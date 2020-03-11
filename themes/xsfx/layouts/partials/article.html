@@ -1,5 +1,5 @@
-<article>
-  <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+<article class="h-entry">
+  <h1 class="p-name"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
   {{ if (isset .Params "date") }}
   <p>
     <small>
@@ -12,7 +12,7 @@
     </small>
   {{ end }}
   </p>
-  <section class="content">
+  <section class="content e-content">
   {{ .Content}}
   </section>
 </article>
