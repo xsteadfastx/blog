@@ -7,7 +7,7 @@
       {{ if .GitInfo }}/// <a href="https://github.com/xsteadfastx/blog/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>{{ end }}
       {{ if .Params.tags }}///{{ end }}
       {{ range .Params.tags }}
-      <a class="{{ . }}" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+      <a class="p-category" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
       {{ end }}
     </small>
   {{ end }}
