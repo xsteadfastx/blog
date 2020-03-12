@@ -19,7 +19,12 @@
   {{ range where .Site.Data.mentions.links "target" .Permalink }}
     <tr>
       <td><img src="{{ .data.author.photo }}"></td>
+      {{ if eq .activity.type "reply" }}
       <td>{{ .data.content | safeHTML}} <small>- <a href="{{ .data.author.url }}">{{ .data.author.name }}</a> &commat; <a href="{{ .data.url }}">{{ dateFormat "Monday, Jan 2, 2006" .data.published }}</a></small></td>
+      {{ end }}
+      {{ if eq .activity.type "like" }}
+      <td><small>liked by <a href="{{ .data.author.url }}">{{ .data.author.name }}</a></small></td>
+      {{ end }}
     </tr>
   {{ end }}
   </table>
