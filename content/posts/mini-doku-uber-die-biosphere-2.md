@@ -72,10 +72,10 @@ business...
 <object width="773" height="434" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" name="movie">
 <param name="quality" value="high"></param><param name="allowfullscreen" value="true"></param><param name="allowScriptAccess" value="always"></param><param name="flashvars" value="xml=http://www.theavantgardediaries.com/en/media/data/article/299/content/291/ajax/1/_dc/1370342007"></param><param name="src" value="http://www.theavantgardediaries.com/assets/_878187239712345_/flash/mb_avgd_videoplayer.swf"></param><param name="allowscriptaccess" value="always"></param>
 
-<embed width="773" height="434" type="application/x-shockwave-flash" src="http://www.theavantgardediaries.com/assets/_878187239712345_/flash/mb_avgd_videoplayer.swf" quality="high" allowfullscreen="true" allowscriptaccess="always" flashvars="xml=http://www.theavantgardediaries.com/en/media/data/article/299/content/291/ajax/1/_dc/1370342007" allowscriptaccess="always" name="movie">
+<embed width="773" height="434" type="application/x-shockwave-flash" src="https://www.theavantgardediaries.com/assets/_878187239712345_/flash/mb_avgd_videoplayer.swf" quality="high" allowfullscreen="true" allowscriptaccess="always" flashvars="xml=http://www.theavantgardediaries.com/en/media/data/article/299/content/291/ajax/1/_dc/1370342007" allowscriptaccess="always" name="movie">
 </embed>
 </object>
 </p>
-<iframe src="http://embed.ted.com/talks/lang/de/jane_poynter_life_in_biosphere_2.html" width="853" height="480" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://embed.ted.com/talks/lang/de/jane_poynter_life_in_biosphere_2.html" width="853" height="480" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 {{< youtube 4EWikCCfHJw >}}

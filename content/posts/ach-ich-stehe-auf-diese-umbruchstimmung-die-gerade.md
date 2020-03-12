@@ -20,4 +20,4 @@ Eine ganz tolle Aktion hat Amanda Palmer gerade auf
 gestartet. Sie braucht Geld für die Promo ihrer neuen Albums. Aber seht
 selber was sie in Bob Dylan-Style zu erzählen hat...
 
-<iframe frameborder="0" height="360px" src="http://www.kickstarter.com/projects/amandapalmer/amanda-palmer-the-new-record-art-book-and-tour/widget/video.html" width="480px"></iframe>
+<iframe frameborder="0" height="360px" src="https://www.kickstarter.com/projects/amandapalmer/amanda-palmer-the-new-record-art-book-and-tour/widget/video.html" width="480px"></iframe>

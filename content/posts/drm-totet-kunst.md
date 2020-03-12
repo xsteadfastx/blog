@@ -25,6 +25,6 @@ Changes](http://de.scribd.com/doc/148113352/Sidim-Changes "View Sidim Changes on
 by
 [torrentfreak](http://de.scribd.com/torrentfreak "View torrentfreak's profile on Scribd")
 
-<iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/148113352/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-eqzkw7o6dv6k26955qk&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.706896551724138" scrolling="no" id="doc_27856" width="100%" height="600" frameborder="0"></iframe>
+<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/148113352/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-eqzkw7o6dv6k26955qk&amp;show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.706896551724138" scrolling="no" id="doc_27856" width="100%" height="600" frameborder="0"></iframe>
 
 ([via](http://www.crackajack.de/2013/06/18/ebook-drm-rewrites-text/))

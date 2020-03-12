@@ -14,4 +14,4 @@ Arte hat mal wieder eine tolle [Dokumentation](http://www.arte.tv/guide/de/05893
 
 > Die Kunst ist tot, es lebe Dada! Vor 100 Jahren, im Februar 1916, rief Hugo Ball mit dem Manifest zum ersten Dada-Abend in Zürich eine neue Kunstrichtung aus. Der Dadaismus formierte sich im Ersten Weltkrieg, als Schrei des Aufbegehrens gegen eine Gesellschaft, die solche Kriegsgräuel zu verantworten hatte. Der Dadaismus wurde bald zu einer internationalen Avantgarde-Bewegung.
 
-<iframe src="http://www.arte.tv/guide/de/embed/058936-000-A/medium" allowfullscreen="true" style="width: 600px; height: 344px;" frameborder="0"></iframe>
+<iframe src="https://www.arte.tv/guide/de/embed/058936-000-A/medium" allowfullscreen="true" style="width: 600px; height: 344px;" frameborder="0"></iframe>

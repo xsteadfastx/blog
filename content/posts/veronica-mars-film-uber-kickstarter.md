@@ -49,5 +49,5 @@ Amazon klicken und süchtig werden.
 >
 > <cite>kristen bell</cite>
 
-<iframe width="800" height="600" src="http://www.kickstarter.com/projects/559914737/the-veronica-mars-movie-project/widget/video.html" frameborder="0">
+<iframe width="800" height="600" src="https://www.kickstarter.com/projects/559914737/the-veronica-mars-movie-project/widget/video.html" frameborder="0">
 </iframe>

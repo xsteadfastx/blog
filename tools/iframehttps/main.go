@@ -7,6 +7,7 @@ import (
 	"log"
 	"path/filepath"
 	"regexp"
+	"sync"
 )
 
 func main() {
@@ -24,16 +25,29 @@ func main() {
 		}
 		articles = append(articles, abs)
 	}
+	var wg sync.WaitGroup
 	for _, a := range articles {
-		go func(a string) {
+		wg.Add(1)
+		go func(a string, wg *sync.WaitGroup) {
+			defer wg.Done()
 			data, err := ioutil.ReadFile(a)
 			if err != nil {
 				log.Fatal(err)
 			}
 			reIframe := regexp.MustCompile(`(?U)(<iframe\s.+>)`)
-			for _, m := range reIframe.FindAllStringSubmatch(string(data), -1) {
-				fmt.Print(m)
+			for _, m := range reIframe.FindAllString(string(data), -1) {
+				reSrc := regexp.MustCompile(`(?U)src="http://(.+)"`)
+				for _, s := range reSrc.FindAllStringSubmatch(m, -1) {
+					httpsUrl := fmt.Sprintf("https://%s\n", s[1])
+					log.Printf("%s => %s", fmt.Sprintf("http://%s", s[1]), httpsUrl)
+					data = reSrc.ReplaceAll(data, []byte(`src="https://$1"`))
+				}
 			}
-		}(a)
+			if err := ioutil.WriteFile(a, []byte(data), 0644); err != nil {
+				log.Fatal(err)
+			}
+		}(a, &wg)
 	}
+
+	wg.Wait()
 }

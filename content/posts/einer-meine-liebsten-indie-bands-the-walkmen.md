@@ -17,6 +17,6 @@ Gretsch Set rein...hach...
 
 {{< youtube 6QaFK\_GvO_s >}}
 
-<iframe width="512" height="347" src="http://www.nbc.com/assets/video/widget/widget.html?vid=1405062" frameborder="0"></iframe>
+<iframe width="512" height="347" src="https://www.nbc.com/assets/video/widget/widget.html?vid=1405062" frameborder="0"></iframe>
 
-<iframe width="512" height="347" src="http://www.nbc.com/assets/video/widget/widget.html?vid=1405038" frameborder="0"></iframe>
+<iframe width="512" height="347" src="https://www.nbc.com/assets/video/widget/widget.html?vid=1405038" frameborder="0"></iframe>

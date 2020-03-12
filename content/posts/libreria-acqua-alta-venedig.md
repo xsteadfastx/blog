@@ -34,6 +34,6 @@ Diese Aussicht...
 
 [![cc-by-nc-sa Silvia Zaggia](/images/4748122581_c612a20094_b.jpg)](https://secure.flickr.com/photos/31349327@N05/4748122581/)
 
-<iframe width="850" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=12.34027773141861%2C45.437123095881354%2C12.344250082969666%2C45.438877170396395&amp;layer=mapnik&amp;marker=45.43800013995479%2C12.342265248298645" style="border: 1px solid black"></iframe>  
+<iframe width="850" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=12.34027773141861%2C45.437123095881354%2C12.344250082969666%2C45.438877170396395&amp;layer=mapnik&amp;marker=45.43800013995479%2C12.342265248298645" style="border: 1px solid black"></iframe>  
 <small>[Größere Karte
 anzeigen](http://www.openstreetmap.org/?mlat=45.43800&mlon=12.34227#map=19/45.43800/12.34226)</small>

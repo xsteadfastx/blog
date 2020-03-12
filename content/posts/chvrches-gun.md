@@ -19,4 +19,4 @@ Das Video geht natürlich nicht in Deutschland. GEMA sei dank. Danke für
 nichts! Aber es ist so gut, dass man sich sofort ProxTube installieren
 sollte...
 
-<iframe width="853" height="480" src="http://www.youtube.com/embed/ktoaj1IpTbw" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/ktoaj1IpTbw" frameborder="0" allowfullscreen></iframe>

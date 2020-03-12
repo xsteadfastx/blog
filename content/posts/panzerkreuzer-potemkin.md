@@ -40,4 +40,4 @@ beinhaltet. Sie wurde durch die Stiftung Deutsche Kinemathek vollständig
 restauriert und neu vertont. Ich kann nur raten mal nach der Version
 ausschau zu halten. Es lohnt sich.
 
-<iframe src="http://www.archive.org/embed/BattleshipPotemkin" width="640" height="480" frameborder="0"></iframe>
+<iframe src="https://www.archive.org/embed/BattleshipPotemkin" width="640" height="480" frameborder="0"></iframe>

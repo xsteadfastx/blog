@@ -35,7 +35,7 @@ Wäre er nicht Künstler... wäre er sicher Tänzer geworden.
 
 <!-- To prevent the video from auto playing set 'a=true' in the following line of code-->  
 
-<iframe src="http://gu-embedded-video.appspot.com/?a=false&amp;u=/music/video/2012/oct/24/ai-weiwei-gangnam-style-video" style="border:0; overflow:hidden;" scrolling="no" width="460px" height="397px"></iframe>  
+<iframe src="https://gu-embedded-video.appspot.com/?a=false&amp;u=/music/video/2012/oct/24/ai-weiwei-gangnam-style-video" style="border:0; overflow:hidden;" scrolling="no" width="460px" height="397px"></iframe>  
 <!-- End of guardian embedded video -->
 
 ([via](http://www.crackajack.de/2012/10/25/ai-wei-wei-does-gangnam-style/))
