@@ -13,12 +13,13 @@ steps:
       WEBMENTIONIO_TOKEN:
         from_secret: webmentionio_token
     commands:
-      - apk add --no-cache curl make git npm
+      - apk add --no-cache curl make git npm jq
       - mkdir -p ~/.config/rclone
       - make rclone_config
       - cat ~/.config/rclone/rclone.conf
       - make install_deps
       - curl "https://webmention.io/api/mentions?token=$$WEBMENTIONIO_TOKEN" -o data/mentions.json
+      - cat data/mentions.json|jq
       - make build
       - make ftp_upload
       - npm install @remy/webmention
