@@ -1,0 +1,26 @@
+<hr>
+<section id="mentions">
+  <form action="https://webmention.io/xsteadfastx.org/webmention" method="post">
+    <fieldset>
+      <label>Have you written a <a href="https://indieweb.org/responses">response</a> to this? Let me know the URL:</label>
+      <input type="hidden" name="target" value="{{ .Permalink }}">
+      <div class="row">
+        <div class="column">
+          <input type="url" name="source">
+        </div>
+        <div class="column">
+          <input class="button-primary" type="submit" value="Send Webmention">
+        </div>
+      </div>
+    </fieldset>
+  </form>
+
+  <table>
+  {{ range where .Site.Data.mentions.links "target" .Permalink }}
+    <tr>
+      <td><img src="{{ .data.author.photo }}"></td>
+      <td>{{ .data.content | safeHTML}} <small>- <a href="{{ .data.author.url }}">{{ .data.author.name }}</a> &commat; <a href="{{ .data.url }}">{{ dateFormat "Monday, Jan 2, 2006" .data.published }}</a></small></td>
+    </tr>
+  {{ end }}
+  </table>
+</section>

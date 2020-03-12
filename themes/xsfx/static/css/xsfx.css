@@ -189,3 +189,29 @@ body .meta {
 article .p-author.h-card {
   display: none;
 }
+
+article #mentions {
+  padding-top: 5rem;
+  padding-left: 0px;
+}
+
+article.h-entry section#mentions form fieldset div.row div.column {
+  padding-left: 0px;
+}
+
+.button.default,
+button.default,
+[type="button"][default],
+[type="button"].default,
+[type="reset"].default,
+[type="submit"] {
+  background-color: #000000;
+}
+
+.button,
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+  border: 0.1rem solid #000000;
+}
