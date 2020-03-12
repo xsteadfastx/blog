@@ -1,15 +1,17 @@
 {{ define "main" }}
-	<main>
-		{{ if or .Title .Content }}
-		<div>
-			{{ with .Title }}<h1>{{ . }}</h1>{{ end }}
-			{{ with .Content }}<div>{{ . }}</div>{{ end }}
-		</div>
-		{{ end }}
+  <main>
+    {{ if or .Title .Content }}
+    <div>
+      {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+      {{ with .Content }}<div>{{ . }}</div>{{ end }}
+    </div>
+    {{ end }}
 
-		{{ range .Paginator.Pages }}
-			{{ .Render "summary" }}
-		{{ end }}
-		{{ partial "pagination.html" . }}
-	</main>
+    {{ range .Paginator.Pages }}
+      <article class="h-entry">
+        {{ partial "article.html" . }}
+      </article>
+    {{ end }}
+    {{ partial "pagination.html" . }}
+  </main>
 {{ end }}
