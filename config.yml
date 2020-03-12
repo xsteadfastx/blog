@@ -8,7 +8,7 @@ params:
   AuthorName: "Marvin Preuss"
   mainSections:
     - "posts"
-  me:
+  links:
     github: https://github.com/xsteadfastx/
     twitter: https://twitter.com/xsteadfastx
     mastodon: https://chaos.social/@xsteadfastx

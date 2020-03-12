@@ -181,3 +181,7 @@ header .upsidedown {
   -moz-transform: rotate(-180deg);
   display: inline-block;
 }
+
+body .meta {
+  display: none;
+}
