@@ -185,3 +185,7 @@ header .upsidedown {
 body .meta {
   display: none;
 }
+
+article .p-author.h-card {
+  display: none;
+}

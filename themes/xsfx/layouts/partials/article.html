@@ -4,6 +4,7 @@
   <p>
     <small>
       <time class="dt-published" datetime="{{ .Date.Format "2006-01-02 15:04:05" }}">{{ .Date.Format "02.01.2006 15:04" }}</time>
+      <a rel="author" class="p-author h-card" href="{{ .Site.BaseURL }}">{{ .Site.Params.AuthorName }}</a>
       {{ if .GitInfo }}/// <a href="https://github.com/xsteadfastx/blog/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>{{ end }}
       {{ if .Params.tags }}///{{ end }}
       {{ range .Params.tags }}
