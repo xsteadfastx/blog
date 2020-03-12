@@ -19,8 +19,6 @@ steps:
       - cat ~/.config/rclone/rclone.conf
       - make install_deps
       - curl "https://webmention.io/api/mentions?token=$$WEBMENTIONIO_TOKEN" -o data/mentions.json
-      - ls -lah data/
-      - cat data/mentions.json
       - make build
       - make ftp_upload
       - npm install @remy/webmention
