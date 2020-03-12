@@ -13,7 +13,7 @@ steps:
       WEBMENTIONIO_TOKEN:
         from_secret: webmentionio_token
     commands:
-      - apk add --no-cache curl make
+      - apk add --no-cache curl make git npm
       - mkdir -p ~/.config/rclone
       - make rclone_config
       - cat ~/.config/rclone/rclone.conf
@@ -23,6 +23,8 @@ steps:
       - cat data/mentions.json
       - make build
       - make ftp_upload
+      - npm install @remy/webmention
+      - npx webmention https://xsteadfastx.org/index.xml --limit 10 --send
     when:
       branch:
         - master
