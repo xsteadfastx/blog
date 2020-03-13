@@ -27,5 +27,10 @@ rclone_config:
 	echo "user = $(FTP_USER)" >> ~/.config/rclone/rclone.conf
 	echo "pass = $(FTP_PASS)" >> ~/.config/rclone/rclone.conf
 
+slurp_mentions:
+	$(eval TOKEN := $(shell stty -echo; read -p "Token: " token; stty echo; echo $$token))
+	curl "https://webmention.io/api/mentions?token=$(TOKEN)"|python -mjson.tool > data/mentions.json
+	sed -i 's/https:\/\/xsteadfastx.org/http:\/\/localhost:1313/g' data/mentions.json
 
-.PHONY: clean build install_deps ftp_upload rclone_config
+
+.PHONY: clean build install_deps ftp_upload rclone_config slurp_mentions
