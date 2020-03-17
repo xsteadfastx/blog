@@ -17,13 +17,16 @@
 
   <table>
   {{ range where .Site.Data.mentions.links "target" .Permalink }}
-    <tr>
-      <td><img src="{{ .data.author.photo }}"></td>
+    <tr class="u-comment h-cite">
+      <td><img class="h-card u-photo" src="{{ .data.author.photo }}" height="100px" width="100px"></td>
       {{ if eq .activity.type "reply" }}
-      <td>{{ .data.content | safeHTML}} <small>- <a href="{{ .data.author.url }}">{{ .data.author.name }}</a> &commat; <a href="{{ .data.url }}">{{ dateFormat "Monday, Jan 2, 2006" .data.published }}</a></small></td>
+      <td>
+        <p class="p-content p-name">{{ .data.content | plainify }}</p>
+        - <a class="h-card u-author" href="{{ .data.author.url }}">{{ .data.author.name }}</a>
+        &commat; <a class="u-url" href="{{ .data.url }}"><time class="dt-published">{{ dateFormat "2006-01-02 15:04" .data.published }}</time></a>
       {{ end }}
-      {{ if eq .activity.type "like" }}
-      <td><small>liked by <a href="{{ .data.author.url }}">{{ .data.author.name }}</a></small></td>
+      {{ if ne .activity.type "reply" }}
+      <td><a class="u-url" href="{{ .data.url }}">{{ .activity.type }}</a> by <a class="h-card u-author" href="{{ .data.author.url }}">{{ .data.author.name }}</a></td>
       {{ end }}
     </tr>
   {{ end }}

@@ -215,3 +215,7 @@ button,
 [type="submit"] {
   border: 0.1rem solid #000000;
 }
+
+section#mentions table tbody tr.u-comment.h-cite td {
+  font-size: 70%;
+}
