@@ -22,7 +22,7 @@ steps:
       - make build
       - make ftp_upload
       - npm install @remy/webmention
-      - npx webmention https://xsteadfastx.org/index.xml --limit 10 --send
+      - npx webmention https://xsteadfastx.org/ --limit 10 --send --debug
     when:
       branch:
         - master
