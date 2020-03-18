@@ -22,4 +22,5 @@ RUN set -ex \
         git \
         make \
         npm \
- && npm install @remy/webmention
+ && npm install @remy/webmention \
+ && mkdir -p ~/.config/rclone
