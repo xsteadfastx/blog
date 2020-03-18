@@ -1,5 +1,3 @@
-HUGO_VERSION=0.65.3
-RCLONE_VERSION=1.51.0
 OUTPUT_DIR=./public
 FTP_HOST=xsteadfastx.org
 FTP_USER=xstead_0
@@ -12,10 +10,11 @@ build:
 	mkdir public/feed
 	cp public/index.xml public/feed/index.html
 
-install_deps:
-	apk add --no-cache git gcc musl-dev
-	GO111MODULE=on go get -v github.com/gohugoio/hugo@v$(HUGO_VERSION)
-	GO111MODULE=on go get -v github.com/rclone/rclone@v$(RCLONE_VERSION)
+docker:
+	docker build -t quay.io/xsteadfastx/blog - < Dockerfile
+
+push: docker
+	docker push quay.io/xsteadfastx/blog
 
 ftp_upload:
 	rclone sync -v --size-only $(OUTPUT_DIR) blog:/
@@ -33,4 +32,4 @@ slurp_mentions:
 	sed -i 's/https:\/\/xsteadfastx.org/http:\/\/localhost:1313/g' data/mentions.json
 
 
-.PHONY: clean build install_deps ftp_upload rclone_config slurp_mentions
+.PHONY: clean build docker push install_deps ftp_upload rclone_config slurp_mentions

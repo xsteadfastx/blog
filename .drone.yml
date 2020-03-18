@@ -4,24 +4,36 @@ name: default
 concurrency:
   limit: 1
 steps:
-  - name: build and upload
-    image: golang:1.14.0-alpine3.11
+  - name: build
+    image: xsteadfastx/blog
+    pull: always
+    environment:
+      WEBMENTIONIO_TOKEN:
+        from_secret: webmentionio_token
+    commands:
+      - curl "https://webmention.io/api/mentions?token=$$WEBMENTIONIO_TOKEN" -o data/mentions.json
+      - make build
+    when:
+      branch:
+        - master
+
+  - name: upload
+    image: xsteadfastx/blog
     pull: always
     environment:
       FTP_PASS:
         from_secret: ftp_pass
-      WEBMENTIONIO_TOKEN:
-        from_secret: webmentionio_token
     commands:
-      - apk add --no-cache curl make git npm
-      - mkdir -p ~/.config/rclone
       - make rclone_config
-      - cat ~/.config/rclone/rclone.conf
-      - make install_deps
-      - curl "https://webmention.io/api/mentions?token=$$WEBMENTIONIO_TOKEN" -o data/mentions.json
-      - make build
       - make ftp_upload
-      - npm install @remy/webmention
+    when:
+      branch:
+        - master
+
+  - name: mention
+    image: xsteadfastx/blog
+    pull: always
+    commands:
       - npx webmention https://xsteadfastx.org/ --limit 10 --send --debug
     when:
       branch:
