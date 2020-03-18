@@ -18,7 +18,7 @@ steps:
         - master
 
   - name: upload
-    image: xsteadfastx/blog
+    image: quay.io/xsteadfastx/blog
     pull: always
     environment:
       FTP_PASS:
