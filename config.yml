@@ -8,7 +8,10 @@ params:
   AuthorName: "Marvin Preuss"
   mainSections:
     - "posts"
-  links:
+  locallinks:
+    - search
+    - impressum
+  sociallinks:
     github: https://github.com/xsteadfastx/
     twitter: https://twitter.com/xsteadfastx
     mastodon: https://chaos.social/@xsteadfastx
@@ -20,6 +23,7 @@ params:
 theme: "xsfx"
 permalinks:
   posts: "/:year/:month/:day/:slug/"
+  notes: "/notes/:slug"
 markup:
   goldmark:
     renderer:
