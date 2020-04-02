@@ -28,3 +28,18 @@ Funktioniert bis auf mein halbes Abbrechen meiner Finger und dem Entgegenarbeite
 {{< / highlight >}}
 
 Wichtig wäre es vielleicht auch wo genau das Script rein kommt. Dies findet man schnell mit `systemctl help systemd-suspend.service` heraus.
+
+__Update__: Manchmal (und das gefühlt random) wird Caps Lock dann doch wieder Caps Lock. Nun greife ich zu härteren Bandagen: `/etc/default/keyboard`:
+
+        # KEYBOARD CONFIGURATION FILE
+
+        # Consult the keyboard(5) manual page.
+
+        XKBMODEL="pc105"
+        XKBLAYOUT="de"
+        XKBVARIANT=""
+        XKBOPTIONS="caps:super"
+
+        BACKSPACE="guess"
+
+Danach einmal `dpkg-reconfigure keyboard-configuration` ausführen!
