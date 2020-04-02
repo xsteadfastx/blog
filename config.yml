@@ -6,8 +6,6 @@ author:
   name: "Marvin Preuss"
 params:
   AuthorName: "Marvin Preuss"
-  mainSections:
-    - "posts"
   locallinks:
     - search
     - impressum

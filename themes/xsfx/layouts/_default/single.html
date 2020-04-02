@@ -2,7 +2,9 @@
   <main>
     <article class="h-entry">
       {{ partial "article.html" . }}
+      {{ if eq .Type "posts" }}
       {{ partial "mentions.html" . }}
+      {{ end }}
     </article>
   </main>
 {{ end }}

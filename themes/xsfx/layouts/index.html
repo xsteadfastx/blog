@@ -1,6 +1,6 @@
 {{ define "main" }}
   <main>
-    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "eq" "posts") }}
     {{ range $paginator.Pages }}
     <article class="h-entry">
       {{ partial "article.html" . }}
