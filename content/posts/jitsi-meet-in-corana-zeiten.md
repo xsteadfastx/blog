@@ -22,7 +22,7 @@ Vor ein paar Jahren probiere ich mal [Jitsi-Meet](https://jitsi.org/) aus. Ein k
 
 In meiner Fantasie als Mega Super Admin  rolle ich gleich mehrere Instanzen aus. Aus diesem Grund muss es eine [Ansible Rolle](https://github.com/xsteadfastx/ansible-xsfx-jitsi_meet) sein. Diese wäre Teil meiner persöhnlichen Infrastruktausrollung. Ich schlug mich durch bereits vorhandene [Ansible Rollen](https://github.com/UdelaRInterior/ansible-role-jitsi-meet/issues/5). Ein scharzer Tag innerhalb schwarzer Tage. Ich setze immer wieder frische virtualle Hetzner Server auf. Egal ob Debian oder Ubuntu, immer bekam ich andere Fehler. Anscheinend baut Jitsi intern viel um und will nun NGINX als neuen als Reverseproxy nutzen. Zumindestens nehme ich diese Aussage als Ausrede meines Nichtkönnens. Es gab aber noch eine andere Alternative: das [docker-compose Setup](https://github.com/jitsi/docker-jitsi-meet). Aufgesetzt, funktioniert. Wieso also der Hassle?
 
-Meine Ansible Rolle[^1] setzt ein funktionierendes Docker Setup voraus. Dann als Ansible Variabel den Host setzen:
+Meine [Ansible Rolle](https://github.com/xsteadfastx/ansible-xsfx-jitsi_meet) setzt ein funktionierendes Docker Setup voraus. Dann als Ansible Variabel den Host setzen:
 
         jitsi_meet__host: foo.bar.tld
 
