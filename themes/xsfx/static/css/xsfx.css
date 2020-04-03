@@ -223,3 +223,7 @@ section#mentions table tbody tr.u-comment.h-cite td {
 section.p-summary {
   display: none;
 }
+
+article.h-entry section#mentions table {
+  margin-left: 0px;
+}
