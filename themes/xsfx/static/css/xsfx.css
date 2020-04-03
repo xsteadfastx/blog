@@ -227,3 +227,7 @@ section.p-summary {
 article.h-entry section#mentions table {
   margin-left: 0px;
 }
+
+.u-comment > td {
+  border: 0px;
+}
