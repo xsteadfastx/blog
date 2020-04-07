@@ -9,7 +9,11 @@
 
     {{ range .Paginator.Pages }}
       <article class="h-entry">
+        {{ if eq .Type "posts" }}
         {{ partial "article.html" . }}
+        {{ else if eq .Type "notes" }}
+        {{ partial "note.html" . }}
+        {{ end }}
         <hr>
       </article>
       <hr>

@@ -31,5 +31,10 @@ slurp_mentions:
 	curl "https://webmention.io/api/mentions?token=$(TOKEN)"|python -mjson.tool > data/mentions.json
 	sed -i 's/https:\/\/xsteadfastx.org/http:\/\/localhost:1313/g' data/mentions.json
 
+new_note:
+	$(eval NOTE := notes/$(shell date +%Y%m%d%H%M).md)
+	hugo new $(NOTE)
+	nvim content/$(NOTE)
 
-.PHONY: clean build docker push install_deps ftp_upload rclone_config slurp_mentions
+
+.PHONY: clean build docker push install_deps ftp_upload rclone_config slurp_mentions new_note

@@ -1,8 +1,14 @@
 {{ define "main" }}
   <main>
     <article class="h-entry">
+      {{ if eq .Type "notes" }}
+      {{ partial "note.html" . }}
+      {{ else }}
       {{ partial "article.html" . }}
+      {{ end }}
+      {{ if in (slice "posts" "notes") .Type }}
       {{ partial "mentions.html" . }}
+      {{ end }}
     </article>
   </main>
 {{ end }}

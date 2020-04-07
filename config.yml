@@ -6,17 +6,17 @@ author:
   name: "Marvin Preuss"
 params:
   AuthorName: "Marvin Preuss"
-  mainSections:
-    - "posts"
   locallinks:
     - search
     - impressum
+    - notes
+    - all
   sociallinks:
     github: https://github.com/xsteadfastx/
     twitter: https://twitter.com/xsteadfastx
     mastodon: https://chaos.social/@xsteadfastx
     flickr: https://www.flickr.com/photos/marvinxsteadfast/
-    feed: https://xsteadfastx.org/index.xml
+    rss: https://xsteadfastx.org/index.xml
   description: they made me do it
   images:
     - /images/xsfxmarat1000.png
