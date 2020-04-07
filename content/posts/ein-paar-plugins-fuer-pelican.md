@@ -9,7 +9,6 @@ date: "2015-09-21T16:40:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Ich habe ein paar Plugins für  den Pelican Static Site Generator geschrieben
 
 [![https://www.reddit.com/r/tvgifs/comments/13uw0l/hey_dad_think_fast_modern_family/](https://media1.giphy.com/media/YuNzqtXUcwbV6/giphy.gif)](https://giphy.com/gifs/modern-family-YuNzqtXUcwbV6)
 

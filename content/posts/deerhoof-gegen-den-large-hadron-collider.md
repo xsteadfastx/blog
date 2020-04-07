@@ -10,7 +10,6 @@ date: "2015-09-22T15:38:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Deerhoof sind im CERN aufgetreten
 
 [![https://killthedeceptionofyourperception.tumblr.com/post/71728885750](https://media0.giphy.com/media/eTEI6QUKclNRe/giphy.gif)](https://giphy.com/gifs/higgs-boson-lhc-large-hadron-collider-eTEI6QUKclNRe)
 

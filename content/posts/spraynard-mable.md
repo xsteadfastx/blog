@@ -9,7 +9,6 @@ date: "2015-08-24T17:34:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Spraynards tolles neues Album
 
 ![Spraynard - Mable](/images/spraynard-mable.jpg)
 

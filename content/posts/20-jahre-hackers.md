@@ -8,7 +8,6 @@ date: "2015-09-18T11:58:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Nun schon 20 Jahre Jubiläum vom Film Hackers
 
 [![https://neural-entropy.tumblr.com/post/45993743156](https://media0.giphy.com/media/xebOoxouppcGs/giphy.gif)](https://giphy.com/gifs/hackers-movie-world-xebOoxouppcGs)
 

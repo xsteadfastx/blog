@@ -10,7 +10,6 @@ date: "2015-08-24T14:49:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Erster deutscher Trailer für den Gia Coppola Film "Palo Alto"
 
 ![Poster](/images/paloalto.jpg)
 

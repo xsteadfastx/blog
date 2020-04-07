@@ -9,7 +9,6 @@ date: "2015-06-23T12:02:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Ein paar Fotos vom Wochenende
 
 
 Es gibt soviel zu berichten über das letzte Wochenende. Und alles was ich hinbekommen habe: zwei Fotos... was solls...

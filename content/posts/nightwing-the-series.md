@@ -9,7 +9,6 @@ date: "2015-09-02T10:28:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Es gibt eine kleine fanmade Nightwing Serie
 
 ![nightwing](/images/nightwing_theseries.jpg)
 

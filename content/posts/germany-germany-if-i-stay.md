@@ -8,7 +8,6 @@ date: "2015-09-25T11:21:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Neuer Track von Germany Germany
 
 Wie schon so oft geschrieben verbinde ich ziemlich viel mit der Musik von [Germany Germany](http://grmnygrmny.com/). Es war mein erster Sommer in Nürnberg und eines Abends war dieses Konzert von Germany Germany. Und seit dem befällt mich eine Gänsehaut sobald ich Sachen von ihm höre. So wie bei diesem Neuen Track von ihm.
 

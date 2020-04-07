@@ -9,7 +9,6 @@ date: "2015-09-21T17:16:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Neue Bilder von New Horizons
 
 ![Pluto](/images/pluto_1.png)
 

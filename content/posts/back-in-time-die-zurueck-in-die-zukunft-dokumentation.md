@@ -9,7 +9,6 @@ date: "2015-09-29T12:20:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Dokumentation zur besten Trilogie aller Zeiten
 
 [![https://do-androidsdreamof-electricsheep.tumblr.com/post/61204703776](https://media2.giphy.com/media/WT40jXYyhIcww/giphy.gif)](https://giphy.com/gifs/back-to-the-future-WT40jXYyhIcww)
 

@@ -9,7 +9,6 @@ date: "2015-09-24T12:30:00+02:00"
 author: marvin
 draft: false
 ---
-Description: EMO YEAH
 
 Wie großartig ist es eigentlich das es in letzter Zeit wieder richtig gute Emo-Bands gibt? Ich rede jetzt nicht von den hochprodizierten-Schmink-Bands. Neuste Entdeckung von mir [Marietta](https://www.facebook.com/whereismarietta). Da schaut man das neue [Modern Baseball Video]({{< ref "/posts/modern-baseball-rock-bottom.md" >}}) und googelt mal dem Band-Shirt des Sängers hinterher. Auf jeden Fall super und ich freue mich noch mehr von neuen Bands zu hören.
 

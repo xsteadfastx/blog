@@ -9,7 +9,6 @@ date: "2015-09-15T16:27:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Wunderbares DJ Set von Tycho
 
 ![Elsewhere](/images/tycho_burning_man_2015.jpg)
 

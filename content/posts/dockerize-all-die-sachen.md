@@ -8,7 +8,6 @@ date: "2015-07-01T13:28:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Ich habe mich endlich mal rangemacht um einige Sachen in Docker Container zu packen
 
 
 Docker ist manchmal immer noch ein Buch mit sieben Siegeln für mich. In meinem Fall war die Lernnkurve nicht gerade die Beste. Aber was solls. Das meiste lernt man dann doch durch Trial and error. Ein paar kleine selbstgeschriebene Web-Apps laufen bei mir schon in Docker Containern nun wollte ich bestehende Dienste auf meinem Heimserver in Container auslagern. Vor allem die Sachen denen ich immer noch ein wenig kritisch gegenüber stehe. Da wären zum Beispiel [Owncloud](https://owncloud.org/), [Plex](http://plex.tv) und [tiny tiny rss](https://tt-rss.org). Was ich gelernt habe: Jede Anwendung fordert individuelle Entscheidungen die manchmal erst auf den zweiten Blick Sinn machen :).

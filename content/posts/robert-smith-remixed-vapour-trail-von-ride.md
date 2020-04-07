@@ -10,7 +10,6 @@ date: "2015-10-06T16:51:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Kleiner Remix von Robert Smith
 
 Es gibt ja schon lange keine Neuigkeiten von The Cure. Doch nun hat Robert Smith den Song "Vapour Trail" von Ride geremixt. Super viel verändert hat er nicht. Ein wenig an der Echo Schraube gedreht. Als jemand der das Original schätzt, zereisst es mir nicht das Herz.
 

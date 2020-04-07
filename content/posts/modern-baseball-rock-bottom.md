@@ -9,7 +9,6 @@ date: "2015-09-24T14:11:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Neue Modern Baseball Single
 
 Hier das neue Modern Baseball Video zum Song "Rock Bottom".
 

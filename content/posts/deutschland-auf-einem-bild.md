@@ -8,7 +8,6 @@ date: "2015-06-24T13:40:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Erwin Wurms Skulptur bekam ein Knöllchen
 
 
 [![cc-by-nc Heiko S.](/images/erwin-wurm-truck.jpg)](https://www.flickr.com/photos/craxler/18876516930/in/photolist-uL4erJ-v39v9J-v3Dgca-uL45Qs)

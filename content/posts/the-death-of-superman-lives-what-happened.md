@@ -9,7 +9,6 @@ date: "2015-07-20T14:36:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Dokumentation über den Film "Superman Lives" der nie erschienen ist
 
 ![Poster](/images/superman_lives.jpg)
 

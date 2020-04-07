@@ -8,7 +8,6 @@ date: "2015-07-21T12:51:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Kevin Smiths Serie über seinen Comicladen
 
 [![cc-by Luigi Novi](/images/secret_stash.jpg)](https://commons.wikimedia.org/wiki/File:7.9.12SecretStashByLuigiNovi2.jpg)
 

@@ -9,7 +9,6 @@ date: "2015-10-06T10:42:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Emo Revival und so
 
 ![i'll keep you in mind, from time to time](/images/moose_blood_time_to_time.jpg)
 

@@ -9,7 +9,6 @@ date: "2015-09-04T11:42:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Gerade wird eine digitale Holga gecrowdfunded
 
 ![Das Meer durch eine analoge Holga betrachtet](/images/7093026565_f2617d8e0b_b.jpg)
 

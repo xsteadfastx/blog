@@ -8,7 +8,6 @@ date: "2015-09-09T08:26:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Toro Y Moi und sein kostenloses Album "Samantha"
 
 ![Samantha](/images/toro-y-moi-samantha.png)
 

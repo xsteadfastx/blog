@@ -8,7 +8,6 @@ date: "2015-09-14T12:00:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Das NASA Graphics Standards Manual downloaden
 
 ![Nasa Graphics Standards Manual](/images/nasa_graphics_standards_manual.jpg)
 

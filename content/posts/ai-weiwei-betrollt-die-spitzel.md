@@ -9,7 +9,6 @@ date: "2015-10-05T16:19:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Ein wenig Feuerwerk bitte
 
 {% gram 8ZsZy0qDz0 %}
 

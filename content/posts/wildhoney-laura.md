@@ -7,7 +7,6 @@ date: "2015-09-14T09:34:00+02:00"
 author: marvin
 draft: false
 ---
-Description: Neuer Track von dem nächsten Wildhoney Release
 
 ![Wildhoney - Your Face Sideways](/images/wildhoney_your_face_sideways.jpg)
 
