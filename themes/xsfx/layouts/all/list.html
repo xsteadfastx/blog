@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <main class="h-feed">
+  <main>
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" (slice "posts" "notes")) }}
     {{ range $paginator.Pages }}
     <article class="h-entry">
