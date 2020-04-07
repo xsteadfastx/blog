@@ -1,18 +1,14 @@
-<h1 class="p-name"><a class="u-url" href="{{ .Permalink }}">{{ .Title }}</a></h1>
-{{ if (isset .Params "date") }}
-<p>
-  <small>
-    <time class="dt-published" datetime="{{ .Date.Format "2006-01-02 15:04:05" }}">{{ .Date.Format "02.01.2006 15:04" }}</time>
-    <a rel="author" class="p-author h-card" href="{{ .Site.BaseURL }}">{{ .Site.Params.AuthorName }}</a>
-    {{ if .GitInfo }}/// <a href="https://github.com/xsteadfastx/blog/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>{{ end }}
-    {{ if .Params.tags }}///{{ end }}
-    {{ range .Params.tags }}
-    <a class="p-category" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
-    {{ end }}
-  </small>
-</p>
-{{ end }}
 <section class="p-summary">{{ .Summary | plainify }}</section>
 <section class="e-content">
 {{ .Content}}
 </section>
+{{ if (isset .Params "date") }}
+<p class="notemeta">
+  <small>
+    <time class="dt-published" datetime="{{ .Date.Format "2006-01-02 15:04:05" }}">{{ .Date.Format "02.01.2006 15:04" }}</time>
+    <a rel="author" class="p-author h-card" href="{{ .Site.BaseURL }}">{{ .Site.Params.AuthorName }}</a>
+    {{ if .GitInfo }}/// <a href="https://github.com/xsteadfastx/blog/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>{{ end }}
+    /// <a class="u-url p-name" href="{{ .Permalink }}">{{ if .Title }}{{ .Title }}{{ else }}note{{ end }}</a>
+  </small>
+</p>
+{{ end }}

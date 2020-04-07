@@ -223,3 +223,21 @@ section#mentions table tbody tr.u-comment.h-cite td {
 section.p-summary {
   display: none;
 }
+
+article.h-entry p.notemeta {
+  font-size: 75%;
+}
+
+article.h-entry section.e-content,
+article.h-entry section.e-content p {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+article.h-entry h1.p-name {
+  margin-top: 1rem;
+}
+
+body main div h1 {
+  margin-top: 1rem;
+}
