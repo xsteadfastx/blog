@@ -1,6 +1,6 @@
-FROM golang:1.14.0-alpine3.11 as builder
+FROM golang:1.14.2-alpine3.11 as builder
 
-ARG HUGO_VERSION=0.69.2
+ARG HUGO_VERSION=0.70.0
 ARG RCLONE_VERSION=1.51.0
 
 RUN set -ex \
